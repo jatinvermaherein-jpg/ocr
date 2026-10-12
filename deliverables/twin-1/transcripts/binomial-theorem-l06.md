@@ -163,3 +163,15 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 **P:** red chip **Question [JEE Mains–2023]**; **The value of** `Σ_{r=0}^{22} 22Cr 23Cr` **is**; red tiles `A 44C23`, `B 45C23`, `C 44C22`, `D 45C24` (no printed key on this slide).
 **H:** a green hook from the printed summand down to the expansion in green with the partner subscripts in orange — `22C0·23C23 + 22C1·23C22 + 22C2·23C21 + … … + 22C22·23C1 = 45C23` (the right-hand side orange); an orange tick drawn through option **B**, which is how the answer is recorded here.
 **DIBY:** none. **U:** none — the upper suffixes (22 + 23 = 45) and lower (r + r' = 23) both satisfy p21's conditions, so the direct formula applies; the middle term of the printed series is what the working silently converts.
+<a id="p25"></a>
+## p25 · Question [JEE Mains–2024] — α = Σ (nC_k)²/(k+1), β = Σ nC_k nC_{k+1}/(k+2), 5α = 6β · label: **Page No. 157**
+**P:** red chip **Question [JEE Mains–2024]** (its right half buried under a printed block of gold star stickers); **Let** `α = Σ_{k=0}^{n} (nC_k)²/(k+1)` **and** `β = Σ_{k=0}^{n−1} (nC_k nC_{k+1})/(k+2)`**. If** `5α = 6β`**, then** `n` **equals** — the two sums green, `5α = 6β` yellow, `n` cyan.
+**H:** white at top right the tool `nC_{k+1}/(k+2) = n+1C_{k+2}/(n+1)` (Property 05); a white oval round the printed `nC_k nC_{k+1}/(k+2)`; orange `α = Σ_{k=0}^{n} nC_k·nC_k/(k+1)` inside a cyan loop, then cyan `α = 1/(n+1) Σ_{k=0}^{n} nC_k n+1C_{k+1}` inside an orange loop, opening into orange `= nC_n n+1C_1 + nC_{n−1} n+1C_2 + nC_{n−2} n+1C_3 + … … + nC_0 n+1C_{n+1} = 2n+1C_{n+1}/(n+1)` (wavy underline); white `β = 1/(n+1) Σ_{k=0}^{n−1} nC_k n+1C_{k+2}` inside a green loop, opening into green `= nC_n n+1C_2 + nC_{n−1} n+1C_3 + nC_{n−2} n+1C_4 + … … + nC_1 n+1C_{n+1}`, `β = 2n+1C_{n+2}/(n+1)`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p26"></a>
+## p26 · p25 finished — 5(n+2) = 6n, so n = 10 · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** green `β = 2n+1C_{n+2}/(n+1)` and orange `α = 2n+1C_{n+1}/(n+1)` (both denominators wavy-underlined); pink `5α = 6β` above a **red rectangle** holding `5 · 2n+1C_{n+1}/(n+1) = 6 · 2n+1C_{n+2}/(n+1)` with each `(n+1)` struck by a white diagonal; white below `5 · (2n+1)!/((n+1)! n!) = 6 × (2n+1)!/((n+2)! (n−1)!)` with orange strikes through both `(2n+1)!`, through `(n+1)!`, `n!`, `(n+2)!`, `(n−1)!` and orange restatements `n(n−1)!`, `(n+2)(n+1)!` under them; an orange arrow left to orange `5/n = 6/(n+2)` → `5n + 10 = 6n` → **`10 = n`** written inside an orange circle.
+**DIBY:** none. **U:** none.
