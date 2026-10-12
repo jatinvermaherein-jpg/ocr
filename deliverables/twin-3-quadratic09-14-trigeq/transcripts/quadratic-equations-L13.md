@@ -8,8 +8,16 @@
 
 ## Page 1
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9665 | pass agreement 0.954
+- Topic/heading: Cover slide
+- Page type: cover | dark bg: True | primary pass B | mean conf 0.9665 | pass agreement 0.954
+
+### Verified transcript (visual QA)
+
+- ARJUNA JEE 2027
+- Lecture - 13
+- Mathematics
+- QUADRATIC EQUATIONS
+- By- Sachin Jakhar Sir
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -25,8 +33,16 @@
 
 ## Page 2
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9726 | pass agreement 0.9889
+- Topic/heading: Topics to be covered
+- Page type: topics | dark bg: True | primary pass A | mean conf 0.9726 | pass agreement 0.9889
+
+### Verified transcript (visual QA)
+
+- Topics to be covered
+- A Theory of Higher Degree Equations
+- B Transformation of Equation
+- C General Second Degree Equation
+- D Question Practice
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -43,8 +59,12 @@
 
 ## Page 3
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9443 | pass agreement 0.9444
+- Topic/heading: Question Practice
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.9443 | pass agreement 0.9444
+
+### Verified transcript (visual QA)
+
+- Question Practice (boxed red)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -53,8 +73,14 @@
 
 ## Page 4
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9871 | pass agreement 1.0
+- Topic/heading: Acidic Question cubic two common roots (repeat L12 p8) + DiBY-A
+- Page type: question-diby | dark bg: True | primary pass B | mean conf 0.9871 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- Acidic Question
+- If the equations x^3 + x^2 - 4x + ... = 0 and x^3 + px + 2p = 0 (p in R) have two common roots, then the value of p is
+- (A) -2 (B) -1 (C) 1 (D) 3
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -70,8 +96,8 @@
 
 ## Page 5
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9568 | pass agreement 0.9824
+- Topic/heading: Acidic Question atleast one positive root (repeat L12 p28) + DiBY-B
+- Page type: question-diby | dark bg: True | primary pass B | mean conf 0.9568 | pass agreement 0.9824
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -89,8 +115,8 @@
 
 ## Page 6
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8186 | pass agreement 0.3269
+- Topic/heading: Challenger Question roots between roots (repeat L12 p33) + green working
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8186 | pass agreement 0.3269
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -128,8 +154,8 @@
 
 ## Page 7
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8852 | pass agreement 0.7119
+- Topic/heading: Challenger Question expression all real values (repeat L12 p34) + red working
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8852 | pass agreement 0.7119
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -161,8 +187,8 @@
 
 ## Page 8
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7926 | pass agreement 0.7883
+- Topic/heading: quartic with complex root 2+i worked
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.7926 | pass agreement 0.7883
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -193,10 +219,12 @@
 
 > Dual-pass agreement 0.7883 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p8: quartic coefficients need full-res verification
+
 ## Page 9
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7777 | pass agreement 0.8077
+- Topic/heading: quartic working cont.
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.7777 | pass agreement 0.8077
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -227,8 +255,8 @@
 
 ## Page 10
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9482 | pass agreement 0.9832
+- Topic/heading: common-factor rational working
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.9482 | pass agreement 0.9832
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -246,8 +274,17 @@
 
 ## Page 11
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9357 | pass agreement 0.819
+- Topic/heading: RATIONAL ROOT THEOREM - factorise polynomials
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.9357 | pass agreement 0.819
+
+### Verified transcript (visual QA)
+
+- RATIONAL ROOT THEOREM
+- # Factorise following polynomial equations:
+- 1. Cubic : x^3 - 5x^2 - 2x + 6 = 0 [scan reading]
+- 2. Cubic : 6x^3 + 55x^2 + 48x + 30 = 0 [scan reading]
+- 3. Quartic : x^4 + 11x^3 + 11x^2 + 61x + 30 = 0 [scan reading]
+- (cloud: Why!!)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -259,10 +296,21 @@
 - 2. -4,--3
 - 3.-1,-2,-3,-5
 
+> [UNCLEAR] p11: polynomial coefficients need full-res verification
+
 ## Page 12
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8651 | pass agreement 0.4312
+- Topic/heading: ANSWERS + Bumper/Challenger cubic sums
+- Page type: answers | dark bg: True | primary pass B | mean conf 0.8651 | pass agreement 0.4312
+
+### Verified transcript (visual QA)
+
+- ANSWERS
+- 1. 1, 2 + sqrt(10), 2 - sqrt(10)
+- 2. -4, -1/2, -1/3 [scan reading]
+- 3. -1, -2, -3, -5
+- Bumper + Challenger Question
+- If alpha, beta, gamma are roots of cubic x^3 - x^2 + 1 = 0, then find value of: (i)-(x) symmetric sums [list small print]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -305,10 +353,12 @@
 
 > Dual-pass agreement 0.4312 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p12: (i)-(x) symmetric-sum list small print needs full-res
+
 ## Page 13
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8492 | pass agreement 0.4214
+- Topic/heading: cubic symmetric sums working (vi)-(x)
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8492 | pass agreement 0.4214
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -364,8 +414,8 @@
 
 ## Page 14
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8198 | pass agreement 0.0453
+- Topic/heading: cubic symmetric sums working cont.
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.8198 | pass agreement 0.0453
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -399,8 +449,8 @@
 
 ## Page 15
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8545 | pass agreement 0.6619
+- Topic/heading: Bumper: cubic 2x^3-3x^2+...=0 symmetric sums
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8545 | pass agreement 0.6619
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -435,10 +485,12 @@
 
 > Dual-pass agreement 0.6619 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p15: cubic coefficients and (i)-(x) list need full-res
+
 ## Page 16
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9019 | pass agreement 0.9231
+- Topic/heading: symmetric sums green working
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.9019 | pass agreement 0.9231
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -467,8 +519,8 @@
 
 ## Page 17
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.859 | pass agreement 0.6807
+- Topic/heading: S1/S2 cloud working
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.859 | pass agreement 0.6807
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -500,8 +552,13 @@
 
 ## Page 18
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8685 | pass agreement 0.3818
+- Topic/heading: Acidic Question: cubic x^3+3x-1 products
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8685 | pass agreement 0.3818
+
+### Verified transcript (visual QA)
+
+- Acidic Question (stars)
+- If alpha, beta, gamma are roots of cubic equation x^3 + 3x - 1 = 0 then find value of: (i) (alpha-1)(beta-1)(gamma-1) (ii) (3+alpha^2)(3+beta^2)(3+gamma^2) (iii) (4-alpha^2)(4-beta^2)(4-gamma^2) (iv) ... [scan reading]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -532,10 +589,12 @@
 
 > Dual-pass agreement 0.3818 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p18: part (iv) and working need full-res
+
 ## Page 19
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8412 | pass agreement 0.5019
+- Topic/heading: Acidic cubic products working
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8412 | pass agreement 0.5019
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -576,8 +635,8 @@
 
 ## Page 20
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9028 | pass agreement 0.8288
+- Topic/heading: Question: alpha,beta roots of cubic, gamma=alpha^2+beta^2
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9028 | pass agreement 0.8288
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -599,10 +658,21 @@
 - T-T=
 - To
 
+> [UNCLEAR] p20: statement/options need full-res
+
 ## Page 21
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9272 | pass agreement 0.9487
+- Topic/heading: THEORY OF HIGHER DEGREE - quartic S1..S4
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.9272 | pass agreement 0.9487
+
+### Verified transcript (visual QA)
+
+- THEORY OF HIGHER DEGREE EQUATIONS
+- Quartic: a x^4 + b x^3 + c x^2 + d x + e = 0 (a != 0)
+- S1: Sum of roots = alpha+beta+gamma+delta = -b/a
+- S2: Sum of product of roots taken two at a time = Sigma alpha beta = c/a
+- S3: Sum of product of roots taken three at a time = Sigma alpha beta gamma = -d/a
+- S4: Product of roots = alpha beta gamma delta = e/a
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -625,8 +695,17 @@
 
 ## Page 22
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8915 | pass agreement 0.9273
+- Topic/heading: Example quartic 5x^4-7x^3+x-11=0 sums
+- Page type: example | dark bg: True | primary pass B | mean conf 0.8915 | pass agreement 0.9273
+
+### Verified transcript (visual QA)
+
+- Example
+- # 5x^4 - 7x^3 + x - 11 = 0
+- S1 = 7/5
+- S2 = 0
+- S3 = -1/5 [scan]
+- S4 = -11/5
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -646,10 +725,22 @@
 - αβy8 = +(-11)
 - 5
 
+> [UNCLEAR] p22: S2/S3 values need full-res confirmation
+
 ## Page 23
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9279 | pass agreement 0.8719
+- Topic/heading: FOR ANY POLYNOMIAL EQUATION - general S_k rule
+- Page type: theory | dark bg: True | primary pass A | mean conf 0.9279 | pass agreement 0.8719
+
+### Verified transcript (visual QA)
+
+- FOR ANY POLYNOMIAL EQUATION
+- # In any polynomial equation of degree = n:
+- S1 = Sum of roots taken one at a time = -coeff of x^(n-1) / coeff of x^n
+- S2 = ... two at a time = +coeff of x^(n-2) / coeff of x^n
+- S3 = ... three at a time = -coeff of x^(n-3) / coeff of x^n
+- ...
+- Sn = Sum of product of roots taken n at a time = (+/-) constant / coeff of x^n
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -676,8 +767,14 @@
 
 ## Page 24
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8343 | pass agreement 0.5804
+- Topic/heading: TRANSFORMATION OF EQUATION - reciprocal roots
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8343 | pass agreement 0.5804
+
+### Verified transcript (visual QA)
+
+- TRANSFORMATION OF EQUATION
+- QUESTION
+- If alpha and beta are roots of 3x^2 - 3x + 1 = 0 then form a quadratic whose roots are 1/alpha and 1/beta [scan reading]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -715,8 +812,8 @@
 
 ## Page 25
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7887 | pass agreement 0.8
+- Topic/heading: reciprocal-root working
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.7887 | pass agreement 0.8
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -742,8 +839,8 @@
 
 ## Page 26
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8278 | pass agreement 0.8437
+- Topic/heading: TRANSFORMATION - roots 1/(alpha-1), 1/(beta-1)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8278 | pass agreement 0.8437
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -773,10 +870,12 @@
 - y=n(1-y)
 - +l=0  [LOWCONF]
 
+> [UNCLEAR] p26: root expressions need full-res
+
 ## Page 27
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7753 | pass agreement 0.8354
+- Topic/heading: transformation working (pink)
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.7753 | pass agreement 0.8354
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -801,8 +900,8 @@
 
 ## Page 28
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8485 | pass agreement 0.8826
+- Topic/heading: transformation working (orange)
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8485 | pass agreement 0.8826
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -826,8 +925,13 @@
 
 ## Page 29
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8272 | pass agreement 0.6302
+- Topic/heading: Acidic Question: product (alpha-1)/(alpha+2) over roots of x^3-2007x+2002=0
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8272 | pass agreement 0.6302
+
+### Verified transcript (visual QA)
+
+- Acidic Question
+- Given that alpha, beta, gamma are all real roots of the equation x^3 - 2007x + 2002 = 0, then the value of ((alpha-1)/(alpha+2))((beta-1)/(beta+2))((gamma-1)/(gamma+2)) is equal to
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -864,10 +968,16 @@
 
 > Dual-pass agreement 0.6302 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p29: verify fraction signs at full res
+
 ## Page 30
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9896 | pass agreement 1.0
+- Topic/heading: DO IT BY YOURSELF (DIBY)
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.9896 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- DO IT BY YOURSELF (DIBY)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -876,8 +986,8 @@
 
 ## Page 31
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9522 | pass agreement 0.8978
+- Topic/heading: DIBY-59 (repeat L12 p37)
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9522 | pass agreement 0.8978
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -903,8 +1013,8 @@
 
 ## Page 32
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9394 | pass agreement 0.935
+- Topic/heading: DIBY-60, DIBY-61 (repeat L12 p38)
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9394 | pass agreement 0.935
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -937,8 +1047,8 @@
 
 ## Page 33
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9136 | pass agreement 0.8325
+- Topic/heading: DIBY-62, DIBY-63
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9136 | pass agreement 0.8325
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -966,10 +1076,12 @@
 - (-∞, 0][6, ∞ )
 - [Ans.:(B)]
 
+> [UNCLEAR] p33: options small print need full-res
+
 ## Page 34
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9378 | pass agreement 0.9604
+- Topic/heading: DIBY-64, DIBY-65
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9378 | pass agreement 0.9604
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -997,10 +1109,21 @@
 - a; b; c the roots of P(x). Find a² + b² + c2 without solving P(x) = 0.
 - [Ans.:435]
 
+> [UNCLEAR] p34: DIBY-64 expression needs full-res
+
 ## Page 35
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9806 | pass agreement 0.9973
+- Topic/heading: DIBY-66 + Homework
+- Page type: diby+homework | dark bg: True | primary pass B | mean conf 0.9806 | pass agreement 0.9973
+
+### Verified transcript (visual QA)
+
+- Homework
+- # Re-attempt all Class Examples
+- # DPP & DIBY
+- # Module: (3 sittings of 1 HR each)
+- Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25.
+- Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1013,8 +1136,14 @@
 
 ## Page 36
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+- Topic/heading: Thank You slide
+- Page type: closing | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+
+### Verified transcript (visual QA)
+
+- It is never about end result / It's always about Journey
+- Thank You
+- #futureIITians
 
 ### Raw OCR (primary pass, verbatim)
 

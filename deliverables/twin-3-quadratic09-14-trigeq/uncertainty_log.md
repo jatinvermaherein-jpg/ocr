@@ -116,21 +116,26 @@ Every entry cites PDF page and location/reading. Nothing below was silently corr
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p40: low-conf (0.5161) line: '在u'
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: low-conf (0.565) line: 'y2' | low-conf (0.615) line: '+i' | low-conf (0.6045) line: 'L+a' | low-conf (0.6434) line: '(三)' | dual-pass agreement 0.3269
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p7: low-conf (0.5351) line: 'o' | dual-pass agreement 0.7119
-- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p8: low-conf (0.6341) line: '<0' | low-conf (0.5884) line: 'hmmo' | dual-pass agreement 0.7883
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p8: low-conf (0.6341) line: '<0' | low-conf (0.5884) line: 'hmmo' | dual-pass agreement 0.7883 | quartic coefficients need full-res verification
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.58) line: '8' | low-conf (0.6372) line: 'W' | low-conf (0.5935) line: '(-1)' | low-conf (0.6254) line: 'x =3/2' | low-conf (0.5055) line: '≠1' | low-conf (0.6455) line: 'RR-}'
-- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p12: low-conf (0.6307) line: '=-&' | dual-pass agreement 0.4312
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p11: polynomial coefficients need full-res verification
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p12: low-conf (0.6307) line: '=-&' | dual-pass agreement 0.4312 | (i)-(x) symmetric-sum list small print needs full-res
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p13: low-conf (0.5873) line: '×α' | low-conf (0.6202) line: 'B²' | low-conf (0.6472) line: '(+B34r3)' | dual-pass agreement 0.4214
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p14: low-conf (0.627) line: 'αBY' | low-conf (0.558) line: '∑x²β' | dual-pass agreement 0.0453
-- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p15: low-conf (0.5479) line: '天' | dual-pass agreement 0.6619
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p15: low-conf (0.5479) line: '天' | dual-pass agreement 0.6619 | cubic coefficients and (i)-(x) list need full-res
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p17: dual-pass agreement 0.6807
-- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p18: dual-pass agreement 0.3818
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p18: dual-pass agreement 0.3818 | part (iv) and working need full-res
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p19: low-conf (0.6105) line: 'X' | low-conf (0.5886) line: '1=x' | low-conf (0.6231) line: 'B' | low-conf (0.627) line: '5=(-1)(i+1）=t(+)xt(+)xt（+2)' | dual-pass agreement 0.5019
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p20: statement/options need full-res
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p22: S2/S3 values need full-res confirmation
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p24: low-conf (0.5824) line: '1-n' | low-conf (0.6492) line: 'B-' | dual-pass agreement 0.5804
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p25: low-conf (0.5468) line: '2+' | low-conf (0.5804) line: 'x+'
-- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p26: low-conf (0.5053) line: 'mo' | low-conf (0.5199) line: 'b-' | low-conf (0.5947) line: '(-4)'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p26: low-conf (0.5053) line: 'mo' | low-conf (0.5199) line: 'b-' | low-conf (0.5947) line: '(-4)' | root expressions need full-res
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p27: low-conf (0.5939) line: '&-' | low-conf (0.6428) line: '()e-()' | low-conf (0.639) line: 'h+-去' | low-conf (0.6403) line: '一×'
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p28: low-conf (0.6398) line: 'W'
-- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: low-conf (0.6288) line: '2rmo cmolu lo poe A ung' | low-conf (0.5916) line: 'α-l' | low-conf (0.6178) line: 'P+ B' | low-conf (0.5875) line: '(' | dual-pass agreement 0.6302
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: low-conf (0.6288) line: '2rmo cmolu lo poe A ung' | low-conf (0.5916) line: 'α-l' | low-conf (0.6178) line: 'P+ B' | low-conf (0.5875) line: '(' | dual-pass agreement 0.6302 | verify fraction signs at full res
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p33: options small print need full-res
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p34: DIBY-64 expression needs full-res
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p36: low-conf (0.5161) line: '在u'
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p3: low-conf (0.5706) line: 'a-' | low-conf (0.5141) line: 'w' | low-conf (0.5001) line: '+1a' | low-conf (0.5673) line: '441'
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.5531) line: '一x' | low-conf (0.5094) line: 'μ-5f' | low-conf (0.6483) line: 'g5' | low-conf (0.5407) line: 'f-8²' | low-conf (0.5549) line: 'af)-f）+' | dual-pass agreement 0.5962
