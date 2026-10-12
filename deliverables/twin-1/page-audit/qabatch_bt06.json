@@ -222,5 +222,61 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 17,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "board: p16 LHS finished - (r+2) split, two sums, 2^(n+2)-n+2C0-n+2C1",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 18,
+  "source_page_label": "Page No. 156",
+  "topic_or_heading": "SERIES Type-03 (bino-binomial) + red '100% Ques. \u0906\u090f\u0917\u093e' promise",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 19,
+  "source_page_label": "Page No. 157",
+  "topic_or_heading": "Example - 11 students/5 girls/6 boys choose 4, flagged 'P+C', Vandermonde sum",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 20,
+  "source_page_label": "Page No. 156",
+  "topic_or_heading": "FORMATION OF BINO-BINOMIAL SERIES - (1+x)^5(1+x)^6, x^6 bracket boxed",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

@@ -106,3 +106,34 @@ Source: `Binomial Theorem 06 Class Notes.pdf` (43 pages, image-only, no text lay
 **P:** red chip **Question**; printed blue **Show that :** `C0/2 + C1/3 + C2/4 + … + Cn/(n+2) = (n·2^(n+1) + 1)/((n+1)(n+2))` — this is the p12 Type-02 family with the divisor shifted by one.
 **H:** white at the very top `# nCr = Cr` (the notation the slide assumes); a 4-row block of gold star stickers filling the top-right corner (decoration, no text); a white arrow from the printed left-hand side down to the sum `# LHS = Σ_{r=0}^{n} nCr (r+1) / ((r+2)(r+1))` — green loop round the numerator `nCr (r+1)`, orange loop round `(r+2)(r+1)`; `= Σ_{r=0}^{n} n+1C_{r+1} (r+1) / ((n+1)(r+2))` with a yellow loop round the `n+1C_{r+1}`-to-`(r+2)` part; `= Σ_{r=0}^{r=n} (r+1) n+2C_{r+2} / ((n+1)(n+2))`; and in green the pulled-out constant `= 1/((n+1)(n+2)) Σ_{r=0}^{n} (r+1) n+2C_{r+2}` — the sum that p17 finishes.
 **DIBY:** none. **U:** none.
+<a id="p17"></a>
+## p17 · p16 continued — splitting (r+2) and evaluating the two sums · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** four stacked rewrites, each opening with white `# LHS`:
+1. white `1/((n+1)(n+2)) Σ_{r=0}^{n} (r+2−1) n+2C_{r+2}`, a white arc jumping from `(r+2−1)` to the superscript `n+2` (the trick being used);
+2. white `1/((n+1)(n+2)) Σ_{r=0}^{n} ( (r+2) n+2C_{r+2} − n+2C_{r+2} )` with orange double underlines under `(r+2)` and under the first `C_{r+2}`;
+3. white `1/((n+1)(n+2)) Σ_{r=0}^{n} ( (n+2) n+1C_{r+1} − n+2C_{r+2} )` — orange on `(n+2) n+1C_{r+1}`, two cyan arrows sweeping from the summation index to each term (Property 04 used backwards);
+4. white `1/((n+1)(n+2)) { (n+2) Σ_{r=0}^{n} n+1C_{r+1} − Σ_{r=0}^{n} n+2C_{r+2} }` with both sums looped in pink, the whole brace in cyan, and a pink sub-loop under the first sum reading `(2^(n+1) − n+1C_0)`; a pink tick closes the line.
+Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … … + n+2C_{n+2}` (a pink arrow from the second loop into it), and a pink arrow down to `(2^(n+2) − n+2C_0 − n+2C_1)` — the same "drop the missing head terms" device as p13.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p18"></a>
+## p18 · SERIES — Type-03: bino-binomial series, how the question is formed · label: **Page No. 156**
+**P:** clipboard icon + red **SERIES** banner; `# Type–03 :` yellow with green **When Binomial Coefficients in Multiplication (Bino-binomial Series)**; printed white **Question Forming : Two different expansion are multiplied and coefficient of some power** (the grammar is the source's, kept as printed).
+**H:** a dense block of gold star stickers across the top of the slide; red handwriting beside it `100%` and `Ques". आएगा` ("the question will come — 100%"), the teacher's promise that this pattern is guaranteed in the exam; the printed sentence finished in handwriting `of x is asked`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p19"></a>
+## p19 · Example — 11 students, 5 girls 6 boys, select any 4 (flagged P+C) · label: **Page No. 157**
+**P:** red chip **Example**; **Let in a class of 11 students there are five girls and six boys, Then find number of ways of selecting any four students is______.**
+**H:** a cyan circle at the top reading **`P+C`** over a double underline — the teacher marks the item as belonging to the Permutations & Combinations chapter, not Binomial Theorem; pink `11 sts` inside an orange circle with two pink arrows down to `5G` and `6B` (`6B` double-underlined); a **red rectangle** enclosing orange `11C_4 =` followed by green `5C_4·6C_0 + 5C_3 6C_1 + 5C_2 6C_2 + 5C_1 6C_3 + 5C_0 6C_4`, with green case labels above the terms `4G 0B`, `3G 1B`, `2G 2B`, `1G 3B`, `4B` (the last underlined), and a cyan hook joining the first two summands below the line. No numerical value is written.
+**DIBY:** none. **U:** none. (Cross-chapter: this is exactly the kind of item the P&C lecture series re-uses — keep it in mind when P&C L01 is reached.)
+
+---
+<a id="p20"></a>
+## p20 · FORMATION OF BINO-BINOMIAL SERIES — Vandermonde by multiplying (1+x)^5 (1+x)^6 · label: **Page No. 156**
+**P:** red banner **FORMATION OF BINO-BINOMIAL SERIES**; printed `(1 + x)^5 · (1 + x)^6 = ( 5C0 + 5C1 x^1 + 5C2 x^2 + … + 5C5 x^5 ) · ( 6C0 + 6C1 x^1 + 6C2 x^2 + … + 6C6 x^6 )` = `5C0 6C0 + ( 5C1 6C0 + 5C0 6C1 ) x + ( 5C2 6C0 + 5C1 6C1 + 5C0 6C2 ) x^2 + … … + ( 5C0 6C6 + 5C1 6C5 + 5C2 6C4 + 5C3 6C3 + 5C4 6C2 + 5C5 6C1 ) x^6 + …` — the two binomials printed yellow and the whole x^6 bracket inside a printed **red rectangle**.
+**H:** pink arrows dropping from the boxed line to `coeff. of x^6 in (1+x)^5 (1+x)^6 = 11C_6`, with the product wavy-underlined in yellow, a small down-arrow to yellow `coeff of x^6 in (1+x)^11` and another arrow to `11C_r x^r`; a pink `??` written between the two pink arrows (the question the slide poses: why the two must agree); a yellow arrow from the last term of the box to a yellow double-underlined `11C_6` at right.
+**DIBY:** none. **U:** none.
