@@ -275,3 +275,11 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 - **# DIBY-42** — **The coefficient of** `x^2012` **in the expansion of** `(1 − x)^2008 (1 + x + x²)^2007` **is equal to** **[JEE Mains–2024]** → **[Ans.: (0)]** (short answer, the key printed as a literal zero in brackets)
 **H:** none — no board work on this slide either; the whole L06 DIBY block is presented as print-only practice.
 **DIBY:** three rows added (BT-L06-P40-DIBY-40 / -41 / -42). **U:** none.
+---
+<a id="p41"></a>
+## p41 · DIBY block (contd.) — # DIBY-43, # DIBY-44 · label: — (yellow banner, no page number)
+**P:** yellow banner **FINDING COEFFICIENTS**; two green-tagged items and a large empty lower half:
+- **# DIBY-43** — **The coefficient of** `x^4` **in the expansion of** `(1 + x + x² + x³)^6` **in powers of** `x`**, is** **[JEE Mains–2020]** → **[Ans.: (120)]** (short answer, no options)
+- **# DIBY-44** — **The term independent of** `x` **in the expansion of** `(1 − x² + 3x³) ( (5/2)x³ − 1/(5x²) )^11`, `x ≠ 0` **is:** **[JEE Mains–2022]** `(A) 7/40 (B) 33/200 (C) 39/200 (D) 11/50` → **[Ans.: (B)]**
+**H:** none.
+**DIBY:** two rows added (BT-L06-P41-DIBY-43 / -44). **U:** 1 — DIBY-43's phrasing `in powers of x, is` prints with a comma after `x`; kept as in the source.

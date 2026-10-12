@@ -1104,5 +1104,33 @@
   "prompt_verbatim": "The coefficient of x^2012 in the expansion of (1 - x)^2008 (1 + x + x^2)^2007 is equal to [JEE Mains-2024]",
   "options": "(short-answer item - no options printed)",
   "visible_solution_answer": "Ans.: (0) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 41,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-43 (printed, green tag)",
+  "printed_label": "DIBY-43",
+  "internal_id": "BT-L06-P41-DIBY-43",
+  "prompt_verbatim": "The coefficient of x^4 in the expansion of (1 + x + x^2 + x^3)^6 in powers of x, is [JEE Mains-2020]",
+  "options": "(short-answer item - no options printed)",
+  "visible_solution_answer": "Ans.: (120) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 41,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-44 (printed, green tag)",
+  "printed_label": "DIBY-44",
+  "internal_id": "BT-L06-P41-DIBY-44",
+  "prompt_verbatim": "The term independent of x in the expansion of (1 - x^2 + 3x^3) ((5/2)x^3 - 1/(5x^2))^11, x != 0 is: [JEE Mains-2022]",
+  "options": "(A) 7/40   (B) 33/200   (C) 39/200   (D) 11/50",
+  "visible_solution_answer": "Ans.: (B) (printed)"
  }
 ]
