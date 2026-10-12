@@ -1,0 +1,411 @@
+# Uncertainty / issue log - Twin 3
+
+Every entry cites PDF page and location/reading. Nothing below was silently corrected.
+
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p3: low-conf (0.6464) line: '3'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p3: low-conf (0.6314) line: 'XAAR'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p3: low-conf (0.616) line: ' xa O   + xq + zx'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p3: dual-pass agreement 0.4033
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p4: low-conf (0.6466) line: 'm'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p4: low-conf (0.558) line: '-coe·'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p4: dual-pass agreement 0.7885
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p5: low-conf (0.6446) line: '。'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p5: low-conf (0.5967) line: '17'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p5: dual-pass agreement 0.6626
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p7: low-conf (0.5869) line: 'x二-'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p7: low-conf (0.6111) line: '=-Xc'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p7: dual-pass agreement 0.4693
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p8: low-conf (0.6381) line: 'a='
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p8: low-conf (0.5828) line: '二0'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p8: dual-pass agreement 0.7882
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p9: low-conf (0.6324) line: 'H-Q2'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p9: low-conf (0.6198) line: '=C'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p11: low-conf (0.5469) line: '0> J·n'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p12: low-conf (0.6362) line: '0>(u)(a))'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p12: low-conf (0.6406) line: 'm'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p13: low-conf (0.5638) line: 'W)'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p14: dual-pass agreement 0.6604
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p14: x=2 mapping value uncertain (3 vs 7); x=46/y=43 reading uncertain
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p16: low-conf (0.6373) line: '[句D'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p17: low-conf (0.6164) line: '# U C '
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p18: low-conf (0.5585) line: '→ZC'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p18: low-conf (0.5706) line: '卫知'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p18: low-conf (0.5912) line: '`8-)'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p18: dual-pass agreement 0.7874
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p19: low-conf (0.5437) line: '8'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p19: low-conf (0.5269) line: '[品%)'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p19: low-conf (0.6161) line: '8'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p19: low-conf (0.5617) line: '(∞R'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p19: dual-pass agreement 0.24
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p21: low-conf (0.5861) line: 'N='
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p21: low-conf (0.6487) line: 'a'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p21: low-conf (0.5399) line: '8'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p22: low-conf (0.6032) line: 'a'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p22: low-conf (0.623) line: 'α'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p22: low-conf (0.6359) line: 'Romge -2,]'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p22: dual-pass agreement 0.5352
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p23: low-conf (0.543) line: '!'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p24: low-conf (0.6097) line: 'C+ol'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p24: low-conf (0.5126) line: 'omai(2)eR-{}'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p24: low-conf (0.6018) line: 'Rag(4)eR-{}'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p25: low-conf (0.6281) line: 'yeR-{}'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p25: low-conf (0.6378) line: 'o# Rs-o'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p25: dual-pass agreement 0.791
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p26: low-conf (0.5566) line: 'neR'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p26: low-conf (0.6428) line: 'v'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p26: low-conf (0.5801) line: '二'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p26: low-conf (0.5883) line: '∈R-0了'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p26: circled constant on right: (1/3) vs (-1/3); algebra implies -1/3
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p28: low-conf (0.5177) line: '03'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p29: low-conf (0.6356) line: 'ili'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p29: source prints 'y = ax^2 + bc + c' (likely typo for bx); transcribed verbatim
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p30: low-conf (0.5036) line: '=3`'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p30: dual-pass agreement 0.7752
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p31: source prints 'ax^2 + bc + c = 0' (likely typo for bx); transcribed verbatim
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p34: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L09** `Quadratic Equations 09 Class Notes.pdf` p34: hashtag glyph ambiguity I vs l
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p4: low-conf (0.5411) line: 'W'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p5: low-conf (0.5676) line: 'Gragpk -'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p5: low-conf (0.637) line: '1Rot<α'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p5: dual-pass agreement 0.5457
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p6: low-conf (0.6161) line: '?'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p6: dual-pass agreement 0.625
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p8: low-conf (0.6444) line: 'by:'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p8: low-conf (0.6188) line: '(]()(9-]()[o():su'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p9: low-conf (0.6096) line: 'f(0)=ao-60+'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p9: low-conf (0.6031) line: ']'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p9: dual-pass agreement 0.7885
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p10: low-conf (0.6159) line: 'αif'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p10: low-conf (0.6487) line: 'R-'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p10: low-conf (0.6472) line: '一了'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p10: dual-pass agreement 0.7059
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p11: low-conf (0.5173) line: 'f(m)·f(m)(<'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p11: dual-pass agreement 0.7671
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.6257) line: '1+x-x'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.621) line: '二'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.6404) line: 'g'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.5423) line: 'P+D'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.5173) line: '(4-1)x'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.6014) line: '4-y+1)20'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: low-conf (0.6281) line: 'R-Rb--'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p13: dual-pass agreement 0.4069
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p14: low-conf (0.6324) line: '2'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p14: low-conf (0.5723) line: '1'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p14: dual-pass agreement 0.7534
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.6047) line: '='
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.6201) line: 'E(-∞,1'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.5061) line: '二'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.6269) line: 'D=o'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.5775) line: 'x²+x'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.6382) line: '是↑'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: low-conf (0.6086) line: 'X'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p15: dual-pass agreement 0.398
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p16: low-conf (0.5203) line: '='
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p16: low-conf (0.647) line: '(x-#'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p16: low-conf (0.5902) line: 'x'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p17: dual-pass agreement 0.6667
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p18: low-conf (0.6381) line: 'y∈(∞,-27u[2，∞)'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p19: low-conf (0.5197) line: 'vO'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p19: low-conf (0.5404) line: 'hcc'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p19: low-conf (0.5136) line: '<'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p19: dual-pass agreement 0.3521
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p20: low-conf (0.6092) line: 'W'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p20: low-conf (0.5616) line: 'y-'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p20: low-conf (0.5768) line: '二0'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p20: low-conf (0.6282) line: '<'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p20: dual-pass agreement 0.7926
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p22: low-conf (0.5674) line: '#'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p22: low-conf (0.6172) line: '[一~]'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p22: low-conf (0.5707) line: '()'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p22: low-conf (0.6398) line: 'Rauy:'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p22: dual-pass agreement 0.7119
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p23: low-conf (0.6221) line: 'D~O'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p24: low-conf (0.6284) line: 'α'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p24: low-conf (0.5874) line: 'a2'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p25: low-conf (0.6334) line: 'any'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p25: low-conf (0.6247) line: 'x6+'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p26: low-conf (0.604) line: 'W'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p26: low-conf (0.601) line: 'x a2'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p26: low-conf (0.5097) line: 'α'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p26: low-conf (0.6366) line: 'a2b1α'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p26: dual-pass agreement 0.5655
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p27: low-conf (0.6249) line: 'aC2-a2C)'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p27: low-conf (0.5958) line: '(6hc-b2c)(ab-6)'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p27: dual-pass agreement 0.7306
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p28: low-conf (0.5421) line: 'W'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p28: low-conf (0.624) line: '(hC2-b2C1)(a6)'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p28: low-conf (0.5435) line: '(a-a)²'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p28: low-conf (0.5244) line: '.'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p29: dual-pass agreement 0.7129
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p35: low-conf (0.6357) line: 'ili'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p36: low-conf (0.5065) line: '=5`'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p36: dual-pass agreement 0.7451
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p38: dual-pass agreement 0.7163
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p39: low-conf (0.5715) line: '-8,-'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p40: low-conf (0.5956) line: '='
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p44: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p4: low-conf (0.5058) line: 'O'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p4: low-conf (0.5763) line: '？'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p4: low-conf (0.5579) line: '+R-'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p4: low-conf (0.6185) line: '# =0'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p4: dual-pass agreement 0.5926
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p5: low-conf (0.6115) line: 'Ye[5,4]'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p5: dual-pass agreement 0.7444
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p6: low-conf (0.6465) line: 'X'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p7: low-conf (0.5165) line: '&'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p7: low-conf (0.6025) line: '二'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p8: low-conf (0.5449) line: 'houwnn'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p8: low-conf (0.6284) line: 'α>@'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p8: low-conf (0.6191) line: '11'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p9: dual-pass agreement 0.5418
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p12: low-conf (0.6195) line: 'M'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p12: low-conf (0.5481) line: ')（（p-s)'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p12: low-conf (0.6173) line: '6π²-y'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p13: low-conf (0.5995) line: 'F3'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p13: dual-pass agreement 0.7746
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p14: low-conf (0.6032) line: '= 2'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p14: low-conf (0.6428) line: 'C=±'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p14: dual-pass agreement 0.7052
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p15: low-conf (0.6254) line: '#Q<0'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p16: low-conf (0.6472) line: 'iabu)'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p16: low-conf (0.588) line: 'L'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p16: dual-pass agreement 0.5889
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p17: low-conf (0.5933) line: 'Q'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p17: low-conf (0.5877) line: 'K=l x'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p17: dual-pass agreement 0.6705
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p18: low-conf (0.5622) line: 'Riddy'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p18: dual-pass agreement 0.5642
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p19: dual-pass agreement 0.6873
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p20: low-conf (0.565) line: 'GteuO。'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p21: low-conf (0.58) line: 'tu.'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p22: low-conf (0.5136) line: 'L'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p23: low-conf (0.5383) line: '二'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p23: low-conf (0.5482) line: 'X'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p26: low-conf (0.6463) line: '&a'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p27: low-conf (0.5989) line: '&a'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p27: low-conf (0.643) line: '36d²-（2-a+9d²)20'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p27: low-conf (0.6284) line: 'Xx1'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p27: dual-pass agreement 0.4048
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p28: low-conf (0.6199) line: 'Cona”'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p33: low-conf (0.5821) line: 't²-α'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p34: low-conf (0.5679) line: '(C)'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p34: low-conf (0.61) line: '以'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p34: low-conf (0.5677) line: '—α，β,Y'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p34: low-conf (0.6265) line: '(可)'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p35: dual-pass agreement 0.7477
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p36: dual-pass agreement 0.5345
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p37: low-conf (0.6268) line: '入'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p38: low-conf (0.5858) line: '井'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p39: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p5: low-conf (0.6054) line: 'X'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p5: low-conf (0.5405) line: '+=0'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p5: low-conf (0.531) line: 'α'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p6: low-conf (0.5023) line: 'I'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p6: low-conf (0.5959) line: '&'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p7: low-conf (0.5519) line: '十'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p7: low-conf (0.6033) line: 'x²)'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p7: dual-pass agreement 0.7455
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p8: low-conf (0.569) line: '3F'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p9: low-conf (0.6473) line: 'D>0'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p10: low-conf (0.5865) line: '米**'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p10: low-conf (0.5726) line: '0<&'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p10: low-conf (0.6378) line: '×1'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p10: dual-pass agreement 0.4322
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p11: low-conf (0.5145) line: '0>D'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p12: low-conf (0.5673) line: 'W'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p14: low-conf (0.5291) line: 'bmgubp'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p14: low-conf (0.6109) line: '(ten)'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p14: low-conf (0.5335) line: 'α↓'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p19: low-conf (0.5432) line: '{2-3-(0s)'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p20: low-conf (0.5065) line: '='
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p22: low-conf (0.5705) line: '(0)(±)'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p22: low-conf (0.5234) line: '<O'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p23: dual-pass agreement 0.565
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p24: low-conf (0.5505) line: '<O'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p24: low-conf (0.627) line: '()'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p25: low-conf (0.5147) line: '7O'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p25: low-conf (0.6479) line: '@'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p25: dual-pass agreement 0.6159
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p26: low-conf (0.6427) line: 'O<@'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p26: low-conf (0.6195) line: '?'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p27: low-conf (0.5973) line: 'K=&'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p27: low-conf (0.5509) line: 'O<@'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p27: low-conf (0.5814) line: '-<'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p27: low-conf (0.6098) line: '&x1'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p28: low-conf (0.5597) line: 'tw),'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p30: dual-pass agreement 0.6048
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p31: low-conf (0.5319) line: 'a2'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p31: dual-pass agreement 0.5319
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p32: low-conf (0.5491) line: 's（'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p32: dual-pass agreement 0.6148
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p33: dual-pass agreement 0.5914
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p34: low-conf (0.5014) line: '4'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p40: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: low-conf (0.565) line: 'y2'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: low-conf (0.615) line: '+i'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: low-conf (0.6045) line: 'L+a'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: low-conf (0.6434) line: '(三)'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: dual-pass agreement 0.3269
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p7: low-conf (0.5351) line: 'o'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p7: dual-pass agreement 0.7119
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p8: low-conf (0.6341) line: '<0'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p8: low-conf (0.5884) line: 'hmmo'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p8: dual-pass agreement 0.7883
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.58) line: '8'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.6372) line: 'W'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.5935) line: '(-1)'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.6254) line: 'x =3/2'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.5055) line: '≠1'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p9: low-conf (0.6455) line: 'RR-}'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p12: low-conf (0.6307) line: '=-&'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p12: dual-pass agreement 0.4312
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p13: low-conf (0.5873) line: '×α'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p13: low-conf (0.6202) line: 'B²'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p13: low-conf (0.6472) line: '(+B34r3)'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p13: dual-pass agreement 0.4214
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p14: low-conf (0.627) line: 'αBY'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p14: low-conf (0.558) line: '∑x²β'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p14: dual-pass agreement 0.0453
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p15: low-conf (0.5479) line: '天'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p15: dual-pass agreement 0.6619
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p17: dual-pass agreement 0.6807
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p18: dual-pass agreement 0.3818
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p19: low-conf (0.6105) line: 'X'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p19: low-conf (0.5886) line: '1=x'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p19: low-conf (0.6231) line: 'B'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p19: low-conf (0.627) line: '5=(-1)(i+1）=t(+)xt(+)xt（+2)'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p19: dual-pass agreement 0.5019
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p24: low-conf (0.5824) line: '1-n'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p24: low-conf (0.6492) line: 'B-'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p24: dual-pass agreement 0.5804
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p25: low-conf (0.5468) line: '2+'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p25: low-conf (0.5804) line: 'x+'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p26: low-conf (0.5053) line: 'mo'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p26: low-conf (0.5199) line: 'b-'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p26: low-conf (0.5947) line: '(-4)'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p27: low-conf (0.5939) line: '&-'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p27: low-conf (0.6428) line: '()e-()'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p27: low-conf (0.639) line: 'h+-去'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p27: low-conf (0.6403) line: '一×'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p28: low-conf (0.6398) line: 'W'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: low-conf (0.6288) line: '2rmo cmolu lo poe A ung'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: low-conf (0.5916) line: 'α-l'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: low-conf (0.6178) line: 'P+ B'
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: low-conf (0.5875) line: '('
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p29: dual-pass agreement 0.6302
+- **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p36: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p3: low-conf (0.5706) line: 'a-'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p3: low-conf (0.5141) line: 'w'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p3: low-conf (0.5001) line: '+1a'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p3: low-conf (0.5673) line: '441'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.5531) line: '一x'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.5094) line: 'μ-5f'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.6483) line: 'g5'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.5407) line: 'f-8²'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.5549) line: 'af)-f）+'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: dual-pass agreement 0.5962
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p5: low-conf (0.5289) line: '1-/'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p7: low-conf (0.6116) line: '+C'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p7: low-conf (0.5808) line: '=一2'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p7: low-conf (0.5223) line: '1&'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p7: low-conf (0.5467) line: '85a'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: low-conf (0.6408) line: 'D+'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: low-conf (0.6363) line: 'Kc-x11+Kg+Kx01-xg1'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: low-conf (0.5734) line: 'K0h6'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: low-conf (0.56) line: '18x'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: low-conf (0.5636) line: 'hol-11'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: dual-pass agreement 0.515
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p9: low-conf (0.6388) line: 'h6'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p9: low-conf (0.6107) line: '4x-4+1)('
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p9: low-conf (0.6153) line: 'hg-xh'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p9: dual-pass agreement 0.7467
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p10: dual-pass agreement 0.6575
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p11: low-conf (0.6155) line: 'wx4'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p11: low-conf (0.5599) line: 'Raungy dty'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p11: dual-pass agreement 0.6667
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.6149) line: 'du'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.5498) line: '+'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.5725) line: '-0≈0'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.5558) line: '+K1-'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.5706) line: '(y-4)yx9x（y²+a）≥0'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: dual-pass agreement 0.5503
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p13: low-conf (0.521) line: '>0'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p13: dual-pass agreement 0.6602
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p14: low-conf (0.61) line: '#'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p14: dual-pass agreement 0.5163
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p15: low-conf (0.6246) line: 'x+4+a元y'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p15: low-conf (0.5166) line: 'Q>O'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p15: dual-pass agreement 0.7099
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p16: low-conf (0.5601) line: '#2'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p16: low-conf (0.584) line: '24H1'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p16: dual-pass agreement 0.7368
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p17: low-conf (0.5881) line: '1C'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p17: low-conf (0.6251) line: 'ayoxgamKuo'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p17: low-conf (0.5812) line: '七'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p17: dual-pass agreement 0.4971
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p18: low-conf (0.6299) line: 'd4muy'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p18: low-conf (0.6008) line: 'X'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p18: low-conf (0.5598) line: '2'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p18: dual-pass agreement 0.65
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p19: low-conf (0.5178) line: '(-b+C+b)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p19: low-conf (0.6369) line: '642'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: low-conf (0.5282) line: '(y+)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: low-conf (0.5219) line: '((+R)='
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: low-conf (0.5002) line: '+9'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: low-conf (0.6317) line: '(+x-=(（-）=-)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: low-conf (0.6147) line: '(+”++'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: dual-pass agreement 0.3441
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p21: low-conf (0.6384) line: '(1±xhg'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p21: low-conf (0.5588) line: '个'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p21: low-conf (0.5285) line: 'egh0'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p21: dual-pass agreement 0.6373
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p22: low-conf (0.5222) line: '(i)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p23: low-conf (0.6488) line: 'aie'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p23: low-conf (0.6035) line: 'X-L'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p23: low-conf (0.6076) line: '+2'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p23: dual-pass agreement 0.7912
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p24: low-conf (0.6266) line: 'o='
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p24: dual-pass agreement 0.7663
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p25: low-conf (0.5668) line: 't'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p25: dual-pass agreement 0.3823
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p26: low-conf (0.6448) line: 'sHhomro'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p26: low-conf (0.5854) line: 'Log'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p26: low-conf (0.6264) line: 'Cog'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p26: low-conf (0.5829) line: '2=o9'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p26: low-conf (0.5821) line: '&'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p27: low-conf (0.596) line: '井'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p27: dual-pass agreement 0.7978
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p29: low-conf (0.5015) line: '￥+.x'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p29: low-conf (0.5974) line: '14+α'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p29: low-conf (0.6276) line: '621-1'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p30: low-conf (0.635) line: 'put'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p30: low-conf (0.6197) line: 'α'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p30: low-conf (0.6405) line: 'X'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p30: dual-pass agreement 0.7808
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p31: low-conf (0.523) line: '古'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p31: low-conf (0.6333) line: '一'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p31: dual-pass agreement 0.5436
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p32: low-conf (0.5706) line: 's'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p32: low-conf (0.6347) line: '#'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p33: low-conf (0.5634) line: '='
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p34: low-conf (0.5842) line: 'Homgo'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p35: dual-pass agreement 0.761
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: low-conf (0.5873) line: '6'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: low-conf (0.5398) line: '#(x)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: low-conf (0.6262) line: 'x=-1'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: low-conf (0.531) line: '1C'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: dual-pass agreement 0.3841
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p37: low-conf (0.619) line: '#'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p37: low-conf (0.5923) line: '#()'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p37: dual-pass agreement 0.4654
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p38: low-conf (0.5421) line: '20'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p38: low-conf (0.6237) line: '(5（4）(3（2)(（1)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p39: low-conf (0.5675) line: 'Phoo'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p39: low-conf (0.5844) line: 'p(x)a'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p39: low-conf (0.609) line: 'Thenftind'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p39: dual-pass agreement 0.5633
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: low-conf (0.5814) line: '26'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: low-conf (0.6323) line: '60'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: low-conf (0.5254) line: '(5）（)（±))'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: dual-pass agreement 0.2167
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p42: low-conf (0.5161) line: '在u'

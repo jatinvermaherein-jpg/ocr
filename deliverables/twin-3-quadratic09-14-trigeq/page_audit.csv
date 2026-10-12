@@ -1,0 +1,3329 @@
+Chapter,Lecture No.,Source PDF,PDF page,Visible topic/heading,Full text / equations,Diagram/visual notes,DIBY present?,DIBY printed label(s),OCR uncertainty / location,Visual QA status,Reviewer
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,1,Cover slide,ARJUNA JEE 2027 | Lecture - 09 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir | (PW logo),"Instructor photo (Sachin Jakhar Sir), ARJUNA JEE 2027 branding, compass/pencil graphic",no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,2,Topics to be covered,"Topics to be covered (handwritten cursive) | A Range of Quadratic | B Range of Rational Functions | C Question Practice | D (label printed, no text)",3D question-mark with thinking pencil mascot,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,3,LAST CLASS REVISION - match the columns,"LAST CLASS REVISION | # Answer the following Questions: | Column-I | 1. ax^2 + bx + c > 0  for all x in R | 2. ax^2 + bx + c < 0  for all x in R (handwritten 'for all' arrow) | 3. ax^2 + bx + c <= 0  for all x in R | 4. ax^2 + bx + c >= 0  for all x in R | Column-II | P. upward parabola above x-axis | Q. upward parabola touching x-axis | R. downward parabola touching x-axis | S. downward parabola below x-axis | Column-III | A. a > 0, D >= 0 | B. a > 0, D <= 0 | C. a > 0, D < 0 | D. a < 0, D < 0 | E. a < 0, D <= 0 | Handwritten matching (top): 1 -> P -> C ; 2 -> S -> D ; 3 -> (S,R) -> E ; 4 -> (P,Q) -> B","4 small parabola sketches (P,Q,R,S); handwritten match arrows at top",no,,low-conf (0.6464) line: '3'; low-conf (0.6314) line: 'XAAR'; low-conf (0.616) line: ' xa O   + xq + zx'; dual-pass agreement 0.4033,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,4,Roots symmetric about midpoint (α+β)/2,"(handwritten only) Upward parabola with roots alpha, beta; axis of symmetry dashed; half-distances m and m marked either side of (alpha+beta)/2. Second sketch: downward parabola, roots alpha, beta; circled nodes: (alpha+beta)/2 - m , (alpha+beta)/2 , (alpha+beta)/2 + m ; note: -coeff of x / (2 coeff of x^2)",Two hand-drawn parabolas with root/midpoint annotations,no,,low-conf (0.6466) line: 'm'; low-conf (0.558) line: '-coe·'; dual-pass agreement 0.7885,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,5,LAST CLASS REVISION - PO-SHEN-LOH Technique,"LAST CLASS REVISION | # PO-SHEN-LOH Technique: | Factorise following Quadratic: | (i) x^2 - 48x + 527 = 0 | (ii) x^2 - 78x + 1517 = 0 | (iii) 2x^2 - 43x + 221 = 0 | Handwritten working: (i) split 31,17; (ii) split 83,41 [UNCLEAR: 2nd pair reading]; (iii) {13, 17/2}; Sum of Roots = (43/2); Roots = (43/4 + m), (43/4 - m); (43/4 + m)(43/4 - m) = 221/2; (43/4)^2 - m^2 = 221/2; 43^2/16 - 221/2 = m^2 = (1849 - 1768)/16 = 81/16; alpha+beta/2 = 48/2 = 24; Roots = 24+m, 24-m -> 24+7, 24-7 -> 31, 17; m = +/-9/4; Prod = 24^2 - m^2 = 527; 576 - 527 = m^2; 49 = m^2; +/-7 = m; 43/4 + 9/4 = 52/4 = 13; 43/4 - 9/4 = 34/4 = 17/2",Handwritten factor trees and arrows; 'PO-SHEN-LOH' boxed red,no,,low-conf (0.6446) line: '。'; low-conf (0.5967) line: '17'; dual-pass agreement 0.6626,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,6,Question Practice,"Question Practice (boxed red, centred)",none,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,7,Question [JEE Mains-2020],"Question [JEE Mains-2020] | (timer badge 54%) | Let f(x) be a quadratic polynomial such that f(-1) + f(2) = 0. If one of the roots of f(x) = 0 is 3, then its other root lies in: | (A) (-1, 0) | (B) (-3, -1) | (C) (0, 1) | (D) (1, 3) | Handwritten solution: f(x) = ax^2 + bx + c (red box); x=-1: f(-1) = a - b + c; x=2: f(2) = 4a + 2b + c; x=3: 9a + 3b + c = 0 (red box); a-b+c + 4a+2b+c = 0; 5a + b + 2c = 0 ...(1); 9a + 3b + c = 0 ...(2); x2: 18a + 6b + 2c = 0; subtract: 13a + 5b = 0; b = -13a/5 (circled); 5a - 13a/5 = -2c -> -6a/5 = c (circled)",option A box struck through (eliminated); handwritten arrows/underlines,no,,low-conf (0.5869) line: 'x二-'; low-conf (0.6111) line: '=-Xc'; dual-pass agreement 0.4693,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,8,JEE Mains-2020 solution continued,"(handwritten) f(x) = ax^2 + bx + c (red box) -> ax^2 - (13/5)ax - (6a/5) = 0 -> a{x^2 - (13/5)x - (6/5)} = 0 -> (a/5){5x^2 - 13x - 6} = 0 -> (a/5)(5x^2 - 15x + 2x - 6) = 0 -> (a/5)(5x + 2)(x - 3) = 0 -> roots 3 (tick), -2/5 (circled)",none,no,,low-conf (0.6381) line: 'a='; low-conf (0.5828) line: '二0'; dual-pass agreement 0.7882,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,9,Other root via k(x-3)(x-alpha),"(handwritten) (H-2) circled; x = 3 is a root; x = alpha is another root (circled); Say: f(x) = (k)(x - 3)(x - alpha) (red box); f(-1) + f(2) = 0; k(-1-3)(-1-alpha) + k(2-3)(2-alpha) = 0 (both k underlined, red boxes); k{-4(-1-alpha) + (-1)(2-alpha)} = 0; k{4 + 4alpha - 2 + alpha} = 0; k(2 + 5alpha) = 0; alpha = -2/5 (tick)",none,no,,low-conf (0.6324) line: 'H-Q2'; low-conf (0.6198) line: '=C',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,10,Acidic Question - nature of roots,"Acidic Question (star rating) | (Graph) circled pink | Comment on nature of roots of quadratic f(x) = ax^2 + bx + c, (where a, b, c in R) for given conditions. | (i) a.c < 0 | (ii) (4a + 2b + c).(a - b + c) < 0 (red box) | (iii) b^2 > (a + c)^2 | Handwritten: 'Sumit:' D = b^2 - 4ac, -ve/+ve split, # Real & distinct; 'Santosh:' ac < 0 (red box); a & c are of opp. sign; branches a>0 & c<0 / a<0 & c>0; (ii') (value at x=2).(value at x=-1); f(2).f(-1) < 0 (red box); sign columns +/- and -/+; 'Real & dist: 1 Root lies b/w -1 & 2'","4 parabola sketches: cyan upward, white downward, multi-colour pair, white with -1 and 2 marked",no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,11,Acidic Question continued (iii),"Acidic Question | (Graph) circled | Comment on nature of roots of quadratic f(x) = ax^2 + bx + c, (where a, b, c in R) for given conditions. | (i) a.c < 0 | (ii) (4a + 2b + c).(a - b + c) < 0 | (iii) b^2 > (a + c)^2 | => b^2 - (a + c)^2 > 0 | => (b + a + c)(b - a - c) > 0 | (a + b + c)(a - b + c) < 0 (red box, with + - / - + sign marks) | # f(1).f(-1) < 0 | # R & D | # 1 Root lies b/w -1 & 1",coloured parabolas (magenta/blue/white) crossing axis at -1 and 1,no,,low-conf (0.5469) line: '0> J·n',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,12, takeaway cloud,"(handwritten, inside star-ring cloud) If f(x) = Quadratic and. f(m).f(n) < 0 (red box) => # R & D Roots ; # 1 root lies b/w m & n","decorative star border cloud; small sketch with m, n on axis",no,,low-conf (0.6362) line: '0>(u)(a))'; low-conf (0.6406) line: 'm',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,13,Challenger Question [IIT-JEE] (HW),"Challenger Question [IIT-JEE] | If a < b < c and a, b, c in R then comment on nature of roots of following: | (i) f(x) = (x - a)(x - b) - 1 | (ii) f(x) = (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) | (handwritten pink circled marker: HW)",none,no,,low-conf (0.5638) line: 'W)',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,14,input/domain -> range/output illustration,(handwritten) y = x^2 + x + 1 (pink cloud); 'input / domain'; red column x = 1 => y = 3; x = 2 => y = 3 [UNCLEAR: may be y = 7]; x = 5 => y = 31; x = 46 => y = 43 [UNCLEAR]; ...; 'Range / output',two red vertical boxes mapping x-values to y-values,no,,dual-pass agreement 0.6604; x=2 mapping value uncertain (3 vs 7); x=46/y=43 reading uncertain,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,15,IMPORTANT NOTE - domain/range graphically,IMPORTANT NOTE | Graphically (green box) -> Domain (x) = portion of x-axis covered (yellow box); -> Range (y) = portion of y-axis covered (yellow box),arrow diagram between three boxes,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,16,FIND DOMAIN & RANGE FOR FOLLOWING GRAPHS (i),"FIND DOMAIN & RANGE FOR FOLLOWING GRAPHS | (i) y = f(x) | graph: yellow curve, open circle at (1,3), dip to y=2, rises to closed dot (5,7); y ticks 2,3,7; x ticks 1,5 | handwritten: # domain(x) in (1, 5]; Range branches: y in [2,7] - {3} (cross) ; y in [2,7] (tick)","coordinate graph with dashed guides, open/closed endpoints",no,,low-conf (0.6373) line: '[句D',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,17,FIND DOMAIN & RANGE FOR FOLLOWING GRAPHS (ii),"FIND DOMAIN & RANGE FOR FOLLOWING GRAPHS | (ii) y = f(x) | graph: piecewise yellow segments: closed (1,2) to open (3,3); closed (3,6) to open (5,4); y ticks 2,3,4,6; x ticks 1,3,5 | handwritten: # x in [1,5); # y in [2,3) U (4,6]","piecewise graph with open/closed dots, dotted guides",no,,low-conf (0.6164) line: '# U C ',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,18,"Range of quadratic, a>0 and a<0","(handwritten) y = ax^2 + bx + c, (a > 0) circled; magenta upward parabola; vertex level -D/4a; => x in R; Range in [-D/4a, infinity) (tick) with min./max. labels; right: a < 0 underlined; cyan downward parabola; vertex -D/4a; x in R; y in (-infinity, -D/4a] with Min./Max. labels",two hand-drawn parabolas,no,,low-conf (0.5585) line: '→ZC'; low-conf (0.5706) line: '卫知'; low-conf (0.5912) line: '`8-)'; dual-pass agreement 0.7874,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,19,Ques 1-2 min value,"(handwritten) Ques- 1: Min. value of y = 2x^2 - 3x + 1 (red box) is (-1/8) circled; a>0 => y in [-D/4a, infinity); y in [-1/(4x2), infinity); y in [-1/8, infinity) (red box) 'min.' | 2: If alpha, beta are roots of x^2 - (a-1)x + (3a+5) = 0 (red box) then min. value of alpha^2 + beta^2 = ___; SBS: alpha+beta = a-1; alpha.beta = 3a+5; alpha^2+beta^2+2alpha.beta = (a-1)^2; alpha^2+beta^2 = (a-1)^2 - 2(3a+5) = a^2 - 2a + 1 - 6a - 10 = a^2 - 8a - 9; min. value of (a^2 - 8a - 9) = (-25) circled; # Quad.; Range in [-25, infinity)",none,no,,low-conf (0.5437) line: '8'; low-conf (0.5269) line: '[品%)'; low-conf (0.6161) line: '8'; low-conf (0.5617) line: '(∞R'; dual-pass agreement 0.24,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,20,RANGE OF QUADRATIC + IMPORTANT NOTE,"RANGE OF QUADRATIC | Quadratic: y = ax^2 + bx + c | (i) If a > 0 => Range(y) in [-D/4a, infinity) | (ii) If a < 0 => Range(y) in (-infinity, -D/4a] | IMPORTANT NOTE | (i) Above formulas are only valid if x in R. (red box) | (ii) In case of restricted domain, use graphical method to calculate Range.",clipboard icon,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,21,Range of 3x^2-2x-7 restricted domains (i)-(ii),"Question | Find range of following functions: | (i) f(x) = 3x^2 - 2x - 7 (red box) | (ii) f(x) = 3x^2 - 2x - 7, x in (0, 5] | (iii) f(x) = 3x^2 - 2x - 7, x in [-6, -1] | handwritten: 'Restricted domain'; V = (-b/2a, -D/4a); (1/3, -4x22/4x3) = (1/3, -22/3); a>0; (i) Range in [-22/3, infinity); f(5) = 3x25 - 10 - 7 = 75 - 10 - 7 = 58; graph magenta parabola with 58 and -22/3; y in [-22/3, 58]",magenta parabola sketch with dashed guides,no,,low-conf (0.5861) line: 'N='; low-conf (0.6487) line: 'a'; low-conf (0.5399) line: '8',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,22,Range of 3x^2-2x-7 (iii),"Question | Find range of following functions: | (i) f(x) = 3x^2 - 2x - 7 (red box) | (ii) f(x) = 3x^2 - 2x - 7, x in (0, 5] | (iii) f(x) = 3x^2 - 2x - 7, x in [-6, -1] | handwritten: f(-6) = 3x36 + 12 - 7; f(-1) = 3 + 2 - 7 = -2; Range in [-2, 113]; V = (-b/2a, -D/4a) = (1/3, -22/3) repeated | graph: magenta/green parabola with markers 113, -2, -6, -1, -22/3",parabola sketch with restricted-interval hatching,no,,"low-conf (0.6032) line: 'a'; low-conf (0.623) line: 'α'; low-conf (0.6359) line: 'Romge -2,]'; dual-pass agreement 0.5352",visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,23,Find range -x^2+4x-6 (DIBY handwritten marker),"Question | Find range for following functions : | (i) f(x) = -x^2 + 4x - 6 | (ii) f(x) = -x^2 + 4x - 6, x in [-3, 1) | (iii) f(x) = -x^2 + 4x - 6, x in (0, 4] | handwritten marker: DiBY - (X) [circled X; exact meaning uncertain] | Ans. : (i) y in (-infinity, -2], (ii) y in [-27, -3), (iii) y in [-6, -2]",,yes,"DiBY - (X)  [handwritten, circled]",low-conf (0.543) line: '!',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,24,RANGE OF RATIONAL FUNCTION - Format-01,RANGE OF RATIONAL FUNCTION | Format-01 : Linear/Linear or Const./Linear | handwritten: y = (ax+b)/(cx+d); y = b/(cx+d); Domain(x) in R - {-d/c} (tick); x in R - {-d/c} (tick); Range(y) in R - {a/c}; y in R - {0} | red-box panel (green): 'linear'; y = ax + b; y = (ax+b)/c; # x in R; # y in R,arrow diagram inside red box,no,,low-conf (0.6097) line: 'C+ol'; low-conf (0.5126) line: 'omai(2)eR-{}'; low-conf (0.6018) line: 'Rag(4)eR-{}',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,25,Derivation of range of (ax+b)/(cx+d),(handwritten) y in R - {a/c}; y = (ax+b)/(cx+d); cyx + dy = ax + b; dy - b = ax - cyx; dy - b = x(a - cy); (dy - b)/(a - cy) = x (cloud); a - cy != 0; a/c != y,none,no,,low-conf (0.6281) line: 'yeR-{}'; low-conf (0.6378) line: 'o# Rs-o'; dual-pass agreement 0.791,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,26,Range of rational functions (i)-(v),"Question | Find range for following functions : | (i) f(x) = (3x+2)/(x+4) (struck) | (ii) f(x) = (x-1)/(2-7x) (struck) | (iii) f(x) = 4/(3x+8) (struck) | (iv) f(x) = (4x+5)/4 (struck; notes x in R, y in R) | (v) f(x) = (2x-5)/(15-6x) (red box) | handwritten: (i) x in R - {-4}, y in R - {3}; (ii) x in R - {2/7}, y in R - {-1/7}; (iii) x in R - {-8/3}, y in R - {0}; (v) 'Impost' [sic, handwritten; likely 'Important']; f(x) = (2x-5)/(15-6x) circled yellow; # x in R - {5/2} (tick); y in R - {-1/3} (cross); y = (2x-5)/(-3(2x-5)); y = (-1/3) circled [UNCLEAR: circle glyph reads (1/3), minus faint]; y in {-1/3} (tick)",,no,,low-conf (0.5566) line: 'neR'; low-conf (0.6428) line: 'v'; low-conf (0.5801) line: '二'; low-conf (0.5883) line: '∈R-0了'; circled constant on right: (1/3) vs (-1/3); algebra implies -1/3,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,27,DO IT BY YOURSELF (DIBY),DO IT BY YOURSELF (DIBY),none,marker-only,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,28,GRAPH OF QUADRATIC - DIBY-36,"GRAPH OF QUADRATIC | # DIBY-36 | Consider the graph f(x) = ax^2 + bx + c and comment on sign of following parts: | (i) (abc) is ___. | (ii) (4a + 2b + c) is ___. | (iii) for all x > 3, f(x) is ___. | (iv) For all -2 < x < 3, f(x) is ___. | (v) D is ___. | (vi) (a - b + c).(9a - 3b + c) is ___. | Ans. : (i) +ve, (ii) -ve, (iii) +ve, (iv) -ve, (v) +ve, (vi) -ve","yellow upward parabola with roots -2 and 3, vertex below axis",yes,# DIBY-36,low-conf (0.5177) line: '03',visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,29,GRAPH OF QUADRATIC - DIBY-37 (Challenger),"GRAPH OF QUADRATIC | # DIBY-37(Challenger) | Draw the graph of quadratic (y = ax^2 + bc + c) [sic - as printed] in each part with given conditions: | (i) Roots are 3 & 7 and crosses y-axis at (0, -2) | (ii) Imaginary roots with vertex at (-3/4, 1/2) and a - b + c = 2. | (iii) Touches x-axis at x = -3 and value at x = 2 is -8. | Also find value of a, b & c in each case.",,yes,# DIBY-37(Challenger),low-conf (0.6356) line: 'ili'; source prints 'y = ax^2 + bc + c' (likely typo for bx); transcribed verbatim,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,30,DIBY-37 (Answer),"GRAPH OF QUADRATIC | # DIBY-37(Answer) | (i) downward parabola through 3, 7 and (0,-2): a = -2/21, b = 20/21, c = -2 | (ii) upward parabola, vertex (-3/4, 1/2): a = 24, b = 36, c = 14 | (iii) downward parabola touching at -3: a = -8/25, b = -48/25, c = -72/25",three parabola sketches with labelled points,yes,# DIBY-37(Answer),low-conf (0.5036) line: '=3`'; dual-pass agreement 0.7752,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,31,DIBY-38 and DIBY-39,"GRAPH OF QUADRATIC | # DIBY-38 | If the equation ax^2 + bc + c = 0, (a > 0) [sic - as printed] has two real roots alpha and beta such that alpha < -2 and beta > 2, then which of the following statements is/are true? | (A) a - |b| + c < 0 | (B) c < 0, b^2 - 4ac > 0 | (C) 4a - 2|b| + c < 0 | (D) 9a - 3|b| + c < 0 | [Ans.: A, B, C] | # DIBY-39 | The adjoining figure shows the graph of y = ax^2 + bx + c. Then | (A) a < 0 | (B) b^2 < 4ax | (C) c > 0 | (D) a and b are of opposite sign | [Ans.: A, D]","downward parabola with positive roots x1, x2 (for DIBY-39)",yes,# DIBY-38; # DIBY-39,source prints 'ax^2 + bc + c = 0' (likely typo for bx); transcribed verbatim,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,32,"RANGE OF QUADRATIC - DIBY-40, DIBY-41","RANGE OF QUADRATIC | # DIBY-40 | Find the range of f(x): | (i) f(x) = 2x^2 - 3x + 2 | (ii) f(x) = 2x^2 - 3x + 2, x in [0, 2] | [Ans.: (i) [7/8, infinity), (ii) [7/8, 4]] | # DIBY-41 (handwritten pink: 'done!') | Find range of following functions: | (i) f(x) = 3x^2 - 2x - 7 | (ii) f(x) = 3x^2 - 2x - 7, x in (0, 5] | (iii) f(x) = 3x^2 - 2x - 7, x in [-6, -1] | [Ans.: (i) [-22/3, infinity), (ii) [-22/3, 58], (iii) [-2, 113]]",,yes,# DIBY-40; # DIBY-41,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,33,Homework,"Homework | # Re-attempt all Class Examples | # DPP & DIBY | # Module: (3 sittings of 1 HR each) (red box) | Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25. | Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)",clipboard icon,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,9,Quadratic Equations 09 Class Notes.pdf,34,Thank You slide,"It is never about end result / It's always about Journey (cursive, red+blue) | Thank You | #futureIITians [slide glyphs render as '#futurellTians'; intended hashtag #futureIITians]",,no,,low-conf (0.5161) line: '在u'; hashtag glyph ambiguity I vs l,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,1,Cover slide,ARJUNA JEE 2027 | Lecture - 10 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir | (PW logo),"Instructor photo (Sachin Jakhar Sir), ARJUNA JEE 2027 branding",no,,,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,2,Topics to be covered,"Topics to be covered (handwritten cursive) | A Range of Rational Functions | B Common Root Condition | C Question Practice | D (label printed, no text)",3D question-mark with thinking pencil mascot,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,3,LAST CLASS REVISION - range of quadratic,"LAST CLASS REVISION | # Answer the following Questions: | Quadratic: y = ax^2 + bx + c | (i) If a > 0 => Range(y) in [-D/4a, infinity) | (ii) If a < 0 => Range(y) in (-infinity, -D/4a] | handwritten: 'if x in R' (circled, underlined); '# x in [p, q]' -> 'Quad. Range?' -> 'Graphical Method'",,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,4,Question Practice,Question Practice,none,no,,low-conf (0.5411) line: 'W',visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,5,Challenger Question [IIT-JEE] solved,"Challenger Question [IIT-JEE] (stars) | If a < b < c and a, b, c in R then comment on nature of roots of following: | (i) f(x) = (x - a)(x - b) - 1 | (ii) f(x) = (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) (red box; faded '= 3x^2 ...' tail) | handwritten (i): Graph: f(x) = x^2 - (a+b)x + ab - 1 (red box); f(a) = -1, f(b) = -1; 2 R & D Root; 1 Root > b; 1 Root < a; two parabolas with points a, b | handwritten (ii): x=a: f(a) = (a-b)(a-c) -> (+); f(b) = (b-c)(b-a) -> (-); f(c) = (c-a)(c-b) -> (+); 2 R & D Root; a < 1 Root < b; b < 1 Root < c; red/white parabolas through a, b, c",two parabola sketches (left: magenta pair; right: red+white),no,,low-conf (0.5676) line: 'Gragpk -'; low-conf (0.637) line: '1Rot<α'; dual-pass agreement 0.5457,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,6,Nature of roots - two tools,(handwritten cloud) Nature of Roots -> # D ; Graph,blue cloud with two branches,no,,low-conf (0.6161) line: '?'; dual-pass agreement 0.625,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,7,"Find range -x^2+4x-6 (repeat of L09 p23, with answers)","Question | Find range for following functions : | (i) f(x) = -x^2 + 4x - 6 | (ii) f(x) = -x^2 + 4x - 6, x in [-3, 1) | (iii) f(x) = -x^2 + 4x - 6, x in (0, 4] | Ans. : (i) y in (-infinity, -2], (ii) y in [-27, -3), (iii) y in [-6, -2]",,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,8,Range questions incl. 5.4^x - 2^(x+3) + 1 (DiBY-A),"Question | Find range for following functions : | (i) f(x) = 2x^2 - 3x + 5, x in [-1, 1] (tick) | (ii) f(x) = x^2 - x - 8, x in (-infinity, -2] U [2, infinity) (tick) | (iii) f(x) = 5.4^x - 2^(x+3) + 1 (red box, stars) | handwritten marker: DiBY - (A) [green, circled] | f(x) = 5(2^x)^2 - 2^x.2^3 + 1; say: 2^x = t (circled); +ve; t in (0, infinity); f(t) = 5t^2 - 8t + 1 (red box), t in (0, infinity); star-cloud: 'Quad. in Terms of any other fun?' | Ans. : (i) y in [31/8, 10], (ii) y in [-6, infinity), (iii) y in [-11/5, infinity)",,yes,"DiBY - (A)  [handwritten, green, circled]",low-conf (0.6444) line: 'by:'; low-conf (0.6188) line: '(]()(9-]()[o():su',visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,9,Range of 2sin^2 - 6sin + 7 (DiBY-B),"(handwritten) f(theta) = 2 sin^2 theta - 6 sin theta + 7 , Range ?? ; [-1, 1]; sin theta = t; f(t) = 2t^2 - 6t + 7 , t in [-1, 1] (red box, tick); marker: DiBY - (B) [green, circled]",,yes,"DiBY - (B)  [handwritten, green, circled]",low-conf (0.6096) line: 'f(0)=ao-60+'; low-conf (0.6031) line: ']'; dual-pass agreement 0.7885,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,10,Rational function range examples,(handwritten) y = (ax+b)/(cx+d); x in R - {-d/c}; y in R - {a/c} | ex: y = (2x+7)/(5-3x); x in R - {5/3}; y in R - {-2/3} | ex: y = (x-7)/(14-2x); x in R - {7}; y in R - {-1/2} (cross); y = (x-7)/(-2(x-7)) = -1/2; y in {-1/2} (tick),,no,,low-conf (0.6159) line: 'αif'; low-conf (0.6487) line: 'R-'; low-conf (0.6472) line: '一了'; dual-pass agreement 0.7059,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,11,Note: f(m).f(n) < 0,"(handwritten) Note: (pink cloud) f(m).f(n) < 0 => 1 Root lies b/w m & n ; 2 Real, distinct roots",,no,,low-conf (0.5173) line: 'f(m)·f(m)(<'; dual-pass agreement 0.7671,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,12,RANGE OF RATIONAL FUNCTION - 4-step format,"RANGE OF RATIONAL FUNCTION | Format : y = Quad./Quad. or Linear/Quad. or Quad./Linear or Constant/Quad. | Step-1 : Cross-multiply & form a Quadratic in 'x', (tick) | Step-2 : Make D >= 0 or above quadratic. (as x in Real) | Step-3 : Solve above inequality using Wavy Curve. (This answer is not final) [red box] | Step-4 : Check your Answer | # Make coefficient of x^2 = 0 | # Obtain 'y' & put that value of 'y' in equation (1) | # If you get any 'x' -> Then S-III final ans. | # If you don't get any 'x' -> Then remove that 'y' from S-III.",,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,13,Bumper Question - range of rational (ii) worked,"Bumper Question | Find range of following function : | (i) f(x) = (x+2)(x-1) / (x(x+1)) (struck) | (ii) f(x) = (x^2+x+1)/(x^2-x+1) (struck) | (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) | (iv) f(x) = (x^2+1)/x | handwritten (2): y = (x^2+x+1)/(x^2-x+1) in [1/3, 3]; Real: x^2 y - xy + y = x^2 + x + 1; (y-1)x^2 - (y+1)x + (y-1) = 0 (red box) 'Quad. in x'; => D >= 0; (-(y+1))^2 - 4(y-1)(y-1) >= 0; y^2 + 2y + 1 - 4(y^2 - 2y + 1) >= 0; -3y^2 + 10y - 3 >= 0; 3y^2 - 10y + 3 <= 0; (3y-1)(y-3) <= 0",none,no,,low-conf (0.6257) line: '1+x-x'; low-conf (0.621) line: '二'; low-conf (0.6404) line: 'g'; low-conf (0.5423) line: 'P+D'; low-conf (0.5173) line: '(4-1)x'; low-conf (0.6014) line: '4-y+1)20'; low-conf (0.6281) line: 'R-Rb--'; dual-pass agreement 0.4069,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,14,Bumper (ii) concluded + check,"(handwritten) y = (x^2+x+1)/(x^2-x+1) ---- (1); (y-1)x^2 - (y+1)x + (y-1) = 0 (red box); y != 1 (circled); => D >= 0; (3y-1)(y-3) <= 0; wavy curve + - + at 1/3, 3; # y in [1/3, 3] | Check: coeff. of x^2 = y - 1 = 0; y = 1 (circled); 1 = (x^2+x+1)/(x^2-x+1); x^2 - x + 1 = x^2 + x + 1; 0 = 2x; x = 0 (circled, tick)",,no,,low-conf (0.6324) line: '2'; low-conf (0.5723) line: '1'; dual-pass agreement 0.7534,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,15,Bumper (i) worked + check,"(handwritten) (1): y = (x^2+x-2)/(x^2+x) (red box) -(1); x^2 y + xy = x^2 + x - 2; (y-1)x^2 + (y-1)x + 2 = 0 (red box) 'Quad.'; D >= 0; (y-1)^2 - 4(y-1)(2) >= 0; (y-1){y-1-8} >= 0; (y-1)(y-9) >= 0; wavy curve + - + at 1, 9; y in (-infinity, 1] U [9, infinity); Check: y-1 = 0 => y = 1 (circled) 'Remove.'; 1 = (x^2+x-2)/(x^2+x); x^2+x = x^2+x-2; 0 = -2 (boxed) -> 'No value of x obtained'; therefore y in (-infinity, 1) U [9, infinity) (red box)",,no,,"low-conf (0.6047) line: '='; low-conf (0.6201) line: 'E(-∞,1'; low-conf (0.5061) line: '二'; low-conf (0.6269) line: 'D=o'; low-conf (0.5775) line: 'x²+x'; low-conf (0.6382) line: '是↑'; low-conf (0.6086) line: 'X'; dual-pass agreement 0.398",visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,16,Bumper (iii) cancelled factor,"Bumper Question | Find range of following function : | (i)-(iv) list repeated; stars at (iii) | handwritten: 'Impost' [sic, likely 'Important']; (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) (red box) = (x+3)(x-1) / (x-1)(x-7) (cancelled); # x in R - {1, 7}; y = (x+3)/(x-7); y in R - {1, -2/3} (red box); cyan: x = 1, x - 1 = 0 (circled); 'value of y corrsp. to cancelled factor'",,no,,low-conf (0.5203) line: '='; low-conf (0.647) line: '(x-#'; low-conf (0.5902) line: 'x',visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,17,cancelled-factor example 2,"(handwritten) ex: y = (2x-1)(x+3) / (x-3)(2x-1) (cancelled); # x in R - {3, 1/2}; x = 1/2 -> y = -7/5; x = 1/2 (red box); y = (x+3)/(x-3); y in R - {1, -7/5} (red box on -7/5)",,no,,dual-pass agreement 0.6667,visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,18,Bumper (iv) y = (x^2+1)/x,"(handwritten) (iv) y = (x^2+1)/x ; 'Quad / Linear' arrows; xy = x^2 + 1; 1x^2 - yx + 1 = 0 (cloud); D >= 0; (-y)^2 - 4x1 >= 0; y^2 - 4 >= 0; (y-2)(y+2) >= 0; wavy curve + - + at -2, 2; y in (-infinity, -2] U [2, infinity) (red box, double tick)",,no,,"low-conf (0.6381) line: 'y∈(∞,-27u[2，∞)'",visual-full,arena-twin3-agent
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,19,,"Question [JEE (Adv.)-2021]
+Let f: R → R be defined by f(x)
+x²-3x-6
+x² + 2x + 4
+Find range.
+ + 33
+vO
+x²-3x -6
+33 <0
+x²+ax+y
+=h#++
+81+
+hcc
+-33<0
+（y-n²+(ay+3)x +
+9+Kh
+(ey+3)
+(αy+3)
+0(64-11)
+>(ε+h)1-
+<
+(y+3)-4（y-1)(4y+6)≥0
+3
+=",,no,,low-conf (0.5197) line: 'vO'; low-conf (0.5404) line: 'hcc'; low-conf (0.5136) line: '<'; dual-pass agreement 0.3521,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,20,,"P
+x²-3x-6
+ Check:
+W
+x²+ax+y
+=
+y-
+(@y+3)x+
+(4y+6)
+二0
+x²-3x-6
+<
+x²+ax+y
+(ay+3)(64-11)≤0
++ax+4=x-3-6
+3
+=
+Sx =-1o
+μ=-2",,no,,low-conf (0.6092) line: 'W'; low-conf (0.5616) line: 'y-'; low-conf (0.5768) line: '二0'; low-conf (0.6282) line: '<'; dual-pass agreement 0.7926,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,21,,"Critical Thinking Question (cTQ)
+If the range of the function f (x) =
+x2 + 2x + 3
+x2 + ax + b
+is [-5, 4], a, b E N, then find
+the value of (a² + b2)
+‘3",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,22,,"#
+S
+Range?
+ax+bx+c
+((x)
++3μ(x)-#
+Graph
+[%%)
+xER
+Quad.iu L(x)
+Ranye
+[一~]
+()
+=t
+=αt²+3t-,t∈w
+(b4]x+x9+x0
+Graplical.
+Rauy:",,no,,low-conf (0.5674) line: '#'; low-conf (0.6172) line: '[一~]'; low-conf (0.5707) line: '()'; low-conf (0.6398) line: 'Rauy:'; dual-pass agreement 0.7119,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,23,,"P
+W
+V-I
+V-a
+，是
+Quad.i x
+ax+b
+L
+ca+d
+Be
+D~O
+aware
+T
+Imposters!
+Check -",,no,,low-conf (0.6221) line: 'D~O',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,24,,"COMMONROOTCONDITION
+Case - I : If both roots are common
+ax²+ bx+c1 =
+0
+β
+x²-5x+6=0
+α
+a2x² + b2x + c2 = 0
+4n² - 35α + 42 = 0
+#
+cmd
+a2
+52
+C2",,no,,low-conf (0.6284) line: 'α'; low-conf (0.5874) line: 'a2',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,25,,"W
+any
+ax²+b+e=0
+boh Root are common
+4n²-6π+5=0
+wm/
+a²+b+c3
+3abc
+x6+
+-6'+5
+α=
+b =-6k
+3x(K)(6k)(5)
+-630
+C= 5k",,no,,low-conf (0.6334) line: 'any'; low-conf (0.6247) line: 'x6+',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,26,,"α
+#
+o=+xq+x
+W
+a2x²+b2x+C2=0
+x a2
+ax²+bα+=0
+aaα²+abα+a=0
+a2α²+b+C2=O
+5
+Ga2α²+a,b2α+a,C2=0
+xb2
+b2b1α
+b2C =U
+α
+(02b-0,h2)
+(azc)-a(C2) =0
+xb
+a2b1α
+62b1α
++b,C2 =0
+α=
+gC2 -a2C1
+Qb-0,b2
+α²=b，（2-b2C1",,no,,low-conf (0.604) line: 'W'; low-conf (0.601) line: 'x a2'; low-conf (0.5097) line: 'α'; low-conf (0.6366) line: 'a2b1α'; dual-pass agreement 0.5655,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,27,,"α
+P
+a,x²+bx+=0
+W
+ax²+bx+C2=0
+α=
+g,C2-a29
+b,C2-b2C1
+Qb, -0,h2
+b29,-a2b
+q1C2 -a291
+Qb, -0, b2
+b29,-a2b
+a,C2 -a2C1
+C2-b2C
+aC2-a2C)
+(6hc-b2c)(ab-6)
+ab2-G2b1",,no,,low-conf (0.6249) line: 'aC2-a2C)'; low-conf (0.5958) line: '(6hc-b2c)(ab-6)'; dual-pass agreement 0.7306,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,28,,"P
+W
+o=+xg+xD
+α
+a2x²+b2x+C2=0
+aC2-aC)
+(hC2-b2C1)(a6)
+ax²+bx+1=0
+aπ2+bx+C2=0
+(ab2-ab)(6c2-g)=(
+(a-a)²
+ax²+b,x+C=0
+a2x²+b2+C2=0
+.",,no,,low-conf (0.5421) line: 'W'; low-conf (0.624) line: '(hC2-b2C1)(a6)'; low-conf (0.5435) line: '(a-a)²'; low-conf (0.5244) line: '.',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,29,,"P
+W
+#
+= ad -6c
+6 -20= -14.
+-C
+(-4)
+=-
+10 -(24)
+二 34.",,no,,dual-pass agreement 0.7129,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,30,,"COMMONROOTCONDITION
+Case - Il : If atleast one root are common
+a1x² + b1x + C1 = 0
+Atleast 1 Poot common
+a2x²+ b2x + C2= 0
+1 Root common 
+&Rot 
+common
+a,b2
+a2b
+b,C2-b2C
+qC2-aC1",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,31,,"Question
+Find the value of p if the equation 3x2- 2x + p = 0 and 6x²- 17x + 12 = 0
+have a common roots.
+3²-ax+P=0
+G~-14#+12=0
+114
+-51+12
+-24+14p)
+36-6p
+#P=",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,32,,"Question [JEE Mains-2023]
+If the value of real number a > 0 for which x2 - 5ax + 1 = 0 and x2 - ax - 5 = 0
+have a common real roots is
+3
+/2β
+then β is equal to
+dw。",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,33,,"DOITBYYOURSELF
+(DIBY)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,34,,"GRAPHOF QUADRATIC
+# DIBY-36
+Consider the graph f(x) = ax2 + bx + c and comment on sign of following parts:
+(!)
+(abc) is
+(4a + 2b + c) is
+for all x > 3, f(x) is
+(iv)
+For all - 2 < x < 3, f(x) is
+X
+(v)
+D is
+(vi)
+(a - b + c)·(9a - 3b + c) is
+Ans.:
+(i) +ve, (ii) -ve, (ili) +ve, (iv) -ve, (v) +ve, (vi) -ve",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,35,,"GRAPH OF QUADRATIC
+DIBY-37(Challenger)
+Draw the graph of quadratic
+(y = ax² + bc + c)
+ in each part with given
+conditions:
+(!)
+Roots are 3 & 7 and crosses y-axis at (0, -2)
+(ii)
+Imaginary roots with vertex at
+anda-b+c= 2.
+ili
+Touches x-axis at x =- 3 and value at x = 2 is -8.
+Also find value of a, b & c in each case.",,no,,low-conf (0.6357) line: 'ili',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,36,,"GRAPH OF QUADRATIC
+# DIBY-37(Answer)
+(i)
+3
+>X
+a=-
+2
+b=
+20
+,C=-2
+21
+21
+(0,-2)
+2
+(ii)
+a = 24, b = 36, c = 14
+(ii)
+a=
+25
+-8
+b=
+25
+-48
+=5`
+25
+-72",,no,,low-conf (0.5065) line: '=5`'; dual-pass agreement 0.7451,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,37,,"GRAPH OF QUADRATIC
+# DIBY-38
+If the equation ax² + bc + c = 0, (a > 0) has two real roots α and β such that α < -2
+and β > 2, then which of the following statements is/are true?
+(A)
+a-|bl +c < 0
+(B)
+c < 0, b2 - 4ac > 0
+(c)
+4a -2|b| + c < 0
+(可)
+9a - 3|b| + c < 0
+[Ans.: A, B, C]
+# DIBY-39
+The adjoining figure shows the graph of y = ax² + bx + c. Then
+(A)
+0 >p
+(B)
+b2 < 4ax
+(c)
+c > 0
+(口)
+a and b are of opposite sign
+x1
+X2
+X
+[Ans.: A, D]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,38,,"RANGEOFQUADRATIC
+# DIBY-40
+Find the range of f(x) :
+(i)f(x)=2x²-3x+2
+(i)f
+f(x) =2x²- 3x + 2,x ∈ [0,2]
+[Ans.: (1) [, ), (i) [,4]
+# DIBY-41
+Find range of following functions:
+(!)
+f(x) = 3x²-2x- 7
+(ii)
+f(x) = 3x² - 2x - 7,x ∈ (0,5]
+(iii)
+f(x) = 3x² - 2x - 7,x ∈ [-6,-1]
+[Ans. : (1) [22,00), (ii) [-22/3, 58],(ii) [-2,113]]",,no,,dual-pass agreement 0.7163,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,39,,"RANGEOF RATIONALFUNCTION
+#DIBY-42
+If the range of the function f (x)
+x2-3x+2
+5-x
+,x ≠ 1, 2,is (-∞,α] u [β,∞), then
+α2 + β2 is equal to:
+[JEE Mains-2025]
+(A)
+190
+(B)
+192
+(c)
+188
+(D)
+194
+[Ans.: (D)]
+# DIBY-43
+x²+2x+1
+Let f : R - {2,6} → R be real valued function defined as f (x)
+x2-8x+12
+Then
+range of f is
+[JEE Mains-2023]
+(A)
+(-0∞,-24]u[0,00)
+(B)
+(-0, - 21)
+U (0, 8)
+(c)
+-8,-
+211
+[21,0
+(D)
+18,1
+21]
+[1,)
+4
+[Ans.:(A)]",,no,,"low-conf (0.5715) line: '-8,-'",auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,40,,"RANGEOFRATIONALFUNCTION
+#DIBY-44
+Let the sum of the maximum and the minimum values of the function
+2x2-3x+8
+m
+f(x)
+2x2+3x+8
+be -,
+n
+where gcd(m, n) = 1. Then m + n is equal to
+[JEE Mains-2024]
+(A)
+195
+(B)
+201
+(c)
+217
+(D)
+182
+[Ans.: (B)]
+# DIBY-45
+Show that if x is real then
+x²-3x+4
+x2+3x+4
+lies from 1/7 and 7.
+# DIBY-46
+Find the range of : f (x)
+=
+x2 +x+1
+XeR
+[IITJEE-2003]
+[Ans.:(1,]",,no,,low-conf (0.5956) line: '=',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,41,,"RANGEOFRATIONALFUNCTION
+#DIBY-47
+We call 'p' a good number if the inequality
+x²+x+1
+2x²+2x+3
+≤ p is satisfied for any real
+x. Find the smallest integral good number.
+[Ans.: 4]
+# DIBY-48
+If α, β are the roots of equation x² + x - 2 = 0, then find the value of
+αβ4(β+1)4+βα4(α+1)4
+α2+β2+α+β
+# DIBY-49
+The minimum value of the sum of the squares of the roots of
+x² + (3 - a)x + 1 = 2a is:
+[Ans.:6]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,42,,"# DIBY-50
+The number of real solutions of the equation 3 (
+（x²+)-2（x+)
++ 5 = 0, is
+[JEEMains-2023]
+(A)   4
+(B) 0
+(c)
+3
+(D) 2
+Ans.: (B)
+COMMONROOTCONDITION
+# DIBY-51
+If x² + 4ax + 3 = 0 and 2x² + 3ax - 9 = 0 have a common root then the value of |a]
+is
+(A)  1
+(B) 0
+(c)
+(D)
+Noneofthese
+[Ans.: A]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,43,,"Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+# Module: (3 sittings of 1 HR each)
+Exercise-02(Prabal): 1 to 10,13,16,18 to 25.
+Exercise-03(Setu): 1to 30 (except-13,16,17,21,25,26,29)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,10,Quadratic Equations 10 Class Notes.pdf,44,,"在u
+never
+about
+endresult
+Lts aluay about
+fourney
+Thank
+#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,1,,"ARJUI
+JEE2
+2202
+Lecture-11
+Mathematics
+QUADRATIC
+Physics
+EQUATIONS
+By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,2,,"Topics
+tobe coverey
+A
+Common Root Condition
+B
+Location of Roots
+C
+Question Practice
+D",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,3,,"W
+Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,4,,"Critical Thinking Question (cTQ)
+69%
+If the range of the function f (x)
+x2 + 2x+ 3
+x² + ax+ b
+is
+[-5,4]
+a, b E N, then find
+the value of (a² + b2)
+18 + 961 = zb + zhl
+(q-Re)(1-B)-(o-Re
+O
+x²+ax+b
+++3
+？
++R-
+-4b≥0
+α²4+axy +34
+ = x²+an+b
+(b+3-a)+a²-4b≥0
+-1)
+)x~+(
+ay-a)+(3y-b
+# =0",,no,,low-conf (0.5058) line: 'O'; low-conf (0.5763) line: '？'; low-conf (0.5579) line: '+R-'; low-conf (0.6185) line: '# =0'; dual-pass agreement 0.5926,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,5,,"(q-Re)(1-R)b-_(o-Re
+0
+-4b0
+(b+3-a)+a²-4b≥0
+K(o-+g)-
++ 4b-α?
+8
+y=
+=Raunge
+Ye[5,4]
+-5
+[b's]D",,no,,"low-conf (0.6115) line: 'Ye[5,4]'; dual-pass agreement 0.7444",auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,6,,"K(o-e+g)-
+4b-α²=0
+Sum=-1=+
++y) (b+3-a
+Yod.=-20=
+46-a
+82
+8
+2
+-=b+3-a
+-160 =4b-α
+α-b = 5
+0-5 = b
+-160 = 4(a-5)-α2
+14 -5= L
+- 160 = 4a-20 -α2
+q=b
+α²-4α-/40 =0
+α=14,-10
+(α-14)(a+10) =0
+X",,no,,low-conf (0.6465) line: 'X',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,7,,"COMMONROOTCONDITION
+Case - I: If both roots are common
+&
+a1x²+ bx + C1 = 0
+ex'
+α
+二
+²-11x+28=0
+a2x² + b2x + C2 = 0 
+B
+-3 x
+-3x²+33π-8 4
+=0
+a，
+b2
+=
+C2",,no,,low-conf (0.5165) line: '&'; low-conf (0.6025) line: '二',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,8,,"α+iβ
+ax²+bx +c =0
+= bo
+are(imag
+Root
+houwnn
+px²+qx+=0
+α-iβ
+α>@
+b1+d
+α-i
+x²-3x+11=0
+αtiβ
+Root
+a²+b+c=0
+b!-d
+common
+bot root common 
+p+iq
+=-3
+11
+p-iq
+a
+b",,no,,low-conf (0.5449) line: 'houwnn'; low-conf (0.6284) line: 'α>@'; low-conf (0.6191) line: '11',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,9,,"COMMONROOTCONDITION
+is
+Case - Il : If atleast one root are common
+Direct Result :
+a,x+b,x +C, =0
+a,x²+ b2x +C2 =0
+ax2
++ bx+ C1 =
+:0
+a2x2
++ b2x+ C2 =
+：0
+Condition for atleast one common root:
+a,b2-ab,)(bC2-b2)
+(a,C2-9
+(ab2 - ba2) (bC2 - b2c) = (aC2 - a2c)2",,no,,dual-pass agreement 0.5418,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,10,,"M-a
+Yrocedure
+a,x²+b,x+c=0
+a2x²+b2x+C2 =0
+# dono Quad. 开
+(make cuf·x²
+xame.
+#
+aubtract
+#
+obtaidis common xoot
+common root 
+t(α)hat wiu latioty both Quad",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,11,,"Question
+Find the value of p jf t
+the equation 3x2- 2x + p = 0 and 6x²- 17x + 12 = 0
+have a common roots!
+M
+Santoh
+3x²-ax+p=0
+DR
+6x²-14α+12=0
+-4
+(-3x14 -(-12))
+-2y-px(-14)
+(36 -Gp)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,12,,"Question
+Find the value of p if the equation 3x2- 2x + p = 0 and 6x²- 17x + 12 = 0
+havea commonroots.
+M
+Sumit
+-1+12=0
+((P-6)
+)（（p-s)
++P
+×2
+6π²-y
++2p =0
+-13x+12-2p
+=
+1-d=x
+-/3
+OR
+(-d)=
+13",,no,,low-conf (0.6195) line: 'M'; low-conf (0.5481) line: ')（（p-s)'; low-conf (0.6173) line: '6π²-y',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,13,,"Question
+Find the value of p if the equation 3x2- 2x + p = 0 and 6x2- 17x + 12 = 0
+havea commonroots.
+6x²-9x-8x+12 =0
+M-3
+Sunita
+3x-4)
+&μ-3) =0
+Keative
+=3
+2
+h
+= 3x-x²
++ p=6
+#=
+3-2
+3
+pemroh
+p=3-+
+15
+4
+α=
+3
+F3
+3x16 -2xy
+3
++p=O
+ - 16
+8
+3",,no,,low-conf (0.5995) line: 'F3'; dual-pass agreement 0.7746,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,14,,"Question[JEEMains-2023]
+If the value of real number a > 0 for which x2 - 5ax + 1 = 0 and x2 - ax - 5 = 0
+have a common real roots is
+3
+/2β
+, ther βjs equal to
+%tt
+12~ - 50 α +1 = 0
+x²-ax-5=0
+2β 
+= 2
+β = 13
+50
+-a-(-5a))
+(25a+a)
+=(- 5-1)
+C=±
+Yax26a = 36 9
+26
+9
+26",,no,,low-conf (0.6032) line: '= 2'; low-conf (0.6428) line: 'C=±'; dual-pass agreement 0.7052,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,15,,"Question[JEE Mains-2013]
+P+19
+If the equations x² + 2x + 3 = 0 and ax² + bx + c = 0,
+a, b, c e R, have a
+common roots, then a : b : c is
+P+iq,P-iq
+1:2:3
+#Q<0
+B
+3:2:1
+1: 3 : 2
+D
+3:1:2",,no,,low-conf (0.6254) line: '#Q<0',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,16,,"Acidic Question
+Theequations kx² + x + k = 0 and kx² + kx + 1 = 0haveexactly
+one root in common for
+A
+k = -1/2,1
+Kx²+x+K=O
+K=0,1,-
+kx²+kx+1=O
+Rnddy
+atleat
+B
+k=1
+iabu)
+1 Root common
+L
+k=-1/2
+K²k)(1-k²)=(k-k²)
+Check !!
+D
+k =1/2
+(K=K²)²+(K=k)(-k²)
+K-K2
+k-k²+1-k²)=0
+K(1-K)
+(2k+1)(K-1)=0",,no,,low-conf (0.6472) line: 'iabu)'; low-conf (0.588) line: 'L'; dual-pass agreement 0.5889,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,17,,"Acidic Question
+Theequations kx² + x + k = 0 and kx² + kx + 1 = 0haveexactly
+one root in common for
+A
+k = -1/2, 1
+k=0X
+K=0,1,
+Q
+Apply
+atleat
+B
+k=1
+α=0,
+1 =0
+#
+1 Root common
+k=-1/2
+K=l x
+2
+X
++x
+cond'
+Check I!
+X++(=D
+²++ 1=0
+both root
++2—1=U
+D
+k =1/2
+x²-2x+1=D
+x²+x-二O",,no,,low-conf (0.5933) line: 'Q'; low-conf (0.5877) line: 'K=l x'; dual-pass agreement 0.6705,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,18,,"Acidic Question
+Theequations kx² + x + k = 0and kx² + kx + 1 = 0haveexactly
+one root in common for
+A
+k = -1/2,1
+Ky+X+k=O
++kx+1=O
+=1
+Riddy
+atleat
+B
+k=1
+-k+K-1=U
+K+1+K=0
+1 Root common
+comd
+k=-1/2
+K-1
+=(k-1）
+K=-
+Check I
+长=1
+0=(k-1)α-(k-1)
+D
+k =1/2
+1=%
+0=(k-1)（x-1)
+CR",,no,,low-conf (0.5622) line: 'Riddy'; dual-pass agreement 0.5642,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,19,,"AcidicQuestion
+If the quadratic equation x² + bx + c = 0 &x² + cx + b = 0(b ≠ c)
+have a
+common root, then prove that their uncommon roots are the roots of
+the equation x² + x + bc = 0 <β
+2/+bx+C=O
+α=1
+1+β =-b
+-(p+)x+β
+βY = 0
+β= C
++cx+b=o
+α=1
+/=b
+1+=-C
+α+Cb = 0
+b-c)+ (-b =0
+#
+(b)=bC
+1+b+C =0
+b+c=-1
+++bc =0
+=1-",,no,,dual-pass agreement 0.6873,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,20,,"Acidic Question
+If the quadratic equations x² + ax + 12 = 0 and x² + bx + 15 = 0 and
+x² + (a + b)x + 36 = 0 have a common positive root find 'a' and 'b' and
+the root of the equation.
+GteuO。",,no,,low-conf (0.565) line: 'GteuO。',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,21,,"Question [AIEEE-2008]
+The quadratic equations
+6 x² - 6x + a = 0 and x² - cx + 6 = 0 have one
+root in common. The other roots of the first and second equations are
+integers in the ratio 4 : 3. Then the common root is
+tu.
+A
+B
+D
+2",,no,,low-conf (0.58) line: 'tu.',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,22,,"P
+L
+α=α  Common R
+Root 
+W
+α
+#
+P(x) = 0
+P(x) = O
+α
+((x)u
+=0
+Const· / variable",,no,,low-conf (0.5136) line: 'L',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,23,,"P,(x)
+二
+ex-
+X
+3
+-6x² +(1α -6)=0
+-6x² +11x -6 =0
+x²-5+6=0
+3_Sx²+6
+P(x)-(x)
+=0
+P(x)
+-²+5-6=0
+X
+-6x²+11x-6)-3(x
+-5+
+²-s+6=0",,no,,low-conf (0.5383) line: '二'; low-conf (0.5482) line: 'X',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,24,,"Question
+If cubic 2x3 + bx2 + cx + d = 0 & quadratic x² + px + q = 0 have two roots
+in common, then show that:
+(b -2p)
+二
+c-2q
+p
++px+2q=0
++ bx² + Cx + d =C
+Qp-b
++(aq-c)x-d=0
+2q-c
+12²+Px+ =0",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,25,,"Question
+Let f(x) = x3 - 3x + b and g(x) = x² + bx - 3, where b is a real number. If the
+equation f(x) = 0 and g(x) = 0 have a common root, then
+A
+Number of possible values of b is 3.
+Mubiple Corect
+e).
+B
+Number of possible values of b is 2.
+Sum of all possible values of b is 0.
+D
+Sum of all possible values of b is 2.",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,26,,"LOCATION OF ROOTS
+Case-I : If both roots are greater than number given number'k'
+Conditims
+α=β
+#
+?≥0
+&a
+>K
+af(k)>o
+α=β
+β",,no,,low-conf (0.6463) line: '&a',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,27,,"Question
+f(a)
+Find all the values Φf the parameter'd' for which both roots of the
+equationx2-6dx+
+(2 -2d + 9d²
+O exceed thenumber
+3
+Cod
+de
+.8
+@
+&a
+af(3) >0
+3
+36d²-（2-a+9d²)20
++(+bd)
+> 3
+q-18d+2-2d+qd²)
+<(
+qd²-（2-2d+9d²)=0
+Xx1
+qd²-20d+11 >0
+-a+2d-9=0
+d>1
+qd²-9d-11d+11 > 0
+2(d-1)0d≥1
+qd-11)(d-1)>0",,no,,low-conf (0.5989) line: '&a'; low-conf (0.643) line: '36d²-（2-a+9d²)20'; low-conf (0.6284) line: 'Xx1'; dual-pass agreement 0.4048,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,28,,"LOCATION OFROOTS
+Case-ll : If both roots are less than number given number 'k'
+Cona”
+0<@
+<K
+0<(2)9·0",,no,,low-conf (0.6199) line: 'Cona”',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,29,,"LOCATION OFROOTS
+Case-Ill : Both roots lies between 'k,' & 'k2'
+Cond
+C-↑  C-
+O
+K<-b
+<K2
+a
+f(k)>0
+aa
+a
+<()",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,30,,"Question
+If α, β are the roots of the quadratic equation x2 + 2(k - 3)x + 9 = 0 (α ≠β).
+If α, β e (-6, 1), then find the values of k.",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,31,,"DOITBYYOURSELF
+(DIBY)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,32,,"RANGEOFRATIONALFUNCTION
+#DIBY-47
+We call 'p' a good number if the inequality
+x²+x+1
+2x²+2x+3
+≤ p is satisfied for any real
+x. Find the smallest integral good number.
+[Ans.: 4]
+# DIBY-48
+If α, β are the roots of equation x² + x - 2 = 0, then find the value of
+αβ4(β+1)4+βα4(α+1)4
+α2+β2+α+β
+# DIBY-49
+The minimum value of the sum of the squares of the roots of
+x² + (3 - a)x + 1 = 2a is:
+[Ans.:6]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,33,,"#DIBY-50
+t²-α
+The number of real solutions of the equation 3
+-+x
++ 5 = 0, is
+[JEE Mains-2023]
+(A)  4
+(B) 0
+(c)
+3
+α+-=t
+(D)  2
+22
+x²+1+a=t
+[Ans.: (B)]
+COMMONROOTCONDITION
+# DIBY-51
+If x2 + 4ax + 3 = 0 and 2x² + 3ax - 9 = 0 have a common root then the value of |al
+is
+(A) 1
+(B) 0
+(c)
+-1
+(D)
+None of these
+[Ans.: A]",,no,,low-conf (0.5821) line: 't²-α',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,34,,"#DIBY-52
+If a, b,p, q are non-zero real numbers, then the equations 2a² x2 - 2abx + b² = 0
+and p²x2 + 2pqx + q² = 0 have:
+(A)
+No common root
+[Ans.: A]
+(B)
+One common root if 2a² + b² = p² + q²
+(C)
+Two common roots if 3pq = 2ab
+(D)
+Two common roots if3qb = 2ap
+# DIBY-53
+x² - 11x + a and x² - 14x + 2a will have a common factor, if a =
+(A)
+24
+(B)
+0,24
+(c)
+3,24
+(D)
+0,3
+[Ans.:B]
+以
+# DIBY-54
+—α，β,Y
+If (x² + px + 1) is a factor of (ax² + bx + c), then
+(A)
+a² + c² = -ab
+(B)
+a² - c² = -ab
+(c)
+a²-c²=ab
+(可)
+None of these
+[Ans.:c]",,no,,"low-conf (0.5679) line: '(C)'; low-conf (0.61) line: '以'; low-conf (0.5677) line: '—α，β,Y'; low-conf (0.6265) line: '(可)'",auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,35,,"#DIBY-55
+The value of p and q for which the equation px² + 5x + 2 = 0 and 3x² + 10x + q = 0
+have both roots is common.
+(A)
+3
+p=²，q=4
+(B)
+p=2,q =
+3
+4
+(c)
+p=
+2
+(D)
+p=4,q =
+3
+2
+[Ans.:(A)]
+# DIBY-56
+If the equation x2 - 4x + 5 = 0 and x² + ax + b = 0 (where a, b ∈ R) have a common
+roots then which of the following is correct?
+(A)
+a=-4,b=-5
+(B)
+a+b=1
+(C)
+a+b=-1
+(%)
+b-a=1
+[Ans.: (B)]
+#DIBY-57*米米
+If Q1(x) = x² + (k - 29)x - k and Q2(x) = 2x² + (2k - 43)x + k both are factors of a
+cubic polynomial P(x), then the largest value of k is
+(A) o
+(B)33
+(c)
+23
+(D)
+30
+[Ans.:(D)]",,no,,dual-pass agreement 0.7477,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,36,,"# DiBY-58
+If the equation x2 + abx + c = 0 and x² + acx + b = 0(b ≠ c) 
+ have a common root
+then their uncommon roots are the roots of the equation
+(A)
+a(b + c)x² + (b + c)x+ abc = 0
+(B)
+a(b + c)x²-(b + c)x-abc = 0
+a(b + c)x² - (b + c)x + abc = 0
+(0)
+a(b + c)x² + (b + c)x -abc = 0
+[Ans.: (D)]
+# DIBY-59
+If
+('q)0 =(+-) +x(- q)z+zx(q -)
+and x²+ 2x+ 5=0
+have
+a
+common roots, then which of the following is true?
+(A)
+a-b= 1
+(B)
+=q-p
+1
+(c)
+a-b =
+1
+(可)
+a-b=2
+3
+2
+[Ans.:(B)]
+# DIBY-60
+If equations ax2 - (a + b)x + b = 0 & bx² + (b - c)x - c = 0 has exactly one root in
+common {a, b, c ≠ O}, then which of the following can be correct?
+(A)
+b² = ac
+(B)
+-a=b≠c
+(c)
+b=a ≠ c
+(D)
+-a ≠ b = c
+[Ans.: A, B, D]",,no,,dual-pass agreement 0.5345,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,37,,"# DIBY-61
+Let 入 ≠ 0 be in R. lf α and β are the roots of the equation, x2 - x + 2入 = 0 and α and
+y are the roots of the equation, 3x2 - 10x + 27入 = 0, then 
+ is equal to:
+入
+[JEE MAINS - 2020]
+(A) 
+18
+(B)
+36
+(c)
+9
+(D)
+27
+[Ans.: (A)]
+# dIBY-62
+If one root is square of the other root of equation x2 + px + q = 0, then the relation
+between p and q is
+[IT-JEE-2004]
+(A)
+p3 -q(3p -1) +q² = 0
+(B)
+p3 - q(3p + 1) + q² = 0
+(c)
+p3 + q(3p -1) + q² = 0
+(D)
+p3 + q(3p +1) + q² = 0
+[Ans.:(A)]",,no,,low-conf (0.6268) line: '入',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,38,,"Homework
+井
+Re-attempt all Class Examples
+#DPP&DIBY
+# Module: (3 sittings of 1 HR each)
+Exercise-02(Prabal): 1 to 10,13,16,18 to 25.
+Exercise-03(Setu): 1to 30 (except-13,16,17,21,25,26,29)",,no,,low-conf (0.5858) line: '井',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,39,,"在u
+never
+about
+endresult
+Lts aluay about
+fourney
+Thank
+#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,1,,"ARJUI
+JEE2
+2202
+Lecture -12
+Mathematics
+QUADRATIC
+Physics
+EQUATIONS
+By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,2,,"Topics
+tobe coverey
+A
+Location of Roots
+B
+Theory of Higher Degree Equations
+C
+Question Practice
+D",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,3,,"LASTCLASSREVISION
+# Answer the following Questions:
+If (
+ (x = α) is common root of two polynomial equations P(x) = 0 and
+P2(x) = 0 then:
+a
+(x = α) will also be the root of mP1 (x) ± nP2(x) = 0.
+(q)
+All the roots of mP1 (x) ± nP2(x) = 0,
+are common roots.—
+2.
+exactly one root
+tis common between two quadratics, then what is
+the method to proceed?
+Check!",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,4,,"W
+Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,5,,"Acidic Question
+If the quadratic equations
+x² + ax + 12 = 0and
+x² + bx+ 15 = 0
+and
+x2 + (a + b)x + 36 = 0 have a cormmon positive root find'a' and 'b' and
+the root of the equation.
+Q=3
+=3
++ax +12 =0
+9 +3a + 12 = 0
+9+ 3b + 15 = 0
+α
+Qddl
+x²+bα+ 15 = 0^
+α=-a1
+3
+=-
+b=-24
+3
+-8
+X
+(a+b)
++=0
+α
++36 = 0
+π²-9=0
+x=3
+C.R
+=±3",,no,,low-conf (0.6054) line: 'X'; low-conf (0.5405) line: '+=0'; low-conf (0.531) line: 'α',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,6,,"Question [AIEEE-2008]
+41%
+The quadratic equations
+ x² - 6x+ a = 0 
+and x² - cx + 6 = 0 have one
+root in common. The other roots of the first and second equations are
+integers in the ratio 4 : 3. Then the common root is
+A
+x² -6x+α=0
+P=4αβ=a
+B
+x²-Cμ+6 =0
+α
+3β
+4.3
+I
+=3αB=6
+D
+α=8
+x=2CR
+8=a
+2
+x²-6x+8 =0
+5=C
+4-ac+6=0
+x=4 CR
+16 -4c + 6 =0
+22 =C
+&
+²-11x+6=0
+32
+x²-5+6=0
+4",,no,,low-conf (0.5023) line: 'I'; low-conf (0.5959) line: '&',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,7,,"# b=o,α,-2
+Question
+Let f(x) = x² - 3x + band g(x) = x² + bx -3, where b is a real number. If the
+equation f(x) = 0 and g(x) = 0 have a common root, then
+α=-l
+uCR
+Number of possible values of b is 3.
+x-3x+b=0
+b=-2
+十
++bx²-3=0
+x=-1
+<x-3x-2 =0
+Number of possible values of b is 2.
+-bn²-3C+ 3+b=0
+x=-!.
+x²-2x-3=0
+Sum of all possible values of b is 0.
+x²)
+=
+b=o
+OR
+=±
+Sum of all possible values of b is 2.
+x3-3n=0
+3
+α=1 is CR
+3
+x²-3=D一
+-√3
+x-3+2=0=1
+n²+2x-3=0 ~α=1",,no,,low-conf (0.5519) line: '十'; low-conf (0.6033) line: 'x²)'; dual-pass agreement 0.7455,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,8,,"Acidic Question
+If the equations x3 + x² - 4x = 4 and x² + px + 2p = 0 (p E R) have two
+roots common, then the value of p is
+3F
+A
+-2
+B
+D
+3",,no,,low-conf (0.569) line: '3F',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,9,,"LOCATION OFROOTS
+RAR
+case-l
+Case-Il
+Case-IlI
+If both roots are greater than
+If both roots are less than
+Both roots lies
+number given number'k'
+number given number 'k'
+between'k'& 'k2'
+R
+k
+K
+D>0
+D>0
+D>0
+2
+2a
+>k
+2.
+2a
+<k
+2a
+2<k2
+3. af(k) > 0
+3. af(k) > 0
+3. af(k1) > 0
+4. af(k2) > 0",,no,,low-conf (0.6473) line: 'D>0',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,10,,"Question
+dengthy
+(x)f
+Ans.:k E
+27
+If α, β are the roots of the quadratic equationx2 + 2(k - 3)x + 9= 0
+(α≠β)
+If α, β e (-6, 1), then find the values of k.
+米**
+0<&
+2
+<1
+3
+αf(-6)>0
+af(1) >0
+A（K-3))-yx9>0
+2)（K-3)
+D
+<1
+36 +2(K-3)(-9+9)>0
+→
+k²-6K+x-g>0
+×1
+K(k-6)>0
+K-3
+(12-4(K-3) +3)>0
+9
+>K>2
+12 - 4k +12 + 3 >0
+(1+2(k-3)+9)>0
+24>4K
+7
+2K+4>0
+D
+2
+6
+27
+K>-2",,no,,low-conf (0.5865) line: '米**'; low-conf (0.5726) line: '0<&'; low-conf (0.6378) line: '×1'; dual-pass agreement 0.4322,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,11,,"LOCATIONOFROOTS
+Case-IV :Any number k lies between the roots
+tve
+f(K)
+af(k)<
+k
+β
+f(K)
+-ve
+<
+0>D
+# N & S ",,no,,low-conf (0.5145) line: '0>D',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,12,,"P
+W
+Note:
+大
+one root u less thqn
+#
+α>()f
+oher root
+igreatr Hhank
+#
+αf(k2) <0
+α
+←
+K2
+α
+K
+K2
+B",,no,,low-conf (0.5673) line: 'W',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,13,,"Question
+Ans.:k ∈ (-2,3)
+Find the value of k for which one root of the equation of
+x2 - (k + 1)x + k2 + k - 8 = 0 exceed 2 and other is smaller than 2.
+f(x)
+#
+af(2)(0
+B
+4-(K+1)a+k²+k-8
+—2K-2+k²+k-8
+K-K—6<0
+K-3)(K+2)<0
+K∈(-2,3)
+α>α",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,14,,"W
+bmgubp
+: ax²+bx +c
+Root are of opp. s
+sgn
+(ten)
+lien bus Roob
++ve
+-ve
+α↓
++ve
+#
+>()f
+ex1x²-5x-6=0
+-ve
+tve
+o>
+x:ax²+11-3=D
+Lve",,no,,low-conf (0.5291) line: 'bmgubp'; low-conf (0.6109) line: '(ten)'; low-conf (0.5335) line: 'α↓',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,15,,"Question
+Ans.:kE
+813
+5
+Find the value of k for which one root of the equation of
+(k - 5)x² + 2kx + k - 4= 0 is smaller than 1and the other root exceed 2.
+f(x).
+QIBY!!
+K-5).t(1)<0——①
+(K-5)·f(2)<0",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,16,,"LOCATION OFROOTS
+Case-V : If exactly one root of quadratic lies between k, & k2 :
+Root
+Root
+f(k).f(k2)
+ve
+# N&S",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,17,,"P
+W
+#
+Boundary eond
+=k,  ar0ot
+Quad H satiby
+get
+paramekr
+Calaulat Roots",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,18,,"IMPORTANTNOTE
+In Case-V, Boundary Condition should be separately analyzed.
+Boundary Condition:
+If x = k1 or x = k2 is a root of Quadratic.
+Step-01:
+Put x = k1 or x = k2 in given quadratic and find parameter.
+Step-02:
+Substitute value of parameter in given Quadratic and calculate
+both roots.
+Step-03: Now check, does roots satisfy given condition. If yes, value of
+parameter is included. If no, value of parameter is excluded.",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,19,,"Question
+Find all possible values of m for which exactly one root of the equation
+KK2
+#
+f(-2) f()<0
+=0
+-2m+m+6m
+(m²+6m
+<
+1+4m+4
+m(m+6/<0
+m(m+6)(m+2)<0
+{2-3-(0s)",,no,,low-conf (0.5432) line: '{2-3-(0s)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,20,,"Question
+Find all possible values of m for which exactly one root of the equation
+x²+mx+m² +6m=
+= 0, lies in (-2, 0).
+Boun&. cond?
+=-ia0ot
+4-am+m²+6m=0
+(m+2
+#
+m=-2
+Quad.
+Reyjected
+=
+(a-4)（α+2)=0",,no,,low-conf (0.5065) line: '=',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,21,,"Question
+Find all possible values of m for which exactly one root of the equation
+x² + mx + m² + 6 m= 0, lies in (-2,0).
+Boun&. cmd""
+Rout
+=Oivar0ot·
+param.
+m
+2+6m=0
+m=-6
+m=0
+Reject
+²-6=0
+Reject
+=0
+x(-6)=0",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,22,,"Question[JEEMains-2020]
+The set of all real values of 入 for which the quadratic equations,
+(^2 + 1)x2 - 42x + 2 = 0 always have exactly one root in the interval (o, 1) is
+A
+(-3, -1)
+#
+(0)(±)
+B
+(2, 4]
+²+1-4+2
+<O
+(0, 2)
+-4A+3<6
+(A-1)(a-3)<0
+fnt : ae(1,3]
+(1, 3]
+2
+(e)",,no,,low-conf (0.5705) line: '(0)(±)'; low-conf (0.5234) line: '<O',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,23,,"Question[JEEMains-2020]
+The set of all real values of 入 for which the quadratic equations,
+(22 + 1)x2 - 42x + 2 = 0 always have exactly one root in the interval
+1(0, 1) is
+A
+[1,3]
+Bounday comd
+X
+2x² - 4α + 2 = U
+B
+[1,3)
+x² - &× + 1 = 0
+(x-1)²=0 
+#=0
+=100t
+=0
+A²+1-4a+2=0
+10x2 _ 12α t 2 = 0
+(1, 3]
+m.p
+1=C
+A²-ya+3=0
+5x²-6x+ 1=0
+(5α-1)(α-1) =0",,no,,dual-pass agreement 0.565,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,24,,"Question[JEEMains-2020]
+The set of all real values of 入 for which the quadratic equations,
+(^2 + 1)x2 - 42x + 2 = 0 always have exactly one root in the interval (o, 1) is
+A
+[eT]
+#
+(0)()
+B
+[1,3)
+²+1-4+2
+<O
+²ya+3<6
+(1,3)
+(A-1)(a-3)<U
+D
+(1, 3]
+2
+()",,no,,low-conf (0.5505) line: '<O'; low-conf (0.627) line: '()',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,25,,"Question[1IT-JEE-2009]
+The smallest value of k, for which both the roots of the equation,
+x2 - 8kx + 16(k2 - k + 1) = 0 are real, distinct and have values at least 4, is
+μ-1
+7O
+K=1
+0
+@
+x²- 8x +16 =0
+?
+b
+x-4)~=0<
+af(4)>0
+12
+=y x00t —→ 16 -32k+16(K²-K+1) =0
+I -2k+k²-k+1 =0
+K²-3K + 2 =0",,no,,low-conf (0.5147) line: '7O'; low-conf (0.6479) line: '@'; dual-pass agreement 0.6159,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,26,,"Question[1IT-JEE-2009]
+The smallest value of k, for which both the roots of the equation,
+x2 - 8kx + 16(k2 - k + 1) = 0 are real, distinct and have values at least 4, is
+μ-2
+O<@
+tve
+0
+@
+QIBY
+X
+b
+?
+af(4)>0
+zero",,no,,low-conf (0.6427) line: 'O<@'; low-conf (0.6195) line: '?',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,27,,"Question[IIT-JEE-2009]
+K=&
+The smallest value of k, for which both the roots of the equation,
+x2 - 8kx + 16(k2 - k + 1) = 0 are real, distinct and have values at least 4, is
+Y-3
+O<@
+del
+= 8k ±
+64k²-4x16(k²-k+1
+k-l>o
+4(k-↓k-1)≥y
+-<
+&x1
+4(k+-1
+→daqer root
+K-√K-11
+8k ± 8
+k-1
+=4(±↓k-1
+4(K-k-1
+>Smallerroot
+SBS
+K-I>↓K-1
+K²-2k+1≥k-1
+k#1
+K²-3K+2>0
+2,8",,no,,low-conf (0.5973) line: 'K=&'; low-conf (0.5509) line: 'O<@'; low-conf (0.5814) line: '-<'; low-conf (0.6098) line: '&x1',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,28,,"Acidic Question
+The values of k, for which the equation x2 + 2(k - 1)x + k + 5 = 0 posses
+atleast one positive root, are
+tw),
+A
+[4,∞)
+B
+(-∞,-1) U[4,0)
+[-1, 4]
+D
+(-0o,-1]",,no,,"low-conf (0.5597) line: 'tw),'",auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,29,,"THEORYOFHIGHERDEGREEEQUATIONS
+#
+三 Sum
+CUBICEQUATION:
+degre= 3=no.o Root)
+ax3 + bx2 + cx + d = 0
+(a≠0)
+Rots = α, β,Y.
+Sum of roots taken one at a time = α + β +  = Zα = -b
+Product of roots=αβy
+=
+9S3",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,30,,"RAPID FIREROUND
+十
+(!)
+For: 7x3
+ 5x² + 11x + 19 = 0
+S1 =α+β+y=.
+t/(s-)-
+S2 = αβ+βy+yα=_+1
+S3 = αβy = =(q)
+(ii)
+For: -2x3 + 5x2 + 8 = 0
+3
+-xx3+5x²+0x+8=0
+S1 =α+β+=
+72
+= ∞+ Ag + d = 2s
+==s
+S3 = αβy =
+S2 =
+%
+=0",,no,,dual-pass agreement 0.6048,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,31,,"IMPORTANTNOTEFORCUBIC
+have l real root.
+(Imaginary roots exists in Pair)
+Newton's formula :S, = pαn±q βn±r yn
+a2
++
+b+cx+=O
+Then : aS, + bSn-1 + cSn-2 + dSn-3 = 0
+αSn +b Sn-1+C Sn-2+ d Sn-3= 0 
+Factorisation of cubic:ax3 + bx2 + cx + d = α(x-α)(x-β)(α-v)
+identity
+(iv)
+Form a cubic whose root are α, β & y.
+x-
+(x+p+r)
+x+
+xβ+Br+Y
+αβr
+=0",,no,,low-conf (0.5319) line: 'a2'; dual-pass agreement 0.5319,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,32,,"RAPID FIRE ROUND
+(iii)
+Form a cubic whose roots are -1, 3, 5.
+(iv)
+Form a cubic with rational coefficient and whose roots are: 5 & 3 - /2.
+#²-(+)x²+(
+s（
+=0
+5, 3-反, 3+
+=++∞
+x-4x²+4x+15=0
+α+β+Y = 1l
+αβ+βY+Yα=-3+15-5
+αβ+βr+α=34
+=平
+αβY = 35
+αβY=-15 
+²-(11)α²+(34)x-(
+(35)
+= C",,no,,low-conf (0.5491) line: 's（'; dual-pass agreement 0.6148,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,33,,"ChallengerQuestion
+For what real values of a do the roots x2 - 2x - a² + 1= 0 lie between the
+roots x2 - 2(a + 1)x + a(a - 1) = 0.",,no,,dual-pass agreement 0.5914,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,34,,"Challenger Question
+2x2-5x+3
+Find the values of m for which the expression:
+4x-m
+can take all
+realvalues for x E R -
+u
+4
+[Ans. : m ∈ (4, 6)]
+°3七",,no,,low-conf (0.5014) line: '4',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,35,,"DOITBYYOURSELF
+(DIBY)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,36,,"# DIBY-61
+Let 入 ≠ 0 be in R. lf α and β are the roots of the equation, x2 - x + 2入 = 0 and α and
+y are the roots of the equation, 3x2 - 10x + 27入 = 0, then 
+ is equal to:
+入
+[JEE MAINS - 2020]
+(A) 
+)18
+(B)
+36
+(c)
+9
+(D)
+27
+[Ans.: (A)]
+# dIBY-62
+If one root is square of the other root of equation x2 + px + q = 0, then the relation
+between p and q is
+[IT-JEE-2004]
+(A)
+p3 - q(3p -1) +q² = 0
+(B)
+p3 - q(3p + 1) + q² = 0
+(c)
+p3 + q(3p -1) + q² = 0
+(b)
+p3 + q(3p +1) + q² = 0
+[Ans.:(A)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,37,,"LOCATION OF ROOTS
+# DIBY-63
+Let x² - (m - 3)x + m = 0(m E R) be a quadratic equation. Find the value of m for
+which
+0
+both the roots are smaller than 2.
+T
+both the roots are greater than 2.
+one root is smaller than 2 and the other root is greater than 2.
+exactly one root lies in the interval (1, 2).
+both the roots lie in the interval (1, 2).
+one root is greater than 2 and the other root is smaller than 1.
+(vii)
+atleast one root lie in interval (1, 2).
+(vili) atleast one root is greater than 2.
+Ans.:
+(1) m e (-∞, 1] , (ii) m e [9, 10), (ili) m e(0, ∞0), (iv) m e(10, ∞),
+(v) m ∈ Φ, (vi) m ∈ Φ, (vii) m e(10, ∞), (vili) m e [9, ∞) - {10}]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,38,,"LOCATION OF ROOTS
+# DIBY-64
+Find all values of a for which the equation 4x2 - 2x + a = 0 has two roots lie in
+the interval (-1, 1).
+[Ans.: α e (-2,↓]
+# DIBY-65
+The number of integral values of k, for which one root of the equation
+2x² - 8x + k = 0 lies in the interval (1, 2) and its other root lies in the interval
+(2, 3), is
+[JEE Mains-2023]
+(A)  2
+(B)
+(c)
+(D) 3
+[Ans.(c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,39,,"Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+# Module: (3 sittings of 1 HR each)
+Exercise-02(Prabal): 1 to 10,13,16,18 to 25.
+Exercise-03(Setu): 1to 30 (except-13,16,17,21,25,26,29)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,40,,"在u
+never
+about
+endresult
+Lts aluay about
+fourney
+Thank
+#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,1,,"ARJUI
+JEE2
+2202
+Lecture -13
+Mathematics
+QUADRATIC
+Physics
+EQUATIONS
+By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,2,,"Topics
+tobe coverey
+A
+Theory of Higher Degree Equations
+B
+Transformation of Equation
+C
+General Second Degree Equation
+D
+Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,3,,"W
+Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,4,,"Acidic Question
+If the equations x3 + x2 - 4x = 4 and x² + px + 2p = 0 (p E R) have two
+roots common, then the value of p is
+A
+-2
+DIBY-A
+B
+D
+3",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,5,,"Acidic Question
+The values of k, for which the equation x2 + 2(k - 1)x + k + 5 = 0 posses
+atleast one positive root, are
+A
+[4,∞)
+DIBY-B
+B
+(-∞,-1) U[4,∞)
+[-1, 4]
+D
+(-∞,-1]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,6,,"Challenger Question
+For what real values of a do the roots x2 - 2x - a² + 1= 0 lie between the
+roots x2 - 2(a + 1)x + a(a - 1) = 0.
+y2
+x²-+
+a
+=0
++i
+1-α
+L+a
+(三)
+()
+af,(1+a)<0
+@f(1-a)
+o
+(a+1)²-α(a+1)(a+1) +a(a-1))
+(-a)-a(1+a)(1-a)-a(1-a]<o
+-(a+1)+a²-a<U
+(a)
+1-a-2-aa-a?
+>
+a
+3
+L<a
+aa-1+-<
+-1<3a
+(-α)
+a-1)(4a+1) <0
+)(-1-4a)<0",,no,,low-conf (0.565) line: 'y2'; low-conf (0.615) line: '+i'; low-conf (0.6045) line: 'L+a'; low-conf (0.6434) line: '(三)'; dual-pass agreement 0.3269,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,7,,"Challenger Question
+Find the values of m for which the expression:
+2x² -5x+ 3
+can take all
+4x -m
+real values for x E R --
+m
+4
+#
+awge ∈ R
+[Ans. m e (4, 6)]
+2x²-5x+3
+4-m
+4xx(3+my
+o
+4xy-my=ax²-5x+3
+5+164
+40y
+-4
+-8my
+(5+4y)x+3+my=0
+<+R(w-01)+
+# Q≥0",,no,,low-conf (0.5351) line: 'o'; dual-pass agreement 0.7119,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,8,,"W
+6y
++
+4(10-am)
+y+1≥0
+yER
+lnuick / (
+<0
+>
+me(4,6)
+16 >0
+K(10-αm)
+1x9x
+fmt
+(5-m)²-x1<0
+mE
+[4.6]
+Cheekenl
+hmmo
+m²+25-10m-1<0
+pounts
+m-10m+24≤0
+0>(h-u)(g-u)
+ym=4,6",,no,,low-conf (0.6341) line: '<0'; low-conf (0.5884) line: 'hmmo'; dual-pass agreement 0.7883,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,9,,"8
+W
+x²-5x+3
+common factor.
+4x-m
+explanation
+x=1
+m=y
+Qx²-5x+3=0
+αx²-5x+3
+(-1)
+2x-3
+4x-m=0
+x =3/2
+4n -y
+4(x-1)
+=1
+=%
+2x-3
+≠1
+4=m
+9= M
+=1
+RR-}",,no,,low-conf (0.58) line: '8'; low-conf (0.6372) line: 'W'; low-conf (0.5935) line: '(-1)'; low-conf (0.6254) line: 'x =3/2'; low-conf (0.5055) line: '≠1'; low-conf (0.6455) line: 'RR-}',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,10,,"RATIONALROOTTHEOREM
+#Lec-12,13 (Basic Mathematics)
+Factorise following polynomial equations:
+1.
+Cubic: x3 - 5x2 - 2x + 6 = 0
+2.
+Cubic:
+6x3 + 35x2 + 48x + 16 = 0
+QiBY !!
+3.
+Quartic: x4 + 11x3 + 41x² + 61x + 30 = 0",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,11,,"ANSWERS
+1.
+1,2 + V10, 2 -√10
+1
+4
+2. -4,--3
+3.-1,-2,-3,-5",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,12,,"Bumper + Challenger Question
+If α, β, y are roots of cubic : x3 - x2 + 1 = 0, then find value of:
+∑a=α+β+=1
+∑αβ=αpβ+βr+Yα =o(it)
+αβy
+=-1
+(iv)
+∑α²=α²+β²+r²=1(v)
+∑α3 =α+p+r²=-2(vi)
+α2
+1
+(vii)
+)∑α²β
+(viii)
+Zα5
+(x!)
+W
+α3+1
+1x-x²+ox+1 =0
+1=++
+αβ+pY+Yα=0
++e+x
+-3αβY
+(α+β+r
++B+Y-αβ-βY-K
+α+β+Y=-(-1)
+1
+αβY=-1
+1
+αβ+βY+Ya=0
+SBS:
+α+p²+r²-3(1）=1x（1-0)
+αβY=-1
+²+²+²+(ppr+rx)=1
+αp+²=1-3
+=-&",,no,,low-conf (0.6307) line: '=-&'; dual-pass agreement 0.4312,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,13,,"Bumper + Challenger Question
+If α, β, y are roots of cubic : x3 - x2 + 1 = 0, then find value of:
+∑a=α+β+=1
+()
+∑αβ=αβ+r+Yα=o(ii)
+αβy =-1
+(iv)
+∑α²=α²+β²+r²=1(v)
+∑a3 =α+p+r²=-2(vi)
+=&
+米米米米
+(wii)
+Zα²β =3 
+(viii)
+vii
+∑α5 =α+p+Y=-4(ix)
+M
+α3+1
+(M-2
+x²-x²+1=0
+Y
+α
+²β+α²Y+β²α+β²+²α+²
+= 3
+2
+×α
+C.T.
+α²-α²+1=0
+xa
+x=α-α²
+X
+x²α
+B²
+add
+α²=α²-1
+x²+p+²=+²t²-3=1-3=2
+add
++pt5=-3-（1)
+r5=r-
+B²=B²-
+add
+α+β’+r=(
+r4=r-r
+(+B34r3)
+/--一=(
+(-3
+α+β+r",,no,,low-conf (0.5873) line: '×α'; low-conf (0.6202) line: 'B²'; low-conf (0.6472) line: '(+B34r3)'; dual-pass agreement 0.4214,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,14,,"3
+1x-x²+0x+1 =0
+α+β+Y=-(-1)
+1
+S,×S = 
+(α+β+
+αβ+β+α
+αp+βY+a=0
++
+αBY
++Yα²+αp²+β²+(
+αBY
+αβY=-1
++
+αβY
++pr²+r²α
+#
+=可++
+1× 0=
+αβY
+∑x²β
+α²β²+β²+r²2+a(αBr+βr²α+a²Br)
+α²β=3
+α²²+βr²+r+aαBr(B++x)=0
+x²β²+β²r²+r²a²=a",,no,,low-conf (0.627) line: 'αBY'; low-conf (0.558) line: '∑x²β'; dual-pass agreement 0.0453,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,15,,"Bumper + Challenger Question
+If α, β,  are roots of cubic : x3 - x2 + 1 = 0, then find value of:
+(!)
+Za
+(ii)
+Zαβ
+(iii)
+αβr
+(iv)
+Mα2
+(v)
+Zα3
+(vi)
+2
+(vii)
+)Eα²β
+(viii)
+∑α5
+(i区)
+M
+α3+1
+B
++
+α3+1=α2
+α-α²+1 =0
+αx3+1
+α2
+天",,no,,low-conf (0.5479) line: '天'; dual-pass agreement 0.6619,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,16,,"Bumper + Challenger Question
+If α, β,  are roots of cubic : x²-3x² -4+ 1=0
+then find value of:
+(!)
+Za
+(ii)
+Zαβ
+(ii)
+αβr
+(iv)
+Zα2
+(v)
+Zα3
+(vi)
+2
+(vii) Za²β
+(vii)
+∑α5
+(x!)
+α3+1
+IBY
+X",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,17,,"S=α+β'+r=-(-)
+=1
+Que'
+αβ+BY+Y=0
+x²-x²+ox+1=0
+Sn=α+β+
+nn.
+n
+αβY=-1
+Sn-
+Sm-1 + OS-2
+n-2
++
+m-3
+3=0
+=0
+n=4
+=5
+a=s+hs-s
+S4 - S+S, =0
+-3-1
+=-a-1
+=-3",,no,,dual-pass agreement 0.6807,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,18,,"Acidic Question
+αβ
+If α, β and y are roots of cubic equation x3 + 3x - 1 = 0 then find value of:
+(2 - α)(2 - β)(2 -y) = 13
+(3 + α)(3 + β)(3 + y) = 34
+²+3x-1=1(x-αx)(x-β)(x-r)
+(id.)
+(4 -α²)(4-β²)(4-y²)
+= 195.
+=
+1 + α²)(1 + β²)(1 +y²)= 5
+13
++3×2-1 =
+(-α)(x-β)(a-)
+7=-3
+-α)(a+α)(-B（2+β)（2-r)(2+Y
+(3)3
++3（-3)-1=
+(-3-α)（-3-β)(-3-r
+M-2
+13 × 15
++34=-a-9-1=t(3+α)(3+B)(3+r)
+1+(²+β²+r²)
++(+Br²+2)+r²=？？",,no,,dual-pass agreement 0.3818,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,19,,"#
+=
+imag
+-1
+SBS,
+=1
+X
+3
+x²+3x-1=1(x-α)(x-β)(x-r)
+(ig)
+#
+(i-α)(i+a)=(i)²-(a)²
+1=x
+=-1-α²
+3+3-1=
+(i-α)(i-β)(²-r)
+=-(1+α²
+α=-i
+ai-i
+(i-α)(i-b)(i-)
+A
+(αi-1)(ai+1）=(@²)²-1²
+(-)
++3（-t)-1=(i-x)(-i-p)(--r)
+= 4℃²-1
++(ai+1）
+=t(i+x)(i+β)(+r)
+B
+= 4(1)-1
+AxB
+=-5
+5=(-1)(i+1）=t(+)xt(+)xt（+2)",,no,,low-conf (0.6105) line: 'X'; low-conf (0.5886) line: '1=x'; low-conf (0.6231) line: 'B'; low-conf (0.627) line: '5=(-1)(i+1）=t(+)xt(+)xt（+2)'; dual-pass agreement 0.5019,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,20,,"Question
+If α, β,y are roots of equation x3 - 2x² - 1 = 0 and Tn = αn + βn + yn,
+thenvalue of
+T10
+T11- T8
+is equal to
+A
+-Qx²+0x-1=0
+B
+2
+C
+Tn-aTn- +0 Tm-2-Tn-3=0
+m=1/
+D
+—αT。-T=D
+T-T=
+To",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,21,,"THEORYOFHIGHERDEGREEEQUATIONS
+Quartic:ax4 + bx3 + cx2 + dx + e = 0
+(a≠0)
+Sum of roots = Zα = α + β + y + 8
+S2
+Sum of product of roots taken two at a time = Zaβ
+= αβ + αy + α8 +βy + β8 + y8
+=+C
+a
+S3:
+Sum of product of roots taken 3 at a time = Zαβy
+= αβy + αβ8 +βy8 + αy8 = -d
+a
+S4:
+Product of roots = αβy8
+ = +e",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,22,,"Example
+#5x4-3x3+x-11=0
+54-3x²+0x²+1-11=0
+S,=
+Mα=
+-(-3) = %
+S2 =
+Zαβ=
+o+
+5
+S3 =
+Zαβy =
+S4 =
+αβy8 = +(-11)
+5",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,23,,"FORANYPOLYNOMIALEQUATION
+# In any polynomial equation (degree = n) :
+S1 = Sum of roots taken one at a time
+coeff.of
+-coeff. of xn-1
+xn
+S2 = Sum of product roots taken two at a time
++ coeff.of xn-2
+coeff. of xn
+S3 = Sum of product of roots taken three at a time =
+coeff.of xn-3
+coeff. of xn
+an
+S, = Sum of product of roots taken r at a time = (-1)r
+coeff.of xn-r
+coeff.of xn
++
+3-1
++
+m-2",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,24,,"TRANSFORMATIONOFEQUATION
+QUESTION
+If α and β are roots of x2 - 3x + 1 = 0, then form a quadratic whose roots
+B
+are
+α+1
+β+1
+α+β=3
+H-2
+mmo
+1-n
+αβ=1
+=newroot·
+x+一
++
+β+1
+2+
+αβ
+(x+1)(β+1)
+=0
+l=oldroot·
+oldroot
+oldr0ot+1
+α+1
+=
+B-
+αy+y=2
+=-xy
+(R-1)=",,no,,low-conf (0.5824) line: '1-n'; low-conf (0.6492) line: 'B-'; dual-pass agreement 0.5804,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,25,,"W
+M-1
++β
+α+1B+1
+2+
+&B
+(+1)(β+1)
+α+β=3
+αβ=1
+x+
+5
+α+1β+1
++
+αβ+α+Bα+β
+1+α+β+αβ
+Sx²-5x+1=0
+1+3+1
+ax1 +3
+5-5",,no,,low-conf (0.5468) line: '2+'; low-conf (0.5804) line: 'x+',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,26,,"TRANSFORMATIONOFEQUATION
+QUESTION
+If α and β are roots of x2 - 3x + 1 = 0, then form a quadratic whose roots
+α
+B
+are
+α+1
+β+1
+mo
+=newroot·
+=oldr0ot·
++1=0
+5y²-54+1=0
+oldroot
+-3y（1-y)+(-y)
+oldroot + 1
+α+1
+Y=
+b-
+(-4)
+αy+y=2
+=-xy
+山
+y=n(1-y)
++l=0",,no,,low-conf (0.5053) line: 'mo'; low-conf (0.5199) line: 'b-'; low-conf (0.5947) line: '(-4)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,27,,"P
+W
+Ques:
+x²-31x+11=0
+So.
+#
+=R
+x=,
+&-
+22
+Quad.= 0
+()e-()
++ll=
+βp
+h+-去
+-31y+11y²
+一×
+L-P",,no,,low-conf (0.5939) line: '&-'; low-conf (0.6428) line: '()e-()'; low-conf (0.639) line: 'h+-去'; low-conf (0.6403) line: '一×',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,28,,"W
+Dues:
+x²-31x+11=0
+&o.
+&x-1
+3α+ 2
+2α-1
+Quad.=0
+3α+2
+3xy+ay=ax-
+22
+2β-1
+y+1=αx-3xy
+3β+2
+αy+1 =x(a-3y)
+=
+&-3y",,no,,low-conf (0.6398) line: 'W',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,29,,"Acidic Question
+old-1IIT Jee
+Given that α, β, Y
+ are all real roots of the equation x3 - 2007x + 2002 = 0,
+α-1
+β-1
+Y - 1
+thenthevalueof
+α+1
+十
+β+1
+y+1
+is equal to
+2rmo cmolu lo poe A ung
+²- 200+00=0
+-1
+??
+0=nm
+α-l
+αtl
+β
+P+ B
+=""-1
+g+/=x(-y)
+β+1
+三
+(
++ a002 =0
+1+人
+U, Sumof Ros =?",,no,,low-conf (0.6288) line: '2rmo cmolu lo poe A ung'; low-conf (0.5916) line: 'α-l'; low-conf (0.6178) line: 'P+ B'; low-conf (0.5875) line: '('; dual-pass agreement 0.6302,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,30,,"DOITBYYOURSELF
+(DIBY)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,31,,"LOCATION OF ROOTS
+# DIBY-63
+Let x² - (m - 3)x + m = 0, (m E R) be a quadratic equation. Find the value of m for
+which
+0
+both the roots are smaller than 2.
+T
+both the roots are greater than 2.
+one root is smaller than 2 and the other root is greater than 2.
+exactly one root lies in the interval (1, 2).
+both the roots lie in the interval (1, 2).
+one root is greater than 2 and the other root is smaller than 1.
+(vii)
+atleast one root lie in interval (1, 2).
+Check!
+(vili) atleast one root is greater than 2.
+Ans.:
+(i) m e (-∞, 1] , (ii) m e [9, 10), (ili) m e(10, 0), (iv) m e(10, ∞0),
+(v) m ∈ Φ, (vi) m e Φ, (vli) m e(10, ∞), (vili) m ∈ [9, ∞) - {10}]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,32,,"LOCATIONOFROOTS
+# DiBY-64
+Find all values of a for which the equation 4x² - 2x + a = 0 has two roots lie in
+the interval (-1, 1).
+[Ans.:a e (-2,]
+# DIBY-65
+The number of integral values of k, for which one root of the equation
+2x² - 8x + k = 0 lies in the interval (1, 2) and its other root lies in the interval
+(2, 3), is
+[JEEMains-2023]
+(A)  2
+(B)  0
+(c)
+(D) 3
+[Ans.(c)]
+#DIBY-66
+Find all the values of 'a' for which both roots of the equation x² + x + a = 0 exceed
+the quantity'a'.
+(A) (-00, -2)
+(B)
+(-0∞0,4]
+(c)
+(-2, 0)
+(D)
+(-0∞0, -2)u(0,4)
+[Ans.(A)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,33,,"LOCATIONOF ROOTS
+# DIBY-67
+Find the set of values of 'a' for which zeroes of the quadratic polynomial
+a² + a + 1)x² + (a - 1)x + a² are located on either side of 3.
+(A)(-∞, -2)
+(B) (0,0)
+(c)
+中
+(D)
+R
+[Ans.: (c)]
+# DIBY-68
+Find all possible values of 'a' for which exactly one root of the quadratic
+equation x2 - (a + 1)x + 2a = 0 lie in the interval (o, 2).
+(A)
+(-∞, 0)(6, ∞ )
+(B)
+(-∞, 0](6, ∞ )
+(c)
+(-∞, 0) [6, ∞ )
+(0)
+(-∞, 0][6, ∞ )
+[Ans.:(B)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,34,,"HIGHERDEGREEPOLYNOMIALS
+# DIBY-69
+α²-3
+β²-3
+y2-3
+If α, β, y are roots of 5x3 - qx - 1 = 0, (q E R) find the value of
+βy
++
+αy
++
+αβ
+[Ans.:3]
+# DIBY-70
+Given that α, β, y are the roots of cubic equation x3 - 3x2 + 2x +
+2
+= 0. The value of
+3
+α4 + β4 + y4 is equal to
+[Ans.: 9]
+# DIBY-71
+P(x) = x3 + 33x² + 327x + 935. Let P(x) be a polynomial as described above with
+a; b; c the roots of P(x). Find a² + b² + c2 without solving P(x) = 0.
+[Ans.:435]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,35,,"Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+# Module: (3 sittings of 1 HR each)
+Exercise-02(Prabal): 1 to 10,13,16,18 to 25.
+Exercise-03(Setu): 1to 30 (except-13,16,17,21,25,26,29)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,36,,"在u
+never
+about
+endresult
+Lts aluay about
+fourney
+Thank
+#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,1,,"ARJUI
+JEE2
+2202
+Lecture -14
+Mathematics
+QUADRATIC
+Physics
+EQUATIONS
+By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,2,,"Topics
+tobecoverey
+A
+General Second Degree Equation
+B
+Equations Reducible to Quadratic
+C
+Questions on Polynomials
+D
+Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,3,,"SECONDDEGREEEQUATION
+ax²+by2+2hxy+2gx+2fy+c=0
+Condition that it can be resolved as product of two linear factors is :
+abc+2fgh-af2-bg²-ch²=0
+RAR
+OR
+dinear
+Jariabley
+a-
+w
+#
++1a
+441
+C",,no,,low-conf (0.5706) line: 'a-'; low-conf (0.5141) line: 'w'; low-conf (0.5001) line: '+1a'; low-conf (0.5673) line: '441',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,4,,"一x
+μ-5f
+fB
+ahc-af²ch²+
+g5
+f-8²
+b
+f
+fc
++
+af)-f）+",,no,,low-conf (0.5531) line: '一x'; low-conf (0.5094) line: 'μ-5f'; low-conf (0.6483) line: 'g5'; low-conf (0.5407) line: 'f-8²'; low-conf (0.5549) line: 'af)-f）+'; dual-pass agreement 0.5962,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,5,,"eterminant
+Courdinate
+a&a
+Toot
+Cross-product
+#
+3x3
+#
+adbc
+#
+3
+-18
+2
++2
+1-/
+(-1
+=(-3-4)-1（-9+8）-1(3-（2)
+α(-+)
+)+1-5=-14+1-5
+=-18",,no,,low-conf (0.5289) line: '1-/',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,6,,"#
+5
+= 89.
+#
+3
+1
+(-3)
+Chat-DIBY-
+(o-+(0-)-9)+(-0)
+10+3x26+1
+10++8+1=(
+89",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,7,,"QUESTION
+axr
+yuy+by²+agx+xfy
++C
+Findvalueofkforwhich12x2-10xy+2y2+1lx-5y+k
+is a product of
+two linear factors. Hence find those factors.
+a=12
+b=&
+b=-10
+=-5
+#
+=一2
+-5
+1&
+-5
+85a
+兰K
+DIBY
+k=α
+11=66
+8
+f=-5
+5/2
+C=K",,no,,low-conf (0.6116) line: '+C'; low-conf (0.5808) line: '=一2'; low-conf (0.5223) line: '1&'; low-conf (0.5467) line: '85a',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,8,,"QUESTION
+axr
+yuy+by²
++agx+afy
+D+
+Findvalueofkforwhich 12x2-10xy+2y²+1lx-5y+k
+isaproductof
+two linear factors. Hence find those factors.
+Kc-x11+Kg+Kx01-xg1
+。=0
+121+100y
+2_ax0y-48
+[Qy²
+K001+16
+2—90y-96y²+
+K0h6
+96
+18x
+（11-1oy）x+
++20y+a5
+A
+x=-（11-10y)
+hol-11
+-4x12(2y-5y+2
+(@y+5)
+=12y+5|
+8(12)",,no,,low-conf (0.6408) line: 'D+'; low-conf (0.6363) line: 'Kc-x11+Kg+Kx01-xg1'; low-conf (0.5734) line: 'K0h6'; low-conf (0.56) line: '18x'; low-conf (0.5636) line: 'hol-11'; dual-pass agreement 0.515,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,9,,"#x²=-（11-1oy）
+αy+5
+G+Kg+11-Kal
+loy-11-2y-5
+given.
+h6
+24x=12y-
+K8=xh0
+-16
+4x-4+1)(
+(3x-4y+2)=0
+x=y
+3x=y
+9
+hg-xh
+B+h-xe",,no,,low-conf (0.6388) line: 'h6'; low-conf (0.6107) line: '4x-4+1)('; low-conf (0.6153) line: 'hg-xh'; dual-pass agreement 0.7467,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,10,,"Dues:
+32
+muh+
+-6x-8y+α=0
+findα→
+produc oflnear factors
+#
+DiBY
+2
+wid
+Heosefactorealo!",,no,,dual-pass agreement 0.6575,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,11,,"Black 可12
+eg'
+wx4
+=0
+Range xoy？?？
+D=0
+Rangr
+Quad.w
+0≥0
+Raungy dty",,no,,low-conf (0.6155) line: 'wx4'; low-conf (0.5599) line: 'Raungy dty'; dual-pass agreement 0.6667,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,12,,"QUESTION
+Ifx,yberealand9x²+ 2xy+ y²-92x-20y + 244 =
+show that
+x∈[3,6],y∈[1,10].
+Quad.ix;
++88y+α3x23x4-9×244≥0
+B
+46
+-a0y+44=0
++ y+23-9x 61≥0
+Bince xua Qealno.=
+du
++
+-0≈0
+(-2)
++K1-
+(y-4)yx9x（y²+a）≥0
++4G²-92y-9y2+180y-9x244≥0
+0>(01-b)(-
+[]",,no,,low-conf (0.6149) line: 'du'; low-conf (0.5498) line: '+'; low-conf (0.5725) line: '-0≈0'; low-conf (0.5558) line: '+K1-'; low-conf (0.5706) line: '(y-4)yx9x（y²+a）≥0'; dual-pass agreement 0.5503,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,13,,"QUESTION
+Ifx,yberealand9x²+2xy +y²-92x-20y+244 =
+show that
+x∈[3,6],y∈[1,10]
+8x²+42π-144≥0.
+Quad. iw y:
+8
+x²-9x+18
+1
+(ax-10
+9x²-92x+44
+x-6)（x-3）<0
+>0
+4(x-10)²-4x1(9x²-92x+x44)≥0
+x²+100-20x-9x²+92x-944≥0
+α[3,6]",,no,,low-conf (0.521) line: '>0'; dual-pass agreement 0.6602,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,14,,"QUESTION[JEEMAINS-2021]
+If x2 + 9y2 - 4x + 3 = 0, x, y E R, then x and y respectively lie in the intervals.
+A
+[1, 3] and [1, 3]
+#
+DiBY
+B
+[1, 3] and []
+²+9y
++0xy
+=+o+xh-
+[引]and [,3] 
+D
+[引]and[引]",,no,,low-conf (0.61) line: '#'; dual-pass agreement 0.5163,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,15,,"QUESTION
+If x, y and z are three real numbers such thatx + y + z = 4 and
+x²+y2
++(22)
+=6, then show that each of x, y and z lie in the closed interval
+[图,2].
+=4-(x+y
+x+4+a元y
+一8x-8y+10=0
+4x-4y+5=0
+x+y
+X
+x²-4x+5
+个
+Q>O
+(X-y)-4x(x²-4x+5)≥0
+x²+16-8-4π+16x-20≥0
+-3x²+8x-4≥0",,no,,low-conf (0.6246) line: 'x+4+a元y'; low-conf (0.5166) line: 'Q>O'; dual-pass agreement 0.7099,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,16,,"-3x²+8x-4≥0
+3x²-8+4<0
+3x²-6x-2+4<0
+3x-2
+>（-
+9
+3
+#2
+24H1",,no,,low-conf (0.5601) line: '#2'; low-conf (0.584) line: '24H1'; dual-pass agreement 0.7368,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,17,,"EQUATIONSREDUCIBLETOQUADRATIC
+Format-l:
+(x-a)（x-b)（x-c)（x-d)=k
+Ex.:(x+1) (x+2)(x+3)(x+4) =
+16
+format
+(x+1)（x+y) (a+)(x+3)
+multiply
+Action
+1C
+L
+ayoxgamKuo
+x²+5x+y
+x²+5x+6
+9
+Suchthatvariable
+pattusome
+1G
+x²+5+4=t=
+ast)
+OR
+x²+5x=t
+(t+4）(t+6）=
+Quad.ia
+七
+DIBY.",,no,,low-conf (0.5881) line: '1C'; low-conf (0.6251) line: 'ayoxgamKuo'; low-conf (0.5812) line: '七'; dual-pass agreement 0.4971,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,18,,"EQUATIONSREDUCIBLETOQUADRATIC
+Format-ll:
+(x-a)（x-b)（x-c)（x-d)=kx²
+Ex.:（x+2)（x+3)（x+8)（x+12)=4x²
+auwebacket
+k
+(x+a)(x+12)(α+3)(a+8)=4x²
+d4muy
+kaol~const·paot→same.
+x²+14x+24
+x²+11x+a4
+x+ay
+(七+3)
+h1+7
++24
++11
+X
+2
++14+2y
+x+11+2Y
+#
+t(t+3)=4
+Quad.",,no,,low-conf (0.6299) line: 'd4muy'; low-conf (0.6008) line: 'X'; low-conf (0.5598) line: '2'; dual-pass agreement 0.65,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,19,,"EQUATIONSREDUCIBLETOQUADRATIC
+Format-Ill:（x-a)4+（x-b)4=k
+#
+Ex.:（x-6)4+（x-8)4=16
+x-6+x-8
+wt:
+x-a+x-b
+Quad
++6t-4=0
+=2x-14
+t+=xmd
+8-t+
+16
+y+=
+(-b+C+b)
+91=
+4+124²+=1C
+4+129
+q=h1
+642
+-=D",,no,,low-conf (0.5178) line: '(-b+C+b)'; low-conf (0.6369) line: '642',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,20,,"W
+(y+)
+((+R)=
+t1
++9
+(+x-=(（-）=-)
+add .
+(g-)
+(+”++
+=a4+12y²+a",,no,,low-conf (0.5282) line: '(y+)'; low-conf (0.5219) line: '((+R)='; low-conf (0.5002) line: '+9'; low-conf (0.6317) line: '(+x-=(（-）=-)'; low-conf (0.6147) line: '(+”++'; dual-pass agreement 0.3441,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,21,,"EQUATIONSREDUCIBLETOQUADRATIC
+Format-IV:Reciprocal Equation
+ax²+bx²+bx+a=0
+ax4+bx²+cx²+bx+a=0
+ax+bx4+cx²+cx²+bx+a=0
+100 /
+Que?
+#
+even
+degreewal
+#
+odddegreewali
+ax+bx²+cx²+bx+q=0dvideby
+=0+x9+2x9+x0
+JRT!!
+ax+bxy+cx²+（x²+bx+a=0
+ax²+bx+a=O
+diuidebyn
+RRT
+""divide
+(1±xhg
+个
+qx+bx5+cxy+dx²+cx²+bx+a=6
+diuidebyK
+x=1α-1
+erRoot
+egh0
+ewendgreerocip",,no,,low-conf (0.6384) line: '(1±xhg'; low-conf (0.5588) line: '个'; low-conf (0.5285) line: 'egh0'; dual-pass agreement 0.6373,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,22,,"EXAMPLE
+divide
+Solve:
+ax²+x-11+
+2x++x3-11x²+x+2=0
+(i)
+6x5+11x4-33x²-33x²+11x+6=0
++x
+-11=O
+(ii)
+12x4-56x²+89x²-56x+12=0
+put：x+=t
+SBS
+x²+L
++a=t
+a(t²-2)
+)+t-11=0
+2t²+t-15=0
+Quadut",,no,,low-conf (0.5222) line: '(i)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,23,,"W
+aie
+Mattu
+Texmtuska eciprocal
+X-L
+2
++2
+x+
+x+1",,no,,low-conf (0.6488) line: 'aie'; low-conf (0.6035) line: 'X-L'; low-conf (0.6076) line: '+2'; dual-pass agreement 0.7912,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,24,,"EXAMPLE
+Solve:
+X=-1
+2x4+x3-11x²+x+2=0
+-x+y+3-3x-y+=
+0=
+6x5+11x4-33x²-33x²+11x+6=0
+=-1
+11
+-33
+-33
+12x4-56x²+89x²-56x+12=0
+-538-5-6
+1x²-56x+89-56
+/+
+5
+-38.56
+X
+degree
+19
+56x+
+0=68+
+α+1
+6x+5x²-38x²+5x+C
+o=
+2
+bodoor mom axbap uong
+-56t+89=0",,no,,low-conf (0.6266) line: 'o='; dual-pass agreement 0.7663,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,25,,"QUESTION[JEEMains-2023]
+Theequatione4x+ 8e3x+ 13e2x-8ex+1=0x ∈ R)has
+Twosolutions and both arenegative
+No solution
+t+8t²+13t²-8t+1=0
+t+1
+t²
+七
+大
++13=0
++8t+13-
+8
+七
+t
+#大-一
+Four solutions two of which are negative
+大
+SBS
++²+1
+=β
+Two solutions and only one of them is negative
+β²+a)
+=1+ 48 + (",,no,,low-conf (0.5668) line: 't'; dual-pass agreement 0.3823,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,26,,"#=-3+√3
++8p+15=0
+p+3)（β+5)=0
+-3-√13
+Rejected
+tve
+rve
+-30-5
+sHhomro
+Log
+(ex)
+Cog
+1√13-3
+e=
+13
+2=o9
+N13-3
++²-1=-3t
++²+3t-1=0
+二-3±√
+113
+#x=-ve
+&
+√13-3
+2
+ve",,no,,low-conf (0.6448) line: 'sHhomro'; low-conf (0.5854) line: 'Log'; low-conf (0.6264) line: 'Cog'; low-conf (0.5829) line: '2=o9'; low-conf (0.5821) line: '&',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,27,,"#
+七-1=-5
+井
+O= 51 + 48 +
+七
+t²+5t-1=0
+p+3)（β+5）=0
+=-5±√9
+=-30-5
+=-5-√a9
+-5+√9
+9
+√a9-5
+x=-ve",,no,,low-conf (0.596) line: '井'; dual-pass agreement 0.7978,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,28,,"QUESTION[JEEMains-2022]
+Thenumberof real solutions of the equation e4x+4e3x-58e2x+4e+ 1 =0
+is
+Ans:02
+#
+DiBY",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,29,,"EQUATIONSREDUCIBLETOQUADRATIC
+Format-V:Infinite Repetition
+first rep.
+Re-swhstitute
+ex
+=
+1+↓29
+#x=
+5
++
+￥+.x
+8BS.
+x²=5x
+x（x-5）=0
+SBS:
+α=
+14+α
+x²=+α
+α²-α-=0
+=1±29
+α=1±√1-4（-+)
+1+√29
+2
+x=0，5
+2
+621-1
+X
+X",,no,,low-conf (0.5015) line: '￥+.x'; low-conf (0.5974) line: '14+α'; low-conf (0.6276) line: '621-1',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,30,,"QUESTION[1IT-JEE-2012]
+Thevalueof 6 + log3
+12
+3√2
+3√2
+4-
+3√2
+4一
+3√2
+is
+3.2
+3
+3.
+3G
+9
+=G-α
+put
+α=l
+3
+4-以
+18x²+α-4=0
+18x²+9α-8α-4=0
+SBS
+2
+qx（2α+1）-y（2α+1）=0
+α
+(9x-）（ax+1=0=
+X",,no,,low-conf (0.635) line: 'put'; low-conf (0.6197) line: 'α'; low-conf (0.6405) line: 'X'; dual-pass agreement 0.7808,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,31,,"QUESTION[JEEMains-2021]
+#-
+Thevalueof4+
+S
+5+
+2+
+2
+5
+√30
+X=
+h
+=4+
+5+1
+5x²-0x-y=0
+4
+=α0+
+16x30
+B
+2+
+√30
++h
+5
+5x+1
+4+
+4
+√5
+√30
+4+-.-00
+5x+1
+= 2+4√30
+10
+=
+古
+2
+30
+2
+(x-4)(5x+1)=x
+5
+5+
+一
+√30
+5
+5x²-20x+x-y=x",,no,,low-conf (0.523) line: '古'; low-conf (0.6333) line: '一'; dual-pass agreement 0.5436,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,32,,"QUESTION[JEE Mains-2021]
+Thevalueof3+
+s
+3+...0
+#
+DiBY
+A
+1.5 +√3
+B
+2+√3
+3+2√3
+D
+4+√3",,no,,low-conf (0.5706) line: 's'; low-conf (0.6347) line: '#',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,33,,"FACTORANDREMAINDERTHEOREM
+#FactorTheorem:
+Polynomial
+P（x)=x²-5x+6
+If (x - a) is a factor of P(x), then P(a)
+=0.
+x-=0iafacr
+=a
+x=
+#RemainderTheorem:
+#P（2)=
+If polynomial P(x) is divided by (x - a) then Remainder = P(a)
+x-1
+-5x+6
+ex-P(x)=x²-5x+G
+x=y
+-y=0
+Kh-
+divided
+y (x-y),
+R=??
+R=P（4)=16-20+6-
+=
+=",,no,,low-conf (0.5634) line: '=',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,34,,"A
+1
+A=BQ+R
+Homgo
+Thue
+#
+max.degree
+叶Rem.
+degree
+Quad
+=dinear /comst
+=ax+b",,no,,low-conf (0.5842) line: 'Homgo',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,35,,"EXAMPLE
+Find theremainderwhen
+(!)
+x100 + x + 2 is divided by x - 1
+(ii)
+x100 + x + 2 is divided by x² - 1
+P(a)=x
+100
++x+
+(2)
+div.(x-1)=0
+X=1
+100
++x+
+=P（1)=1
+106
++1+=4
+100
+Quad
++x+
+(x²-1)g（x）+（ax+b)
+Ld
+R=ax+b
+X=1
+=O+a+b
+h=9+0
+R（x)=x+3
+X=-1
+=-a+b
+-a+b=2
+2b=6
+b=3,a=1",,no,,dual-pass agreement 0.761,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,36,,"EXAMPLE
+#
+R(x)
+x²+3x
+9
+6
+3
+when divided by (x -1); (x + 2) & (x + 1) respectively. Find the remainder,
+if the polynomial is divided by, (x² - 1)(x + 2).
+g(a)
+4a+c =
+#
+degree
+(x)d)
+x²-1）（x+
+P(x
+=+
+-)
+P(x)
+9,(x)
+(c+)Pa)
+#(x)
+(x+)P(x)
+93(a)
+degree=3
+R=ax²+bx+C
+3a=
+3a=4-!
+2
+12
+P(（x)=(x²-1)（x+α)g（x)+a²+hx+C.
+P(1)=a
+P(x)==1)a,(x)+
+P(-2)=1
+P(-1) =-1
+x=-1
+x=-=P（-2）=4a-2b+c=1
+P（1)=a+b+c=
+p（-1）=a-b+c=-1
+a=
+ab=3
+1C
+32
+C=-
+-2
+3",,no,,low-conf (0.5873) line: '6'; low-conf (0.5398) line: '#(x)'; low-conf (0.6262) line: 'x=-1'; low-conf (0.531) line: '1C'; dual-pass agreement 0.3841,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,37,,"CHALLENGERQUESTION
+Now to He!!
+If p(x) is polynomial of degree five and
+p(0）=-1,p(1) =1,p(2) = 4,p(3) =9,p(4)= 16,p(5) = 25,thenfind the
+valueofp(6)
+#
+buoim
+ans
+36
+p（x）=x
+x=1,2,3,4,5
+dong drve
+p（a)-²
+=0
+p(x)=ax+b2y+Cx+d2²+ex+
+#()
+=p（x)-x²=0
+2=#
+degoee=5
+6-Cond4G-unknown
+RO=5
+5=
+egy",,no,,low-conf (0.619) line: '#'; low-conf (0.5923) line: '#()'; dual-pass agreement 0.4654,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,38,,"(s-x)(h-x)(e-x)(e-x)(1-x)0=-(2)d
+X=0
+p（o)-0=a(-1)（-2)(-3)（-4)(-5)
++1=+180a
+T=0
+P(c) =34
+120
+120
+p(x)-x²=(x-1)(x-2)（a-3)(（a-4)（a-5)
+x=6
+120
+P(6)-36=
+20
+(5（4）(3（2)(（1)
+二1",,no,,low-conf (0.5421) line: '20'; low-conf (0.6237) line: '(5（4）(3（2)(（1)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,39,,"Jues-
+polynomial whn laauing
+Phoo
+p(x)a
+mnic
+poynomial
+Soi
+p（x）=x+1
+mleo
+deyree=
+x=a3,4.7
+p(x)-(aa+1)
+0=
+p(a)=5，p(3)=,p(4)=，P
+p(+）=15
+degree=y
+=2×+1
+x3+1
+1+hx6
+2x4+1
+Thenftind
+p（8)=?2
+Sei
+#
+p(x)-(ax+1)
+=1（x-2)(x-3)（x-4)（x-≠)
+p（x)=x+ax²+ba²+（x+d
+x=8
+>p（8)-1=6x5x4x1
+dong drivel
+p(8)=120+14",,no,,low-conf (0.5675) line: 'Phoo'; low-conf (0.5844) line: 'p(x)a'; low-conf (0.609) line: 'Thenftind'; dual-pass agreement 0.5633,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,40,,"QUESTION[JEEMains-2021]
+Let f(x) be a polynomial of degree 3 such that f(k)
+-2
+fork =2,3,4,5.
+k
+Then the value of 52 - 10f(10) jsequal to
+5。-26=
+26
+x,3,4,5
+f(a)=-
+=0
+of(0)+=a(-2)（-3)（-u)(-5)
+f(（x)+=0
+=1a0a=a=
+60
+x=1o
+f（a)+=a（x-2)（x-3)（a-4)（x-5）
+deg7ee=4
+degree=3
+(x-2)（x-3)（x-4)（x-5)
+10f（10）+=
+60
+(5）（)（±))
+10f（10)=a8-2=2G",,no,,low-conf (0.5814) line: '26'; low-conf (0.6323) line: '60'; low-conf (0.5254) line: '(5）（)（±))'; dual-pass agreement 0.2167,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,41,,"QUESTION
+If f (x) is a polynomial of degree four with leading coefficient one
+satisfying f(1) = 1,f(2) = 2,f(3) = 3,then find
+f(0)+f(4)
+f(-1)+f(5)
+(where [.] represents greatest integer)
+Ans:5
+DiBY",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,42,,"在u
+never
+about
+endresult
+Lts aluay about
+fourney
+Thank
+#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
