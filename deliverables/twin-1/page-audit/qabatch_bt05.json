@@ -306,5 +306,61 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt05",
+  "_page": 23,
+  "source_page_label": "Page No. 155",
+  "topic_or_heading": "Question [AIEEE-2007] 20C0-20C1+...+20C10; handwritten 90% DIBY + H.W.",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "YES",
+  "diby_labels": "DIBY (handwritten)",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt05",
+  "_page": 24,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "RAPID FIRE DIBY'S - DIBY-01 (sum 23Cr, r=0..11) and DIBY-02 (sum 24Cr)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "YES",
+  "diby_labels": "DIBY-01, DIBY-02",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt05",
+  "_page": 25,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "RAPID FIRE DIBY'S - DIBY-03 telescoping product (C_{r-1}+C_r)/C_r",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "YES",
+  "diby_labels": "DIBY-03",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt05",
+  "_page": 26,
+  "source_page_label": "Page No. 154",
+  "topic_or_heading": "PROPERTIES OF BINOMIAL COEFFICIENT Property 04 - byte-identical duplicate of p14",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

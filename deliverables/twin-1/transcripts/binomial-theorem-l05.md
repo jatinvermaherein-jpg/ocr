@@ -44,7 +44,7 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 ## p07 · RAPID FIRE DIBY'S — DIBY-04 (printed) + board solution · label: — (chip only)
 **P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-04`; **If** `aᵣ` **denotes the coefficient of** `xʳ` **in the expansion of (1 − x)²ⁿ⁻¹, then the value of** `aᵣ₋₁ + a₂ₙ₋ᵣ =` **is.** — the printed `=` before "is" is **struck out twice in orange** (a correction on the slide itself); options `(A) −1`, `(B) 1`, `(C) 2aᵣ`, `(D) 0`; key **[Ans.: (D)]**.
 **H:** orange arrow from the printed `aᵣ₋₁` down to the orange expansion `²ⁿ⁻¹Cₙ₋₁(−1)ʳ⁻¹ + ²ⁿ⁻¹C₂ₙ₋(−1)²⁻ʳ` — both binomial coefficients ringed in cyan and joined by a cyan arc (the symmetry ²ⁿ⁻¹C₋₁ = ²ⁿ⁻¹C₂ₙ₋); pink `Tₕ₊₁ =` with a red box round `²ⁿ⁻¹C(−1)` and `x` outside it, a pink arrow from the printed `(1 − x)²ⁿ⁻¹` into the box and an orange `aᵣ` label hanging below it; cyan the finishing line `²ⁿ⁻¹Cᵣ₋₁ { −(−1)ʳ + 1/(−1)ʳ } = −((−1)²ʳ+1)/(−1)ʳ = (−1+1)/(−1)ʳ = 0`, with a `1` written above a cyan circle round `(−1)²ʳ` and a long cyan stroke out of the braces down to a lone `0`.
-**DIBY:** YES — printed label `DIBY-04` (`BT-L05-P07-DIBY-04`). **U:** 1 — the deck jumps from DIBY-01 (p06) to DIBY-04: no `DIBY-02/03` slide appears anywhere in this file, the same non-monotonic labelling as L04 (F-14).
+**DIBY:** YES — printed label `DIBY-04` (`BT-L05-P07-DIBY-04`). **U:** 1 — p06→p07 jumps DIBY-01→DIBY-04 because this file carries **two overlapping rapid-fire blocks** (amended once p24/p25 were read, which print `DIBY-01/02/03` again): the label is not unique inside L05, let alone across lectures (F-14).
 
 ---
 <a id="p08"></a>
@@ -146,3 +146,28 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 **P:** red chip **RAPID FIRE ROUND**; the blue text of items 4 and 5 reprinted unchanged from p21 (`¹⁴C₀ + … + ¹⁴C₆ =` and `¹⁴C₀ − ¹⁴C₁ + … − ¹⁴C₃ + …… + ¹⁴C₆ =`).
 **H:** gold star stickers clustered beside each item number (two above and one below `4.`; one above and three below `5.`); yellow brace over item 4's left-hand side labelled yellow **`Half - Bino. Coeff`**, with a long cyan arrow up to the cyan working at the top of the slide: `2¹⁴ = ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + … ¹⁴C₆ + ¹⁴C₇ + … ¹⁴C₁₂ + ¹⁴C₁₃ + ¹⁴C₁₄`, where the middle term `¹⁴C₇` is ringed in **pink** (yellow arrow down onto it), the last term `¹⁴C₁` ringed in **green**, and green arrows fold `¹⁴C₁₂ → ¹⁴C₂`, `¹⁴C₁ → ¹⁴C₁`, `¹⁴C₁ → ¹⁴C₀` (each paired subscript double-underlined, orange `*` marks under the `¹⁴C₂` and near `¹⁴C₁₂`), the pink `¹⁴C₇` folding to a pink `¹⁴C₆`-column partner; pink answer under item 4 `(2¹⁴ − ¹⁴C₇)/2` with a wavy rule. Item 5: a pink arrow from its `=` to the answer `½ · ¹⁴C₇`; below, the cyan/white alternating row `¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + … + ¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈ … + ¹⁴C₁₂ − ¹⁴C₁₃ + ¹⁴C₁ = 0` with the group `¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈` ringed in pink (white tick over `¹⁴C₁₄`), and the pink conclusion `2{¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − … … + ¹⁴C₆} − ¹⁴C₇ = 0`.
 **DIBY:** none. **U:** 1 — the pink-ringed middle subscript is the ambiguous crossed glyph and could be read `⁸`; the written answer `(2¹⁴ − ¹⁴C₇)/2` fixes it as `7` (U-06/U-18 ledger).
+<a id="p23"></a>
+## p23 · Question [AIEEE–2007] — ²⁰C₀ − ²⁰C₁ + … + ²⁰C₁₀ (tagged DIBY + H.W. by hand) · label: **Page No. 155**
+**P:** red chip **Question [AIEEE–2007]** (the only pre-JEE Main AIEEE tag in this lecture); **The sum of the series** `²⁰C₀ − ²⁰C₁ + ²⁰C₂ − ²⁰C₃ + …. + ²⁰C₁₀` **is**; red tiles `A ½ ²⁰C₁₀`, `B 0`, `C −²⁰C₁₀`, `D ²⁰C₁₀`. No printed answer key.
+**H:** pink at right `90% DIBY` with a double underline, and below it `H.W.` written inside a pink circle, also double-underlined — the item is flagged as a 90%-success-rate DIBY and left as homework.
+**DIBY:** YES — handwritten tag only (no printed `# DIBY-nn`), internal ID `BT-L05-P23-DIBY(HW)`. **U:** 1 — the same `90%. DIBY` habit as L03 p29 / L02 p22 (F-13); no answer is written anywhere in this file, and the same series appears with n = 24 as DIBY-02 on p24 where the key is given, so the intended answer here is A (`½·²⁰C₁₀` — recorded as an inference, not as page evidence).
+
+---
+<a id="p24"></a>
+## p24 · RAPID FIRE DIBY'S — DIBY-01, DIBY-02 (printed, Σ of half the row) · label: — (chip only)
+**P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-01` **The value of the sum** `∑_{r=0}^{11} ²³C` **is :** options `(A) 2³ (B) 2² (C) 2¹¹ (D) 2²² − 1`, key **[Ans.: (B)]**; green tag `# DIBY-02` **The value of the sum** `∑_{r=0}^{11} ⁴Cᵣ` **is :** options `(A) 2²³ (B) 2²³ − ⁴C₁₂ (C) 2²³ − ½ ⁴C₁₂ (D) 2²⁴ − ⁴C₁₂`, key **[Ans.: (C)]**.
+**H:** none — no board work on this slide; the p19/p22 half-sum machinery is the intended route.
+**DIBY:** YES — printed labels `DIBY-01`, `DIBY-02` (`BT-L05-P24-DIBY-01`, `BT-L05-P24-DIBY-02`). **U:** 1 — **`DIBY-01` is printed twice inside this same lecture** (p06's (a−b)ⁿ A.P. item and this Σ-item), so the label alone is not a unique key even within one file; register IDs are page-qualified.
+
+---
+<a id="p25"></a>
+## p25 · RAPID FIRE DIBY'S — DIBY-03 (printed, telescoping product) · label: — (chip only)
+**P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-03` **Evaluate the value of expression :** `((C₀+C₁)/C₀)((C₁+C₂)/C₁)((C₂+C₃)/C₂) … ((Cₙ₋₁+Cₙ)/Cₙ₋₁)` **(where** `Cᵣ = (ⁿᵣ) = ⁿC`**)** — the product cyan, the `Cᵣ = (ⁿᵣ)` clause yellow; options `(A) (n+1)ⁿ/n!`, `(B) n⁺¹/(n+1)!`, `(C) (n+1)ⁿ⁻¹/n!`, `(D) (n+1)ⁿ/(n−1)!`; key **[Ans.: (A)]**.
+**H:** none. **DIBY:** YES — printed label `DIBY-03` (`BT-L05-P25-DIBY-03`). **U:** none. (The numerator `Cᵣ+C₊₁ = ⁿ⁺¹Cᵣ₊₁` turns the product into a telescoping quotient; no working is shown in the file.)
+
+---
+<a id="p26"></a>
+## p26 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 04: **exact duplicate of p14** · label: **Page No. 154**
+**P:** identical to p14 — clipboard icon + banner **PROPERTIES OF BINOMIAL COEFFICIENT**, green `# Property – 04 :` blue **Jab r ko numerator (multiplication) se gayab krna ho**.
+**H:** identical to p14, line for line (the star-framed red box `r. ⁿCᵣ = n. ⁿ⁻¹C₋₁` and the cyan proof with the green double loop). The two renders are **byte-identical** (same MD5), so this is a duplicated page inside the source PDF, not a re-explained board: recorded as such rather than transcribed twice.
+**DIBY:** none. **U:** 1 — duplicate slide (see F-16).

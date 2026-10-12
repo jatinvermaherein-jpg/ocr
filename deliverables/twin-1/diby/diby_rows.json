@@ -824,5 +824,61 @@
   "visible_solution_answer": "[Ans.: (A)] (printed)",
   "uncertainty_note": "Marked 'H.W.' in a white circle next to option D - not solved in this lecture; unresolved in the file as far as transcribed.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 23,
+  "diby_marker": "handwritten pink '90% DIBY' + 'H.W.' in a circle, chip Question [AIEEE-2007]",
+  "printed_label": "DIBY (handwritten)",
+  "internal_id": "BT-L05-P23-DIBY (handwritten)",
+  "prompt_verbatim": "The sum of the series 20C0 - 20C1 + 20C2 - 20C3 + .... + 20C10 is",
+  "options": "(A) 1/2 20C10   (B) 0   (C) -20C10   (D) 20C10",
+  "visible_solution_answer": "no answer printed or written (set as H.W.)",
+  "uncertainty_note": "Handwritten DIBY tag only, no # DIBY-nn label. Same 90%. DIBY habit as L03 p29 / L02 p22 (F-13). The parallel item with n=24 (L05 p24 DIBY-02) has key (C) 2^23 - 1/2 24C12, i.e. the half-row-with-middle-term pattern; inferred (A) here but NOT recorded as page evidence.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 24,
+  "diby_marker": "# DIBY-01 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-01",
+  "internal_id": "BT-L05-P24-DIBY-01",
+  "prompt_verbatim": "The value of the sum Sum_{r=0}^{11} 23Cr is :",
+  "options": "(A) 2^23   (B) 2^22   (C) 2^11   (D) 2^22 - 1",
+  "visible_solution_answer": "[Ans.: (B)] (printed)",
+  "uncertainty_note": "Second DIBY-01 inside the same lecture (p06 has a different DIBY-01) - label is not unique even within one file.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 24,
+  "diby_marker": "# DIBY-02 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-02",
+  "internal_id": "BT-L05-P24-DIBY-02",
+  "prompt_verbatim": "The value of the sum Sum_{r=0}^{11} 24Cr is :",
+  "options": "(A) 2^23   (B) 2^23 - 24C12   (C) 2^23 - 1/2 24C12   (D) 2^24 - 24C12",
+  "visible_solution_answer": "[Ans.: (C)] (printed)",
+  "uncertainty_note": "No working on the slide; this is the n=24 twin of the H.W. item on p23 (n=20).",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 25,
+  "diby_marker": "# DIBY-03 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-03",
+  "internal_id": "BT-L05-P25-DIBY-03",
+  "prompt_verbatim": "Evaluate the value of expression : ((C0+C1)/C0)((C1+C2)/C1)((C2+C3)/C2) ... ((C(n-1)+Cn)/C(n-1)) (where Cr = (n r) = nCr)",
+  "options": "(A) (n+1)^n/n!   (B) n^(n+1)/(n+1)!   (C) (n+1)^(n-1)/n!   (D) (n+1)^n/(n-1)!",
+  "visible_solution_answer": "[Ans.: (A)] (printed)",
+  "uncertainty_note": "No working; numerator collapses by Property 02 (addition), leaving a telescoping product.",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]
