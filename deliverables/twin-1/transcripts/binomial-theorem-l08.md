@@ -155,3 +155,78 @@ Source: `Binomial Theorem 08 Class Notes.pdf` (46 pages, image-only, no text lay
 **P:** red chip `Question [JEE Mains–2023]`; **25^190 − 19^190 − 8^190 + 2^190 is divisible by**; options **A 34 but not by 14**, **B Both 14 and 34**, **C Neither 14 nor 34**, **D 14 but not by 34** — a yellow/orange tick across box A.
 **H:** a pink arc links the first two powers and another the last two; yellow parity chain at the right: `odd — odd` above, `(odd − even)` in a yellow ring feeding from the two brackets, a yellow arrow to `even`; the pink grouping `(25^190 − 8^190) − (19^190 − 2^190)` inside a **red rectangle**, with pink `div. by (25−8)` and `↧ 17`, and `19 − 2 = 17`.
 **DIBY:** none. **U:** none. (The working proves divisibility by 17; the tick is on A — recorded as drawn.)
+<a id="p24"></a>
+## p24 · JEE MAINS–2023 MCQ: two divisibility statements (H.W.) · label: **Page No. 162**
+**P:** red chip `Question [JEE Mains–2023]`; **Among the statements:** `(S1): 2023^2022 − 1999^2022 is divisible by 8`, `(S2): 13(13)^n − 11n − 13 is divisible by 144 for infinite many n ∈ N.`; options **A Both (S1) and (S2) are incorrect**, **B Only (S1) is correct**, **C Only (S2) is correct**, **D Both (S1) and (S2) are correct** (no tick).
+**H:** yellow ring round **`H.W.`**, double-underlined, right of S2.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p25"></a>
+## p25 · JEE MAINS–2023: remainder of (2023)^2023 ÷ 35 (H.W.) · label: — (no printed label)
+**P:** red chip `Question [JEE Mains–2023]`; **The remainder when (2023)^2023 is divided by 35 is ________.**
+**H:** yellow ring round **`H.W.`**, double-underlined, under the blank.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p26"></a>
+## p26 · FINDING LAST DIGIT(S) — last digit of 3^104 · label: **Page No. 162**
+**P:** section banner chip **FINDING LAST DIGIT(S)** (white rounded card with a clipboard-and-pencil emoji) + smaller red chip **Question**; **Find last digit of 3^104.** (cyan).
+**H:** a pink arrow from the banner to pink `create (10)` (10 ringed); pink `3^104 = (3²)^52 = (10−1)^52 = ⁵²C₀10^52 − C₁10^51 + ⁵²C₂10^50 − … + ⁵²C₅₀10² − ⁵²C₅₁10¹ + ⁵²C₅₂` with the long leading run inside a **red rectangle** and a cyan blob ring round the penultimate term `⁵²C₅₁10¹`; cyan `= 100(I) − 520 + 1` and `= 100(I) − 519` (orange wavy underline on 100(I)); at right orange `100(I) = ~~~ 00` over `− 519` and a wavy rule with a ringed **`81`** — the last two digits, so the last digit is 1.
+**DIBY:** none. **U:** none. (New sub-section marker in the deck; the emoji card is decorative, no register row.)
+
+---
+<a id="p27"></a>
+## p27 · JEE MAINS–2024: product of last two digits of 1919^1919 (H.W.) · label: — (no printed label)
+**P:** red chip `Question [JEE Mains–2024]`; **Product of last two digits of 1919^1919 is ________.**
+**H:** yellow ring round **`H.W.`**; an orange arrow from the printed power down to the opened method orange `(1920 − 1)^1919 = ~~~` and nothing further (the class only sets up the "nearest multiple of 100" trick).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p28"></a>
+## p28 · INTEGRAL & FRACTIONAL PART — (√2+1)^6 = I + f · label: **Page No. 162**
+**P:** section banner **INTEGRAL & FRACTIONAL PART** (white card + clipboard emoji) and chip **Question**; **If (√2 + 1)^6 = I + f where I is integral part & f is fractional part). Then find:** `(i)` **I** `(ii)` **f² + 196f** (cyan) — both item numerals crossed in magenta.
+**H:** magenta `= 197.` after (i); white `= 196.` after (ii); pink expansion `(√2+1)^6 = ⁶C₀(√2)⁶ + C₁(√2) + ⁶C₂(√2)⁴ + C₃(√2)³ + ⁶C₄(√2)² + ⁶C₅√2 + ⁶C₆`; cyan `(√2 − 1)^6 =` left open.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p29"></a>
+## p29 · add the conjugates — 2(⁶C₀2³ + …) = 198 · label: — (no printed label)
+**P:** none.
+**H:** the two expansions repeated, pink `(√2+1)^6 = …` and cyan `(√2−1)^6 = ⁶C₀(√2)⁶ − C₁(√2)⁵ + … `, each with the odd terms `⁶C₁(√2)⁵`, `⁶C₃(√2)³`, `⁶C₅√2` struck through in orange; cyan `add` double-underlined with a long cyan rule; the sum `= 2( ⁶C₀(√2)⁶ + ⁶C₂(√2)⁴ + ⁶C₄(√2)² + ⁶C₆ )` in pink/yellow, an orange arrow down to yellow `= 2( ⁶C₀2³ + ⁶C₂2² + ⁶C₄2 + ⁶C₆ )`, then yellow `= 198` (underlined).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p30"></a>
+## p30 · I + f + G = 198 ⇒ f + G = 1, I = 197 and f² + 196f = 196 · label: — (no printed label)
+**P:** none.
+**H:** green `(√2+1)^6 + (√2−1)^6 = 198`; orange arrows to `I + f + G = 198` with a pink arc over the whole left side feeding a ring labelled **Integer** and magenta `Int.` under 198; right, white `0 ≤ f < 1`, `0 < G < 1`, a rule, `0 < f + G < 2`; pink arcs from both to the central pink `# f + G = 1`; left, orange `I + (f + G)` — the bracket ringed pink with a `1` above — `= 198`, and magenta `I = 197` double-underlined; right, green `(√2+1)^6 × (√2−1)^6 = 1` down to `(I+f)(G) = 1` (G ringed) then `(197 + f)(1 − f) = 1`; centre-bottom white `197 + f − 197f − f² = 1` and a ringed **`196 = f² + 196f`** (the exponent on the first f is faint).
+**DIBY:** none. **U:** 1 — `f²` vs `f` in that last line; the algebra forces the square, and the superscript is present but light.
+
+---
+<a id="p31"></a>
+## p31 · the subtraction variant: f − G = 0 · label: — (no printed label)
+**P:** none.
+**H:** orange `I` (ringed cyan) `+ f − G = 198` (green) with a pink arc over `+ f − G` to a pink **Integer** ring and magenta `Int.`; right white `0 ≤ f < 1`, `0 < G < 1` over a rule; a cyan arc labelled cyan `×(−1)` down to `0 ≤ f < 1`, `−1 < −G < 0`, cyan `add`, rule, `−1 < f − G < 1`; white arcs from the Integer ring and from that last line to white **`# f − G = 0`**.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p32"></a>
+## p32 · method card — add or subtract, then multiply · label: — (no printed label)
+**P:** none.
+**H:** red `# S⁴` at top-left; pink `(a+√b)^n = I + f` and `(a−√b)^n = G` with green arrows into a green ring **add** `or` ring **sub.**; orange arcs up from both rings to orange `as acc. to irr. terms get cancelled.`; orange arcs down to `f + G = 1` (from add) and `f − G = 0` (from sub); below, cyan `# final step: multiplication` beside a **red rectangle** round pink `(a+√b)^n (a−√b)^n`. The cursive word **final** here is written out in full — it is the same token as the abbreviated `fnf`/`fnl` mark seen before a boxed answer on p06 (and in L05), confirming F-30 rather than clashing with the printed `FPF` of p14.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p33"></a>
+## p33 · prove I = 1/(1−f) − f for (5+2√6)^n · label: **Page No. 163**
+**P:** red chip **Question**; **If (5 + 2√6)^n = I + f, where I ∈ N, n ∈ N and 0 ≤ f < 1, then prove that I = 1/(1−f) − f.** (the fraction printed cyan).
+**H:** white `(5+2√6)^n = ⁿC₀5ⁿ + ⁿC₁5^(n-1)(2√6)¹ + ⁿC₂5^(n-2)(2√6)² + …` and `(5−2√6)^n = ⁿC₀5ⁿ − ⁿC₁5^(n-1)(2√6)¹ + ⁿC₂5^(n-2)(2√6)² − …`, each with the `ⁿC₁` term struck through in orange; orange `add` with a long orange rule; orange `(5+2√6)^n + (5−2√6)^n = 2( ⁿC₀5ⁿ + ⁿC₂5^(n-2)2².6¹ + … … )` with a green wavy underline; cyan `I + f` + green `G` = green `I₁`, with a white rule under `f + G` dropping to `1`; white `# f + G = 1`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p34"></a>
+## p34 · multiplication step closes p33 · label: — (no printed label)
+**P:** none.
+**H:** white `(5+2√6)^n · (5−2√6)^n = 1`; orange arcs down to orange `(I+f) G = 1`, an arrow to `(I+f)(1−f) = 1`, an arc to `I = 1/(1−f) − f`; at the right an orange cursive closing annotation that reads as **`hence`** under a small rule (same glyph style as the cyan mark at the foot of p20) — the teacher's proof-completion tag, not a number.
+**DIBY:** none. **U:** 1 — that cursive tag is legible only as `hence`; recorded as a tag, no value.
