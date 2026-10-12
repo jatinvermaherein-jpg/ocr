@@ -198,3 +198,16 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 **P:** red chip **Example**, its right half buried under a printed block of gold star stickers; printed cyan `S = 10C0 11C1 − 10C1 11C2 + 10C2 11C3 − 10C3 11C4 + ……… + 10C10 11C11` — no printed answer and no printed key.
 **H:** cyan `Notes` heading (tick + double underline) over the chip; at the right the first guess `= 21C11` in cyan struck through with a green ✗, and a green elbow arrow down to the corrected `= −10C5`; pink `(1 − x)^10 (1 + x)^11` underneath; white `sum of lower suffix in each term` inside a **red rectangle** — i.e. condition 2 of p21 *is* satisfied (11 each) — with an arrow to a white circle round the exponent `11` in `coeff. of x^11 in (1−x)^10 (1+x)^11`; cyan `(1−x)^10 (1+x)^10 · (1+x)` (wavy underline) → cyan `(1−x²)^10 · (1+x)`; a yellow wavy brace carrying the labels `x^11` over the first factor and `x^0` over the second; green `10C5 (−1)^5 x^10 × 1 x^1 = (−10C5) x^11`; to the right, a green arrow from the general term of `(1−x²)^10` to `10C_r (−1)^r x^{2r}` with `2r` in a circle and a further arrow to `r = 5`. The lesson recorded on the board: equal lower suffixes are not sufficient when the signs alternate — the direct formula (which would have given `21C11`) is crossed out and the coefficient is read out of the product instead.
 **DIBY:** none. **U:** none.
+---
+<a id="p31"></a>
+## p31 · SERIES — # Type-04: Mixed Profile · Question [JEE Mains–2019]: Σ 50C_r · 50−rC_25−r = K·50C25 · label: **Page No. 158**
+**P:** red chip **SERIES** with a clipboard-and-pencil sticker, then a red-outlined tag **# Type-04:** ***Mixed Profile*** — the first slide of the fourth series type; red chip **Question [JEE Mains–2019]**; **If** `Σ_{r=0}^{25} { 50Cr · 50−rC25−r } = K(50C25)`, **then** `K` **is equal to**; red tiles `A 2^25`, `B 2^25 − 1`, `C 2^24`, `D (25)²` (no printed key on this slide).
+**H:** orange hook arrow from the printed summand to the orange expansion `50C0 50C25 + 50C1 49C24 + 50C2 48C23 + … …` — the upper suffixes fall 50, 49, 48 so condition 1 of p21 fails; white parenthetical beside it **`(not a B.B. series fr which direct result can be used)`** (abbreviation `fr` as printed on the board).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p32"></a>
+## p32 · p31 solved by factorial cancellation — K = 2^25 · label: **Page No. 158**
+**P:** reprint of p31's header and question (same chips, same four options, no key).
+**H:** two pink arrows from the printed factors down to pink `50!/(r! (50−r)!) × (50−r)!/((25−r)! 25!)` with green ticks over the terms that survive and a green strike through `(50−r)!`; green `=` then `50!/(25! 25!) · 25!/((25−r)! r!)`, the two fractions ringed in **orange ovals**; orange arrows down to orange `Σ_{r=0}^{25} 50C25 · 25C_r = 50C25 ( Σ_{r=0}^{25} 25C_r ) = 50C25 · 2^25`, with white arrows reading the bracket as `25C0 + 25C1 + … + 25C25` (white, top right) and a white loop arrow into `2^25`; an orange tick drawn through option **A**.
+**DIBY:** none. **U:** none.

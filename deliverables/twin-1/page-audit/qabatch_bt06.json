@@ -418,5 +418,33 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 31,
+  "source_page_label": "Page No. 158",
+  "topic_or_heading": "SERIES Type-04 Mixed Profile opener + JEE-2019 K question; 'not a B.B. series' note",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 32,
+  "source_page_label": "Page No. 158",
+  "topic_or_heading": "p31 solved by factorial cancellation -> K = 2^25 (tick on A, no printed key)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
