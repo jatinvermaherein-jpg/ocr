@@ -21,7 +21,7 @@ All 13 files were verified against the master inventory before work started: pag
 | Binomial Theorem L03 | 35 | **8** (p01–p08) — in progress |
 | Binomial Theorem L04–L09 | 236 | pending |
 | Permutations & Combinations L01–L04 | 164 | pending |
-| **Total** | **508** | **36 (7.1%)** |
+| **Total** | **508** | **81 (16.0%)** |
 
 ## How work is produced (reproducible pipeline)
 ```bash
