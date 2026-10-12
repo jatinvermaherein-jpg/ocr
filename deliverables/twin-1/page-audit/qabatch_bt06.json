@@ -362,5 +362,33 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 27,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Question [JEE Mains-2019] max of Sum 20C_{r-k}20C_k at r = 40/2 = 20 (tick on C, no printed key)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 28,
+  "source_page_label": "Page No. 157",
+  "topic_or_heading": "Question [JEE (Adv.)-2018] X = Sum r(10Cr)^2 -> 10*19C10, X/1430 = 646",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

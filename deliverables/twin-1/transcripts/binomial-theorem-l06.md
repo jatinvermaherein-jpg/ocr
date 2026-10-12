@@ -175,3 +175,15 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 **P:** none — pure board page.
 **H:** green `β = 2n+1C_{n+2}/(n+1)` and orange `α = 2n+1C_{n+1}/(n+1)` (both denominators wavy-underlined); pink `5α = 6β` above a **red rectangle** holding `5 · 2n+1C_{n+1}/(n+1) = 6 · 2n+1C_{n+2}/(n+1)` with each `(n+1)` struck by a white diagonal; white below `5 · (2n+1)!/((n+1)! n!) = 6 × (2n+1)!/((n+2)! (n−1)!)` with orange strikes through both `(2n+1)!`, through `(n+1)!`, `n!`, `(n+2)!`, `(n−1)!` and orange restatements `n(n−1)!`, `(n+2)(n+1)!` under them; an orange arrow left to orange `5/n = 6/(n+2)` → `5n + 10 = 6n` → **`10 = n`** written inside an orange circle.
 **DIBY:** none. **U:** none.
+<a id="p27"></a>
+## p27 · Question [JEE Mains–2019] — r for which Σ 20C_{r−k}·20C_k is maximum · label: — (chip only)
+**P:** red chip **Question [JEE Mains–2019]**; **The value of** `r` **for which** `20Cr · 20C0 + 20C_{r−1} · 20C1 + 20C_{r−2} · 20C2 + ... + 20C0 · 20Cr` **is maximum is ________.** (the sum green, `r` cyan); red tiles `A 15`, `B 10`, `C 20`, `D 11` (no printed key).
+**H:** orange hook arrow from the printed sum to orange `40C_r` with a vertical bar and `max.` below, `⟹ r = 40/2 = 20` — the coefficient of `x^r` in `(1+x)^20 (1+x)^20`, maximal at the middle term; an orange tick drawn through option **C**.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p28"></a>
+## p28 · Question [JEE (Adv.)–2018] — X = Σ r(10C_r)², X/1430 = 646 · label: **Page No. 157**
+**P:** red chip **Question [JEE (Adv.)–2018]**; **Let** `X = (10C1)² + 2(10C2)² + ..... + 10(10C10)²` **where** `r ∈ {1, 2,..., 10}` **&** `10Cr` **denote binomial coefficients. Then the value of** `(1/1430) X` **is ________.** (the expression green, the fraction cyan).
+**H:** orange hook to orange `X = Σ_{r=1}^{10} r · 10C_r · 10C_r`; cyan wavy underline and down arrow onto the identity `r·nC_r = n·n−1C_{r−1}`, giving cyan `X = 10 ( Σ_{r=1}^{10} 9C_{r−1} 10C_r )` with a cyan curl arrow between the two factors, and inside brackets the Vandermonde form in orange `= 10 ( 9C_9 10C_1 + 9C_8 10C_2 + 9C_7 10C_3 + … … + 9C_0 10C_10 )`; cyan `X = 10 (19C_10)`. Top-right in cyan the arithmetic `1/1430 × 10 × 19!/(10! 9!) = 1/143 (19.18.17.16.15.14.^ / 9.8.7.6.5.4.3.2.1)` with the continuation `13.12.11` written above at the right edge, `= 646` double-underlined in cyan.
+**DIBY:** none. **U:** none.
