@@ -175,7 +175,7 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 **DIBY:** none. **U:** 1 — duplicate slide (see F-16).
 <a id="p27"></a>
 ## p27 · SERIES — Type-01 (coefficients multiplied by a constant) · label: **Page No. 155**
-**P:** clipboard icon + red banner **SERIES**; `# Type-01 :` blue **When Binomial Coefficients are multiplied by a constant**; small red chip **Question**; printed blue `1 C_1 + 2 C_2 + 3 C_3 + 4 C_4 + ... + n C_n = _________` (a long blank rule).
+**P:** clipboard icon + red banner **SERIES**; `# Type-01 :` blue **When Binomial Coefficients are multiplied by a constant** — **printed `Coefficents`**, one `i` missing; restored here (see U-26); small red chip **Question**; printed blue `1 C_1 + 2 C_2 + 3 C_3 + 4 C_4 + ... + n C_n = _________` (a long blank rule).
 **H:** cyan `# C_r = nC_r` beside the Question chip (the notation the printed line assumes); white restatement of the problem in full nC form: `1. nC_1 + 2. nC_2 + 3. nC_3 + 4. nC_4 + ... + n. nC_n = ??`.
 **DIBY:** none. **U:** none.
 <a id="p28"></a>
@@ -229,7 +229,7 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 ---
 <a id="p35"></a>
 ## p35 · SERIES Type-02 (coefficients divided by a constant) — proved on the board · label: **Page No. 156**
-**P:** clipboard icon + red banner **SERIES**; `# Type-02:` blue **When Binomial Coefficients are divided by a constant** (green italic); red chip **Question**; printed `Show that : nC_0/1 + nC_1/2 + nC_2/3 + ... + nC_n/(n+1) = (2^{n+1}-1)/(n+1)` (the `C_0/1` denominator pink, the rest green) with a white tick after the RHS.
+**P:** clipboard icon + red banner **SERIES**; `# Type-02:` blue **When Binomial Coefficients are divided by a constant** — again printed **`Coefficents`** (see U-26) (green italic); red chip **Question**; printed `Show that : nC_0/1 + nC_1/2 + nC_2/3 + ... + nC_n/(n+1) = (2^{n+1}-1)/(n+1)` (the `C_0/1` denominator pink, the rest green) with a white tick after the RHS.
 **H:** pink `LHS =`; yellow `SUM_{r=0}^{n} nC_r/(r+1)` with the summand ringed in yellow; yellow arcs to `= SUM_{r=0}^{n} (n+1)C_{r+1}/(n+1)` (Property 05 in reverse) `= (1/(n+1)) [ SUM_{r=0}^{n} (n+1)C_{r+1} ]`, the bracketed sigma looped in **red**; a white arrow out of the red loop to white `= (2^{n+1} - 1)/(n+1)` with a wavy underline; at right a white hand-drawn **cloud** enclosing red `(n+1)C_0 + (n+1)C_1 + (n+1)C_2 + ... + (n+1)C_{n+1}` with a white arrow up to white `2^{n+1}`, and below the cloud white `- (n+1)C_0` with an arrow to `1` (the missing top term that has to be subtracted); bottom-right a white cursive flourish that does not resolve into a word (candidates: `Ans.`, `fine`, or a pen flourish) — recorded, not interpreted.
 **DIBY:** none. **U:** 1 — the unresolvable cursive at bottom-right.
 
