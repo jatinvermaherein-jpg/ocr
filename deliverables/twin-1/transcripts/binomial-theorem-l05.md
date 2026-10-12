@@ -66,3 +66,43 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 **P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-09`; **The coefficient of** `x⁴⁹` **in the expansion of (x − 1)(x − 1/2)(x − 1/2²) … (x − 1/2⁴⁹) is equal to –** ; options `(A) −2(1 − 1/2⁵⁰)`, `(B) +ve coefficient of x`, `(C) −ve coefficient of x`, `(D) −2(1 − 1/2⁴⁹)`; key **[Ans.: (A)]**.
 **H:** white, to the right of option D: `H.W.` written inside a hand-drawn circle with a double underline and a small ring at each side — the item is set as homework, not solved in class.
 **DIBY:** YES — printed label `DIBY-09` (`BT-L05-P10-DIBY-09`), **unresolved in this file** (homework). **U:** 1 — if a later lecture (L06+) discusses this item it must be cross-linked, as was done for L02 p22 → L03 p08.
+<a id="p11"></a>
+## p11 · Question [JEE Mains–2022] — greatest 9th term, then k + n₀ · label: **Page No. 153**
+**P:** red chip **Question [JEE Mains–2022]**; **Let for the** `9ᵗ` **term in the binomial expansion of (3 + 6x)ⁿ, in the increasing powers of** `6x`**, to be the greatest for** `x = 3/2`**, the least value of** `n` **is** `n₀`**. If** `k` **is the ratio of the coefficient of** `x⁶` **to the coefficient of** `x³`**, then** `k + n₀` **is equal to** — `9ᵗℎ` printed inside a white ring, `(3 + 6x)ⁿ` green, `x = 3/2` yellow, `n₀`/`k + n₀` cyan.
+**H:** pink ` (3+6x)ⁿ , T → greatest` with a pink elbow to `r = 8`; cyan `a = 3`, `b = 6(3/2) = 9` (the `3/2` underlined) and `a/b = 3/9 = 1/3`; inside a **red rectangle** the greatest-term inequality `3(n+1)/4 − 1 ≤ 8 ≤ 3(n+1)/4` with the cyan `8` and pink arcs over the two `≤`, the left fraction ringed in pink; below, the two halves solved — `3n+3)/4 ≤ 9 ↷ 3n ≤ 33 ↷ n ≤ 11` (white) and `32 ≤ 3n+3 ↷ 29/3 ≤ n` (cyan) with pink `9.6` written over `29/3`; pink `29/3 ≤ n ≤ 11 ↷ n = 10, 11` with `10` ringed and labelled `n₀`; right half, yellow ` (3+6x)¹⁰ → Tᵣ₊₁ = ¹⁰Cᵣ 3¹⁰⁻ʳ · 6ʳ x`, then `coeff of x⁶ / coeff of x³ = ¹⁰C₆ 3⁴ 6⁶ ⁄ ¹C₃ 3⁷6³` with `3⁴` and `3⁷` struck, = **`K = 14`** inside a large yellow ring; top-right yellow `14 + 10 = 24` with `24` ringed and the cursive tag `fnf` beside it (the recurring unexplained mark, U-02).
+**DIBY:** none. **U:** 1 — the yellow cursive after the ringed `24` is the same `fnf` scribble seen in L02 p29/L03; still unresolved (U-02 ledger grows by one).
+
+---
+<a id="p12"></a>
+## p12 · LAST CLASS RECAP — Properties 01, 02, 03 with the blanks filled in · label: — (chip only)
+**P:** clipboard icon + red banner **LAST CLASS RECAP**; green `# Property – 01 :` then `(i) ⁿCᵣ = Cₙ₋`, `(ii) If ⁿCₓ = ⁿCᵧ then:` followed by **two empty red rectangles** separated by printed `OR`; green `# Property – 02 :` white **Addition of Binomial coefficient** above an **empty red rectangle**; green `# Property – 03 :` blue **Hockey-Stick Identity** above white `ᵐCₘ + ⁺¹Cₘ + ᵐ⁺²C + …… + ᵐ⁺ᵏCₘ =` (right-hand side left blank).
+**H:** pink inside the first red box `x = y` (long `y` descender) and inside the second `x + y = n`; cyan a bent arrow from the Property-02 heading into its box, which reads `ⁿCᵣ + ⁿCᵣ₋₁ = ⁿ⁺¹Cᵣ`; cyan completing Property 03: `ᵐ⁺ᵏ⁺¹Cₘ₊₁`.
+**DIBY:** none. **U:** none. (This is the recap of L04 p29–p35; the printed blanks match L04's rule cards.)
+
+---
+<a id="p13"></a>
+## p13 · RAPID FIRE QUESTION — Σ ²C₀+³C₁+…+¹³C₁₁ = ¹⁴C₃ · label: — (chip only)
+**P:** red chip **RAPID FIRE QUESTION** (a third header variant — neither *DIBY'S* nor *ROUND*, and no `# DIBY-nn` tag, so no register row); white **Find :** `²C₀ + ³C₁ + ⁴C₂ + ⁵C₃ + …… + ¹³C₁₁ =` (blue terms) and below it white `or` `²C₂ + ³C₂ + ⁴C₂ + ⁵C₂ + …… + ¹³C₂ =`.
+**H:** yellow `¹⁴C₃` written into both answer blanks; five long yellow arcs rising from each `ⁿC₂` of the lower line to the matching term of the upper line (the symmetry rewrite); white `²C₂` ringed, then `³C₃ + ³C₂` over a wavy underline, `↷ ⁴C₃ + ⁴C₂ = ⁵C₃ + ⁵C₂ = ⁶C₃ …` with white arrows from the `⁴C₂` and `⁵C₂` above, the chain trailing off in dashes — the collapse is left unfinished on the board.
+**DIBY:** none (unnumbered rapid-fire). **U:** none.
+
+---
+<a id="p14"></a>
+## p14 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 04 (r disappears from the numerator) · label: **Page No. 154**
+**P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `# Property – 04 :` blue **Jab r ko numerator (multiplication) se gayab krna ho** (the `r` in yellow) — Hinglish for "when you have to remove r from the numerator by multiplying".
+**H:** a red rectangle framed by a border of gold star stickers, with a pink `#` at its left; inside, orange `r. ⁿC` `=` green `n. ⁿ⁻¹Cᵣ₋₁`; a cyan arrow down from the starred box to the proof in cyan `r · n!⁄(r!(n−r)!)`, with `r!` expanded underneath to `r.(r−1)!` and the standalone `r` struck out, a cyan arc to `n.(n−1)!⁄((r−1)!((n−1)−(r−1))!)`, that whole right-hand fraction looped twice in green and `(n−r)!` written at the bottom of the loop.
+**DIBY:** none. **U:** none. (Property numbering continues past L04's 01–03: this deck adds 04 and 05.)
+
+---
+<a id="p15"></a>
+## p15 · Property 04 — three worked examples on the board · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** pink at top `r . ⁿCᵣ = n . ⁿ⁻¹C₋₁` with **both `r`s ringed in cyan**; pink `ex:` double-underlined; ① pink `7` (double-underlined) `.` cyan `¹³C₇` (the subscript 7 double-underlined) `= 13 . ¹²C₆` with a cyan tick; ② pink `23` (double-underlined) `.` cyan `⁵⁸C₂` (subscript double-underlined) `= 58 . ⁵⁴C₂₂` with a cyan tick; ③ pink/cyan `8 . ¹¹C₃ = 8 . ¹¹C₈ = 11 . ¹⁰C₇` with two crossing cyan arrows between the `₃` and the `₈` (the symmetry swap) and a cyan tick.
+**DIBY:** none. **U:** 1 — example ② writes the right-hand coefficient as `⁵⁴C₂₂`; the property with n = 58, r = 23 gives `58 . ⁵⁷C₂₂`, so either the superscript or the teacher's slip is wrong in the writing; transcribed exactly as on the board.
+
+---
+<a id="p16"></a>
+## p16 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 05 (r disappears from the denominator) · label: **Page No. 154**
+**P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `# Property – 05 :` blue **Jab r ko denominator (division) se gayab krna ho** (the `r` in yellow).
+**H:** a white hand-drawn **cloud** enclosing the identity `ⁿCᵣ⁄(r+1) = ⁿ⁺¹Cᵣ₊₁⁄(n+1)`; pink at lower left `ex:` double-underlined with `¹⁵C₇⁄8 = ¹⁶C₈⁄16`, the `7` ringed and the `8` ringed, wavy underline under the denominator `16`; at right yellow `# P-04` above `(r+1) . ⁿ⁺¹Cᵣ₊₁ = (n+1) . ⁿCᵣ` (`r+1` and `n+1` double-underlined, a small arrow hooking up from under `n+1`), and below it the divided form `ⁿ⁺¹C₊₁⁄(n+1) = ⁿCᵣ⁄(r+1)` — Property 05 derived from Property 04.
+**DIBY:** none. **U:** none.
