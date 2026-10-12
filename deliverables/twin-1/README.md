@@ -20,9 +20,10 @@ All 13 files were verified against the master inventory before work started: pag
 | Binomial Theorem L02 | 40 | **40 ✅** (incl. printed DIBY-01…DIBY-06) |
 | Binomial Theorem L03 | 35 | **35 ✅** (incl. two printed DIBY blocks, 01…05 and 01…12) |
 | Binomial Theorem L04 | 46 | **46 ✅** (Hockey-Stick property, RAPID FIRE ROUND, printed DIBY blocks 01…08 / 07…09 / 13…27) |
-| Binomial Theorem L05–L09 | 190 | pending |
+| Binomial Theorem L05 | 38 | 26/38 (in progress: Properties 04/05/06, two rapid-fire blocks, JEE Main 2022/2024 + AIEEE-2007) |
+| Binomial Theorem L06–L09 | 152 | pending |
 | Permutations & Combinations L01–L04 | 164 | pending |
-| **Total** | **508** | **154 (30.3%) (21.3%)** |
+| **Total** | **508** | **180 (35.4%)** |
 
 ## How work is produced (reproducible pipeline)
 ```bash

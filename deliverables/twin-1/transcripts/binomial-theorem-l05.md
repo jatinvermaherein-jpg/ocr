@@ -1,6 +1,8 @@
 # Binomial Theorem — Lecture 05 (Class Notes) · Twin 1 transcript
 Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text layer). Every page below was read visually from the render in `work/pages/bt05_pNN.png`. Page keys are PDF page numbers; the printed `Page No.` label, when present, is quoted in the header line.
 
+> **Notation note (F-19).** This file was authored with Unicode superscripts/subscripts, and a few trailing subscript glyphs were dropped while typing (e.g. `14C14` appearing as `14C1`). Repairs were applied where they could be detected from context, and the affected passages were re-read against the renders. Machine-usable data is unaffected: the DIBY register (`../diby/diby_rows.json`, `../diby_index_twin1.csv`) and the page audit CSV use plain ASCII math. New transcript text from L05 onwards should prefer ASCII math (`nC_r`, `24C12`) for exactly this reason.
+
 <a id="p01"></a>
 ## p01 · Course title card — Arjun JEE 2027, Lecture 05 · label: — (PW roundel)
 **P:** poster art, giant yellow **ARJUN** cracked by a silver arrow, white/silver **2027**; black banner **Lecture –05** | **Mathematics**; on the amber panel **BINOMIAL THEOREM**; maroon capsule **By– Sachin Jakhar Sir**. Teacher photographed right in a black "Physics Wallah" polo, three-finger salute; compass + pencil props bottom-left.
@@ -43,7 +45,7 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 <a id="p07"></a>
 ## p07 · RAPID FIRE DIBY'S — DIBY-04 (printed) + board solution · label: — (chip only)
 **P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-04`; **If** `aᵣ` **denotes the coefficient of** `xʳ` **in the expansion of (1 − x)²ⁿ⁻¹, then the value of** `aᵣ₋₁ + a₂ₙ₋ᵣ =` **is.** — the printed `=` before "is" is **struck out twice in orange** (a correction on the slide itself); options `(A) −1`, `(B) 1`, `(C) 2aᵣ`, `(D) 0`; key **[Ans.: (D)]**.
-**H:** orange arrow from the printed `aᵣ₋₁` down to the orange expansion `²ⁿ⁻¹Cₙ₋₁(−1)ʳ⁻¹ + ²ⁿ⁻¹C₂ₙ₋(−1)²⁻ʳ` — both binomial coefficients ringed in cyan and joined by a cyan arc (the symmetry ²ⁿ⁻¹C₋₁ = ²ⁿ⁻¹C₂ₙ₋); pink `Tₕ₊₁ =` with a red box round `²ⁿ⁻¹C(−1)` and `x` outside it, a pink arrow from the printed `(1 − x)²ⁿ⁻¹` into the box and an orange `aᵣ` label hanging below it; cyan the finishing line `²ⁿ⁻¹Cᵣ₋₁ { −(−1)ʳ + 1/(−1)ʳ } = −((−1)²ʳ+1)/(−1)ʳ = (−1+1)/(−1)ʳ = 0`, with a `1` written above a cyan circle round `(−1)²ʳ` and a long cyan stroke out of the braces down to a lone `0`.
+**H:** orange arrow from the printed `aᵣ₋₁` down to the orange expansion `²ⁿ⁻¹Cₙ₋₁(−1)ʳ⁻¹ + ²ⁿ⁻¹C₂ₙ₋(−1)²⁻ʳ` — both binomial coefficients ringed in cyan and joined by a cyan arc (the symmetry ²ⁿ⁻¹C₋₁ = ²ⁿ⁻¹C₂ₙ₋); pink `T_{h+1} =` with a red box round `²ⁿ⁻¹Cᵣ(−1)ʳ` and `xʳ` outside it, a pink arrow from the printed `(1 − x)²ⁿ⁻¹` into the box and an orange `aᵣ` label hanging below it; cyan the finishing line `²ⁿ⁻¹Cᵣ₋₁ { −(−1)ʳ + 1/(−1)ʳ } = −((−1)²ʳ+1)/(−1)ʳ = (−1+1)/(−1)ʳ = 0`, with a `1` written above a cyan circle round `(−1)²ʳ` and a long cyan stroke out of the braces down to a lone `0`.
 **DIBY:** YES — printed label `DIBY-04` (`BT-L05-P07-DIBY-04`). **U:** 1 — p06→p07 jumps DIBY-01→DIBY-04 because this file carries **two overlapping rapid-fire blocks** (amended once p24/p25 were read, which print `DIBY-01/02/03` again): the label is not unique inside L05, let alone across lectures (F-14).
 
 ---
@@ -97,14 +99,14 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 <a id="p15"></a>
 ## p15 · Property 04 — three worked examples on the board · label: — (no header, board slide)
 **P:** none — pure board page.
-**H:** pink at top `r . ⁿCᵣ = n . ⁿ⁻¹C₋₁` with **both `r`s ringed in cyan**; pink `ex:` double-underlined; ① pink `7` (double-underlined) `.` cyan `¹³C₇` (the subscript 7 double-underlined) `= 13 . ¹²C₆` with a cyan tick; ② pink `23` (double-underlined) `.` cyan `⁵⁸C₂` (subscript double-underlined) `= 58 . ⁵⁴C₂₂` with a cyan tick; ③ pink/cyan `8 . ¹¹C₃ = 8 . ¹¹C₈ = 11 . ¹⁰C₇` with two crossing cyan arrows between the `₃` and the `₈` (the symmetry swap) and a cyan tick.
-**DIBY:** none. **U:** 1 — example ② writes the right-hand coefficient as `⁵⁴C₂₂`; the property with n = 58, r = 23 gives `58 . ⁵⁷C₂₂`, so either the superscript or the teacher's slip is wrong in the writing; transcribed exactly as on the board.
+**H:** pink at top `r . ⁿCᵣ = n . ⁿ⁻¹C₋₁` with **both `r`s ringed in cyan**; pink `ex:` double-underlined; ① pink `7` (double-underlined) `.` cyan `¹³C₇` (the subscript 7 double-underlined) `= 13 . ¹²C₆` with a cyan tick; ② pink `23` (double-underlined) `.` cyan `⁵⁸C₂₃` (subscript double-underlined) `= 58 . ⁵⁴C₂₂` with a cyan tick; ③ pink/cyan `8 . ¹¹C₃ = 8 . ¹¹C₈ = 11 . ¹⁰C₇` with two crossing cyan arrows between the `₃` and the `₈` (the symmetry swap) and a cyan tick.
+**DIBY:** none. **U:** 1 — example ②'s right-hand superscript reads as `54` (`⁵⁴C₂₂`) but Property 04 with n = 58, r = 23 requires `57`; this is the open-top/crossed 7-vs-4 hazard (U-06, U-18), so the most likely reading is `57`. Transcribed as drawn with the flag, not silently corrected.
 
 ---
 <a id="p16"></a>
 ## p16 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 05 (r disappears from the denominator) · label: **Page No. 154**
 **P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `# Property – 05 :` blue **Jab r ko denominator (division) se gayab krna ho** (the `r` in yellow).
-**H:** a white hand-drawn **cloud** enclosing the identity `ⁿCᵣ⁄(r+1) = ⁿ⁺¹Cᵣ₊₁⁄(n+1)`; pink at lower left `ex:` double-underlined with `¹⁵C₇⁄8 = ¹⁶C₈⁄16`, the `7` ringed and the `8` ringed, wavy underline under the denominator `16`; at right yellow `# P-04` above `(r+1) . ⁿ⁺¹Cᵣ₊₁ = (n+1) . ⁿCᵣ` (`r+1` and `n+1` double-underlined, a small arrow hooking up from under `n+1`), and below it the divided form `ⁿ⁺¹C₊₁⁄(n+1) = ⁿCᵣ⁄(r+1)` — Property 05 derived from Property 04.
+**H:** a white hand-drawn **cloud** enclosing the identity `ⁿCᵣ⁄(r+1) = ⁿ⁺¹Cᵣ₊₁⁄(n+1)`; pink at lower left `ex:` double-underlined with `¹⁵C₇⁄8 = ¹⁶C₈⁄16`, the `7` ringed and the `8` ringed, wavy underline under the denominator `16`; at right yellow `# P-04` above `(r+1) . ⁿ⁺¹Cᵣ₊₁ = (n+1) . ⁿCᵣ` (`r+1` and `n+1` double-underlined, a small arrow hooking up from under `n+1`), and below it the divided form `ⁿ⁺¹Cᵣ₊₁⁄(n+1) = ⁿCᵣ⁄(r+1)` — Property 05 derived from Property 04.
 **DIBY:** none. **U:** none.
 <a id="p17"></a>
 ## p17 · board rule-card — even/odd coefficient sums inside a blue cloud · label: — (no header, board slide)
@@ -129,14 +131,14 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 ---
 <a id="p20"></a>
 ## p20 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 06 printed (i)(ii)(iii) with three blanks · label: **Page No. 155**
-**P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `Property – 06` (no `#` here, unlike p18); `(i)` blue **Sum of all binomial coefficients** `∑_{r=0}^{n} ⁿC = ⁿC₀ + C₁ + ⁿC₂ + …… + ⁿCₙ = ___`; `(ii)` blue **Sum of all coefficients with alternate signs** `∑_{r=0}^{n} (−1)ʳ·ⁿCᵣ = C₀ − ⁿC₁ + ⁿC₂ − …… + (−1)ⁿ·ⁿCₙ = ___`; `(iii)` blue **Sum of coefficients having ever or odd lower suffix** `C₀ + C₂ + C₄ + …… = C₁ + C₃ + C₅ + …… = ___`.
+**P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `Property – 06` (no `#` here, unlike p18); `(i)` blue **Sum of all binomial coefficients** `∑_{r=0}^{n} ⁿCᵣ = ⁿC₀ + ⁿC₁ + ⁿC₂ + …… + ⁿCₙ = ___`; `(ii)` blue **Sum of all coefficients with alternate signs** `∑_{r=0}^{n} (−1)ʳ·ⁿCᵣ = ⁿC₀ − ⁿC₁ + ⁿC₂ − …… + (−1)ⁿ·ⁿCₙ = ___`; `(iii)` blue **Sum of coefficients having ever or odd lower suffix** `ⁿC₀ + ⁿC₂ + ⁿC₄ + …… = ⁿC₁ + ⁿC₃ + ⁿC₅ + …… = ___`.
 **H:** orange into the three blanks: `2ⁿ`, `0`, `2ⁿ⁻¹`.
 **DIBY:** none. **U:** 1 — (iii) prints **`ever`** for *even* (same class of typo as L03's `IVRTTATIONAL`); transcribed as printed.
 
 ---
 <a id="p21"></a>
 ## p21 · RAPID FIRE ROUND — six n = 14 sums, four answered · label: — (chip only)
-**P:** red chip **RAPID FIRE ROUND**; six items in blue: `1. ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + …… + ¹⁴C₁₄ =`, `2. ¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + …… + ¹⁴C₁₄ =`, `3. ¹⁴C₂ + ¹⁴C₃ + ¹⁴C₄ + …… + ¹⁴C₁₃ =`, `4. ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + …… + ¹⁴C₆ =`, `5. ¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + …… + ¹⁴C₆ =`, `6. ¹⁴C₀ + ¹⁴C₂ + ¹⁴C₄ + …… + ¹⁴C₁ =`.
+**P:** red chip **RAPID FIRE ROUND**; six items in blue: `1. ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + …… + ¹⁴C₁₄ =`, `2. ¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + …… + ¹⁴C₁₄ =`, `3. ¹⁴C₂ + ¹⁴C₃ + ¹⁴C₄ + …… + ¹⁴C₁₃ =`, `4. ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + …… + ¹⁴C₆ =`, `5. ¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + …… + ¹⁴C₆ =`, `6. ¹⁴C₀ + ¹⁴C₂ + ¹⁴C₄ + …… + ¹⁴C₁₄ =`.
 **H:** yellow answers with white ticks against 1, 2, 3 and 6 — 1 `2¹⁴`; 2 the word `zero` (the `z` crossed, so it reads `ẑero`); 3 `2¹⁴ − (¹⁴C₀ + ¹⁴C₁ + ¹⁴C₁₄) = 2¹⁴ − 16`; 6 `2¹⁴⁻¹ = 2¹³`. Items **4** and **5** are left blank here and solved on p22.
 **DIBY:** none (RAPID FIRE ROUND carries no `# DIBY-nn` tags, see F-15). **U:** none.
 
@@ -144,7 +146,7 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 <a id="p22"></a>
 ## p22 · RAPID FIRE ROUND — items 4 and 5 solved (half of the sum, minus the middle term) · label: — (chip only)
 **P:** red chip **RAPID FIRE ROUND**; the blue text of items 4 and 5 reprinted unchanged from p21 (`¹⁴C₀ + … + ¹⁴C₆ =` and `¹⁴C₀ − ¹⁴C₁ + … − ¹⁴C₃ + …… + ¹⁴C₆ =`).
-**H:** gold star stickers clustered beside each item number (two above and one below `4.`; one above and three below `5.`); yellow brace over item 4's left-hand side labelled yellow **`Half - Bino. Coeff`**, with a long cyan arrow up to the cyan working at the top of the slide: `2¹⁴ = ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + … ¹⁴C₆ + ¹⁴C₇ + … ¹⁴C₁₂ + ¹⁴C₁₃ + ¹⁴C₁₄`, where the middle term `¹⁴C₇` is ringed in **pink** (yellow arrow down onto it), the last term `¹⁴C₁` ringed in **green**, and green arrows fold `¹⁴C₁₂ → ¹⁴C₂`, `¹⁴C₁ → ¹⁴C₁`, `¹⁴C₁ → ¹⁴C₀` (each paired subscript double-underlined, orange `*` marks under the `¹⁴C₂` and near `¹⁴C₁₂`), the pink `¹⁴C₇` folding to a pink `¹⁴C₆`-column partner; pink answer under item 4 `(2¹⁴ − ¹⁴C₇)/2` with a wavy rule. Item 5: a pink arrow from its `=` to the answer `½ · ¹⁴C₇`; below, the cyan/white alternating row `¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + … + ¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈ … + ¹⁴C₁₂ − ¹⁴C₁₃ + ¹⁴C₁ = 0` with the group `¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈` ringed in pink (white tick over `¹⁴C₁₄`), and the pink conclusion `2{¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − … … + ¹⁴C₆} − ¹⁴C₇ = 0`.
+**H:** gold star stickers clustered beside each item number (two above and one below `4.`; one above and three below `5.`); yellow brace over item 4's left-hand side labelled yellow **`Half - Bino. Coeff`**, with a long cyan arrow up to the cyan working at the top of the slide: `2¹⁴ = ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + … ¹⁴C₆ + ¹⁴C₇ + … ¹⁴C₁₂ + ¹⁴C₁₃ + ¹⁴C₁₄`, where the middle term `¹⁴C₇` is ringed in **pink** (yellow arrow down onto it), the last term `¹⁴C₁` ringed in **green**, and green arrows fold `¹⁴C₁₂ → ¹⁴C₂`, `¹⁴C₁₃ → ¹⁴C₁`, `¹⁴C₁₄ → ¹⁴C₀` (each paired subscript double-underlined, orange `*` marks under the `¹⁴C₂` and near `¹⁴C₁₂`), the pink `¹⁴C₇` folding to a pink `¹⁴C₆`-column partner; pink answer under item 4 `(2¹⁴ − ¹⁴C₇)/2` with a wavy rule. Item 5: a pink arrow from its `=` to the answer `½ · ¹⁴C₇`; below, the cyan/white alternating row `¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + … + ¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈ … + ¹⁴C₁₂ − ¹⁴C₁₃ + ¹⁴C₁ = 0` with the group `¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈` ringed in pink (white tick over `¹⁴C₁₄`), and the pink conclusion `2{¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − … … + ¹⁴C₆} − ¹⁴C₇ = 0`.
 **DIBY:** none. **U:** 1 — the pink-ringed middle subscript is the ambiguous crossed glyph and could be read `⁸`; the written answer `(2¹⁴ − ¹⁴C₇)/2` fixes it as `7` (U-06/U-18 ledger).
 <a id="p23"></a>
 ## p23 · Question [AIEEE–2007] — ²⁰C₀ − ²⁰C₁ + … + ²⁰C₁₀ (tagged DIBY + H.W. by hand) · label: **Page No. 155**
@@ -155,7 +157,7 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 ---
 <a id="p24"></a>
 ## p24 · RAPID FIRE DIBY'S — DIBY-01, DIBY-02 (printed, Σ of half the row) · label: — (chip only)
-**P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-01` **The value of the sum** `∑_{r=0}^{11} ²³C` **is :** options `(A) 2³ (B) 2² (C) 2¹¹ (D) 2²² − 1`, key **[Ans.: (B)]**; green tag `# DIBY-02` **The value of the sum** `∑_{r=0}^{11} ⁴Cᵣ` **is :** options `(A) 2²³ (B) 2²³ − ⁴C₁₂ (C) 2²³ − ½ ⁴C₁₂ (D) 2²⁴ − ⁴C₁₂`, key **[Ans.: (C)]**.
+**P:** red chip **RAPID FIRE DIBY'S**; green tag `# DIBY-01` **The value of the sum** `∑_{r=0}^{11} ²³C` **is :** options `(A) 2²³ (B) 2²² (C) 2¹¹ (D) 2²² − 1`, key **[Ans.: (B)]**; green tag `# DIBY-02` **The value of the sum** `∑_{r=0}^{11} ⁴Cᵣ` **is :** options `(A) 2²³ (B) 2²³ − ⁴C₁₂ (C) 2²³ − ½ ⁴C₁₂ (D) 2²⁴ − ⁴C₁₂`, key **[Ans.: (C)]**.
 **H:** none — no board work on this slide; the p19/p22 half-sum machinery is the intended route.
 **DIBY:** YES — printed labels `DIBY-01`, `DIBY-02` (`BT-L05-P24-DIBY-01`, `BT-L05-P24-DIBY-02`). **U:** 1 — **`DIBY-01` is printed twice inside this same lecture** (p06's (a−b)ⁿ A.P. item and this Σ-item), so the label alone is not a unique key even within one file; register IDs are page-qualified.
 
@@ -169,5 +171,5 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 <a id="p26"></a>
 ## p26 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 04: **exact duplicate of p14** · label: **Page No. 154**
 **P:** identical to p14 — clipboard icon + banner **PROPERTIES OF BINOMIAL COEFFICIENT**, green `# Property – 04 :` blue **Jab r ko numerator (multiplication) se gayab krna ho**.
-**H:** identical to p14, line for line (the star-framed red box `r. ⁿCᵣ = n. ⁿ⁻¹C₋₁` and the cyan proof with the green double loop). The two renders are **byte-identical** (same MD5), so this is a duplicated page inside the source PDF, not a re-explained board: recorded as such rather than transcribed twice.
+**H:** identical to p14, line for line (the star-framed red box `r. ⁿCᵣ = n. ⁿ⁻¹C₋₁` and the cyan proof with the green double loop). Checked by pixel comparison rather than by eye: the two renders differ in only ~0.01 % of sampled pixels, all of them inside the central content box (bbox 360,253-1080,747), so this is the same slide re-embedded in the PDF rather than a second writing of it. Transcribed as a delta against p14; both pages keep their own audit row (F-16).
 **DIBY:** none. **U:** 1 — duplicate slide (see F-16).
