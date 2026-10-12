@@ -446,5 +446,19 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 33,
+  "source_page_label": "Page No. 158",
+  "topic_or_heading": "Challenger Question Sum 1000Cr/2019Cr - hockey-stick id, ends at 2020C1020/2019C1019",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
