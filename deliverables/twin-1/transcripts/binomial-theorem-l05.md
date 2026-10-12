@@ -173,3 +173,92 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 **P:** identical to p14 — clipboard icon + banner **PROPERTIES OF BINOMIAL COEFFICIENT**, green `# Property – 04 :` blue **Jab r ko numerator (multiplication) se gayab krna ho**.
 **H:** identical to p14, line for line (the star-framed red box `r. ⁿCᵣ = n. ⁿ⁻¹C₋₁` and the cyan proof with the green double loop). Checked by pixel comparison rather than by eye: the two renders differ in only ~0.01 % of sampled pixels, all of them inside the central content box (bbox 360,253-1080,747), so this is the same slide re-embedded in the PDF rather than a second writing of it. Transcribed as a delta against p14; both pages keep their own audit row (F-16).
 **DIBY:** none. **U:** 1 — duplicate slide (see F-16).
+<a id="p27"></a>
+## p27 · SERIES — Type-01 (coefficients multiplied by a constant) · label: **Page No. 155**
+**P:** clipboard icon + red banner **SERIES**; `# Type-01 :` blue **When Binomial Coefficients are multiplied by a constant**; small red chip **Question**; printed blue `1 C_1 + 2 C_2 + 3 C_3 + 4 C_4 + ... + n C_n = _________` (a long blank rule).
+**H:** cyan `# C_r = nC_r` beside the Question chip (the notation the printed line assumes); white restatement of the problem in full nC form: `1. nC_1 + 2. nC_2 + 3. nC_3 + 4. nC_4 + ... + n. nC_n = ??`.
+**DIBY:** none. **U:** none.
+<a id="p28"></a>
+## p28 · Type-01 solved by Property 04 (board) · label: — (no header, board slide)
+**P:** none; the white restatement `1. nC_1 + 2. nC_2 + 3. nC_3 + 4. nC_4 + ... + n. nC_n = ??` is re-quoted at the top inside a **red rectangle** (same box as p29/p30).
+**H:** orange `LHS = SUM_{h=1}^{n} r. nC_r` — the summand ringed in cyan and the lower limit written so it reads `h=1` where `r=1` is meant; orange arc to cyan `= SUM_{r=1}^{n} n. n-1C_{r-1}` (Property 04 substituted, a green arc drawn over the sigma); cyan `= n SUM_{r=1}^{n} n-1C_{r-1}` with that whole sigma looped in green; green `= n. 2^{n-1}` at the right edge; green below, the justification row `n-1C_0 + n-1C_1 + n-1C_2 + ... + n-1C_{n-1}` with double-underscores under the first and last denominators (i.e. the sum is 2^{n-1} by Property 06).
+**DIBY:** none. **U:** none. (Answer n·2^{n-1} is written, matching the standard result.)
+
+---
+<a id="p29"></a>
+## p29 · Type-01 solved by differentiation, method M-2 (board) · label: — (no header, board slide)
+**P:** none — the same red-boxed problem line at the top (identical to p28/p30).
+**H:** orange `# M-2:` double-underlined at left; cyan `(1+x)^n = nC_0 + nC_1 x + nC_2 x^2 + nC_3 x^3 + ... + nC_n x^n` with orange underbraces beneath C_0, C_1, C_2, C_3 and the last term; green `differentiate both sides w.r.to x:` underlined in green; yellow `n(1+x)^{n-1} = 0 + nC_1.(1) + nC_2.(2x) + nC_3(3x^2) + ... + nC_n. n. x^{n-1}` with a pink double-underline under `(1+x)`; a pink arrow out of that line into a pink circle `x=1`; pink conclusion `n. 2^{n-1} = 1. nC_1 + 2. nC_2 + 3. nC_3 + ... + n. nC_n` (the same value as p28, reached by calculus).
+**DIBY:** none. **U:** none — but see p30, which is this slide one stroke-set earlier (F-20).
+
+---
+<a id="p30"></a>
+## p30 · p29 again, without the last two pink lines (duplicate slide) · label: — (no header, board slide)
+**P:** none.
+**H:** byte-for-byte the same board as p29 up to `n(1+x)^{n-1} = 0 + nC_1.(1) + nC_2.(2x) + nC_3(3x^2) + ... + nC_n.n.x^{n-1}` — the pink `x=1` circle and the pink conclusion line are **absent**. Pixel comparison of the two renders: ~1.6 % of sampled pixels differ, spread over the whole frame (a small offset), i.e. the same slide captured at an earlier writing stage and re-embedded. Not transcribed twice; recorded as a deck duplicate (F-20).
+**DIBY:** none. **U:** 1 — duplicate/near-duplicate slide pair.
+
+---
+<a id="p31"></a>
+## p31 · Type-01 harder variant `SUM r(r+1) nC_r` — method M-1 begins (board) · label: — (no header, board slide)
+**P:** none. A cluster of **13 gold star stickers** sits at the top-left (difficulty marker, 5+3+... rows).
+**H:** the problem in white with pink multipliers: `1.2. nC_1 + 2.3. nC_2 + 3.4. nC_3 + 4.5. nC_4 + ... + n.(n+1) nC_n = ??`; pink `M-1:` double-underlined under the stars; a yellow arc down to yellow `SUM_{r=1}^{n} r(r+1). nC_r` (with `r(r+1)` double-underlined); cyan `= n SUM_{r=1}^{n} (r+1). n-1C_{r-1}` (yellow arc into the `n` factor, a cyan arrow down to the next line); cyan `((r-1) + 2) n-1C_{r-1}` with two yellow arrows hooking from the `r-1` and the `2`; cyan/yellow `= n SUM_{r=1}^{n} (r-1) n-1C_{r-1} + 2 n-1C_{r-1}` with the first summand ringed in green, a green arrow down to green `(n-1) n-2C_{r-2}`; the right half `= n SUM_{r=1}^{n} (n-1). n-2C_{r-2} + n SUM_{r=1}^{n} 2. n-1C_{r-1}` in green. The slide stops mid-derivation (no value yet).
+**DIBY:** none. **U:** none (completed on p32).
+
+---
+<a id="p32"></a>
+## p32 · p31 finished — and the `fnf` tag used as a final-answer label · label: — (no header, board slide)
+**P:** none — the same star cluster and the same white/pink problem line as p31 (identical strokes; this is the continuation slide of the same board).
+**H:** pink `M-1:` at left; green `= n(n-1)` (the `n(n-1)` in pink with a pink underline) then a **red box** round green `SUM_{r=2}^{n} n-2C_{r-2}`, `+ 2n` and a second **red box** round green `SUM_{r=1}^{n} n-1C_{r-1}`; a yellow arrow from the first box to yellow `( n-2C_0 + n-2C_1 + ... + n-2C_{n-2} )` over a pink wavy rule, arrow to pink `2^{n-2}`; an orange arrow from the second box to orange `n-1C_0 + n-1C_1 + n-1C_2 + ... + n-1C_{n-1}` over a long pink wavy rule, arrow to pink `2^{n-1}`; bottom-left a **red box** holding pink `fnf = n(n-1). 2^{n-2} + 2n. 2^{n-1}` — i.e. the cursive `fnf` mark stands in front of the boxed final answer.
+**DIBY:** none. **U:** 0 new — but this instance is the evidence that settles the long-standing `fnf` scribble (see F-21, amending U-02).
+
+---
+<a id="p33"></a>
+## p33 · p31/p32 problem solved by method M-2 (differentiate, multiply by x^2, differentiate) · label: — (no header, board slide)
+**P:** none — the same white/pink problem line heads the page (no stars this time).
+**H:** orange `# M-2:`; cyan `(1+x)^n = nC_0 + nC_1 x + nC_2 x^2 + nC_3 x^3 + ... + nC_n x^n` with orange underbraces; green `differentiate both sides w.r.to x:`; yellow `n(1+x)^{n-1} = 0 + nC_1.(1) + nC_2.(2x) + nC_3(3x^2) + ... + nC_n. n. x^{n-1}` (pink double-underline under `(1+x)`); magenta `multiply by x^2` with an arc into magenta `n(1+x)^{n-1} x^2 = 1 nC_1. x^2 + nC_2.(2x^3) + nC_3(3x^4) + ... + nC_n. n. x^{n+1}` (the leading `1` struck, cyan exponents 3/4/n+1, `(1+x)` underlined twice in pink); green `differentiate both sides w.r.to x:` again, with a wavy green mark under the `x^2`; green+yellow `n(1+x)^{n-1} + x^2 n(n-1)(1+x)^{n-2} = 1. nC_1(2x) + nC_2(2.3x^2) + nC_3(3.4x^3) + ... + nC_n n.(n+1) x^n` with pink arcs linking the two LHS pieces; magenta `put x=1` with an arrow into magenta `2n. 2^{n-1} + n(n-1). 2^{n-2} = 1.2. nC_1 + 2.3. nC_2 + 3.4. nC_3 + 4.5. nC_4 + ... + n.(n+1) nC_n` — the same total as p32's boxed `fnf` line, read in the opposite direction.
+**DIBY:** none. **U:** none. (Two independent methods, one answer — the teacher's deliberate cross-check.)
+
+---
+<a id="p34"></a>
+## p34 · Question [JEE Mains–2023] — SUM r^2 . 2023C_r = 2023 x alpha x 2^2022 (H.W.) · label: **Page No. 155**
+**P:** red chip **Question [JEE Mains–2023]**; **Suppose** `SUM_{r=0}^{2023} r^2 . 2023C_r = 2023 x alpha x 2^2022`**. Then the value of** `alpha` **is** (the sigma and the RHS green, `alpha` pink, `2^2022` green).
+**H:** pink `H.W.` inside a hand-drawn circle with a double underline and a small ring on each side — assigned, not solved in this file.
+**DIBY:** none (no DIBY tag; the item is homework only). **U:** none — for any later index, note that the standard value `SUM r^2 nC_r = n(n+1) 2^{n-2}` would give alpha = 1012; that is an outside inference, **not** page evidence, and is not entered in the answer register.
+
+---
+<a id="p35"></a>
+## p35 · SERIES Type-02 (coefficients divided by a constant) — proved on the board · label: **Page No. 156**
+**P:** clipboard icon + red banner **SERIES**; `# Type-02:` blue **When Binomial Coefficients are divided by a constant** (green italic); red chip **Question**; printed `Show that : nC_0/1 + nC_1/2 + nC_2/3 + ... + nC_n/(n+1) = (2^{n+1}-1)/(n+1)` (the `C_0/1` denominator pink, the rest green) with a white tick after the RHS.
+**H:** pink `LHS =`; yellow `SUM_{r=0}^{n} nC_r/(r+1)` with the summand ringed in yellow; yellow arcs to `= SUM_{r=0}^{n} (n+1)C_{r+1}/(n+1)` (Property 05 in reverse) `= (1/(n+1)) [ SUM_{r=0}^{n} (n+1)C_{r+1} ]`, the bracketed sigma looped in **red**; a white arrow out of the red loop to white `= (2^{n+1} - 1)/(n+1)` with a wavy underline; at right a white hand-drawn **cloud** enclosing red `(n+1)C_0 + (n+1)C_1 + (n+1)C_2 + ... + (n+1)C_{n+1}` with a white arrow up to white `2^{n+1}`, and below the cloud white `- (n+1)C_0` with an arrow to `1` (the missing top term that has to be subtracted); bottom-right a white cursive flourish that does not resolve into a word (candidates: `Ans.`, `fine`, or a pen flourish) — recorded, not interpreted.
+**DIBY:** none. **U:** 1 — the unresolvable cursive at bottom-right.
+
+---
+<a id="p36"></a>
+## p36 · Question [JEE Mains–2024] — 11C_1/2 + 11C_2/3 + ... + 11C_9/10 = n/m (H.W.) · label: **Page No. 156**
+**P:** red chip **Question [JEE Mains–2024]**; **If** `11C_1/2 + 11C_2/3 + ... + 11C_9/10 = n/m` **with** `gcd(n, m) = 1`**, then** `n + m` **is equal to** (the binomials green, `gcd(n,m) = 1` yellow-italic, `n + m` blue).
+**H:** white `H.W.` inside a hand-drawn circle with a double underline and two small rings — assigned, not solved.
+**DIBY:** none (homework only). **U:** none. (Direct application of p35's Type-02 identity with n = 11, minus the r=0 and r=10..11 pieces.)
+
+---
+<a id="p37"></a>
+## p37 · Question [JEE Mains–2020] — even powers in (1+x+...+x^2n)(1-x+x^2-...+x^2n) = 61 (H.W.) · label: — (chip only)
+**P:** red chip **Question [JEE Mains–2020]**; **If the sum of the coefficients of all even powers of x in the product** `(1 + x + x^2 + .... + x^{2n})(1 - x + x^2 - x^3 + ... + x^{2n})` **is 61, then** `n` **is equal to ______.** (both factors printed green, `61` white, `n` blue).
+**H:** white `H.W.` in a hand-drawn circle with a double underline and a small ring — the third homework item in this stretch; no working anywhere in the file.
+**DIBY:** none (homework only). **U:** none.
+
+---
+<a id="p38"></a>
+## p38 · Thank-You card (lecture close) · label: — (chip only)
+**P:** white script **It is never about** with `end result` in red script; **It's always about** with `Journey` in blue script; huge yellow **Thank** with white script **You** overlapping it; blue hashtag `#futurellTians`.
+**H:** none. **DIBY:** none. **U:** none — identical card to L04 p46.
+
+---
+### Lecture close-out — Binomial Theorem L05 (38 pages, PDF pp. 1–38)
+* Coverage: p01–p38, every page read from the render (`work/pages/bt05_pNN.png`); no text layer exists in this PDF.
+* Shape of the lecture: title + Topics + H.W. Discussion (p01–p03) -> JEE Main 2024 x^30 problem (p04–p05) -> RAPID FIRE DIBY'S p06–p10 -> JEE Main 2022 greatest-term (p11) -> LAST CLASS RECAP (p12) -> RAPID FIRE QUESTION (p13) -> Properties 04, 05 (p14–p16) -> coefficient-sum rules + Property 06 (p17–p20) -> RAPID FIRE ROUND n=14 (p21–p22) -> AIEEE-2007 H.W. (p23) -> RAPID FIRE DIBY'S again (p24–p25) -> duplicate Property-04 slide (p26) -> SERIES Type-01 with two methods (p27–p33) -> three H.W. questions (p34, p36, p37) -> SERIES Type-02 (p35) -> Thank-You (p38).
+* Printed page labels seen: 153 (p11), 154 (p14, p16, p26), 155 (p18, p20, p23, p27, p34), 156 (p35, p36) — repeating, non-monotonic, as usual (F-08).
+* DIBY in this lecture: 8 register rows (printed DIBY-01..04, 07..09 from the first rapid-fire block + printed DIBY-01..03 from the second, and the handwritten `90% DIBY` on p23). `DIBY-01` appears twice with different content (U-23).
+* Homework items assigned but never solved in this file: p10 DIBY-09, p23 AIEEE-2007, p34 (alpha), p36 (n+m), p37 (n) — five in total; if L06's H.W. Discussion covers any of them, cross-link (F-06/F-18).
+* Deck anomalies: p26 duplicates p14 exactly and p30 duplicates p29 one stroke-set earlier (F-16, F-20) — the 38-page count includes both copies, so a content-level question index must not.
+* `fnf` used twice (p11 answer, p32 boxed final answer) — the p32 context identifies it as the teacher's final-answer tag (F-21).
