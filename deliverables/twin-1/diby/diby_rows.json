@@ -894,5 +894,47 @@
   "visible_solution_answer": "Ans: A (printed) - and the teacher circles A next to his handwritten '# DIBY' tag",
   "uncertainty_note": "Solved on the following pages? none needed - the key is printed on the slide and no board working appears on p15. Same habit as L02 p22 / L05 p23 (F-13).",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 36,
+  "printed_label": "DIBY-28",
+  "qa_status": "QA-PASSED (twin-1)",
+  "visible_solution_answer": "Ans.: (A) (printed)",
+  "diby_marker": "# DIBY-28 (printed, green tag)",
+  "uncertainty_note": "Printed block on p36 with no handwriting at all; key taken from the slide's own [Ans.:] line. Numbering continues L06's printed DIBY series; the same number can appear in other lectures, so ids are page-qualified.",
+  "internal_id": "BT-L06-P36-DIBY-28",
+  "prompt_verbatim": "If n is the number of irrational terms in the expansion of (3^(1/4) + 5^(1/8))^60, then (n - 1) is divisible by [JEE Mains-2021]",
+  "options": "(A) 26   (B) 30   (C) 8   (D) 7"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 36,
+  "printed_label": "DIBY-29",
+  "qa_status": "QA-PASSED (twin-1)",
+  "visible_solution_answer": "Ans.: (A) (printed)",
+  "diby_marker": "# DIBY-29 (printed, green tag)",
+  "uncertainty_note": "Printed block on p36 with no handwriting at all; key taken from the slide's own [Ans.:] line. Numbering continues L06's printed DIBY series; the same number can appear in other lectures, so ids are page-qualified.",
+  "internal_id": "BT-L06-P36-DIBY-29",
+  "prompt_verbatim": "The sum of all rational terms in the expansion of (2^(1/5) + 5^(1/3))^15 is equal to [JEE Mains-2024]",
+  "options": "(A) 3133   (B) 633   (C) 931   (D) 6131"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 36,
+  "printed_label": "DIBY-30",
+  "qa_status": "QA-PASSED (twin-1)",
+  "visible_solution_answer": "Ans.: (B) (printed)",
+  "diby_marker": "# DIBY-30 (printed, green tag)",
+  "uncertainty_note": "Printed block on p36 with no handwriting at all; key taken from the slide's own [Ans.:] line. Numbering continues L06's printed DIBY series; the same number can appear in other lectures, so ids are page-qualified.",
+  "internal_id": "BT-L06-P36-DIBY-30",
+  "prompt_verbatim": "The Least value of n for which the number of integral terms in the Binomial expansion of (7^(1/3) + 11^(1/12))^n is 183, is [JEE Mains-2025]",
+  "options": "(A) 2148   (B) 2184   (C) 2196   (D) 2172"
  }
 ]

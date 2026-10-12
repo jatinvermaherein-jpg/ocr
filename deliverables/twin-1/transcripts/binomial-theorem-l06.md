@@ -223,3 +223,19 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 **P:** red chip **Acidic Question**; printed cyan `S = 3 · 10C0 + 3² · 10C1/2 + 3³ · 10C2/3 + … + 3^11 · 10C10/11` — nothing else on the slide: no question sentence, no options, no answer.
 **H:** `H.W.` in yellow cursive inside a yellow circle with a double underline and a dot at the right of the printed row — the series is assigned, not solved.
 **DIBY:** none. **U:** none — the divisor `r+1` suggests integrating `(1+3)^{10}` term-by-term after multiplying by 3, but no such working is on the page; see F-25.
+---
+<a id="p35"></a>
+## p35 · divider card — DO IT BY YOURSELF (DIBY) · label: — (no header, no page number)
+**P:** a black page carrying only a centred yellow lozenge with black capitals **DO IT BY YOURSELF (DIBY)** and a thin white outline shadow beneath it — the section divider before the DIBY block of this lecture.
+**H:** none.
+**DIBY:** none — divider only. **U:** none.
+
+---
+<a id="p36"></a>
+## p36 · DIBY block — NUMBER OF RATIONAL OR IRRATIONAL TERMS: # DIBY-28, # DIBY-29, # DIBY-30 · label: — (yellow banner, no page number)
+**P:** yellow banner **NUMBER OF RATIONAL OR IRRATIONAL TERMS**; three numbered items, each green-tagged, each with its year in yellow and its key in green:
+- **# DIBY-28** — **If** `n` **is the number of irrational terms in the expansion of** `(3^(1/4) + 5^(1/8))^60`, **then** `(n − 1)` **is divisible by** **[JEE Mains–2021]** `(A) 26 (B) 30 (C) 8 (D) 7` → **[Ans.: (A)]**
+- **# DIBY-29** — **The sum of all rational terms in the expansion of** `(2^(1/5) + 5^(1/3))^15` **is equal to** **[JEE Mains–2024]** `(A) 3133 (B) 633 (C) 931 (D) 6131` → **[Ans.: (A)]**
+- **# DIBY-30** — **The Least value of** `n` **for which the number of integral terms in the Binomial expansion of** `(7^(1/3) + 11^(1/12))^n` **is 183, is** **[JEE Mains–2025]** `(A) 2148 (B) 2184 (C) 2196 (D) 2172` → **[Ans.: (B)]**
+**H:** none — the whole block is printed, and no item is ticked, boxed or annotated; the keys are the source's own.
+**DIBY:** three rows added to the register (BT-L06-P36-DIBY-28 / -29 / -30), the first numbered DIBY set of L06 after the reprints on p05/p07 and the handwritten tag on p15. **U:** none.
