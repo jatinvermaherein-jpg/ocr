@@ -108,3 +108,50 @@ Source: `Binomial Theorem 08 Class Notes.pdf` (46 pages, image-only, no text lay
 **P:** the same printed list, item `(iv)` unchanged.
 **H:** green working in two halves, each headed by a green `9` (the divisor) under the printed bases. Left: `11.11.11…11` (1011 factors) with a `2` above each, over `9`, `≡ 2^1011/9 = (2³)^337/9 = 8^337/9 = (8.8.8…8)/9` with `-1` above each 8, `=> R = -1 + 9 = (8)`. Right: `1011.1011…1011` (11 factors) with a `3` above each, over `9`, `=> 3^11/9` with a green arrow to `R = 0`. The two halves are joined by green arcs up to the green conclusion `8 + 0 = (8)` with the 8 ringed.
 **DIBY:** none. **U:** none. (The same JEE MAINS–2022 pair sum reappears as L07 p04's H.W. answer — cross-lecture chain already logged there.)
+<a id="p17"></a>
+## p17 · JEE MAINS–2024: remainder of 428^2024 ÷ 21 · label: **Page No. 162**
+**P:** red chip `Question [JEE Mains–2024]`; question **The remainder when 428^2024 is divided by 21 is** (428 cyan).
+**H:** green chain `(428)^2024/21 ≡ (8)^2024/21 = (8²)^1012/21 = (64)(64)(64)…(64)` over `21` — each 64 ringed with a `1` above it — `⇒` ringed **1**.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p18"></a>
+## p18 · JEE MAINS–2023: 19^200 + 23^200 ÷ 49 (H.W.) · label: **Page No. 161**
+**P:** red chip `Question [JEE Mains–2023]`; **The remainder, when 19^200 + 23^200 is divided by 49, is ________.** (bases cyan).
+**H:** green ring round **`H.W.`**, double-underlined, to the right of the blank.
+**DIBY:** none (H.W. ring alone is not a register row). **U:** 1 — label back to `161` after `162` (F-08).
+
+---
+<a id="p19"></a>
+## p19 · JEE MAINS–2024: remainder of 64^32^32 ÷ 9 · label: — (no printed label)
+**P:** red chip `Question [JEE Mains–2024]`; **Remainder when 64^32^32 is divided by 9 is equal to** (64 cyan, tower exponent).
+**H:** green ring round the exponent `32^32` with an arrow to a green `k`; below, green `k Time` brace over `64.64.64…64` divided by `9`, `⇒` a large green ring **`R = 1`**.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p20"></a>
+## p20 · Acidic Question (NCERT): 6^(n+2) + 7^(2n+1) divisible by 43 · label: **Page No. 161**
+**P:** red chip **Acidic Question** with a pink ring round **NCERT**; **Show that 6^(n+2) + 7^(2n+1) is divisible by 43 for all n ∈ N**, the `n ∈ N` inside a red rectangle.
+**H:** cyan re-writing `7^(2n).7¹ = 49ⁿ.7¹` with orange arrows down to `(43+6)^n`; pink/cyan/orange `6^(n+2) + 7.(43+6)^n = 6^(n+2) + 7.( ⁿC₀43ⁿ + ⁿC₁43^(n-1)6¹ + … … + ⁿC_(n-1)43¹6^(n-1) + ⁿCₙ6ⁿ )` with the bracketed expansion inside a **red rectangle**; orange `= 6ⁿ.6² + 7.(43(I) + 6ⁿ)`; orange `= 6ⁿ.36 + 7×43×I + 7×6ⁿ` (double-underlined on the first and last terms); orange `= 43(7I) + 6ⁿ(36+7)` with cyan `43` under `(36+7)`, a cyan tick and a cyan cursive annotation in parentheses at the right (unresolved).
+**DIBY:** none. **U:** 1 — the trailing cyan parenthesised cursive is illegible at render resolution.
+
+---
+<a id="p21"></a>
+## p21 · IMPORTANT NOTE — x^n − y^n and x^n + y^n divisibility, with proof · label: — (no printed label)
+**P:** red chip **IMPORTANT NOTE**; **(a)** `(x^n − y^n) n ∈ N is always divisible by (x − y).`; **(b)** `(x^n + y^n) n ∈ odd natural number is always divisible by (x + y).` (green powers, cyan divisors).
+**H:** cyan arc from (b) to the proof `((x+y) − y)^n + yⁿ`, the inner `(x+y−y)` double-underlined in orange; the expansion `ⁿC₀(x+y)ⁿ − ⁿC₁(x+y)^(n-1)y¹ + ⁿC₂(x+y)^(n-2)y² − … … + ⁿC_(n-1)(x+y)¹(−y)^(n-1) + ⁿCₙ(−y)ⁿ + yⁿ` written across the slide with the leading part inside a **red rectangle** and a pink arrow to `(x+y)×I`; a long cyan arc carries the left-hand `+ yⁿ` to the far right; pink bottom-right `(-1)ⁿyⁿ + yⁿ` with an arrow labelled `n∈odd` to `-yⁿ + yⁿ = 0`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p22"></a>
+## p22 · board — two applications of the rule · label: — (no printed label)
+**P:** none.
+**H:** green `xⁿ − y is always div. by` with `(x−y)` ringed; an orange arc down to orange `25³⁴ − 9³⁴ is div. by` a cyan ring **16** (orange wavy line under it, cyan arrow up from `25 − 9`); below, pink `21³³ + 12³³ is div. by` a pink ring **33** with a pink arrow up from `(21+12)`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p23"></a>
+## p23 · JEE MAINS–2023 MCQ: 25^190 − 19^190 − 8^190 + 2^190 · label: — (no printed label)
+**P:** red chip `Question [JEE Mains–2023]`; **25^190 − 19^190 − 8^190 + 2^190 is divisible by**; options **A 34 but not by 14**, **B Both 14 and 34**, **C Neither 14 nor 34**, **D 14 but not by 34** — a yellow/orange tick across box A.
+**H:** a pink arc links the first two powers and another the last two; yellow parity chain at the right: `odd — odd` above, `(odd − even)` in a yellow ring feeding from the two brackets, a yellow arrow to `even`; the pink grouping `(25^190 − 8^190) − (19^190 − 2^190)` inside a **red rectangle**, with pink `div. by (25−8)` and `↧ 17`, and `19 − 2 = 17`.
+**DIBY:** none. **U:** none. (The working proves divisibility by 17; the tick is on A — recorded as drawn.)
