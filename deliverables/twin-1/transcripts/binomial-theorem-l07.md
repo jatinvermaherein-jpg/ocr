@@ -151,3 +151,38 @@ Source: `Binomial Theorem 07 Class Notes.pdf` (34 pages, image-only, no text lay
 **P:** red chip **Question [JEE Mains-2023]**; **The coefficient of** `x^7` **in** `(1 - x + 2x^3)^10` **is** (green target power, cyan trinomial); green **`Ans: 960`** at the right.
 **H:** blue at the top an arrow from the printed trinomial up to the warning reused from p21, `n.o.t. = ^(10+3-1)C_3-1 = ^12C_2` crossed out in blue; cyan the two conditions `b+3c = 7 & a+b+c = 10`; yellow `10!/(a!b!c!) (1)^a (-x)^b (2x^3)^c` with small `0`s under the factorials, a yellow arrow into a **red rectangle** `10!/(a!b!c!) (-1)^b 2^c . x^(b+3c)`; an orange table head `a | b | c` over rows `3 7 0` / `5 4 1` / `7 1 2`; a white **`960`** ringed in white with `=` into a large red rectangle holding the three-term sum `10!/(3!7!0!) (-1)^7 2^0 + 10!/(5!4!1!) (-1)^4 . 2^1 + 10!/(7!1!2!) (-1)^1 2^2` (written `-120 + 2520 - 1440`, which does give 960).
 **DIBY:** none. **U:** none.
+<a id="p24"></a>
+## p24 · Question [JEE Mains-2023] — constant term of (2x + 1/x^7 + 3x^2)^5, Ans: 1080 · label: — (chip only, no page label)
+**P:** red chip **Question [JEE Mains-2023]**; **The constant term in the expansion of** `(2x + 1/x^7 + 3x^2)^5` **is** (the trinomial in cyan); green **`Ans: 1080`** at the right.
+**H:** white the general term `5!/(a!b!c!) (2x)^a . (x^-7)^b (3x^2)^c`, the three numeric bases underlined and a small `0` under every factorial; a white arrow into a **red rectangle** holding the cleaned coefficient part `5!/(a!b!c!) 2^a 3^c` times `x^(a-7b+2c)`, that exponent blobbed in orange with an orange arrow up to a second **red rectangle** `a - 7b + 2c = 0`, an orange `&`, and a third **red rectangle** `a + b + c = 5`; a cyan table head `a | b | c` with the single row `1 | 1 | 3`; below the box a white arrow to `5!/(1! 1! 3!) 2^1 3^3 = 5.4.2.27` (an arc over the last two factors) `= 1080` with a white tick.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p25"></a>
+## p25 · Question [JEE Mains-2021] — coefficient of a^7 b^8 in (a + 2b + 4ab)^10 is K.2^16 · label: — (chip only, no page label)
+**P:** red chip **Question [JEE Mains-2021]**; **If the coefficient of** `a^7b^8` **(yellow) in the expansion of** `(a + 2b + 4ab)^10` **(green) is** `K.2^16`**, then** `K` **(blue) is equal to______.**
+**H:** a pink ring containing pink **`H.W.`**, double-underlined with a dot at its foot — the question is assigned as homework and is *not* solved on this page.
+**DIBY:** none. **U:** none — logged as an open homework item in F-28.
+
+---
+<a id="p26"></a>
+## p26 · Question [JEE Mains-2020] — a_7 / a_13 for (2x^2 + 3x + 4)^10, two routes named · label: **Page No. 160**
+**P:** red chip **Question [JEE Mains-2020]**; **Let** `(2x^2 + 3x + 4)^10 = Sum_{r=0}^{20} a_r x^r` **(yellow). Then** `a_7 / a_13` **(blue) is equal to ______.**
+**H:** pink ring round the printed `a_7` with a pink arrow to pink `coeff of x^7`, and a bigger pink ring round `a_13` with an arrow to pink `coeff of x^13`; two pink arrows from the printed trinomial down into two **red rectangles** naming the two admissible methods — pink `Replacement` with pink `x -> 2/x` written under it, and pink `Trinomial`; at right a pink ring `H.W.` double-underlined with a dot — a second homework item on this slide.
+**DIBY:** none. **U:** none — logged in F-28.
+
+---
+<a id="p27"></a>
+## p27 · DO IT BY YOURSELF (DIBY) — the pill alone on a black board · label: — (no header, board slide)
+**P:** a yellow rounded pill centred on an otherwise empty black board: **DO IT BY YOURSELF (DIBY)**. No question text, no handwriting.
+**H:** none.
+**DIBY:** none on this page — it is the divider that opens the printed DIBY block (p28).
+**U:** none — the pill carries no item numbers of its own.
+
+---
+<a id="p28"></a>
+## p28 · FINDING COEFFICIENTS — printed DIBY-43 / DIBY-44 (same sheet as L06 p41) · label: — (no header, board slide)
+**P:** yellow heading **FINDING COEFFICIENTS**; green tag `# DIBY-43` then **The coefficient of** `x^4` **in the expansion of** `(1 + x + x^2 + x^3)^6` **(cyan) in powers of** `x`**, is** with yellow `[JEE Mains-2020]` and white/green `[Ans.: (120)]`; green tag `# DIBY-44` then **The term independent of** `x` **in the expansion of** `(1 - x^2 + 3x^3) ( (5/2) x^3 - 1/(5x^2) )^11`**, x != 0 is:** with yellow `[JEE Mains-2022]`, white options `(A) 7/40`, `(B) 33/200`, `(C) 39/200`, `(D) 11/50` and `[Ans.: (B)]`.
+**H:** none — nothing written on this slide in L07 either.
+**DIBY:** 2 — DIBY-43 (`[Ans.: (120)]`) and DIBY-44 (`[Ans.: (B)]`), both printed. **Register:** this is pixel-identical to L06 p41, where the two rows are already held; they are deliberately **not** counted a second time (see F-28).
+**U:** none.
