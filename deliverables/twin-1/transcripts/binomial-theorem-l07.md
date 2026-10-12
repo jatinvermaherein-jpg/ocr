@@ -66,3 +66,43 @@ Source: `Binomial Theorem 07 Class Notes.pdf` (34 pages, image-only, no text lay
 **P:** red chip **Bumper Question**; **If** `n` **is a positive integer and** `(1 + x + x^2)^n = Sum_{r=0}^{2n} a_r x^r` **(green). Then show that :** six lines in cyan — `(i) a_r = a_2n-r ; 0 <= r <= 2n`, `(ii) a_0 + a_1 + a_2 + .... + a_2n = 3^n`, `(iii) a_0 - a_1 + a_2 - a_3 + .... + a_2n = 1`, `(iv) a_0 + a_1 + a_2 + .... + a_{n-1} = 1/2 (3^n - a_n)`, `(v)` **in a red rectangle** `a_0 + a_2 + a_4 + .... + a_2n = 1/2 (3^n + 1)`, `(vi)` a second red rectangle round the tag **`[IIT-JEE 1994]`** and the statement `a_0^2 - a_1^2 + a_2^2 - a_3^2 + ... + a_2n^2 = a_n`.
 **H:** the whole slide is board work. Orange restatement `(1+x+x^2)^n = a_0 + a_1 x + a_2 x^2 + ... + a_2n x^2n`; an orange arc labelled `a = 1` pointing at (ii) with a white `) x = 1` bracket at right; a cyan arrow labelled `x = -1` into (iii); ticks in blue/orange/cyan/cyan/cyan down the left of (i)–(v) marking them as done; cyan at right the mirrored row `3^n = a_0 + a_1 + a_2 + ... ... a_2n-2 + a_2n-1 + a_2n` with orange annotation marks above it (`↓ * #` over the first three terms, `# * ↓` over the last three), orange underlines on `a_0` and `a_2n`, a cyan double-headed arrow through the middle and a down arrow onto `a_2n`; cyan `a_{n-1} + a_n + a_{n+1}` with up-arrows under the outer terms and a double underline under `a_n` (the middle of the row, used in (iv)/(v)); the abbreviation **`HHPP.`** with a wavy underline; cyan `3^n = 2(a_0 + a_1 + a_2 + ... + a_{n-1}) + a_n` (the (iv) rearrangement); yellow, under (vi), arrows from each squared coefficient down to the convolution `a_0 a_2n - a_1 a_2n-1 + a_2 a_2n-2 - a_3 a_2n-3 ... ... a_2n a_0` (its last factor in green).
 **DIBY:** none. **U:** 1 — `HHPP.` is an unexplained abbreviation (candidates: *half-partnership*, a Hindi-English shorthand); recorded, not interpreted, like `fnf`.
+<a id="p11"></a>
+## p11 · board — proof of (i): the x -> 1/x replacement makes the row palindromic · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** orange the expansion again `(1+x+x^2)^n = a_0 + a_1 x + a_2 x^2 + ... + a_2n x^2n`, ringed in **magenta** round `a_0` and `a_2n` and in **blue** round `a_1`, tagged orange circled `A`; pink `x -> 1/x` at left with a pink arc into yellow `(x^2+x+1)^n / x^2n = a_0 x^2n + a_1 x^2n-1 + a_2 x^2n-2 + a_3 x^2n-3 + ... + a_2n` over a yellow wavy rule, both `x^2n` divisors struck through in green; a blue arc at the right margin joining A to the next line, annotated blue **`same`** double-underlined; orange circled `B` on `B = (x^2+x+1)^n = a_0 x^2n + a_1 x^2n-1 + a_2 x^2n-2 + a_3 x^2n-3 + ... + a_2n-1 x + a_2n`, with `a_0 x^2n` ringed magenta, `a_2n-1` ringed blue and `a_2n` ringed magenta — the same three coefficients seen from the other end; bottom, magenta `a_0 = a_2n`, blue `a_1 = a_2n-1`, `- ... =>` and a **red rectangle** round blue **`a_r = a_2n-r`** (statement (i) proved).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p12"></a>
+## p12 · board — (vi) opened: multiply by the x -> -x copy and take the x^2n coefficient · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** orange `(1+x+x^2)^n = a_0 + a_1 x + a_2 x^2 + ... + a_2n x^2n`; cyan `x -> -x` with a cyan arrow into cyan `(1-x+x^2)^n = a_0 - a_1 x + a_2 x^2 - ... + a_2n x^2n`; then the product written out `(1+x+x^2)^n (1-x+x^2)^n = ( a_0 + a_1 x + a_2 x^2 + ... + a_2n x^2n )( a_0 - a_1 x + a_2 x^2 - ... - a_2n-1 x^2n-1 + a_2n x^2n )` with small white ticks and arrows pairing the first and last factors of each bracket; green under the left-hand product a down arrow to green **`coeff. of x^2n`**; white the convolution actually picked out `( a_0 a_2n - a_1 a_2n-1 + a_2 a_2n-2 - ... ) x^2n`; bottom, green `coeff. of x^2n in (1+x+x^2)^n (1-x+x^2)^n` restating the target.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p13"></a>
+## p13 · board — (vi) closed: that same coefficient is a_n · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** orange the expansion line once more; green `coeff. of x^2n in (1+x+x^2)^n (1-x+x^2)^n`; below it green `coeff. of x^2n in (1+x^2+x^4)^n` = white **`a_n`** (the substitution `x -> x^2` inside the same expansion, `+ a_n x^2n` underlined in orange with a white arrow pointing up at it); a blue **cloud** at right containing white `(1+x+x^2)(1-x+x^2) = 1+x^2+x^4` — the identity that makes the two products equal; lower half orange `(1+x+x^2)^n = a_0 + a_1 x + a_2 x^2 + ... + a_n x^n + ... + a_2n x^2n`, orange `x -> x^2`, then `(1+x^2+x^4)^n = a_0 + a_1 x^2 + a_2 x^4 + ... + a_n x^2n + ... + a_2n x^4n`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p14"></a>
+## p14 · board — differentiating the same expansion: two weighted sums · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** orange `(1+x+x^2)^n = a_0 + a_1 x + a_2 x^2 + a_3 x^3 ... + a_2n x^2n`; a green curl arrow into green quoted **`"diff. both side"`** with a wavy underline; white circled `1` then `a_1 + 2a_2 + 3a_3 + ... + 2n a_2n = n.3^n`; green the derivative itself `n (1+x+x^2)^(n-1) x (1+2x) = 1a_1 + 2a_2 x + 3a_3 x^2 + 4a_4 x^3 + ... + 2n a_2n x^(2n-1)`; white circled `2` then `a_1 - 2a_2 + 3a_3 - ... - 2n a_2n` left hanging; a white circle `x = 1` with an arrow into a **red rectangle** `n x 3^(n-1) x 3 = a_1 + 2a_2 + 3a_3 + ... + 2n a_2n`; a long yellow arrow curving down from the same derivative line, labelled yellow `x = -1`, into a second **red rectangle** yellow `-n = a_1 - 2a_2 + 3a_3 - ... - 2n a_2n`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p15"></a>
+## p15 · DOUBLE SIGMA PROBLEMS — the symmetric-function split · label: **Page No. 159**
+**P:** clipboard icon + red banner **DOUBLE SIGMA PROBLEMS**; blue **Important Formula :** followed by yellow `Sum_{j=0}^{n} Sum_{i=0}^{n} f(i,j) = Sum_{i<j} Sum f(i,j) + Sum_{j<i} Sum f(i,j) + Sum_{i=j} Sum f(i,j)`.
+**H:** pink beside the heading `# If f(i,j) -> Symmetric func^n of i & j.` with a green arrow across to a green worked column of admissible `f`'s, each ticked: `i^2 + j^2 ✓`, `nC_i + nC_j ✓`, `nC_i nC_j ✓`; pink hand-drawn **blobs** round the double sum on the left (labelled pink `Total`) and round the `i = j` sum on the right; two pink arrows from the `i<j` and `j<i` sums down to pink `equal`; from the `i = j` blob a pink arrow to pink `j -> i` then `= Sum_{i=m}^{n} f(i,i)`; bottom-left a **red rectangle** containing cyan `( Total - (i=j) ) / 2 = Sum_{i<j} = Sum_{j<i}` over a wavy rule.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p16"></a>
+## p16 · IMPORTANT NOTE — the 4x4 grid behind the double sigma · label: — (chip only)
+**P:** red chip **IMPORTANT NOTE**; green `# Dhyaan se Dekho`; yellow `Sum_{j=0}^{3} Sum_{i=0}^{3} (i^2 + j^2) =` followed by the full 16-term expansion printed as a 4 x 4 grid in white — rows j = 0..3, columns i = 0..3: `(0^2+0^2) (1^2+0^2) (2^2+0^2) (3^2+0^2)` / `(0^2+1^2) (1^2+1^2) (2^2+1^2) (3^2+1^2)` / `(0^2+2^2) (1^2+2^2) (2^2+2^2) (3^2+2^2)` / `(0^2+3^2) (1^2+3^2) (2^2+3^2) (3^2+3^2)`.
+**H:** none — nothing written on the slide; the grid itself is the point (the diagonal `i = j` and the mirror symmetry across it).
+**DIBY:** none. **U:** none.
