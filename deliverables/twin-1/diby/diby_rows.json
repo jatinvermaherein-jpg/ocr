@@ -768,5 +768,61 @@
   "visible_solution_answer": "[JEE Mains-2022] [Ans.: 84]",
   "uncertainty_note": "No working on the slide.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 7,
+  "diby_marker": "# DIBY-04 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-04",
+  "internal_id": "BT-L05-P07-DIBY-04",
+  "prompt_verbatim": "If a_r denotes the coefficient of x^r in the expansion of (1 - x)^(2n-1), then the value of a_(r-1) + a_(2n-r) is.",
+  "options": "(A) -1   (B) 1   (C) 2a_r   (D) 0",
+  "visible_solution_answer": "[Ans.: (D)] (printed)",
+  "uncertainty_note": "Solved on the same slide (orange/cyan). The printed '=' before 'is.' is struck out twice in orange on the slide. Numbering jumps DIBY-01 -> DIBY-04: no DIBY-02/03 slide exists in this file.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 8,
+  "diby_marker": "# DIBY-07 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-07",
+  "internal_id": "BT-L05-P08-DIBY-07",
+  "prompt_verbatim": "Find the coefficient of x^m in (1 + x)^m + (1 + x)^(m+1) + ... + (1 + x)^n, where m <= n.",
+  "options": "(A) (n+1)C(m+1)   (B) nC(m+1)   (C) (n+1)Cm   (D) nCm",
+  "visible_solution_answer": "[Ans.: (A)] (printed)",
+  "uncertainty_note": "Verbatim duplicate of L04 p19 DIBY-07; the teacher writes 'already done!!' over it. No working on this slide.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 8,
+  "diby_marker": "# DIBY-08 (printed, green tag, chip RAPID FIRE DIBY'S; handwritten '(Note)' circled beside the tag)",
+  "printed_label": "DIBY-08",
+  "internal_id": "BT-L05-P08-DIBY-08",
+  "prompt_verbatim": "The sum of the coefficients of all the even powers of x in the expansion of (2x^2 - 3x + 1)^11 is -",
+  "options": "(A) 2.6^10   (B) 3.6^10   (C) 6^11   (D) None of these",
+  "visible_solution_answer": "[Ans.: (B)] (printed)",
+  "uncertainty_note": "Verbatim duplicate of L04 p19 DIBY-08. Solved on L05 p09 (x = +-1, 6^11/2 = 3.6^10).",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "05",
+  "source_pdf": "Binomial Theorem 05 Class Notes.pdf",
+  "pdf_page": 10,
+  "diby_marker": "# DIBY-09 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-09",
+  "internal_id": "BT-L05-P10-DIBY-09",
+  "prompt_verbatim": "The coefficient of x^49 in the expansion of (x - 1)(x - 1/2)(x - 1/2^2) ... (x - 1/2^49) is equal to -",
+  "options": "(A) -2(1 - 1/2^50)   (B) +ve coefficient of x   (C) -ve coefficient of x   (D) -2(1 - 1/2^49)",
+  "visible_solution_answer": "[Ans.: (A)] (printed)",
+  "uncertainty_note": "Marked 'H.W.' in a white circle next to option D - not solved in this lecture; unresolved in the file as far as transcribed.",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]
