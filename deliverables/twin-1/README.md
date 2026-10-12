@@ -22,9 +22,10 @@ All 13 files were verified against the master inventory before work started: pag
 | Binomial Theorem L04 | 46 | **46 ✅** (Hockey-Stick property, RAPID FIRE ROUND, printed DIBY blocks 01…08 / 07…09 / 13…27) |
 | Binomial Theorem L05 | 38 | **38 ✅** (Properties 04/05/06, SERIES Types 01–02, two rapid-fire blocks, 5 H.W. items out) |
 | Binomial Theorem L06 | 43 | **43 ✅** (SERIES Types 02–04, bino-binomial direct formula + its 3 conditions, 17-item printed DIBY block # DIBY-28…# DIBY-44, 3 H.W. items out, hockey-stick id.) |
-| Binomial Theorem L07–L09 | 109 | pending |
+| Binomial Theorem L07 | 34 | **34 ✅** (Multinomial Theorem board work, DOUBLE SIGMA PROBLEMS formula, Bumper Questions (1+x+x^2)^n and the P/Q/R/S double sums, printed DIBY block # DIBY-45…# DIBY-56 = 12 items, L06's two outstanding H.W. items closed, 2 new H.W. items out) |
+| Binomial Theorem L08–L09 | 75 | pending |
 | Permutations & Combinations L01–L04 | 164 | pending |
-| **Total** | **508** | **235 (46.3%)** |
+| **Total** | **508** | **269 (53.0%)** |
 
 ## How work is produced (reproducible pipeline)
 ```bash

@@ -186,3 +186,48 @@ Source: `Binomial Theorem 07 Class Notes.pdf` (34 pages, image-only, no text lay
 **H:** none — nothing written on this slide in L07 either.
 **DIBY:** 2 — DIBY-43 (`[Ans.: (120)]`) and DIBY-44 (`[Ans.: (B)]`), both printed. **Register:** this is pixel-identical to L06 p41, where the two rows are already held; they are deliberately **not** counted a second time (see F-28).
 **U:** none.
+<a id="p29"></a>
+## p29 · SERIES — printed DIBY-45, DIBY-46, DIBY-47 · label: — (no header, board slide)
+**P:** yellow heading **SERIES**; `# DIBY-45` **If** `(⁴⁰C₀) + (⁴¹C₁) + (⁴²C₂) + …. + (⁶⁰C₂₀) = (m/n) ⁶⁰C₂₀`**, m and n re coprime, then** `m + n` **is equal to** — yellow `[JEE Mains-2022]`, white/green `[Ans.:102]`; `# DIBY-46` **If** `1².(¹⁵C₁) + 2².(¹⁵C₂) + 3².(¹⁵C₃) + … + 15².(¹⁵C₁) = 2^m . 3^n . 5^k`**, where** `m, n, k ∈ N`**, then** `m + n + k` **is equal to** with white options `(A) 19`, `(B) 21`, `(C) 18`, `(D) 20` and `[Ans.:(A)]`; `# DIBY-47` **The sum of series** `2 x 1 x ²⁰C₄ - 3 x 2 x ²⁰C₅ + 4 x 3 x ²⁰C₆ - 5 x 4 x ²⁰C₇ + ... + 18 x 17 x ²⁰C₂₀` **is equal to _ _ _ _** — yellow `[JEE Mains-2025]`, `[Ans.:37]`.
+**H:** none — nothing written on any of the three.
+**DIBY:** 3 — DIBY-45, DIBY-46, DIBY-47, all printed with their own keys.
+**U:** none — the phrase prints `m and n re coprime` (no `a`), and DIBY-46's last term prints `(¹⁵C₁)` where the series pattern wants `(¹⁵C₁₅)`; both copied as set.
+
+---
+<a id="p30"></a>
+## p30 · SERIES — printed DIBY-48, DIBY-49, DIBY-50 · label: — (no header, board slide)
+**P:** yellow heading **SERIES**; `# DIBY-48` `Sum_{r=0}^{5} ( ¹¹C_{2r+1} / (2r+2) ) = m/n , gcd(m,n) = 1`**, then** `m - n` **is equal to** — yellow `[JEE Mains-2025]`, `[Ans.:2035]`; `# DIBY-49` **If** `Sum_{r=1}^{30} ( r² (³⁰C_r)² / ³⁰C_{r-1} ) = alpha x 2^29`**, then** `alpha` **is equal to** — `[JEE Mains-2025]`, `[Ans.:465]`; `# DIBY-50` **Let** `alpha = Sum_{r=0}^{n} (4r² + 2r + 1) ⁿC_r` **and** `beta = ( Sum_{r=0}^{n} ⁿC_r/(r+1) ) + 1/(n+1)`**. If** `140 < 2 alpha / beta < 281`**, then the value of** `n` **is** — yellow `[JEE Mains-2024]`, `[Ans.:5`.
+**H:** none.
+**DIBY:** 3 — DIBY-48, DIBY-49, DIBY-50, all printed.
+**U:** 1 — on the last item the closing `]` of `[Ans.:5` sits at the frame edge and is not visible; the value itself (`5`) is.
+
+---
+<a id="p31"></a>
+## p31 · SERIES — printed DIBY-51, DIBY-52, DIBY-53 · label: — (no header, board slide)
+**P:** yellow heading **SERIES**; `# DIBY-51` **The value of** `1/(1!50!) + 1/(3!48!) + 1/(5!46!) + … + 1/(49!22!) + 1/(51!1!)` **is** — yellow `[JEE Mains-2023]`; options `(A) 2^50/50!`, `(B) 2^50/51!`, `(C) 2^51/51!`, `(D) 2^51/50!`; `[Ans.:(B)]`. `# DIBY-52` **If** `Sum_{r=0}^{10} ( (10^{r+1} - 1)/10^r ) . ¹¹C_{r+1} = ( alpha^11 - 11^11 ) / 10^10`**, then** `alpha` **is equal to:** `(A) 15`, `(B) 11`, `(C) 24`, `(D) 20` — `[JEE Mains-2025]`, `[Ans.:(A)]`. `# DIBY-53` **If** `Sum_{r=1}^{9} ( (r+3)/2^r ) . ⁹C_r = alpha (3/2)^9 - beta`**, **`alpha, beta ∈ N`**, then** `(alpha + beta)²` **is equal to** `(A) 27`, `(B) 9`, `(C) 81`, `(D) 18` — `[JEE Mains-2025]`, `[Ans.:(C)]`.
+**H:** none.
+**DIBY:** 3 — DIBY-51, DIBY-52, DIBY-53, all printed.
+**U:** none — DIBY-51's fourth denominator prints `49!22!` where the pattern of the series calls for `49!2!`; transcribed as set.
+
+---
+<a id="p32"></a>
+## p32 · SERIES — printed DIBY-54, DIBY-55, DIBY-56 · label: — (no header, board slide)
+**P:** yellow heading **SERIES**; `# DIBY-54` **If** `(³⁰C₁)² + 2 (³⁰C₁)² + 3 (³⁰C₃)₂ + ….. + 30 (³⁰C₁)² = alpha.60!/(30!)²`**, then** `alpha` **is equal to** `(A) 30`, `(B) 60`, `(C) 15`, `(D) 10` — yellow `[JEE Mains-2023]`, `[Ans.:(C)]`. `# DIBY-55` **If** `a_r` **is the coefficient of** `x^{10-r}` **in the Binomial expansion of** `(1 + x)^10`**, then** `Sum_{r=1}^{10} r³ ( a_r / a_{r-1} )²` **is equal to** `(A) 4895`, `(B) 1210`, `(C) 5445`, `(D) 3025` — `[JEE Mains-2023]`, `[Ans.:(B)]`. `# DIBY-56` **If** `1 + ( 2 + ⁴⁹C₁ + ⁴⁹C₂ + … + ⁴⁹C₄₉ ) ( ⁵⁰C₂ + ⁵⁰C₄ + … ⁵⁰C₅₀ )` **is equal to** `2^n . m`**, where** `m` **is odd, then** `n + m` **is equal to ___** — `[JEE Mains-2022]`, `[Ans.:99]`.
+**H:** none.
+**DIBY:** 3 — DIBY-54, DIBY-55, DIBY-56, all printed.
+**U:** 1 — DIBY-54's summands are mis-set in the source: every subscript prints as `C₁` (the third as `C₃` with a stray trailing `₂`), i.e. the intended `r` index never appears; recorded as printed, no reading imposed.
+
+---
+<a id="p33"></a>
+## p33 · Homework — re-attempt everything, DPP & DIBY · label: — (no header, board slide)
+**P:** clipboard icon + red banner **Homework**; two white lines `# Re-attempt all Class Examples` and `# DPP & DIBY`.
+**H:** none.
+**DIBY:** none on this page (it is the assignment card that sends students to the DIBY block above).
+**U:** none.
+
+---
+<a id="p34"></a>
+## p34 · Thank You — the closing card of L07 · label: — (no header, board slide)
+**P:** the standard PW end board, all of it printed: white script `It is never about` with red script `end result`; white script `It's always about` with blue script `Journey`; the giant yellow **Thank** + white script *You*; below, blue `#futurellTians` over a red offset shadow.
+**H:** none.
+**DIBY:** none. **U:** none — the hashtag is typeset `#futurellTians` (letter-form `ll` where *I I* is meant) and is copied as printed.
