@@ -18,10 +18,10 @@ All 13 files were verified against the master inventory before work started: pag
 |---|---|---|
 | Binomial Theorem L01 | 33 | **33 ✅** |
 | Binomial Theorem L02 | 40 | **40 ✅** (incl. printed DIBY-01…DIBY-06) |
-| Binomial Theorem L03 | 35 | **8** (p01–p08) — in progress |
-| Binomial Theorem L04–L09 | 236 | pending |
+| Binomial Theorem L03 | 35 | **35 ✅** (incl. two printed DIBY blocks, 01…05 and 01…12) |
+| Binomial Theorem L04–L09 | 236 | L04 started (p01–p04) |
 | Permutations & Combinations L01–L04 | 164 | pending |
-| **Total** | **508** | **81 (16.0%)** |
+| **Total** | **508** | **108 (21.3%)** |
 
 ## How work is produced (reproducible pipeline)
 ```bash

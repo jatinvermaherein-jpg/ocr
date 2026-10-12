@@ -1,0 +1,58 @@
+[
+ {
+  "_key": "bt04",
+  "_page": 1,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Title card: ARJUN JEE 2027, Lecture-04 Mathematics, BINOMIAL THEOREM, By- Sachin Jakhar Sir",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt04",
+  "_page": 2,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Section card H.W. Discussion in a red rectangle",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt04",
+  "_page": 3,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Topics to be covered A Numerically Greatest Term B Properties of Binomial Coefficients C Question Practice D (blank)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt04",
+  "_page": 4,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "RAPID FIRE DIBY'S printed # DIBY-05: greatest term independent of x, (A) 63/8 printed",
+  "printed_text_captured": "full",
+  "handwriting_captured": "10-2r=0 -> r=5, 10C5 (sin2a)^5/2^5",
+  "diby_present": "YES",
+  "diby_labels": "DIBY-05 (printed)",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ }
+]
