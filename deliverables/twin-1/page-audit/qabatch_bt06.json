@@ -180,5 +180,47 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 14,
+  "source_page_label": "Page No. 156",
+  "topic_or_heading": "p13 solved by method 2 (integration of (1+x)^11)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 15,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Question [JEE Mains-2023] 1023/10 series, handwritten '# DIBY' + circled A",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "YES",
+  "diby_labels": "DIBY (handwritten)",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 16,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Show that C0/2+...+Cn/(n+2) - LHS rewritten twice via Properties 02/05",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

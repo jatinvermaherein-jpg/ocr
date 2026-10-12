@@ -87,3 +87,22 @@ Source: `Binomial Theorem 06 Class Notes.pdf` (43 pages, image-only, no text lay
 **P:** red chip **Question [JEE Mains–2024]**; **If** `11C1/2 + 11C2/3 + … + 11C9/10 = n/m` **with** `gcd(n, m) = 1`**, then** `n + m` **is equal to** — the fractions green, `n + m` cyan, `gcd(n, m)` yellow.
 **H:** white arrow down to the sum rewritten green as `Σ_{n=1}^{9} 11Cn/(n+1)` (the summand ringed in green; the index letter is the teacher's cursive `n`, drawn like an aleph), `= Σ_{r=1}^{9} 12C_{r+1}/12` with a green hook under the `12`, `= 1/12 Σ_{r=1}^{9} 12C_{r+1}` with that sum looped in orange; a white wavy brace hands over to orange `= 1/12 (12C0 + 12C1 + 12C2 + 12C3 + 12C4 + … … + 12C10 + 12C11 + 12C12 − (12C0 + 12C1 + 12C11 + 12C12))` with the removed values `1, 12, 12, 1` written under the four struck coefficients; white `= 1/12 (2^12 − 26) =` cyan `2035/4070` over a struck `12 · 6` `= 2035/6`; top-right a cyan circle round `2041` with a double underline (the value of n + m) and beside it the cursive **`fnf`** final-answer tag (F-21), and further right a cyan circle round `76%` double-underlined.
 **DIBY:** none. **U:** none. **Chain:** this closes the **L05 p36** `H.W.` item (JEE Main 2024, n + m) from the F-22 pile-up.
+<a id="p14"></a>
+## p14 · p13 solved a second way — M-2 (Integration) · label: **Page No. 156**
+**P:** the p13 chip and question reprinted unchanged (**Question [JEE Mains–2024]**, `11C1/2 + 11C2/3 + … + 11C9/10 = n/m with gcd(n,m) = 1, then n + m`); beside the chip, in cyan and double-underlined, `M-2` and `(Integration)` — the second of the two methods.
+**H:** pink `∫₀ˣ (1+x)¹¹ dx = ∫₀ˣ 11C0 dx + ∫₀ˣ 11C1 x dx + ∫₀ˣ 11C2 x² dx + ∫₀ˣ 11C3 x³ dx + …` (the `11C0` double-underlined, the two `x`-powers marked `=` in green); green next line `(1+x)¹²/12 |₀ˣ = 11C0 (x)|₀ˣ + 11C1 (x²/2)|₀ˣ + 11C2 (x³/3)|₀ˣ + …`; orange `x = 1` with an arrow, and the integrated series written out `(1+x)¹²/12 − 1/12 = 11C0 x + 11C1 x²/2 + 11C2 x³/3 + 11C3 x⁴/4 + …`; green final row `2¹²/12 − 1/12 = 11C0 + [ 11C1/2 + 11C2/3 + 11C3/4 + … … + 11C9/10 ] + 11C10/11 + 11C11/12` — the bracketed target inside a **red rectangle**, pink hooks pointing to the two trailing fractions that must be removed; at right three pink side-computations stacked with pink arrows: `(2¹² − 26)/12`, `(2¹² − 2 − 24)/12`, `(2¹² − 1)/12 − 1/12 − 1 − 1`.
+**DIBY:** none. **U:** none — the red rectangle is the only place in this lecture where the printed sum and the board sum are visually reconciled term by term.
+
+---
+<a id="p15"></a>
+## p15 · Question [JEE Mains–2023] — 1/(n+1) nCn + … + nC0 = 1023/10, find n (tagged DIBY by hand) · label: — (chip only)
+**P:** red chip **Question [JEE Mains–2023]**; **If** `1/(n+1) nCn + 1/n nC_{n−1} + … + 1/2 nC1 + nC0 = 1023/10`**, then** `n` **is equal to**; red tiles `A 9`, `B 6`, `C 7`, `D 8`; at right **`Ans: A`** printed with the `A` in blue.
+**H:** cyan mid-right: `# DIBY` double-underlined, an arrow from it to a cyan **circle round `A`** — the teacher flags this question as a DIBY and confirms option A on the slide.
+**DIBY:** YES — handwritten, unnumbered `# DIBY` tag → register row `BT-L06-P15-DIBY (handwritten)`. **U:** none.
+
+---
+<a id="p16"></a>
+## p16 · Question — Show that C0/2 + C1/3 + … + Cn/(n+2) = (n·2^(n+1) + 1)/((n+1)(n+2)) · label: — (chip only)
+**P:** red chip **Question**; printed blue **Show that :** `C0/2 + C1/3 + C2/4 + … + Cn/(n+2) = (n·2^(n+1) + 1)/((n+1)(n+2))` — this is the p12 Type-02 family with the divisor shifted by one.
+**H:** white at the very top `# nCr = Cr` (the notation the slide assumes); a 4-row block of gold star stickers filling the top-right corner (decoration, no text); a white arrow from the printed left-hand side down to the sum `# LHS = Σ_{r=0}^{n} nCr (r+1) / ((r+2)(r+1))` — green loop round the numerator `nCr (r+1)`, orange loop round `(r+2)(r+1)`; `= Σ_{r=0}^{n} n+1C_{r+1} (r+1) / ((n+1)(r+2))` with a yellow loop round the `n+1C_{r+1}`-to-`(r+2)` part; `= Σ_{r=0}^{r=n} (r+1) n+2C_{r+2} / ((n+1)(n+2))`; and in green the pulled-out constant `= 1/((n+1)(n+2)) Σ_{r=0}^{n} (r+1) n+2C_{r+2}` — the sum that p17 finishes.
+**DIBY:** none. **U:** none.

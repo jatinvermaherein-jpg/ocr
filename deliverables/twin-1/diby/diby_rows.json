@@ -880,5 +880,19 @@
   "visible_solution_answer": "[Ans.: (A)] (printed) — SOLVED in L06 p07-p08 (numerators -> (n+1)Cr+1 by Property 02, telescopes to (n+1)^n/n!)",
   "uncertainty_note": "No working; numerator collapses by Property 02 (addition), leaving a telescoping product. | CROSS-LINKED: re-printed with the printed product boxed in L06 p07 and finished on L06 p08.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 15,
+  "diby_marker": "# DIBY (handwritten, cyan, double-underlined; no printed number) on a Question [JEE Mains-2023] slide",
+  "printed_label": "DIBY (unnumbered)",
+  "internal_id": "BT-L06-P15-DIBY (handwritten)",
+  "prompt_verbatim": "If 1/(n+1) nCn + 1/n nC(n-1) + ... + 1/2 nC1 + nC0 = 1023/10, then n is equal to",
+  "options": "(A) 9   (B) 6   (C) 7   (D) 8",
+  "visible_solution_answer": "Ans: A (printed) - and the teacher circles A next to his handwritten '# DIBY' tag",
+  "uncertainty_note": "Solved on the following pages? none needed - the key is printed on the slide and no board working appears on p15. Same habit as L02 p22 / L05 p23 (F-13).",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]
