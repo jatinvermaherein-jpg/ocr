@@ -230,3 +230,120 @@ Source: `Binomial Theorem 08 Class Notes.pdf` (46 pages, image-only, no text lay
 **P:** none.
 **H:** white `(5+2√6)^n · (5−2√6)^n = 1`; orange arcs down to orange `(I+f) G = 1`, an arrow to `(I+f)(1−f) = 1`, an arc to `I = 1/(1−f) − f`; at the right an orange cursive closing annotation that reads as **`hence`** under a small rule (same glyph style as the cyan mark at the foot of p20) — the teacher's proof-completion tag, not a number.
 **DIBY:** none. **U:** 1 — that cursive tag is legible only as `hence`; recorded as a tag, no value.
+<a id="p35"></a>
+## p35 · prove I = 1/f − f for (√17 + 4)^7 (H.W.) · label: **Page No. 163**
+**P:** red chip **Question**; **If (√17 + 4)^7 = I + f, then show I = 1/f − f.** (the cyan fraction `1/f` minus `f`).
+**H:** yellow ring round **`H.W.`**, double-underlined, at the right; no working — the slide is left for homework.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p36"></a>
+## p36 · section divider — DO IT BY YOURSELF · label: — (no printed label)
+**P:** a single centred yellow pill on black: **DO IT BY YOURSELF (DIBY)**, with the black drop-shadow arc behind it. Nothing else on the slide.
+**H:** none.
+**DIBY:** none — this divider itself carries no `# DIBY-nn` tag; the numbered block starts on the next page (F-17 applies).
+**U:** none.
+
+---
+<a id="p37"></a>
+## p37 · DIBY block, SERIES — DIBY-54 / 55 / 56 · label: — (no printed label)
+**P:** orange centred header **SERIES**; three printed items —
+- **# DIBY-54** "If (³⁰C₁)² + 2(³⁰C₁)² + 3(³⁰C₃)² + … .. + 30(³⁰C₁)² = α·60!/(30!)², then α is equal to" (A) 30 (B) 60 (C) 15 (D) 10 **[JEE Mains–2023] [Ans.: (C)]**
+- **# DIBY-55** "If a_r is the coefficient of x^(10−r) in the Binomial expansion of (1 + x)^10, then Σ_{r=1}^{10} r³ (a_r/a_{r−1})² is equal to" (A) 4895 (B) 1210 (C) 5445 (D) 3025 **[JEE Mains–2023] [Ans.: (B)]**
+- **# DIBY-56** "If 1 + (2 + ⁴⁹C₁ + ⁴⁹C₂ + … + ⁴⁹C₄₉)(⁵⁰C₂ + ⁵⁰C₄ + … ⁵⁰C₅₀) is equal to 2ⁿ · m, where m is odd, then n + m is equal to ___" **[JEE Mains–2022] [Ans.: 99]**
+**H:** none — printed DIBY slides in this lecture carry no board writing.
+**DIBY:** DIBY-54, DIBY-55, DIBY-56 (register rows BT-L08-P37-*). **U:** 1 — DIBY-55 and DIBY-54 are near-duplicates of L07's DIBY block (same printed question text); both are registered against the page on which they appear, per the register convention.
+
+---
+<a id="p38"></a>
+## p38 · DIBY block, SERIES — DIBY-57 / 58 / 59 · label: — (no printed label)
+**P:** header **SERIES**;
+- **# DIBY-57** "If n ≥ 2 is a positive integer, then the sum of the series ⁿ⁺¹C₂ + 2(²C₂ + ³C₂ + ⁴C₂ + … + ⁿC₂) is:" (A) n(n+1)²(n+2)/12 (B) n(n+1)(2n+1)/6 (C) n(n−1)(2n+1)/6 (D) n(2n+1)(3n+1)/6 **[JEE Mains–2021] [Ans.: (B)]**
+- **# DIBY-58** "Let (n k) denote ⁿC_k and [n k] = { (n k), if 0 ≤ k ≤ n ; 0, otherwise }. If A_k = Σ_{i=0}^{9} (9 i)[12/(12−k+i)] + Σ_{i=0}^{8} (8 i)[13/(13−k+i)] and A₄ − A = 190p, then p is equal to ___" **[JEE Mains–2021] [Ans.: 49]**
+- **# DIBY-59** "If ¹P₁ + 2.²P₂ + 3.³P₃ + … .. + 15.¹⁵P₁₅ = ᵍP_r − s, 0 ≤ s ≤ 1, then ᵍ⁺C_{r−s} is equal to" **[JEE Mains–2021] [Ans.: 136]**
+**H:** none.
+**DIBY:** DIBY-57, DIBY-58, DIBY-59. **U:** 1 — in DIBY-58 the printed difference reads "A₄ − A" (no subscript on the second term) while the key 49 corresponds to A₄ − A₃; kept verbatim.
+
+---
+<a id="p39"></a>
+## p39 · DIBY block, SERIES — DIBY-60 / 61 · label: — (no printed label)
+**P:** header **SERIES**;
+- **# DIBY-60** "2.²⁰C₀ + 5.²⁰C₁ + 8.²⁰C₂ + 11.²⁰C₃ + … + 62.²⁰C₂₀ is equal to" (A) 2²³ (B) 2²⁶ (C) 2²⁴ (D) 2²⁵ **[JEE Mains–2019] [Ans.: (D)]**
+- **# DIBY-61** "Let S_n = 1 + q + q² + … + qⁿ and T_n = 1 + ((q+1)/2) + ((q+1)/2)² + … + ((q+1)/2)ⁿ where q is a real number and q ≠ 1. If ¹⁰¹C₁ + ¹⁰¹C₂.S₁ + … + ¹⁰¹C₁₀₁·S₁₀₀ = αT₁₀₀ then α is equal to:" (A) 2⁹⁹ (B) 202 (C) 200 (D) 2¹⁰⁰ **[JEE Mains–2019] [Ans.: (D)]**
+**H:** none.
+**DIBY:** DIBY-60, DIBY-61. **U:** 1 — DIBY-61 option (B) prints **202** where the series structure suggests 202 is intended as `2·101`; copied as printed (same class of printed typo as `ever` in L05).
+
+---
+<a id="p40"></a>
+## p40 · DIBY block, SERIES — DIBY-62 / 63 · label: — (no printed label)
+**P:** header **SERIES**;
+- **# DIBY-62** "Let C_r denote the binomial coefficient of x^r in the expansion of (1 + x)^10. If α, β ∈ R. 1.1 C₁ + 3.2 C₂ + 5.3 C₃ + ….. up to 10 terms = (α×2¹¹)/(2^β−1) (C₀ + C₁/2 + C₂/3 + ….. upto 10 terms), then the value of α + β is equal to" **[JEE Mains–2022] [Ans.: 286]**
+- **# DIBY-63** "If (1/(n+1))ⁿC_n + (1/n)ⁿC_{n−1} + … + (1/2)ⁿC₁ + ⁿC₀ = 1023/10, then n is equal to" (A) 9 (B) 8 (C) 7 (D) 6 **[JEE Mains–2023] [Ans.: (A)]**
+**H:** none.
+**DIBY:** DIBY-62, DIBY-63. **U:** none.
+
+---
+<a id="p41"></a>
+## p41 · DIBY block, SERIES — DIBY-64 / 65 / 66 (double sums) · label: — (no printed label)
+**P:** header **SERIES**;
+- **# DIBY-64** "Prove that: Σ_{s=1}^{n} Σ_{r=0}^{s} ⁿC_s · ˢC_r = 3ⁿ − 1"
+- **# DIBY-65** "Find the value of ΣΣ_{0≤i<j≤n} (ⁿC_i + ⁿC_j)" **[Ans.: n2ⁿ]**
+- **# DIBY-66** "Find the value of Σ_{0≤i<j≤n} (i + j)(ⁿC_i + ⁿC_j)" **[Ans.: n²2ⁿ]**
+**H:** none.
+**DIBY:** DIBY-64, DIBY-65, DIBY-66 — the same double-sum pair already solved on the L07 Bumper Questions board, here printed as homework items (cross-lecture chain).
+**U:** none.
+
+---
+<a id="p42"></a>
+## p42 · DIBY block, MULTINOMIAL — DIBY-67 / 68 / 69 / 70 · label: — (no printed label)
+**P:** orange header **MULTINOMIAL**;
+- **# DIBY-67** "Find the coefficient of a³b⁴c⁵ in the expansion of (bc + ca + ab)⁶." **[Ans.: 60]**
+- **# DIBY-68** "The coefficient of x⁴ in the expansion of (1 + x + x²)¹⁰ is" **[JEE Mains–2020] [Ans.: 615]**
+- **# DIBY-69** "The sum of all rational terms in the expansion of (1 + 2^{1/3} + 3^{1/2})⁶ is equal to ___" **[JEE Mains–2025] [Ans.: 612]**
+- **# DIBY-70** "If the constant term in the expansion of (3x³ − 2x² + 5/x⁵)¹⁰ is 2^k · ℓ, where ℓ is an odd integer, then the value of k is equal to:" (A) 6 (B) 7 (C) 8 (D) 9 **[JEE Mains–2022] [Ans.: (D)]**
+**H:** none.
+**DIBY:** DIBY-67, DIBY-68, DIBY-69, DIBY-70. **U:** 1 — DIBY-69 is tagged **[JEE Mains–2025]**, the first 2025-year tag seen in this deck set (not a misread: the digits are clean); it dates this lecture to a 2025-batch course.
+
+---
+<a id="p43"></a>
+## p43 · DIBY block, FINDING REMAINDER — DIBY-71 / 72 / 73 / 74 · label: — (no printed label)
+**P:** orange header **FINDING REMAINDER**;
+- **# DIBY-71** "Find remainder when 2021²⁰²³ is divided by 7." **[JEE Mains–2022] [Ans.: 5]**
+- **# DIBY-72** "The remainder, when 7¹⁰³ is divided by 17, is" **[JEE Mains–2023] [Ans.: 12]**
+- **# DIBY-73** "Find the remainder when (i) 7¹⁰³ is divided by 25. (ii) 2345⁶⁷ + 1234⁶⁷ is divided by 4." **[Ans.: 18]** / **[Ans.: 1]**
+- **# DIBY-74** "Find remainder when 2021²⁰²² + 2022²⁰²¹ is divided by 7." **[JEE Mains–2022] [Ans.: 0]**
+**H:** none.
+**DIBY:** DIBY-71, DIBY-72, DIBY-73 (two sub-items, one row), DIBY-74. **U:** none.
+
+---
+<a id="p44"></a>
+## p44 · DIBY block, FINDING REMAINDER — DIBY-75 / 76 / 77 / 78 · label: — (no printed label)
+**P:** orange header **FINDING REMAINDER**;
+- **# DIBY-75** "Fractional part of the number 4²⁰²²/15 is equal to" (A) 8/15 (B) 4/15 (C) 14/15 (D) 1/15 **[JEE Mains–2023] [Ans.: (D)]**
+- **# DIBY-76** "Let the number (22)²⁰²² + (2022)²² leave the remainder α when divided by 3 and β when divided by 7. Then (α² + β²) is equal to" (A) 20 (B) 13 (C) 5 (D) 10 **[JEE Mains–2023] [Ans.: (C)]**
+- **# DIBY-77** "Remainder when 2¹⁰⁰ + 3¹⁰⁰ + 4¹⁰⁰ + 5¹⁰⁰ is divided by 7 is" **[Ans.: 5]**
+- **# DIBY-78** "Use binomial theorem to prove that 11ⁿ − 10n − 1 is divisible by 100 ∀ n ∈ N."
+**H:** none.
+**DIBY:** DIBY-75, DIBY-76, DIBY-77, DIBY-78. **U:** none (DIBY-78 is the same NCERT-style statement solved on p20 with base 6/7 and divisor 43 — different numbers, same method).
+
+---
+<a id="p45"></a>
+## p45 · Homework card · label: — (no printed label)
+**P:** white rounded card with the clipboard-and-pencil emoji and the red banner **Homework**; two printed bullets below: **# Re-attempt all Class Examples** and **# DPP & DIBY**.
+**H:** none.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p46"></a>
+## p46 · Thank You — the closing card of L08 · label: — (no printed label)
+**P:** the standard PW end board: white script `It is never about` + red script `end result`; white script `It's always about` + blue script `Journey`; giant yellow **Thank** with white script *You*; blue `#futurellTians` over a red offset shadow.
+**H:** none.
+**DIBY:** none. **U:** none — hashtag typeset `#futurellTians` as in every other lecture, copied as printed.
+
+---
+### Lecture close-out — Binomial Theorem L08 (46/46)
+- **Content arc:** L08 continues L07 straight into the **APPLICATION OF BINOMIAL THEOREM** block: multinomial coefficient JEE items (p06, K = 315), the "Replacement" trick for a₇/a₁₃ (p07–p08, = 8), then Finding Remainder (p09–p23: mod-1 and negative-remainder method, RAPID FIRE ROUND with `2^136 ÷ 7`, `{5^99/13} = 8/13`, `7^2022+3^2022 ≡ 3`, JEE MAINS–2022 `= 8`, `428^2024 ≡ 1 (mod 21)`, the `n ∈ N` divisibility proof for 43 and the IMPORTANT NOTE on xⁿ−yⁿ / xⁿ+yⁿ), **FINDING LAST DIGIT(S)** (p26–p27, 3^104 → 81), **INTEGRAL & FRACTIONAL PART** (p28–p35, conjugate method with `add`/`sub` and the multiplication step), and the printed **DIBY block # DIBY-54 … # DIBY-78** (25 items, p37–p44) over the SERIES / MULTINOMIAL / FINDING REMAINDER headers, closed by the Homework card and the Thank-You board.
+- **Register:** 25 DIBY rows added (`BT-L08-P37-DIBY-54` … `BT-L08-P44-DIBY-78`); DIBY-54/55/56 also exist in L07's block — the numbering is per-deck, so the same label legitimately repeats across lectures (already logged, F-19 family).
+- **Handwriting coverage:** 22 board pages fully transcribed (colours, strikes, red rectangles, rings, ticks, student-name attributions Sumit/Santosh); the 8 printed DIBY/homework pages are handwriting-free and that was verified visually, not assumed.
+- **Uncertainty:** 6 new notes on this pass (page-label chaos `161 / 162` compound labels; the faint `f²` in `196 = f² + 196f`; the `A₄ − A` typo in DIBY-58; `202` in DIBY-61; the `[JEE Mains–2025]` tag; the cursive `hence`/`final`/`FPF` triple now separated — F-31/U-30).
+- **Nothing sampled:** all 46 rendered pages of `Binomial Theorem 08 Class Notes.pdf` were read at scale 1.25 and audited.
