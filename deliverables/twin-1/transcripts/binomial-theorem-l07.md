@@ -106,3 +106,22 @@ Source: `Binomial Theorem 07 Class Notes.pdf` (34 pages, image-only, no text lay
 **P:** red chip **IMPORTANT NOTE**; green `# Dhyaan se Dekho`; yellow `Sum_{j=0}^{3} Sum_{i=0}^{3} (i^2 + j^2) =` followed by the full 16-term expansion printed as a 4 x 4 grid in white — rows j = 0..3, columns i = 0..3: `(0^2+0^2) (1^2+0^2) (2^2+0^2) (3^2+0^2)` / `(0^2+1^2) (1^2+1^2) (2^2+1^2) (3^2+1^2)` / `(0^2+2^2) (1^2+2^2) (2^2+2^2) (3^2+2^2)` / `(0^2+3^2) (1^2+3^2) (2^2+3^2) (3^2+3^2)`.
 **H:** none — nothing written on the slide; the grid itself is the point (the diagonal `i = j` and the mirror symmetry across it).
 **DIBY:** none. **U:** none.
+<a id="p17"></a>
+## p17 · Bumper Question — P, Q, R, S over double sums of (^nC_i + ^nC_j): P and Q done · label: **Page No. 159**
+**P:** red chip **Bumper Question**; blue **Find all of the following:**; four white definitions — `P = Sum_{j=0}^{n} Sum_{i=0}^{n} (^nC_i + ^nC_j)`, `Q = Sum_{j=0}^{n} Sum_{i=0}^{n} (^nC_i + ^nC_j)`, `R = Sum_{0<=i< j<=n} (^nC_i + ^nC_j)`, `S = Sum_{0<=i<= j<=n} (^nC_i + ^nC_j)` (R and S still blank at this point).
+**H:** green arrow hooking `^nC_i` to `^nC_j` inside P; orange the split `= Sum_{j=0}^{n} ( Sum_{i=0}^{n} ^nC_i + Sum_{i=0}^{n} ^nC_j )` with each inner sum blobbed in orange and arrows up to the orange labels `2^n` and `(n+1) ^nC_j`; orange `= Sum_{j=0}^{n} ( 2^n + (n+1). ^nC_j )` with a curved orange arrow underneath; white the evaluation `Sum_{j=0}^{n} 2^n + (n+1) Sum_{i=0}^{n} ^nC_i` with white blobs round both sums and a white `2^n` label, = white `(n+1) 2^n + (n+1) 2^n` = `2(n+1) 2^n` = **red rectangle** `(n+1). 2^{n+1} = P` (the final `P` in yellow); green beside Q `(where i = j)` with a cyan arrow down to cyan `j -> i`; cyan `Sum_{i=0}^{n} (^nC_i + ^nC_i) = 2 Sum_{i=0}^{n} ^nC_i` with a cyan blob round the right-hand sum and a cyan arrow to `2^n`; cyan `= 2. 2^n =` **red rectangle** `2^{n+1} = Q`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p18"></a>
+## p18 · Bumper Question continued — R = n.2^n and S = R + Q · label: **Page No. 159**
+**P:** the same chip **Bumper Question** and the same four-line `Find all of the following:` block (this slide re-prints the question so the R and S rows can be attacked).
+**H:** white along the top `P = Q + R + R`; cyan, on the R row, `R (i<j) = ( Total - (i=j) ) / 2 = ( P - Q ) / 2` (both fractions over cyan rules); cyan `R = ( (n+1) 2^{n+1} - 2^{n+1} ) / 2 = 2^{n+r}(n) / 2 = n 2^n` — the middle step is written with an exponent `n+r` and a struck-through denominator `2`, i.e. the intended `2^n (n)`; green `# (i>j) = R`; white `# (i != j) = P - Q = 2R` over two small **red rectangles** holding `i>j` and `i<j` joined by a `+`; orange, in a **red rectangle**, `# S = R + Q`; below the printed S row, cyan `i <= j =>` then two orange circles `( i<j )` and `( i=j )` labelled orange `R` and `Q`; a long cyan arrow from the printed R row up into the cyan block.
+**DIBY:** none. **U:** 1 — the `2^{n+r}` exponent on this line is a slip in the writing, not in the printed slide; the printed slide itself carries no exponent here.
+
+---
+<a id="p19"></a>
+## p19 · Question [JEE Mains-2022] — Sum_{i != j} ^nC_i ^nC_j · label: **Page No. 159**
+**P:** red chip **Question [JEE Mains-2022]**; blue sum `Sum_{i,j=0, i != j}^{n} ^nC_i ^nC_j` (its ranges printed above and below the sigma in blue) + white **is equal to**; red tiles `A 2^{2n} - ^{2n}C_n`, `B 2^{2n-1} - ^{2n-1}C_{n-1}`, `C 2^n - 1/2 ^{2n}C_n`, `D 2^{n-1} + ^{2n-1}C_n`; no printed key line.
+**H:** a green arrow from the printed sum to green `Sum_{i,j=0, i != j}^{n} ^nC_i ^nC_j = Sum_{i=0}^{n} Sum_{j=0 (i != j)}^{n} ^nC_i ^nC_j` — the double-sum form the p15/p16 machinery applies to; top right, an orange ring enclosing orange **`dev.`** double-underlined with a dot beside it, the same mark seen in L05.
+**DIBY:** none. **U:** 1 — `dev.` (also at L05) is left uninterpreted; see U-27 in the log.
