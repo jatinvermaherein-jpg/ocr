@@ -594,8 +594,15 @@
 
 ## Page 19
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7926 | pass agreement 0.3521
+- Topic/heading: Question [JEE (Adv.)-2021] range
+- Page type: question | dark bg: True | primary pass B | mean conf 0.7926 | pass agreement 0.3521
+- Diagram/visual: two wavy-curve sign charts (orange)
+
+### Verified transcript (visual QA)
+
+- Question [JEE (Adv.)-2021]
+- Let f : R -> R be defined by f(x) = (x^2 - 3x - 6)/(x^2 + 2x + 4) (red box). Find range.
+- handwritten: y = (x^2-3x-6)/(x^2+2x+4); x^2 y + 2xy + 4y = x^2 - 3x - 6; (y-1)x^2 + (2y+3)x + (4y+6) = 0 (red box); D >= 0; (2y+3)^2 - 4(y-1)(4y+6) >= 0; -12y^2 + 4y + 33 >= 0; 12y^2 - 4y - 33 <= 0; 12y^2 + 18y - 22y - 33 <= 0; 6y(2y+3) - 11(2y+3) <= 0; (2y+3)(6y-11) <= 0; wavy curve + - + at -3/2, 11/6
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -628,8 +635,13 @@
 
 ## Page 20
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7826 | pass agreement 0.7926
+- Topic/heading: JEE Adv 2021 concluded + check
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.7826 | pass agreement 0.7926
+
+### Verified transcript (visual QA)
+
+- (handwritten) y = (x^2-3x-6)/(x^2+2x+4); (y-1)x^2 + (2y+3)x + (4y+6) = 0 (red box, x^2 circled); D >= 0; (2y+3)(6y-11) <= 0; wavy curve + - + at -3/2, 11/6; y in [-3/2, 11/6] 'fnf.' [sic, likely 'final']
+- Check: y - 1 = 0 => y = 1 (circled); 1 = (x^2-3x-6)/(x^2+2x+4); x^2+2x+4 = x^2-3x-6; 5x = -10; x = -2 (circled, tick)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -657,8 +669,14 @@
 
 ## Page 21
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8998 | pass agreement 0.9901
+- Topic/heading: Critical Thinking Question (CTQ) - HW
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8998 | pass agreement 0.9901
+
+### Verified transcript (visual QA)
+
+- Critical Thinking Question (CTQ)
+- If the range of the function f(x) = (x^2 + ax + b)/(x^2 + 2x + 3) is [-5, 4], a, b in N, then find the value of (a^2 + b^2)
+- (handwritten cyan circled marker: HW.)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -672,8 +690,13 @@
 
 ## Page 22
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7601 | pass agreement 0.7119
+- Topic/heading: Summary of range methods
+- Page type: summary-handwritten | dark bg: True | primary pass B | mean conf 0.7601 | pass agreement 0.7119
+
+### Verified transcript (visual QA)
+
+- (handwritten) # S^Y [sic, heading]; bullet: y = ax^2+bx+c -> Graph / Range -> [-D/4a, infinity) or (-infinity, -D/4a] } x in R (underlined); bullet: y = ax^2+bx+c, x in [p, q) -> Graphical.
+- right: Range?; y = 2(h(x))^2 + 3 h(x) - 7; 'Quad. in h(x)'; h(x) = t; y = 2t^2 + 3t - 7, t in ...; down-arrow Range.
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -697,6 +720,8 @@
 - Rauy:  [LOWCONF]
 
 > Dual-pass agreement 0.7119 (<0.80): secondary pass text kept in raw record for audit.
+
+> [UNCLEAR] p22: heading glyph '# S^Y' uncertain (likely 'Summary')
 
 ## Page 23
 

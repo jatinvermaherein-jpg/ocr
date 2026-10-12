@@ -1,52 +1,151 @@
 {
-  "slug": "quadratic-equations-L10",
-  "chapter": "Quadratic Equations",
-  "lecture": 10,
-  "source_pdf": "Quadratic Equations 10 Class Notes.pdf",
-  "qa_reviewer": "arena-twin3-agent (visual QA, 2-up native-res contact sheets; pages 1-18 of 44 done)",
-  "pages": {
-    "1": {"type": "cover", "topic": "Cover slide",
-      "verified_text": "ARJUNA JEE 2027 | Lecture - 10 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir | (PW logo)",
-      "diagram": "Instructor photo (Sachin Jakhar Sir), ARJUNA JEE 2027 branding",
-      "qa": "Cover confirms chapter=Quadratic Equations, lecture=10; matches filename."},
-    "2": {"type": "topics", "topic": "Topics to be covered",
-      "verified_text": "Topics to be covered (handwritten cursive) | A Range of Rational Functions | B Common Root Condition | C Question Practice | D (label printed, no text)",
-      "diagram": "3D question-mark with thinking pencil mascot"},
-    "3": {"type": "revision", "topic": "LAST CLASS REVISION - range of quadratic",
-      "verified_text": "LAST CLASS REVISION | # Answer the following Questions: | Quadratic: y = ax^2 + bx + c | (i) If a > 0 => Range(y) in [-D/4a, infinity) | (ii) If a < 0 => Range(y) in (-infinity, -D/4a] | handwritten: 'if x in R' (circled, underlined); '# x in [p, q]' -> 'Quad. Range?' -> 'Graphical Method'"},
-    "4": {"type": "divider", "topic": "Question Practice", "verified_text": "Question Practice", "diagram": "none"},
-    "5": {"type": "question", "topic": "Challenger Question [IIT-JEE] solved",
-      "verified_text": "Challenger Question [IIT-JEE] (stars) | If a < b < c and a, b, c in R then comment on nature of roots of following: | (i) f(x) = (x - a)(x - b) - 1 | (ii) f(x) = (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) (red box; faded '= 3x^2 ...' tail) | handwritten (i): Graph: f(x) = x^2 - (a+b)x + ab - 1 (red box); f(a) = -1, f(b) = -1; 2 R & D Root; 1 Root > b; 1 Root < a; two parabolas with points a, b | handwritten (ii): x=a: f(a) = (a-b)(a-c) -> (+); f(b) = (b-c)(b-a) -> (-); f(c) = (c-a)(c-b) -> (+); 2 R & D Root; a < 1 Root < b; b < 1 Root < c; red/white parabolas through a, b, c",
-      "diagram": "two parabola sketches (left: magenta pair; right: red+white)"},
-    "6": {"type": "handwritten", "topic": "Nature of roots - two tools",
-      "verified_text": "(handwritten cloud) Nature of Roots -> # D ; Graph", "diagram": "blue cloud with two branches"},
-    "7": {"type": "question", "topic": "Find range -x^2+4x-6 (repeat of L09 p23, with answers)",
-      "verified_text": "Question | Find range for following functions : | (i) f(x) = -x^2 + 4x - 6 | (ii) f(x) = -x^2 + 4x - 6, x in [-3, 1) | (iii) f(x) = -x^2 + 4x - 6, x in (0, 4] | Ans. : (i) y in (-infinity, -2], (ii) y in [-27, -3), (iii) y in [-6, -2]",
-      "qa": "No handwritten DiBY marker visible on this page (cf. L09 p23)."},
-    "8": {"type": "question-diby", "topic": "Range questions incl. 5.4^x - 2^(x+3) + 1 (DiBY-A)",
-      "verified_text": "Question | Find range for following functions : | (i) f(x) = 2x^2 - 3x + 5, x in [-1, 1] (tick) | (ii) f(x) = x^2 - x - 8, x in (-infinity, -2] U [2, infinity) (tick) | (iii) f(x) = 5.4^x - 2^(x+3) + 1 (red box, stars) | handwritten marker: DiBY - (A) [green, circled] | f(x) = 5(2^x)^2 - 2^x.2^3 + 1; say: 2^x = t (circled); +ve; t in (0, infinity); f(t) = 5t^2 - 8t + 1 (red box), t in (0, infinity); star-cloud: 'Quad. in Terms of any other fun?' | Ans. : (i) y in [31/8, 10], (ii) y in [-6, infinity), (iii) y in [-11/5, infinity)",
-      "diby": [{"printed_label": "DiBY - (A)  [handwritten, green, circled]", "internal_id": "", "prompt": "Find range for following functions : (i) f(x)=2x^2-3x+5, x in [-1,1] (ii) f(x)=x^2-x-8, x in (-inf,-2] U [2,inf) (iii) f(x)=5.4^x - 2^(x+3) + 1", "answer": "(i) y in [31/8, 10], (ii) y in [-6, inf), (iii) y in [-11/5, inf)", "uncertainty": ""}]},
-    "9": {"type": "handwritten-diby", "topic": "Range of 2sin^2 - 6sin + 7 (DiBY-B)",
-      "verified_text": "(handwritten) f(theta) = 2 sin^2 theta - 6 sin theta + 7 , Range ?? ; [-1, 1]; sin theta = t; f(t) = 2t^2 - 6t + 7 , t in [-1, 1] (red box, tick); marker: DiBY - (B) [green, circled]",
-      "diby": [{"printed_label": "DiBY - (B)  [handwritten, green, circled]", "prompt": "f(theta) = 2 sin^2 theta - 6 sin theta + 7, Range ??", "answer": "reduced to f(t) = 2t^2 - 6t + 7, t in [-1,1]", "uncertainty": ""}]},
-    "10": {"type": "handwritten", "topic": "Rational function range examples",
-      "verified_text": "(handwritten) y = (ax+b)/(cx+d); x in R - {-d/c}; y in R - {a/c} | ex: y = (2x+7)/(5-3x); x in R - {5/3}; y in R - {-2/3} | ex: y = (x-7)/(14-2x); x in R - {7}; y in R - {-1/2} (cross); y = (x-7)/(-2(x-7)) = -1/2; y in {-1/2} (tick)"},
-    "11": {"type": "handwritten", "topic": "Note: f(m).f(n) < 0",
-      "verified_text": "(handwritten) Note: (pink cloud) f(m).f(n) < 0 => 1 Root lies b/w m & n ; 2 Real, distinct roots"},
-    "12": {"type": "theory", "topic": "RANGE OF RATIONAL FUNCTION - 4-step format",
-      "verified_text": "RANGE OF RATIONAL FUNCTION | Format : y = Quad./Quad. or Linear/Quad. or Quad./Linear or Constant/Quad. | Step-1 : Cross-multiply & form a Quadratic in 'x', (tick) | Step-2 : Make D >= 0 or above quadratic. (as x in Real) | Step-3 : Solve above inequality using Wavy Curve. (This answer is not final) [red box] | Step-4 : Check your Answer | # Make coefficient of x^2 = 0 | # Obtain 'y' & put that value of 'y' in equation (1) | # If you get any 'x' -> Then S-III final ans. | # If you don't get any 'x' -> Then remove that 'y' from S-III."},
-    "13": {"type": "question", "topic": "Bumper Question - range of rational (ii) worked",
-      "verified_text": "Bumper Question | Find range of following function : | (i) f(x) = (x+2)(x-1) / (x(x+1)) (struck) | (ii) f(x) = (x^2+x+1)/(x^2-x+1) (struck) | (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) | (iv) f(x) = (x^2+1)/x | handwritten (2): y = (x^2+x+1)/(x^2-x+1) in [1/3, 3]; Real: x^2 y - xy + y = x^2 + x + 1; (y-1)x^2 - (y+1)x + (y-1) = 0 (red box) 'Quad. in x'; => D >= 0; (-(y+1))^2 - 4(y-1)(y-1) >= 0; y^2 + 2y + 1 - 4(y^2 - 2y + 1) >= 0; -3y^2 + 10y - 3 >= 0; 3y^2 - 10y + 3 <= 0; (3y-1)(y-3) <= 0",
-      "diagram": "none"},
-    "14": {"type": "solution-handwritten", "topic": "Bumper (ii) concluded + check",
-      "verified_text": "(handwritten) y = (x^2+x+1)/(x^2-x+1) ---- (1); (y-1)x^2 - (y+1)x + (y-1) = 0 (red box); y != 1 (circled); => D >= 0; (3y-1)(y-3) <= 0; wavy curve + - + at 1/3, 3; # y in [1/3, 3] | Check: coeff. of x^2 = y - 1 = 0; y = 1 (circled); 1 = (x^2+x+1)/(x^2-x+1); x^2 - x + 1 = x^2 + x + 1; 0 = 2x; x = 0 (circled, tick)"},
-    "15": {"type": "solution-handwritten", "topic": "Bumper (i) worked + check",
-      "verified_text": "(handwritten) (1): y = (x^2+x-2)/(x^2+x) (red box) -(1); x^2 y + xy = x^2 + x - 2; (y-1)x^2 + (y-1)x + 2 = 0 (red box) 'Quad.'; D >= 0; (y-1)^2 - 4(y-1)(2) >= 0; (y-1){y-1-8} >= 0; (y-1)(y-9) >= 0; wavy curve + - + at 1, 9; y in (-infinity, 1] U [9, infinity); Check: y-1 = 0 => y = 1 (circled) 'Remove.'; 1 = (x^2+x-2)/(x^2+x); x^2+x = x^2+x-2; 0 = -2 (boxed) -> 'No value of x obtained'; therefore y in (-infinity, 1) U [9, infinity) (red box)"},
-    "16": {"type": "question", "topic": "Bumper (iii) cancelled factor",
-      "verified_text": "Bumper Question | Find range of following function : | (i)-(iv) list repeated; stars at (iii) | handwritten: 'Impost' [sic, likely 'Important']; (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) (red box) = (x+3)(x-1) / (x-1)(x-7) (cancelled); # x in R - {1, 7}; y = (x+3)/(x-7); y in R - {1, -2/3} (red box); cyan: x = 1, x - 1 = 0 (circled); 'value of y corrsp. to cancelled factor'"},
-    "17": {"type": "handwritten", "topic": "cancelled-factor example 2",
-      "verified_text": "(handwritten) ex: y = (2x-1)(x+3) / (x-3)(2x-1) (cancelled); # x in R - {3, 1/2}; x = 1/2 -> y = -7/5; x = 1/2 (red box); y = (x+3)/(x-3); y in R - {1, -7/5} (red box on -7/5)"},
-    "18": {"type": "solution-handwritten", "topic": "Bumper (iv) y = (x^2+1)/x",
-      "verified_text": "(handwritten) (iv) y = (x^2+1)/x ; 'Quad / Linear' arrows; xy = x^2 + 1; 1x^2 - yx + 1 = 0 (cloud); D >= 0; (-y)^2 - 4x1 >= 0; y^2 - 4 >= 0; (y-2)(y+2) >= 0; wavy curve + - + at -2, 2; y in (-infinity, -2] U [2, infinity) (red box, double tick)"}
+ "slug": "quadratic-equations-L10",
+ "chapter": "Quadratic Equations",
+ "lecture": 10,
+ "source_pdf": "Quadratic Equations 10 Class Notes.pdf",
+ "qa_reviewer": "arena-twin3-agent (visual QA, 2-up native-res contact sheets; pages 1-22 of 44 done)",
+ "pages": {
+  "1": {
+   "type": "cover",
+   "topic": "Cover slide",
+   "verified_text": "ARJUNA JEE 2027 | Lecture - 10 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir | (PW logo)",
+   "diagram": "Instructor photo (Sachin Jakhar Sir), ARJUNA JEE 2027 branding",
+   "qa": "Cover confirms chapter=Quadratic Equations, lecture=10; matches filename."
+  },
+  "2": {
+   "type": "topics",
+   "topic": "Topics to be covered",
+   "verified_text": "Topics to be covered (handwritten cursive) | A Range of Rational Functions | B Common Root Condition | C Question Practice | D (label printed, no text)",
+   "diagram": "3D question-mark with thinking pencil mascot"
+  },
+  "3": {
+   "type": "revision",
+   "topic": "LAST CLASS REVISION - range of quadratic",
+   "verified_text": "LAST CLASS REVISION | # Answer the following Questions: | Quadratic: y = ax^2 + bx + c | (i) If a > 0 => Range(y) in [-D/4a, infinity) | (ii) If a < 0 => Range(y) in (-infinity, -D/4a] | handwritten: 'if x in R' (circled, underlined); '# x in [p, q]' -> 'Quad. Range?' -> 'Graphical Method'"
+  },
+  "4": {
+   "type": "divider",
+   "topic": "Question Practice",
+   "verified_text": "Question Practice",
+   "diagram": "none"
+  },
+  "5": {
+   "type": "question",
+   "topic": "Challenger Question [IIT-JEE] solved",
+   "verified_text": "Challenger Question [IIT-JEE] (stars) | If a < b < c and a, b, c in R then comment on nature of roots of following: | (i) f(x) = (x - a)(x - b) - 1 | (ii) f(x) = (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) (red box; faded '= 3x^2 ...' tail) | handwritten (i): Graph: f(x) = x^2 - (a+b)x + ab - 1 (red box); f(a) = -1, f(b) = -1; 2 R & D Root; 1 Root > b; 1 Root < a; two parabolas with points a, b | handwritten (ii): x=a: f(a) = (a-b)(a-c) -> (+); f(b) = (b-c)(b-a) -> (-); f(c) = (c-a)(c-b) -> (+); 2 R & D Root; a < 1 Root < b; b < 1 Root < c; red/white parabolas through a, b, c",
+   "diagram": "two parabola sketches (left: magenta pair; right: red+white)"
+  },
+  "6": {
+   "type": "handwritten",
+   "topic": "Nature of roots - two tools",
+   "verified_text": "(handwritten cloud) Nature of Roots -> # D ; Graph",
+   "diagram": "blue cloud with two branches"
+  },
+  "7": {
+   "type": "question",
+   "topic": "Find range -x^2+4x-6 (repeat of L09 p23, with answers)",
+   "verified_text": "Question | Find range for following functions : | (i) f(x) = -x^2 + 4x - 6 | (ii) f(x) = -x^2 + 4x - 6, x in [-3, 1) | (iii) f(x) = -x^2 + 4x - 6, x in (0, 4] | Ans. : (i) y in (-infinity, -2], (ii) y in [-27, -3), (iii) y in [-6, -2]",
+   "qa": "No handwritten DiBY marker visible on this page (cf. L09 p23)."
+  },
+  "8": {
+   "type": "question-diby",
+   "topic": "Range questions incl. 5.4^x - 2^(x+3) + 1 (DiBY-A)",
+   "verified_text": "Question | Find range for following functions : | (i) f(x) = 2x^2 - 3x + 5, x in [-1, 1] (tick) | (ii) f(x) = x^2 - x - 8, x in (-infinity, -2] U [2, infinity) (tick) | (iii) f(x) = 5.4^x - 2^(x+3) + 1 (red box, stars) | handwritten marker: DiBY - (A) [green, circled] | f(x) = 5(2^x)^2 - 2^x.2^3 + 1; say: 2^x = t (circled); +ve; t in (0, infinity); f(t) = 5t^2 - 8t + 1 (red box), t in (0, infinity); star-cloud: 'Quad. in Terms of any other fun?' | Ans. : (i) y in [31/8, 10], (ii) y in [-6, infinity), (iii) y in [-11/5, infinity)",
+   "diby": [
+    {
+     "printed_label": "DiBY - (A)  [handwritten, green, circled]",
+     "internal_id": "",
+     "prompt": "Find range for following functions : (i) f(x)=2x^2-3x+5, x in [-1,1] (ii) f(x)=x^2-x-8, x in (-inf,-2] U [2,inf) (iii) f(x)=5.4^x - 2^(x+3) + 1",
+     "answer": "(i) y in [31/8, 10], (ii) y in [-6, inf), (iii) y in [-11/5, inf)",
+     "uncertainty": ""
+    }
+   ]
+  },
+  "9": {
+   "type": "handwritten-diby",
+   "topic": "Range of 2sin^2 - 6sin + 7 (DiBY-B)",
+   "verified_text": "(handwritten) f(theta) = 2 sin^2 theta - 6 sin theta + 7 , Range ?? ; [-1, 1]; sin theta = t; f(t) = 2t^2 - 6t + 7 , t in [-1, 1] (red box, tick); marker: DiBY - (B) [green, circled]",
+   "diby": [
+    {
+     "printed_label": "DiBY - (B)  [handwritten, green, circled]",
+     "prompt": "f(theta) = 2 sin^2 theta - 6 sin theta + 7, Range ??",
+     "answer": "reduced to f(t) = 2t^2 - 6t + 7, t in [-1,1]",
+     "uncertainty": ""
+    }
+   ]
+  },
+  "10": {
+   "type": "handwritten",
+   "topic": "Rational function range examples",
+   "verified_text": "(handwritten) y = (ax+b)/(cx+d); x in R - {-d/c}; y in R - {a/c} | ex: y = (2x+7)/(5-3x); x in R - {5/3}; y in R - {-2/3} | ex: y = (x-7)/(14-2x); x in R - {7}; y in R - {-1/2} (cross); y = (x-7)/(-2(x-7)) = -1/2; y in {-1/2} (tick)"
+  },
+  "11": {
+   "type": "handwritten",
+   "topic": "Note: f(m).f(n) < 0",
+   "verified_text": "(handwritten) Note: (pink cloud) f(m).f(n) < 0 => 1 Root lies b/w m & n ; 2 Real, distinct roots"
+  },
+  "12": {
+   "type": "theory",
+   "topic": "RANGE OF RATIONAL FUNCTION - 4-step format",
+   "verified_text": "RANGE OF RATIONAL FUNCTION | Format : y = Quad./Quad. or Linear/Quad. or Quad./Linear or Constant/Quad. | Step-1 : Cross-multiply & form a Quadratic in 'x', (tick) | Step-2 : Make D >= 0 or above quadratic. (as x in Real) | Step-3 : Solve above inequality using Wavy Curve. (This answer is not final) [red box] | Step-4 : Check your Answer | # Make coefficient of x^2 = 0 | # Obtain 'y' & put that value of 'y' in equation (1) | # If you get any 'x' -> Then S-III final ans. | # If you don't get any 'x' -> Then remove that 'y' from S-III."
+  },
+  "13": {
+   "type": "question",
+   "topic": "Bumper Question - range of rational (ii) worked",
+   "verified_text": "Bumper Question | Find range of following function : | (i) f(x) = (x+2)(x-1) / (x(x+1)) (struck) | (ii) f(x) = (x^2+x+1)/(x^2-x+1) (struck) | (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) | (iv) f(x) = (x^2+1)/x | handwritten (2): y = (x^2+x+1)/(x^2-x+1) in [1/3, 3]; Real: x^2 y - xy + y = x^2 + x + 1; (y-1)x^2 - (y+1)x + (y-1) = 0 (red box) 'Quad. in x'; => D >= 0; (-(y+1))^2 - 4(y-1)(y-1) >= 0; y^2 + 2y + 1 - 4(y^2 - 2y + 1) >= 0; -3y^2 + 10y - 3 >= 0; 3y^2 - 10y + 3 <= 0; (3y-1)(y-3) <= 0",
+   "diagram": "none"
+  },
+  "14": {
+   "type": "solution-handwritten",
+   "topic": "Bumper (ii) concluded + check",
+   "verified_text": "(handwritten) y = (x^2+x+1)/(x^2-x+1) ---- (1); (y-1)x^2 - (y+1)x + (y-1) = 0 (red box); y != 1 (circled); => D >= 0; (3y-1)(y-3) <= 0; wavy curve + - + at 1/3, 3; # y in [1/3, 3] | Check: coeff. of x^2 = y - 1 = 0; y = 1 (circled); 1 = (x^2+x+1)/(x^2-x+1); x^2 - x + 1 = x^2 + x + 1; 0 = 2x; x = 0 (circled, tick)"
+  },
+  "15": {
+   "type": "solution-handwritten",
+   "topic": "Bumper (i) worked + check",
+   "verified_text": "(handwritten) (1): y = (x^2+x-2)/(x^2+x) (red box) -(1); x^2 y + xy = x^2 + x - 2; (y-1)x^2 + (y-1)x + 2 = 0 (red box) 'Quad.'; D >= 0; (y-1)^2 - 4(y-1)(2) >= 0; (y-1){y-1-8} >= 0; (y-1)(y-9) >= 0; wavy curve + - + at 1, 9; y in (-infinity, 1] U [9, infinity); Check: y-1 = 0 => y = 1 (circled) 'Remove.'; 1 = (x^2+x-2)/(x^2+x); x^2+x = x^2+x-2; 0 = -2 (boxed) -> 'No value of x obtained'; therefore y in (-infinity, 1) U [9, infinity) (red box)"
+  },
+  "16": {
+   "type": "question",
+   "topic": "Bumper (iii) cancelled factor",
+   "verified_text": "Bumper Question | Find range of following function : | (i)-(iv) list repeated; stars at (iii) | handwritten: 'Impost' [sic, likely 'Important']; (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) (red box) = (x+3)(x-1) / (x-1)(x-7) (cancelled); # x in R - {1, 7}; y = (x+3)/(x-7); y in R - {1, -2/3} (red box); cyan: x = 1, x - 1 = 0 (circled); 'value of y corrsp. to cancelled factor'"
+  },
+  "17": {
+   "type": "handwritten",
+   "topic": "cancelled-factor example 2",
+   "verified_text": "(handwritten) ex: y = (2x-1)(x+3) / (x-3)(2x-1) (cancelled); # x in R - {3, 1/2}; x = 1/2 -> y = -7/5; x = 1/2 (red box); y = (x+3)/(x-3); y in R - {1, -7/5} (red box on -7/5)"
+  },
+  "18": {
+   "type": "solution-handwritten",
+   "topic": "Bumper (iv) y = (x^2+1)/x",
+   "verified_text": "(handwritten) (iv) y = (x^2+1)/x ; 'Quad / Linear' arrows; xy = x^2 + 1; 1x^2 - yx + 1 = 0 (cloud); D >= 0; (-y)^2 - 4x1 >= 0; y^2 - 4 >= 0; (y-2)(y+2) >= 0; wavy curve + - + at -2, 2; y in (-infinity, -2] U [2, infinity) (red box, double tick)"
+  },
+  "19": {
+   "type": "question",
+   "topic": "Question [JEE (Adv.)-2021] range",
+   "verified_text": "Question [JEE (Adv.)-2021] | Let f : R -> R be defined by f(x) = (x^2 - 3x - 6)/(x^2 + 2x + 4) (red box). Find range. | handwritten: y = (x^2-3x-6)/(x^2+2x+4); x^2 y + 2xy + 4y = x^2 - 3x - 6; (y-1)x^2 + (2y+3)x + (4y+6) = 0 (red box); D >= 0; (2y+3)^2 - 4(y-1)(4y+6) >= 0; -12y^2 + 4y + 33 >= 0; 12y^2 - 4y - 33 <= 0; 12y^2 + 18y - 22y - 33 <= 0; 6y(2y+3) - 11(2y+3) <= 0; (2y+3)(6y-11) <= 0; wavy curve + - + at -3/2, 11/6",
+   "diagram": "two wavy-curve sign charts (orange)"
+  },
+  "20": {
+   "type": "solution-handwritten",
+   "topic": "JEE Adv 2021 concluded + check",
+   "verified_text": "(handwritten) y = (x^2-3x-6)/(x^2+2x+4); (y-1)x^2 + (2y+3)x + (4y+6) = 0 (red box, x^2 circled); D >= 0; (2y+3)(6y-11) <= 0; wavy curve + - + at -3/2, 11/6; y in [-3/2, 11/6] 'fnf.' [sic, likely 'final'] | Check: y - 1 = 0 => y = 1 (circled); 1 = (x^2-3x-6)/(x^2+2x+4); x^2+2x+4 = x^2-3x-6; 5x = -10; x = -2 (circled, tick)"
+  },
+  "21": {
+   "type": "question",
+   "topic": "Critical Thinking Question (CTQ) - HW",
+   "verified_text": "Critical Thinking Question (CTQ) | If the range of the function f(x) = (x^2 + ax + b)/(x^2 + 2x + 3) is [-5, 4], a, b in N, then find the value of (a^2 + b^2) | (handwritten cyan circled marker: HW.)",
+   "markers": [
+    "HW (handwritten, cyan circle)"
+   ]
+  },
+  "22": {
+   "type": "summary-handwritten",
+   "topic": "Summary of range methods",
+   "verified_text": "(handwritten) # S^Y [sic, heading]; bullet: y = ax^2+bx+c -> Graph / Range -> [-D/4a, infinity) or (-infinity, -D/4a] } x in R (underlined); bullet: y = ax^2+bx+c, x in [p, q) -> Graphical. | right: Range?; y = 2(h(x))^2 + 3 h(x) - 7; 'Quad. in h(x)'; h(x) = t; y = 2t^2 + 3t - 7, t in ...; down-arrow Range.",
+   "issues": [
+    "heading glyph '# S^Y' uncertain (likely 'Summary')"
+   ]
   }
+ }
 }

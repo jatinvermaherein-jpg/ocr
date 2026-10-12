@@ -119,6 +119,7 @@ def main():
             fh.write(build_transcript(slug, meta, pages, qa))
         if os.path.exists(os.path.join(QA, slug + ".json")):
             shutil.copy(os.path.join(QA, slug + ".json"), os.path.join(OUT, "qa_notes", slug + ".json"))
+        page_unc = {}
         for rec in pages:
             p = rec["page"]
             note = qa.get(str(p), {})
@@ -156,8 +157,10 @@ def main():
                     "Uncertainty note": d.get("uncertainty", ""),
                     "QA status": "visual-full",
                 })
-            for u in uncert:
-                unc.append((meta, p, u))
+            if uncert:
+                page_unc.setdefault(p, []).extend(uncert)
+        for p in sorted(page_unc):
+            unc.append((meta, p, " | ".join(page_unc[p])))
         exp = meta["pages"]
         got = len(pages)
         print(f"{slug}: expected {exp} reviewed {got} {'OK' if exp == got else 'GAP!'}")
