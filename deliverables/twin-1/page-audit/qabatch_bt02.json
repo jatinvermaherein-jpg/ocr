@@ -1,0 +1,44 @@
+[
+ {
+  "_key": "bt02",
+  "_page": 1,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Topics to be covered: A Middle Term, B Different Types of Questions, C Question Practice, D (blank)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt02",
+  "_page": 2,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Title slide: ARJUN JEE 2027 / Lecture-02 / Mathematics / BINOMIAL THEOREM / By- Sachin Jakhar Sir",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt02",
+  "_page": 3,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Section break: H.W. Discussion (L01 homework recap)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ }
+]
