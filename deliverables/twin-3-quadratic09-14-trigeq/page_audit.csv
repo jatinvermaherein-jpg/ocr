@@ -1584,40 +1584,10 @@ a; b; c the roots of P(x). Find a² + b² + c2 without solving P(x) = 0.
 [Ans.:435]",,yes,# DIBY-64; # DIBY-65,DIBY-64 expression needs full-res,visual-scan,arena-twin3-agent
 Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,35,DIBY-66 + Homework,"Homework | # Re-attempt all Class Examples | # DPP & DIBY | # Module: (3 sittings of 1 HR each) | Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25. | Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)",,yes,# DIBY-66,,visual-full,arena-twin3-agent
 Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,36,Thank You slide,It is never about end result / It's always about Journey | Thank You | #futureIITians,,no,,low-conf (0.5161) line: '在u',visual-full,arena-twin3-agent
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,1,ARJUI,"ARJUI
-JEE2
-2202
-Lecture -14
-Mathematics
-QUADRATIC
-Physics
-EQUATIONS
-By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,2,Topics,"Topics
-tobecoverey
-A
-General Second Degree Equation
-B
-Equations Reducible to Quadratic
-C
-Questions on Polynomials
-D
-Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,3,SECONDDEGREEEQUATION,"SECONDDEGREEEQUATION
-ax²+by2+2hxy+2gx+2fy+c=0
-Condition that it can be resolved as product of two linear factors is :
-abc+2fgh-af2-bg²-ch²=0
-RAR
-OR
-dinear
-Jariabley
-a-
-w
-#
-+1a
-441
-C",,no,,low-conf (0.5706) line: 'a-'; low-conf (0.5141) line: 'w'; low-conf (0.5001) line: '+1a'; low-conf (0.5673) line: '441',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,4,(no reliable text detected),"一x
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,1,Cover slide,ARJUNA JEE 2027 | Lecture - 14 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir,,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,2,Topics to be covered,Topics to be covered | A General Second Degree Equation | B Equations Reducible to Quadratic | C Questions on Polynomials | D Question Practice,,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,3,SECOND DEGREE EQUATION - linear-factor condition,SECOND DEGREE EQUATION | a x^2 + b y^2 + 2hxy + 2gx + 2fy + c = 0 (red box) | Condition that it can be resolved as product of two linear factors is : | abc + 2fgh - af^2 - bg^2 - ch^2 = 0 (red box) | OR determinant |a h g; h b f; g f c| = 0 (red box),"handwritten side-notes: Discriminant, cross-product, double factor",no,,low-conf (0.5706) line: 'a-'; low-conf (0.5141) line: 'w'; low-conf (0.5001) line: '+1a'; low-conf (0.5673) line: '441',visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,4,determinant expansion working,"一x
 μ-5f
 fB
 ahc-af²ch²+
@@ -1627,8 +1597,8 @@ b
 f
 fc
 +
-af)-f）+",,no,,low-conf (0.5531) line: '一x'; low-conf (0.5094) line: 'μ-5f'; low-conf (0.6483) line: 'g5'; low-conf (0.5407) line: 'f-8²'; low-conf (0.5549) line: 'af)-f）+'; dual-pass agreement 0.5962,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,5,eterminant,"eterminant
+af)-f）+",,no,,low-conf (0.5531) line: '一x'; low-conf (0.5094) line: 'μ-5f'; low-conf (0.6483) line: 'g5'; low-conf (0.5407) line: 'f-8²'; low-conf (0.5549) line: 'af)-f）+'; dual-pass agreement 0.5962,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,5,condition working (purple/orange),"eterminant
 Courdinate
 a&a
 Toot
@@ -1647,8 +1617,8 @@ adbc
 =(-3-4)-1（-9+8）-1(3-（2)
 α(-+)
 )+1-5=-14+1-5
-=-18",,no,,low-conf (0.5289) line: '1-/',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,6,= 89.,"#
+=-18",,no,,low-conf (0.5289) line: '1-/',visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,6,numeric determinant = 83 working + DiBY marker,"#
 5
 = 89.
 #
@@ -1659,33 +1629,9 @@ Chat-DIBY-
 (o-+(0-)-9)+(-0)
 10+3x26+1
 10++8+1=(
-89",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,7,QUESTION,"QUESTION
-axr
-yuy+by²+agx+xfy
-+C
-Findvalueofkforwhich12x2-10xy+2y2+1lx-5y+k
-is a product of
-two linear factors. Hence find those factors.
-a=12
-b=&
-b=-10
-=-5
-#
-=一2
--5
-1&
--5
-85a
-兰K
-DIBY
-k=α
-11=66
-8
-f=-5
-5/2
-C=K",,no,,low-conf (0.6116) line: '+C'; low-conf (0.5808) line: '=一2'; low-conf (0.5223) line: '1&'; low-conf (0.5467) line: '85a',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,8,QUESTION,"QUESTION
+89",,no,,determinant entries and marker letter need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,7,QUESTION: 3x^2-10xy+2y^2+11x-5y+k two linear factors,QUESTION | Find value of k for which 3x^2 - 10xy + 2y^2 + 11x - 5y + k is a product of two linear factors. Hence find those factors.,,no,,low-conf (0.6116) line: '+C'; low-conf (0.5808) line: '=一2'; low-conf (0.5223) line: '1&'; low-conf (0.5467) line: '85a'; verify coefficients at full res (scan shows 3x^2-10xy+2y^2+11x-5y+k),visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,8,k value + factors working,"QUESTION
 axr
 yuy+by²
 +agx+afy
@@ -1711,8 +1657,8 @@ hol-11
 -4x12(2y-5y+2
 (@y+5)
 =12y+5|
-8(12)",,no,,low-conf (0.6408) line: 'D+'; low-conf (0.6363) line: 'Kc-x11+Kg+Kx01-xg1'; low-conf (0.5734) line: 'K0h6'; low-conf (0.56) line: '18x'; low-conf (0.5636) line: 'hol-11'; dual-pass agreement 0.515,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,9,#x²=-（11-1oy）,"#x²=-（11-1oy）
+8(12)",,no,,low-conf (0.6408) line: 'D+'; low-conf (0.6363) line: 'Kc-x11+Kg+Kx01-xg1'; low-conf (0.5734) line: 'K0h6'; low-conf (0.56) line: '18x'; low-conf (0.5636) line: 'hol-11'; dual-pass agreement 0.515,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,9,factor extraction (pink),"#x²=-（11-1oy）
 αy+5
 G+Kg+11-Kal
 loy-11-2y-5
@@ -1727,8 +1673,8 @@ x=y
 3x=y
 9
 hg-xh
-B+h-xe",,no,,low-conf (0.6388) line: 'h6'; low-conf (0.6107) line: '4x-4+1)('; low-conf (0.6153) line: 'hg-xh'; dual-pass agreement 0.7467,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,10,muh+,"Dues:
+B+h-xe",,no,,low-conf (0.6388) line: 'h6'; low-conf (0.6107) line: '4x-4+1)('; low-conf (0.6153) line: 'hg-xh'; dual-pass agreement 0.7467,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,10,similar product-of-factors Ques + DiBY-C,"Dues:
 32
 muh+
 -6x-8y+α=0
@@ -1738,8 +1684,8 @@ produc oflnear factors
 DiBY
 2
 wid
-Heosefactorealo!",,no,,dual-pass agreement 0.6575,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,11,Black 可12,"Black 可12
+Heosefactorealo!",,no,,dual-pass agreement 0.6575,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,11,Gyaan cloud: L1.L2 = 0 => L1=0 or L2=0,"Black 可12
 eg'
 wx4
 =0
@@ -1748,8 +1694,8 @@ D=0
 Rangr
 Quad.w
 0≥0
-Raungy dty",,no,,low-conf (0.6155) line: 'wx4'; low-conf (0.5599) line: 'Raungy dty'; dual-pass agreement 0.6667,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,12,QUESTION,"QUESTION
+Raungy dty",,no,,low-conf (0.6155) line: 'wx4'; low-conf (0.5599) line: 'Raungy dty'; dual-pass agreement 0.6667,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,12,"QUESTION: x,y real, show interval for x","QUESTION
 Ifx,yberealand9x²+ 2xy+ y²-92x-20y + 244 =
 show that
 x∈[3,6],y∈[1,10].
@@ -1768,8 +1714,8 @@ du
 (y-4)yx9x（y²+a）≥0
 +4G²-92y-9y2+180y-9x244≥0
 0>(01-b)(-
-[]",,no,,low-conf (0.6149) line: 'du'; low-conf (0.5498) line: '+'; low-conf (0.5725) line: '-0≈0'; low-conf (0.5558) line: '+K1-'; low-conf (0.5706) line: '(y-4)yx9x（y²+a）≥0'; dual-pass agreement 0.5503,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,13,QUESTION,"QUESTION
+[]",,no,,low-conf (0.6149) line: 'du'; low-conf (0.5498) line: '+'; low-conf (0.5725) line: '-0≈0'; low-conf (0.5558) line: '+K1-'; low-conf (0.5706) line: '(y-4)yx9x（y²+a）≥0'; dual-pass agreement 0.5503; equation coefficients and target interval need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,13,QUESTION cont. show-that interval + working,"QUESTION
 Ifx,yberealand9x²+2xy +y²-92x-20y+244 =
 show that
 x∈[3,6],y∈[1,10]
@@ -1784,40 +1730,10 @@ x-6)（x-3）<0
 >0
 4(x-10)²-4x1(9x²-92x+x44)≥0
 x²+100-20x-9x²+92x-944≥0
-α[3,6]",,no,,low-conf (0.521) line: '>0'; dual-pass agreement 0.6602,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,14,QUESTION[JEEMAINS-2021],"QUESTION[JEEMAINS-2021]
-If x2 + 9y2 - 4x + 3 = 0, x, y E R, then x and y respectively lie in the intervals.
-A
-[1, 3] and [1, 3]
-#
-DiBY
-B
-[1, 3] and []
-²+9y
-+0xy
-=+o+xh-
-[引]and [,3] 
-D
-[引]and[引]",,no,,low-conf (0.61) line: '#'; dual-pass agreement 0.5163,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,15,QUESTION,"QUESTION
-If x, y and z are three real numbers such thatx + y + z = 4 and
-x²+y2
-+(22)
-=6, then show that each of x, y and z lie in the closed interval
-[图,2].
-=4-(x+y
-x+4+a元y
-一8x-8y+10=0
-4x-4y+5=0
-x+y
-X
-x²-4x+5
-个
-Q>O
-(X-y)-4x(x²-4x+5)≥0
-x²+16-8-4π+16x-20≥0
--3x²+8x-4≥0",,no,,low-conf (0.6246) line: 'x+4+a元y'; low-conf (0.5166) line: 'Q>O'; dual-pass agreement 0.7099,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,16,3x²-6x-2+4<0,"-3x²+8x-4≥0
+α[3,6]",,no,,"low-conf (0.521) line: '>0'; dual-pass agreement 0.6602; interval [8,15] vs [-7,1] reading uncertain",visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,14,"QUESTION [JEE Mains-2021] intervals of alpha, beta","QUESTION [JEE Mains-2021] | If alpha^2 + ... [scan] and alpha, beta in R, then ... and ... respectively lie in the intervals | (A) [1,3] and (1,3) | (B) [1,3] and [-1/3, 1/3] | (C) ... and [1,3] | (D) ... ",,no,,low-conf (0.61) line: '#'; dual-pass agreement 0.5163; statement glyphs and options C/D need full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,15,"QUESTION: x+y+z=3, xy+yz+zx=3 => each in [0,4/3]","QUESTION | If x, y and z are three real numbers such that x + y + z = 3 and xy + yz + zx = 3, then show that each of x, y and z lie in the closed interval [0, 4/3] [scan reading]",,no,,low-conf (0.6246) line: 'x+4+a元y'; low-conf (0.5166) line: 'Q>O'; dual-pass agreement 0.7099; interval endpoints need full-res confirmation,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,16,"[0,4/3] proof working","-3x²+8x-4≥0
 3x²-8+4<0
 3x²-6x-2+4<0
 3x-2
@@ -1825,78 +1741,11 @@ Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,16,3x²-6x-2+4<0,"
 9
 3
 #2
-24H1",,no,,low-conf (0.5601) line: '#2'; low-conf (0.584) line: '24H1'; dual-pass agreement 0.7368,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,17,EQUATIONSREDUCIBLETOQUADRATIC,"EQUATIONSREDUCIBLETOQUADRATIC
-Format-l:
-(x-a)（x-b)（x-c)（x-d)=k
-Ex.:(x+1) (x+2)(x+3)(x+4) =
-16
-format
-(x+1)（x+y) (a+)(x+3)
-multiply
-Action
-1C
-L
-ayoxgamKuo
-x²+5x+y
-x²+5x+6
-9
-Suchthatvariable
-pattusome
-1G
-x²+5+4=t=
-ast)
-OR
-x²+5x=t
-(t+4）(t+6）=
-Quad.ia
-七
-DIBY.",,no,,low-conf (0.5881) line: '1C'; low-conf (0.6251) line: 'ayoxgamKuo'; low-conf (0.5812) line: '七'; dual-pass agreement 0.4971,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,18,EQUATIONSREDUCIBLETOQUADRATIC,"EQUATIONSREDUCIBLETOQUADRATIC
-Format-ll:
-(x-a)（x-b)（x-c)（x-d)=kx²
-Ex.:（x+2)（x+3)（x+8)（x+12)=4x²
-auwebacket
-k
-(x+a)(x+12)(α+3)(a+8)=4x²
-d4muy
-kaol~const·paot→same.
-x²+14x+24
-x²+11x+a4
-x+ay
-(七+3)
-h1+7
-+24
-+11
-X
-2
-+14+2y
-x+11+2Y
-#
-t(t+3)=4
-Quad.",,no,,low-conf (0.6299) line: 'd4muy'; low-conf (0.6008) line: 'X'; low-conf (0.5598) line: '2'; dual-pass agreement 0.65,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,19,EQUATIONSREDUCIBLETOQUADRATIC,"EQUATIONSREDUCIBLETOQUADRATIC
-Format-Ill:（x-a)4+（x-b)4=k
-#
-Ex.:（x-6)4+（x-8)4=16
-x-6+x-8
-wt:
-x-a+x-b
-Quad
-+6t-4=0
-=2x-14
-t+=xmd
-8-t+
-16
-y+=
-(-b+C+b)
-91=
-4+124²+=1C
-4+129
-q=h1
-642
--=D",,no,,low-conf (0.5178) line: '(-b+C+b)'; low-conf (0.6369) line: '642',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,20,add .,"W
+24H1",,no,,low-conf (0.5601) line: '#2'; low-conf (0.584) line: '24H1'; dual-pass agreement 0.7368,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,17,EQUATIONS REDUCIBLE TO QUADRATIC Format-I,EQUATIONS REDUCIBLE TO QUADRATIC | Format-I : (x-a)(x-b)(x-c)(x-d) = k | Ex. : (x+1)(x+2)(x+3)(x+4) = 4 [scan] | handwritten: pair brackets with equal middle term; t = x^2+5x [scan],,no,,low-conf (0.5881) line: '1C'; low-conf (0.6251) line: 'ayoxgamKuo'; low-conf (0.5812) line: '七'; dual-pass agreement 0.4971,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,18,Format-II (x-a)(x-b)(x-c)(x-d) = kx^4,"Format-II : (x-a)(x-b)(x-c)(x-d) = k x^4 | Ex. : (x+1)(x+3)(x+4)(x+6)? = 40? [scan, UNCLEAR] | note: Max 2 brackets to multiply with equal const. part",,no,,low-conf (0.6299) line: 'd4muy'; low-conf (0.6008) line: 'X'; low-conf (0.5598) line: '2'; dual-pass agreement 0.65; example coefficients need full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,19,Format-III (x-a)^4+(x-b)^4=k,Format-III : (x-a)^4 + (x-b)^4 = k | Ex. : (x-6)^4 + (x-8)^4 = 16 | handwritten: t = x-7; (t+1)^4+(t-1)^4=16; 2(t^4+6t^2+1)=16; t^4+6t^2-7=0; (t^2+7)(t^2-1)=0; t=+/-1,,no,,low-conf (0.5178) line: '(-b+C+b)'; low-conf (0.6369) line: '642',visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,20,Format-III variant (difference) working,"W
 (y+)
 ((+R)=
 t1
@@ -1905,55 +1754,10 @@ t1
 add .
 (g-)
 (+”++
-=a4+12y²+a",,no,,low-conf (0.5282) line: '(y+)'; low-conf (0.5219) line: '((+R)='; low-conf (0.5002) line: '+9'; low-conf (0.6317) line: '(+x-=(（-）=-)'; low-conf (0.6147) line: '(+”++'; dual-pass agreement 0.3441,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,21,EQUATIONSREDUCIBLETOQUADRATIC,"EQUATIONSREDUCIBLETOQUADRATIC
-Format-IV:Reciprocal Equation
-ax²+bx²+bx+a=0
-ax4+bx²+cx²+bx+a=0
-ax+bx4+cx²+cx²+bx+a=0
-100 /
-Que?
-#
-even
-degreewal
-#
-odddegreewali
-ax+bx²+cx²+bx+q=0dvideby
-=0+x9+2x9+x0
-JRT!!
-ax+bxy+cx²+（x²+bx+a=0
-ax²+bx+a=O
-diuidebyn
-RRT
-""divide
-(1±xhg
-个
-qx+bx5+cxy+dx²+cx²+bx+a=6
-diuidebyK
-x=1α-1
-erRoot
-egh0
-ewendgreerocip",,no,,low-conf (0.6384) line: '(1±xhg'; low-conf (0.5588) line: '个'; low-conf (0.5285) line: 'egh0'; dual-pass agreement 0.6373,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,22,EXAMPLE,"EXAMPLE
-divide
-Solve:
-ax²+x-11+
-2x++x3-11x²+x+2=0
-(i)
-6x5+11x4-33x²-33x²+11x+6=0
-+x
--11=O
-(ii)
-12x4-56x²+89x²-56x+12=0
-put：x+=t
-SBS
-x²+L
-+a=t
-a(t²-2)
-)+t-11=0
-2t²+t-15=0
-Quadut",,no,,low-conf (0.5222) line: '(i)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,23,Mattu,"W
+=a4+12y²+a",,no,,low-conf (0.5282) line: '(y+)'; low-conf (0.5219) line: '((+R)='; low-conf (0.5002) line: '+9'; low-conf (0.6317) line: '(+x-=(（-）=-)'; low-conf (0.6147) line: '(+”++'; dual-pass agreement 0.3441,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,21,Format-IV Reciprocal equation,"Format-IV : Reciprocal equation | a x^4 + b x^3 + c x^2 + b x + a = 0 | handwritten: divide by x^2; a(x^2+1/x^2) + b(x+1/x) + c = 0; t = x + 1/x; x^2+1/x^2 = t^2 - 2 | margin note (red, Hindi): '100/ Que? aata?!'",,no,,low-conf (0.6384) line: '(1±xhg'; low-conf (0.5588) line: '个'; low-conf (0.5285) line: 'egh0'; dual-pass agreement 0.6373,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,22,EXAMPLE solve reciprocal quartics (i)-(iii),"EXAMPLE | Solve: | (i) 2x^4 + x^3 - 11x^2 + x + 2 = 0 | (ii) 6x^4 + 11x^3 - 33x^2 - 33x + 11x - 6 = 0 [scan, UNCLEAR] | (iii) 12x^4 - 56x^3 + 89x^2 - 56x + 12 = 0",,no,,low-conf (0.5222) line: '(i)'; (ii) coefficients need full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,23,reciprocal working cloud,"W
 aie
 Mattu
 Texmtuska eciprocal
@@ -1961,8 +1765,8 @@ X-L
 2
 +2
 x+
-x+1",,no,,low-conf (0.6488) line: 'aie'; low-conf (0.6035) line: 'X-L'; low-conf (0.6076) line: '+2'; dual-pass agreement 0.7912,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,24,EXAMPLE,"EXAMPLE
+x+1",,no,,low-conf (0.6488) line: 'aie'; low-conf (0.6035) line: 'X-L'; low-conf (0.6076) line: '+2'; dual-pass agreement 0.7912,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,24,EXAMPLE solve (repeat list) + working,"EXAMPLE
 Solve:
 X=-1
 2x4+x3-11x²+x+2=0
@@ -1989,31 +1793,9 @@ degree
 o=
 2
 bodoor mom axbap uong
--56t+89=0",,no,,low-conf (0.6266) line: 'o='; dual-pass agreement 0.7663,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,25,QUESTION[JEEMains-2023],"QUESTION[JEEMains-2023]
-Theequatione4x+ 8e3x+ 13e2x-8ex+1=0x ∈ R)has
-Twosolutions and both arenegative
-No solution
-t+8t²+13t²-8t+1=0
-t+1
-t²
-七
-大
-+13=0
-+8t+13-
-8
-七
-t
-#大-一
-Four solutions two of which are negative
-大
-SBS
-+²+1
-=β
-Two solutions and only one of them is negative
-β²+a)
-=1+ 48 + (",,no,,low-conf (0.5668) line: 't'; dual-pass agreement 0.3823,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,26,#=-3+√3,"#=-3+√3
+-56t+89=0",,no,,low-conf (0.6266) line: 'o='; dual-pass agreement 0.7663,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,25,QUESTION [JEE Mains-2023] nature of solutions,"QUESTION [JEE Mains-2023] | The equation x^3? + 8x^2 + 12x + a? = 0 has [scan, UNCLEAR] | (A) Two solutions and both are negative | (B) No solution | (C) Four solutions two of which are negative | (D) Two solutions and only one of them is negative",,no,,low-conf (0.5668) line: 't'; dual-pass agreement 0.3823; equation needs full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,26,working (t substitution),"#=-3+√3
 +8p+15=0
 p+3)（β+5)=0
 -3-√13
@@ -2038,8 +1820,8 @@ N13-3
 &
 √13-3
 2
-ve",,no,,low-conf (0.6448) line: 'sHhomro'; low-conf (0.5854) line: 'Log'; low-conf (0.6264) line: 'Cog'; low-conf (0.5829) line: '2=o9'; low-conf (0.5821) line: '&',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,27,七-1=-5,"#
+ve",,no,,low-conf (0.6448) line: 'sHhomro'; low-conf (0.5854) line: 'Log'; low-conf (0.6264) line: 'Cog'; low-conf (0.5829) line: '2=o9'; low-conf (0.5821) line: '&',visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,27,working cont.,"#
 七-1=-5
 井
 O= 51 + 48 +
@@ -2052,42 +1834,10 @@ p+3)（β+5）=0
 -5+√9
 9
 √a9-5
-x=-ve",,no,,low-conf (0.596) line: '井'; dual-pass agreement 0.7978,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,28,QUESTION[JEEMains-2022],"QUESTION[JEEMains-2022]
-Thenumberof real solutions of the equation e4x+4e3x-58e2x+4e+ 1 =0
-is
-Ans:02
-#
-DiBY",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,29,EQUATIONSREDUCIBLETOQUADRATIC,"EQUATIONSREDUCIBLETOQUADRATIC
-Format-V:Infinite Repetition
-first rep.
-Re-swhstitute
-ex
-=
-1+↓29
-#x=
-5
-+
-￥+.x
-8BS.
-x²=5x
-x（x-5）=0
-SBS:
-α=
-14+α
-x²=+α
-α²-α-=0
-=1±29
-α=1±√1-4（-+)
-1+√29
-2
-x=0，5
-2
-621-1
-X
-X",,no,,low-conf (0.5015) line: '￥+.x'; low-conf (0.5974) line: '14+α'; low-conf (0.6276) line: '621-1',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,30,QUESTION[1IT-JEE-2012],"QUESTION[1IT-JEE-2012]
+x=-ve",,no,,low-conf (0.596) line: '井'; dual-pass agreement 0.7978,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,28,QUESTION [JEE Mains-2022] number of real solutions + DiBY-A,QUESTION [JEE Mains-2022] | The number of real solutions of the equation x^4 + 4x^3 - 58x^2 + 4x + 1 = 0 is ___ [scan reading],,no,,coefficients and Ans need full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,29,Format-V Infinite repetition,EQUATIONS REDUCIBLE TO QUADRATIC | Format-V : Infinite repetition | handwritten: first step substitution boxes [scan],,no,,low-conf (0.5015) line: '￥+.x'; low-conf (0.5974) line: '14+α'; low-conf (0.6276) line: '621-1',visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,30,QUESTION [IIT-JEE-2012] log value,"QUESTION[1IT-JEE-2012]
 Thevalueof 6 + log3
 12
 3√2
@@ -2114,88 +1864,11 @@ SBS
 qx（2α+1）-y（2α+1）=0
 α
 (9x-）（ax+1=0=
-X",,no,,low-conf (0.635) line: 'put'; low-conf (0.6197) line: 'α'; low-conf (0.6405) line: 'X'; dual-pass agreement 0.7808,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,31,QUESTION[JEEMains-2021],"QUESTION[JEEMains-2021]
-#-
-Thevalueof4+
-S
-5+
-2+
-2
-5
-√30
-X=
-h
-=4+
-5+1
-5x²-0x-y=0
-4
-=α0+
-16x30
-B
-2+
-√30
-+h
-5
-5x+1
-4+
-4
-√5
-√30
-4+-.-00
-5x+1
-= 2+4√30
-10
-=
-古
-2
-30
-2
-(x-4)(5x+1)=x
-5
-5+
-一
-√30
-5
-5x²-20x+x-y=x",,no,,low-conf (0.523) line: '古'; low-conf (0.6333) line: '一'; dual-pass agreement 0.5436,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,32,QUESTION[JEE Mains-2021],"QUESTION[JEE Mains-2021]
-Thevalueof3+
-s
-3+...0
-#
-DiBY
-A
-1.5 +√3
-B
-2+√3
-3+2√3
-D
-4+√3",,no,,low-conf (0.5706) line: 's'; low-conf (0.6347) line: '#',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,33,FACTORANDREMAINDERTHEOREM,"FACTORANDREMAINDERTHEOREM
-#FactorTheorem:
-Polynomial
-P（x)=x²-5x+6
-If (x - a) is a factor of P(x), then P(a)
-=0.
-x-=0iafacr
-=a
-x=
-#RemainderTheorem:
-#P（2)=
-If polynomial P(x) is divided by (x - a) then Remainder = P(a)
-x-1
--5x+6
-ex-P(x)=x²-5x+G
-x=y
--y=0
-Kh-
-divided
-y (x-y),
-R=??
-R=P（4)=16-20+6-
-=
-=",,no,,low-conf (0.5634) line: '=',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,34,A=BQ+R,"A
+X",,no,,low-conf (0.635) line: 'put'; low-conf (0.6197) line: 'α'; low-conf (0.6405) line: 'X'; dual-pass agreement 0.7808; log expression needs full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,31,QUESTION [JEE Mains-2021] value of 4+...,QUESTION [JEE Mains-2021] | The value of 4 + ... is | (A) 2 - (4/5)sqrt(10) [scan] | (B) 2 + (4/35)sqrt(10) [scan] | (C) 4 - (4/5)sqrt(10) [scan] | (D) 5 + (4/5)sqrt(10) [scan],,no,,low-conf (0.523) line: '古'; low-conf (0.6333) line: '一'; dual-pass agreement 0.5436; nested-radical statement and options need full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,32,QUESTION [JEE Mains-2021] value of 3+... + DiBY marker,QUESTION [JEE Mains-2021] | The value of 3 + ... is | (A) 1.5 + sqrt(3) [scan] | (B) 2 + sqrt(3) | (C) 3 + 2 sqrt(3) | (D) 4 + sqrt(3),,no,,low-conf (0.5706) line: 's'; low-conf (0.6347) line: '#'; nested-radical statement needs full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,33,FACTOR AND REMAINDER THEOREM,"FACTOR AND REMAINDER THEOREM | # Factor Theorem: If (x - a) is a factor of P(x), then P(a) = 0. (red box) | # Remainder Theorem: If polynomial P(x) is divided by (x - a) then Remainder = P(a). (red box)",,no,,low-conf (0.5634) line: '=',visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,34,"division algorithm A = BQ + R, deg R < deg B","A
 1
 A=BQ+R
 Homgo
@@ -2206,109 +1879,11 @@ max.degree
 degree
 Quad
 =dinear /comst
-=ax+b",,no,,low-conf (0.5842) line: 'Homgo',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,35,EXAMPLE,"EXAMPLE
-Find theremainderwhen
-(!)
-x100 + x + 2 is divided by x - 1
-(ii)
-x100 + x + 2 is divided by x² - 1
-P(a)=x
-100
-+x+
-(2)
-div.(x-1)=0
-X=1
-100
-+x+
-=P（1)=1
-106
-+1+=4
-100
-Quad
-+x+
-(x²-1)g（x）+（ax+b)
-Ld
-R=ax+b
-X=1
-=O+a+b
-h=9+0
-R（x)=x+3
-X=-1
-=-a+b
--a+b=2
-2b=6
-b=3,a=1",,no,,dual-pass agreement 0.761,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,36,EXAMPLE,"EXAMPLE
-#
-R(x)
-x²+3x
-9
-6
-3
-when divided by (x -1); (x + 2) & (x + 1) respectively. Find the remainder,
-if the polynomial is divided by, (x² - 1)(x + 2).
-g(a)
-4a+c =
-#
-degree
-(x)d)
-x²-1）（x+
-P(x
-=+
--)
-P(x)
-9,(x)
-(c+)Pa)
-#(x)
-(x+)P(x)
-93(a)
-degree=3
-R=ax²+bx+C
-3a=
-3a=4-!
-2
-12
-P(（x)=(x²-1)（x+α)g（x)+a²+hx+C.
-P(1)=a
-P(x)==1)a,(x)+
-P(-2)=1
-P(-1) =-1
-x=-1
-x=-=P（-2）=4a-2b+c=1
-P（1)=a+b+c=
-p（-1）=a-b+c=-1
-a=
-ab=3
-1C
-32
-C=-
--2
-3",,no,,low-conf (0.5873) line: '6'; low-conf (0.5398) line: '#(x)'; low-conf (0.6262) line: 'x=-1'; low-conf (0.531) line: '1C'; dual-pass agreement 0.3841,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,37,CHALLENGERQUESTION,"CHALLENGERQUESTION
-Now to He!!
-If p(x) is polynomial of degree five and
-p(0）=-1,p(1) =1,p(2) = 4,p(3) =9,p(4)= 16,p(5) = 25,thenfind the
-valueofp(6)
-#
-buoim
-ans
-36
-p（x）=x
-x=1,2,3,4,5
-dong drve
-p（a)-²
-=0
-p(x)=ax+b2y+Cx+d2²+ex+
-#()
-=p（x)-x²=0
-2=#
-degoee=5
-6-Cond4G-unknown
-RO=5
-5=
-egy",,no,,low-conf (0.619) line: '#'; low-conf (0.5923) line: '#()'; dual-pass agreement 0.4654,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,38,+1=+180a,"(s-x)(h-x)(e-x)(e-x)(1-x)0=-(2)d
+=ax+b",,no,,low-conf (0.5842) line: 'Homgo',visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,35,EXAMPLE remainders of x^100+x^50+2 etc.,"EXAMPLE | Find the remainder when | (i) x^100 + x^50 + 2 is divided by x - 1 | (ii) x^100 + x^50 + 2 is divided by x^2 - 1 [scan, UNCLEAR] | handwritten: R(x) = ax+b; P(1)=4; P(-1)=2; R = x+3 [scan]",,no,,dual-pass agreement 0.761; (ii) divisor and final R need full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,36,EXAMPLE remainder via three divisors,"EXAMPLE | A polynomial of degree greater than 3 leaves the remainder 2, 1 and -1 when divided by (x-1), (x-2) and (x+3) respectively. Find the remainder, if the polynomial is divided by (x-1)(x-2)(x+3). [scan reading]",,no,,"low-conf (0.5873) line: '6'; low-conf (0.5398) line: '#(x)'; low-conf (0.6262) line: 'x=-1'; low-conf (0.531) line: '1C'; dual-pass agreement 0.3841; verify divisor signs and a,b,c values at full res",visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,37,CHALLENGER QUESTION degree-5 polynomial P(6) (HW),"CHALLENGER QUESTION | If P(x) is polynomial of degree five and P(1)=2, P(2)=3, P(3)=4, P(4)=5, P(5)=6 [scan reading], then find the value of P(6).",,no,,low-conf (0.619) line: '#'; low-conf (0.5923) line: '#()'; dual-pass agreement 0.4654; verify P(k) values at full res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,38,P(x)-(x+1)=k.Pi(x-i) working; P(6) boxed,"(s-x)(h-x)(e-x)(e-x)(1-x)0=-(2)d
 X=0
 p（o)-0=a(-1)（-2)(-3)（-4)(-5)
 +1=+180a
@@ -2322,8 +1897,8 @@ x=6
 P(6)-36=
 20
 (5（4）(3（2)(（1)
-二1",,no,,low-conf (0.5421) line: '20'; low-conf (0.6237) line: '(5（4）(3（2)(（1)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,39,mnic,"Jues-
+二1",,no,,low-conf (0.5421) line: '20'; low-conf (0.6237) line: '(5（4）(3（2)(（1)',visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,39,variant with leading coefficient 1,"Jues-
 polynomial whn laauing
 Phoo
 p(x)a
@@ -2353,47 +1928,10 @@ p（x)=x+ax²+ba²+（x+d
 x=8
 >p（8)-1=6x5x4x1
 dong drivel
-p(8)=120+14",,no,,low-conf (0.5675) line: 'Phoo'; low-conf (0.5844) line: 'p(x)a'; low-conf (0.609) line: 'Thenftind'; dual-pass agreement 0.5633,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,40,QUESTION[JEEMains-2021],"QUESTION[JEEMains-2021]
-Let f(x) be a polynomial of degree 3 such that f(k)
--2
-fork =2,3,4,5.
-k
-Then the value of 52 - 10f(10) jsequal to
-5。-26=
-26
-x,3,4,5
-f(a)=-
-=0
-of(0)+=a(-2)（-3)（-u)(-5)
-f(（x)+=0
-=1a0a=a=
-60
-x=1o
-f（a)+=a（x-2)（x-3)（a-4)（x-5）
-deg7ee=4
-degree=3
-(x-2)（x-3)（x-4)（x-5)
-10f（10）+=
-60
-(5）（)（±))
-10f（10)=a8-2=2G",,no,,low-conf (0.5814) line: '26'; low-conf (0.6323) line: '60'; low-conf (0.5254) line: '(5）（)（±))'; dual-pass agreement 0.2167,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,41,QUESTION,"QUESTION
-If f (x) is a polynomial of degree four with leading coefficient one
-satisfying f(1) = 1,f(2) = 2,f(3) = 3,then find
-f(0)+f(4)
-f(-1)+f(5)
-(where [.] represents greatest integer)
-Ans:5
-DiBY",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,42,never,"在u
-never
-about
-endresult
-Lts aluay about
-fourney
-Thank
-#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+p(8)=120+14",,no,,low-conf (0.5675) line: 'Phoo'; low-conf (0.5844) line: 'p(x)a'; low-conf (0.609) line: 'Thenftind'; dual-pass agreement 0.5633,visual-scan,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,40,"QUESTION [JEE Mains-2021] degree-3 f(k)=-2/k, 52-10f(10)","QUESTION [JEE Mains-2021] | Let f(x) be a polynomial of degree 3 such that f(k) = -2/k for k = 2, 3, 4, 5. Then the value of 52 - 10f(10) is equal to",,no,,low-conf (0.5814) line: '26'; low-conf (0.6323) line: '60'; low-conf (0.5254) line: '(5）（)（±))'; dual-pass agreement 0.2167; verify '52 - 10f(10)' glyphs at full res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,41,"QUESTION degree-4 f(1)=1,f(2)=2,f(3)=3, greatest integer + DiBY-C","QUESTION | If f(x) is a polynomial of degree four with leading coefficient one satisfying f(1) = 1, f(2) = 2, f(3) = 3, then find (f(4)+f(0))/2? [scan] (where [.] represents greatest integer) | Ans : 5 [scan]",,no,,target expression needs full-res,visual-full,arena-twin3-agent
+Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,42,Thank You slide,It is never about end result / It's always about Journey | Thank You | #futureIITians,,no,,low-conf (0.5161) line: '在u',visual-full,arena-twin3-agent
 Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,1,ARJUI,"ARJUI
 2027
 Lecture -01

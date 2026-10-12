@@ -8,8 +8,16 @@
 
 ## Page 1
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9658 | pass agreement 0.954
+- Topic/heading: Cover slide
+- Page type: cover | dark bg: True | primary pass B | mean conf 0.9658 | pass agreement 0.954
+
+### Verified transcript (visual QA)
+
+- ARJUNA JEE 2027
+- Lecture - 14
+- Mathematics
+- QUADRATIC EQUATIONS
+- By- Sachin Jakhar Sir
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -25,8 +33,16 @@
 
 ## Page 2
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9827 | pass agreement 0.9887
+- Topic/heading: Topics to be covered
+- Page type: topics | dark bg: True | primary pass A | mean conf 0.9827 | pass agreement 0.9887
+
+### Verified transcript (visual QA)
+
+- Topics to be covered
+- A General Second Degree Equation
+- B Equations Reducible to Quadratic
+- C Questions on Polynomials
+- D Question Practice
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -43,8 +59,17 @@
 
 ## Page 3
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8269 | pass agreement 0.951
+- Topic/heading: SECOND DEGREE EQUATION - linear-factor condition
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8269 | pass agreement 0.951
+- Diagram/visual: handwritten side-notes: Discriminant, cross-product, double factor
+
+### Verified transcript (visual QA)
+
+- SECOND DEGREE EQUATION
+- a x^2 + b y^2 + 2hxy + 2gx + 2fy + c = 0 (red box)
+- Condition that it can be resolved as product of two linear factors is :
+- abc + 2fgh - af^2 - bg^2 - ch^2 = 0 (red box)
+- OR determinant |a h g; h b f; g f c| = 0 (red box)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -65,8 +90,8 @@
 
 ## Page 4
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7415 | pass agreement 0.5962
+- Topic/heading: determinant expansion working
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.7415 | pass agreement 0.5962
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -86,8 +111,8 @@
 
 ## Page 5
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8771 | pass agreement 0.8548
+- Topic/heading: condition working (purple/orange)
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.8771 | pass agreement 0.8548
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -114,8 +139,8 @@
 
 ## Page 6
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9251 | pass agreement 0.8921
+- Topic/heading: numeric determinant = 83 working + DiBY marker
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.9251 | pass agreement 0.8921
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -132,10 +157,17 @@
 - 10++8+1=(
 - 89
 
+> [UNCLEAR] p6: determinant entries and marker letter need full-res verification
+
 ## Page 7
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8273 | pass agreement 0.801
+- Topic/heading: QUESTION: 3x^2-10xy+2y^2+11x-5y+k two linear factors
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8273 | pass agreement 0.801
+
+### Verified transcript (visual QA)
+
+- QUESTION
+- Find value of k for which 3x^2 - 10xy + 2y^2 + 11x - 5y + k is a product of two linear factors. Hence find those factors.
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -165,10 +197,12 @@
 - 5/2
 - C=K
 
+> [UNCLEAR] p7: verify coefficients at full res (scan shows 3x^2-10xy+2y^2+11x-5y+k)
+
 ## Page 8
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7699 | pass agreement 0.515
+- Topic/heading: k value + factors working
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.7699 | pass agreement 0.515
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -204,8 +238,8 @@
 
 ## Page 9
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7817 | pass agreement 0.7467
+- Topic/heading: factor extraction (pink)
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.7817 | pass agreement 0.7467
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -230,8 +264,8 @@
 
 ## Page 10
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8057 | pass agreement 0.6575
+- Topic/heading: similar product-of-factors Ques + DiBY-C
+- Page type: question-handwritten | dark bg: True | primary pass B | mean conf 0.8057 | pass agreement 0.6575
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -251,8 +285,8 @@
 
 ## Page 11
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7068 | pass agreement 0.6667
+- Topic/heading: Gyaan cloud: L1.L2 = 0 => L1=0 or L2=0
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.7068 | pass agreement 0.6667
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -271,8 +305,8 @@
 
 ## Page 12
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7852 | pass agreement 0.5503
+- Topic/heading: QUESTION: x,y real, show interval for x
+- Page type: question | dark bg: True | primary pass A | mean conf 0.7852 | pass agreement 0.5503
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -299,10 +333,12 @@
 
 > Dual-pass agreement 0.5503 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p12: equation coefficients and target interval need full-res verification
+
 ## Page 13
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8307 | pass agreement 0.6602
+- Topic/heading: QUESTION cont. show-that interval + working
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8307 | pass agreement 0.6602
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -325,10 +361,21 @@
 
 > Dual-pass agreement 0.6602 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p13: interval [8,15] vs [-7,1] reading uncertain
+
 ## Page 14
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8804 | pass agreement 0.5163
+- Topic/heading: QUESTION [JEE Mains-2021] intervals of alpha, beta
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8804 | pass agreement 0.5163
+
+### Verified transcript (visual QA)
+
+- QUESTION [JEE Mains-2021]
+- If alpha^2 + ... [scan] and alpha, beta in R, then ... and ... respectively lie in the intervals
+- (A) [1,3] and (1,3)
+- (B) [1,3] and [-1/3, 1/3]
+- (C) ... and [1,3]
+- (D) ... 
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -349,10 +396,17 @@
 
 > Dual-pass agreement 0.5163 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p14: statement glyphs and options C/D need full-res
+
 ## Page 15
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7805 | pass agreement 0.7099
+- Topic/heading: QUESTION: x+y+z=3, xy+yz+zx=3 => each in [0,4/3]
+- Page type: question | dark bg: True | primary pass A | mean conf 0.7805 | pass agreement 0.7099
+
+### Verified transcript (visual QA)
+
+- QUESTION
+- If x, y and z are three real numbers such that x + y + z = 3 and xy + yz + zx = 3, then show that each of x, y and z lie in the closed interval [0, 4/3] [scan reading]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -377,10 +431,12 @@
 
 > Dual-pass agreement 0.7099 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p15: interval endpoints need full-res confirmation
+
 ## Page 16
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7671 | pass agreement 0.7368
+- Topic/heading: [0,4/3] proof working
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.7671 | pass agreement 0.7368
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -398,8 +454,15 @@
 
 ## Page 17
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.837 | pass agreement 0.4971
+- Topic/heading: EQUATIONS REDUCIBLE TO QUADRATIC Format-I
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.837 | pass agreement 0.4971
+
+### Verified transcript (visual QA)
+
+- EQUATIONS REDUCIBLE TO QUADRATIC
+- Format-I : (x-a)(x-b)(x-c)(x-d) = k
+- Ex. : (x+1)(x+2)(x+3)(x+4) = 4 [scan]
+- handwritten: pair brackets with equal middle term; t = x^2+5x [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -434,8 +497,14 @@
 
 ## Page 18
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8148 | pass agreement 0.65
+- Topic/heading: Format-II (x-a)(x-b)(x-c)(x-d) = kx^4
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8148 | pass agreement 0.65
+
+### Verified transcript (visual QA)
+
+- Format-II : (x-a)(x-b)(x-c)(x-d) = k x^4
+- Ex. : (x+1)(x+3)(x+4)(x+6)? = 40? [scan, UNCLEAR]
+- note: Max 2 brackets to multiply with equal const. part
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -465,10 +534,18 @@
 
 > Dual-pass agreement 0.65 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p18: example coefficients need full-res
+
 ## Page 19
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8312 | pass agreement 0.8309
+- Topic/heading: Format-III (x-a)^4+(x-b)^4=k
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8312 | pass agreement 0.8309
+
+### Verified transcript (visual QA)
+
+- Format-III : (x-a)^4 + (x-b)^4 = k
+- Ex. : (x-6)^4 + (x-8)^4 = 16
+- handwritten: t = x-7; (t+1)^4+(t-1)^4=16; 2(t^4+6t^2+1)=16; t^4+6t^2-7=0; (t^2+7)(t^2-1)=0; t=+/-1
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -496,8 +573,8 @@
 
 ## Page 20
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.6698 | pass agreement 0.3441
+- Topic/heading: Format-III variant (difference) working
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.6698 | pass agreement 0.3441
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -516,8 +593,15 @@
 
 ## Page 21
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8471 | pass agreement 0.6373
+- Topic/heading: Format-IV Reciprocal equation
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8471 | pass agreement 0.6373
+
+### Verified transcript (visual QA)
+
+- Format-IV : Reciprocal equation
+- a x^4 + b x^3 + c x^2 + b x + a = 0
+- handwritten: divide by x^2; a(x^2+1/x^2) + b(x+1/x) + c = 0; t = x + 1/x; x^2+1/x^2 = t^2 - 2
+- margin note (red, Hindi): '100/ Que? aata?!'
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -554,8 +638,16 @@
 
 ## Page 22
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8176 | pass agreement 0.9348
+- Topic/heading: EXAMPLE solve reciprocal quartics (i)-(iii)
+- Page type: example | dark bg: True | primary pass A | mean conf 0.8176 | pass agreement 0.9348
+
+### Verified transcript (visual QA)
+
+- EXAMPLE
+- Solve:
+- (i) 2x^4 + x^3 - 11x^2 + x + 2 = 0
+- (ii) 6x^4 + 11x^3 - 33x^2 - 33x + 11x - 6 = 0 [scan, UNCLEAR]
+- (iii) 12x^4 - 56x^3 + 89x^2 - 56x + 12 = 0
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -579,10 +671,12 @@
 - 2t²+t-15=0
 - Quadut
 
+> [UNCLEAR] p22: (ii) coefficients need full-res
+
 ## Page 23
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7417 | pass agreement 0.7912
+- Topic/heading: reciprocal working cloud
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.7417 | pass agreement 0.7912
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -600,8 +694,8 @@
 
 ## Page 24
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8908 | pass agreement 0.7663
+- Topic/heading: EXAMPLE solve (repeat list) + working
+- Page type: example | dark bg: True | primary pass B | mean conf 0.8908 | pass agreement 0.7663
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -638,8 +732,17 @@
 
 ## Page 25
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8439 | pass agreement 0.3823
+- Topic/heading: QUESTION [JEE Mains-2023] nature of solutions
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8439 | pass agreement 0.3823
+
+### Verified transcript (visual QA)
+
+- QUESTION [JEE Mains-2023]
+- The equation x^3? + 8x^2 + 12x + a? = 0 has [scan, UNCLEAR]
+- (A) Two solutions and both are negative
+- (B) No solution
+- (C) Four solutions two of which are negative
+- (D) Two solutions and only one of them is negative
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -669,10 +772,12 @@
 
 > Dual-pass agreement 0.3823 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p25: equation needs full-res
+
 ## Page 26
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8122 | pass agreement 0.863
+- Topic/heading: working (t substitution)
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.8122 | pass agreement 0.863
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -705,8 +810,8 @@
 
 ## Page 27
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8579 | pass agreement 0.7978
+- Topic/heading: working cont.
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.8579 | pass agreement 0.7978
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -729,8 +834,13 @@
 
 ## Page 28
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9386 | pass agreement 0.9765
+- Topic/heading: QUESTION [JEE Mains-2022] number of real solutions + DiBY-A
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9386 | pass agreement 0.9765
+
+### Verified transcript (visual QA)
+
+- QUESTION [JEE Mains-2022]
+- The number of real solutions of the equation x^4 + 4x^3 - 58x^2 + 4x + 1 = 0 is ___ [scan reading]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -741,10 +851,18 @@
 - #
 - DiBY
 
+> [UNCLEAR] p28: coefficients and Ans need full-res
+
 ## Page 29
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8254 | pass agreement 0.9309
+- Topic/heading: Format-V Infinite repetition
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8254 | pass agreement 0.9309
+
+### Verified transcript (visual QA)
+
+- EQUATIONS REDUCIBLE TO QUADRATIC
+- Format-V : Infinite repetition
+- handwritten: first step substitution boxes [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -779,8 +897,8 @@
 
 ## Page 30
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.822 | pass agreement 0.7808
+- Topic/heading: QUESTION [IIT-JEE-2012] log value
+- Page type: question | dark bg: True | primary pass A | mean conf 0.822 | pass agreement 0.7808
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -815,10 +933,21 @@
 
 > Dual-pass agreement 0.7808 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p30: log expression needs full-res verification
+
 ## Page 31
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.898 | pass agreement 0.5436
+- Topic/heading: QUESTION [JEE Mains-2021] value of 4+...
+- Page type: question | dark bg: True | primary pass B | mean conf 0.898 | pass agreement 0.5436
+
+### Verified transcript (visual QA)
+
+- QUESTION [JEE Mains-2021]
+- The value of 4 + ... is
+- (A) 2 - (4/5)sqrt(10) [scan]
+- (B) 2 + (4/35)sqrt(10) [scan]
+- (C) 4 - (4/5)sqrt(10) [scan]
+- (D) 5 + (4/5)sqrt(10) [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -868,10 +997,21 @@
 
 > Dual-pass agreement 0.5436 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p31: nested-radical statement and options need full-res
+
 ## Page 32
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8934 | pass agreement 0.9756
+- Topic/heading: QUESTION [JEE Mains-2021] value of 3+... + DiBY marker
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8934 | pass agreement 0.9756
+
+### Verified transcript (visual QA)
+
+- QUESTION [JEE Mains-2021]
+- The value of 3 + ... is
+- (A) 1.5 + sqrt(3) [scan]
+- (B) 2 + sqrt(3)
+- (C) 3 + 2 sqrt(3)
+- (D) 4 + sqrt(3)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -889,10 +1029,18 @@
 - D
 - 4+√3
 
+> [UNCLEAR] p32: nested-radical statement needs full-res
+
 ## Page 33
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8518 | pass agreement 0.862
+- Topic/heading: FACTOR AND REMAINDER THEOREM
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8518 | pass agreement 0.862
+
+### Verified transcript (visual QA)
+
+- FACTOR AND REMAINDER THEOREM
+- # Factor Theorem: If (x - a) is a factor of P(x), then P(a) = 0. (red box)
+- # Remainder Theorem: If polynomial P(x) is divided by (x - a) then Remainder = P(a). (red box)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -923,8 +1071,8 @@
 
 ## Page 34
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8969 | pass agreement 0.8356
+- Topic/heading: division algorithm A = BQ + R, deg R < deg B
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.8969 | pass agreement 0.8356
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -943,8 +1091,16 @@
 
 ## Page 35
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8704 | pass agreement 0.761
+- Topic/heading: EXAMPLE remainders of x^100+x^50+2 etc.
+- Page type: example | dark bg: True | primary pass B | mean conf 0.8704 | pass agreement 0.761
+
+### Verified transcript (visual QA)
+
+- EXAMPLE
+- Find the remainder when
+- (i) x^100 + x^50 + 2 is divided by x - 1
+- (ii) x^100 + x^50 + 2 is divided by x^2 - 1 [scan, UNCLEAR]
+- handwritten: R(x) = ax+b; P(1)=4; P(-1)=2; R = x+3 [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -983,10 +1139,17 @@
 
 > Dual-pass agreement 0.761 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p35: (ii) divisor and final R need full-res
+
 ## Page 36
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8426 | pass agreement 0.3841
+- Topic/heading: EXAMPLE remainder via three divisors
+- Page type: example | dark bg: True | primary pass A | mean conf 0.8426 | pass agreement 0.3841
+
+### Verified transcript (visual QA)
+
+- EXAMPLE
+- A polynomial of degree greater than 3 leaves the remainder 2, 1 and -1 when divided by (x-1), (x-2) and (x+3) respectively. Find the remainder, if the polynomial is divided by (x-1)(x-2)(x+3). [scan reading]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1039,10 +1202,17 @@
 
 > Dual-pass agreement 0.3841 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p36: verify divisor signs and a,b,c values at full res
+
 ## Page 37
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8343 | pass agreement 0.4654
+- Topic/heading: CHALLENGER QUESTION degree-5 polynomial P(6) (HW)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8343 | pass agreement 0.4654
+
+### Verified transcript (visual QA)
+
+- CHALLENGER QUESTION
+- If P(x) is polynomial of degree five and P(1)=2, P(2)=3, P(3)=4, P(4)=5, P(5)=6 [scan reading], then find the value of P(6).
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1072,10 +1242,12 @@
 
 > Dual-pass agreement 0.4654 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p37: verify P(k) values at full res
+
 ## Page 38
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8047 | pass agreement 0.9405
+- Topic/heading: P(x)-(x+1)=k.Pi(x-i) working; P(6) boxed
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8047 | pass agreement 0.9405
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1097,8 +1269,8 @@
 
 ## Page 39
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7895 | pass agreement 0.5633
+- Topic/heading: variant with leading coefficient 1
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.7895 | pass agreement 0.5633
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1138,8 +1310,13 @@
 
 ## Page 40
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7951 | pass agreement 0.2167
+- Topic/heading: QUESTION [JEE Mains-2021] degree-3 f(k)=-2/k, 52-10f(10)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.7951 | pass agreement 0.2167
+
+### Verified transcript (visual QA)
+
+- QUESTION [JEE Mains-2021]
+- Let f(x) be a polynomial of degree 3 such that f(k) = -2/k for k = 2, 3, 4, 5. Then the value of 52 - 10f(10) is equal to
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1170,10 +1347,18 @@
 
 > Dual-pass agreement 0.2167 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p40: verify '52 - 10f(10)' glyphs at full res
+
 ## Page 41
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9111 | pass agreement 0.9794
+- Topic/heading: QUESTION degree-4 f(1)=1,f(2)=2,f(3)=3, greatest integer + DiBY-C
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9111 | pass agreement 0.9794
+
+### Verified transcript (visual QA)
+
+- QUESTION
+- If f(x) is a polynomial of degree four with leading coefficient one satisfying f(1) = 1, f(2) = 2, f(3) = 3, then find (f(4)+f(0))/2? [scan] (where [.] represents greatest integer)
+- Ans : 5 [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1186,10 +1371,18 @@
 - Ans:5
 - DiBY
 
+> [UNCLEAR] p41: target expression needs full-res
+
 ## Page 42
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+- Topic/heading: Thank You slide
+- Page type: closing | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+
+### Verified transcript (visual QA)
+
+- It is never about end result / It's always about Journey
+- Thank You
+- #futureIITians
 
 ### Raw OCR (primary pass, verbatim)
 

@@ -140,39 +140,42 @@ Every entry cites PDF page and location/reading. Nothing below was silently corr
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p3: low-conf (0.5706) line: 'a-' | low-conf (0.5141) line: 'w' | low-conf (0.5001) line: '+1a' | low-conf (0.5673) line: '441'
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p4: low-conf (0.5531) line: '一x' | low-conf (0.5094) line: 'μ-5f' | low-conf (0.6483) line: 'g5' | low-conf (0.5407) line: 'f-8²' | low-conf (0.5549) line: 'af)-f）+' | dual-pass agreement 0.5962
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p5: low-conf (0.5289) line: '1-/'
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p7: low-conf (0.6116) line: '+C' | low-conf (0.5808) line: '=一2' | low-conf (0.5223) line: '1&' | low-conf (0.5467) line: '85a'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p6: determinant entries and marker letter need full-res verification
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p7: low-conf (0.6116) line: '+C' | low-conf (0.5808) line: '=一2' | low-conf (0.5223) line: '1&' | low-conf (0.5467) line: '85a' | verify coefficients at full res (scan shows 3x^2-10xy+2y^2+11x-5y+k)
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p8: low-conf (0.6408) line: 'D+' | low-conf (0.6363) line: 'Kc-x11+Kg+Kx01-xg1' | low-conf (0.5734) line: 'K0h6' | low-conf (0.56) line: '18x' | low-conf (0.5636) line: 'hol-11' | dual-pass agreement 0.515
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p9: low-conf (0.6388) line: 'h6' | low-conf (0.6107) line: '4x-4+1)(' | low-conf (0.6153) line: 'hg-xh' | dual-pass agreement 0.7467
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p10: dual-pass agreement 0.6575
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p11: low-conf (0.6155) line: 'wx4' | low-conf (0.5599) line: 'Raungy dty' | dual-pass agreement 0.6667
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.6149) line: 'du' | low-conf (0.5498) line: '+' | low-conf (0.5725) line: '-0≈0' | low-conf (0.5558) line: '+K1-' | low-conf (0.5706) line: '(y-4)yx9x（y²+a）≥0' | dual-pass agreement 0.5503
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p13: low-conf (0.521) line: '>0' | dual-pass agreement 0.6602
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p14: low-conf (0.61) line: '#' | dual-pass agreement 0.5163
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p15: low-conf (0.6246) line: 'x+4+a元y' | low-conf (0.5166) line: 'Q>O' | dual-pass agreement 0.7099
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p12: low-conf (0.6149) line: 'du' | low-conf (0.5498) line: '+' | low-conf (0.5725) line: '-0≈0' | low-conf (0.5558) line: '+K1-' | low-conf (0.5706) line: '(y-4)yx9x（y²+a）≥0' | dual-pass agreement 0.5503 | equation coefficients and target interval need full-res verification
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p13: low-conf (0.521) line: '>0' | dual-pass agreement 0.6602 | interval [8,15] vs [-7,1] reading uncertain
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p14: low-conf (0.61) line: '#' | dual-pass agreement 0.5163 | statement glyphs and options C/D need full-res
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p15: low-conf (0.6246) line: 'x+4+a元y' | low-conf (0.5166) line: 'Q>O' | dual-pass agreement 0.7099 | interval endpoints need full-res confirmation
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p16: low-conf (0.5601) line: '#2' | low-conf (0.584) line: '24H1' | dual-pass agreement 0.7368
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p17: low-conf (0.5881) line: '1C' | low-conf (0.6251) line: 'ayoxgamKuo' | low-conf (0.5812) line: '七' | dual-pass agreement 0.4971
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p18: low-conf (0.6299) line: 'd4muy' | low-conf (0.6008) line: 'X' | low-conf (0.5598) line: '2' | dual-pass agreement 0.65
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p18: low-conf (0.6299) line: 'd4muy' | low-conf (0.6008) line: 'X' | low-conf (0.5598) line: '2' | dual-pass agreement 0.65 | example coefficients need full-res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p19: low-conf (0.5178) line: '(-b+C+b)' | low-conf (0.6369) line: '642'
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p20: low-conf (0.5282) line: '(y+)' | low-conf (0.5219) line: '((+R)=' | low-conf (0.5002) line: '+9' | low-conf (0.6317) line: '(+x-=(（-）=-)' | low-conf (0.6147) line: '(+”++' | dual-pass agreement 0.3441
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p21: low-conf (0.6384) line: '(1±xhg' | low-conf (0.5588) line: '个' | low-conf (0.5285) line: 'egh0' | dual-pass agreement 0.6373
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p22: low-conf (0.5222) line: '(i)'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p22: low-conf (0.5222) line: '(i)' | (ii) coefficients need full-res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p23: low-conf (0.6488) line: 'aie' | low-conf (0.6035) line: 'X-L' | low-conf (0.6076) line: '+2' | dual-pass agreement 0.7912
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p24: low-conf (0.6266) line: 'o=' | dual-pass agreement 0.7663
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p25: low-conf (0.5668) line: 't' | dual-pass agreement 0.3823
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p25: low-conf (0.5668) line: 't' | dual-pass agreement 0.3823 | equation needs full-res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p26: low-conf (0.6448) line: 'sHhomro' | low-conf (0.5854) line: 'Log' | low-conf (0.6264) line: 'Cog' | low-conf (0.5829) line: '2=o9' | low-conf (0.5821) line: '&'
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p27: low-conf (0.596) line: '井' | dual-pass agreement 0.7978
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p28: coefficients and Ans need full-res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p29: low-conf (0.5015) line: '￥+.x' | low-conf (0.5974) line: '14+α' | low-conf (0.6276) line: '621-1'
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p30: low-conf (0.635) line: 'put' | low-conf (0.6197) line: 'α' | low-conf (0.6405) line: 'X' | dual-pass agreement 0.7808
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p31: low-conf (0.523) line: '古' | low-conf (0.6333) line: '一' | dual-pass agreement 0.5436
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p32: low-conf (0.5706) line: 's' | low-conf (0.6347) line: '#'
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p30: low-conf (0.635) line: 'put' | low-conf (0.6197) line: 'α' | low-conf (0.6405) line: 'X' | dual-pass agreement 0.7808 | log expression needs full-res verification
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p31: low-conf (0.523) line: '古' | low-conf (0.6333) line: '一' | dual-pass agreement 0.5436 | nested-radical statement and options need full-res
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p32: low-conf (0.5706) line: 's' | low-conf (0.6347) line: '#' | nested-radical statement needs full-res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p33: low-conf (0.5634) line: '='
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p34: low-conf (0.5842) line: 'Homgo'
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p35: dual-pass agreement 0.761
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: low-conf (0.5873) line: '6' | low-conf (0.5398) line: '#(x)' | low-conf (0.6262) line: 'x=-1' | low-conf (0.531) line: '1C' | dual-pass agreement 0.3841
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p37: low-conf (0.619) line: '#' | low-conf (0.5923) line: '#()' | dual-pass agreement 0.4654
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p35: dual-pass agreement 0.761 | (ii) divisor and final R need full-res
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p36: low-conf (0.5873) line: '6' | low-conf (0.5398) line: '#(x)' | low-conf (0.6262) line: 'x=-1' | low-conf (0.531) line: '1C' | dual-pass agreement 0.3841 | verify divisor signs and a,b,c values at full res
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p37: low-conf (0.619) line: '#' | low-conf (0.5923) line: '#()' | dual-pass agreement 0.4654 | verify P(k) values at full res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p38: low-conf (0.5421) line: '20' | low-conf (0.6237) line: '(5（4）(3（2)(（1)'
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p39: low-conf (0.5675) line: 'Phoo' | low-conf (0.5844) line: 'p(x)a' | low-conf (0.609) line: 'Thenftind' | dual-pass agreement 0.5633
-- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: low-conf (0.5814) line: '26' | low-conf (0.6323) line: '60' | low-conf (0.5254) line: '(5）（)（±))' | dual-pass agreement 0.2167
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: low-conf (0.5814) line: '26' | low-conf (0.6323) line: '60' | low-conf (0.5254) line: '(5）（)（±))' | dual-pass agreement 0.2167 | verify '52 - 10f(10)' glyphs at full res
+- **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p41: target expression needs full-res
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p42: low-conf (0.5161) line: '在u'
 - **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p4: low-conf (0.5907) line: 'θ=5' | low-conf (0.569) line: 'TT' | low-conf (0.5147) line: 'θ' | low-conf (0.5546) line: 'π' | low-conf (0.6371) line: 'π' | low-conf (0.5897) line: '女' | dual-pass agreement 0.4441
 - **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p6: low-conf (0.5042) line: 'π一' | low-conf (0.6336) line: 'θ=3' | low-conf (0.6362) line: 'TT' | low-conf (0.5211) line: 'T' | low-conf (0.6086) line: '1' | low-conf (0.5595) line: 'θ' | low-conf (0.6193) line: 'π' | low-conf (0.6153) line: 'π' | low-conf (0.5722) line: 'i)' | dual-pass agreement 0.226
