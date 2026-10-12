@@ -82,5 +82,61 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 7,
+  "source_page_label": "Page No. 157",
+  "topic_or_heading": "Question [IIT-JEE-2010] A_r/B_r/C_r sum -> C10-B10 (closes L06 p29 H.W.)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 8,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "board: Vandermonde convolution finish, answer C_10 - B_10",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 9,
+  "source_page_label": "Page No. 158",
+  "topic_or_heading": "SERIES Type-05 Replacement: x->1/x and x->(product of roots)/x",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 10,
+  "source_page_label": "Page No. 158",
+  "topic_or_heading": "Bumper Question (1+x+x^2)^n: six identities to show, all worked on board",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
