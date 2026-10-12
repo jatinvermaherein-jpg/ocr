@@ -283,3 +283,16 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 - **# DIBY-44** — **The term independent of** `x` **in the expansion of** `(1 − x² + 3x³) ( (5/2)x³ − 1/(5x²) )^11`, `x ≠ 0` **is:** **[JEE Mains–2022]** `(A) 7/40 (B) 33/200 (C) 39/200 (D) 11/50` → **[Ans.: (B)]**
 **H:** none.
 **DIBY:** two rows added (BT-L06-P41-DIBY-43 / -44). **U:** 1 — DIBY-43's phrasing `in powers of x, is` prints with a comma after `x`; kept as in the source.
+---
+<a id="p42"></a>
+## p42 · Homework card — re-attempt all class examples, DPP & DIBY · label: — (chip only, no page number)
+**P:** red chip **Homework** with the clipboard/pencil/eraser sticker; two white lines below: `# Re-attempt all Class Examples` and `# DPP & DIBY`. The rest of the slide is empty black.
+**H:** none.
+**DIBY:** none — this card is the instruction to attempt the DIBY block of p36–p41 (and the DPP) at home; it is not itself a DIBY item. **U:** none.
+
+---
+<a id="p43"></a>
+## p43 · closing card — "It is never about end result, It's always about Journey" · Thank You · label: — (no header, no page number)
+**P:** three script lines and a hashtag, all printed: white-and-red `It is never about end result` (the last two words red), white-and-cyan `It's always about Journey` (`Journey` in cyan script), a giant `Thank You` (`Thank` in a yellow-to-orange gradient block face, `You` in white script whose `Y` descends through the whole slide), and cyan `#futureIITians` with a faint red shadow offset.
+**H:** none.
+**DIBY:** none. **U:** none.

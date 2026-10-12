@@ -572,5 +572,33 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 42,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Homework card - Re-attempt all Class Examples, DPP & DIBY",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 43,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "closing card - Thank You / #futureIITians",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
