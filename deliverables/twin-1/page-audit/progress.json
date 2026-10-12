@@ -1,7 +1,7 @@
 {
  "worker": "twin-1",
- "qa_rows_applied": 212,
- "pages_reviewed": 212,
+ "qa_rows_applied": 216,
+ "pages_reviewed": 216,
  "pages_total": 508,
  "per_lecture": {
   "Binomial Theorem L01": {
@@ -25,7 +25,7 @@
    "total": 38
   },
   "Binomial Theorem L06": {
-   "reviewed": 20,
+   "reviewed": 24,
    "total": 43
   },
   "Binomial Theorem L07": {
@@ -57,5 +57,5 @@
    "total": 43
   }
  },
- "updated": "2026-10-12T12:50Z"
+ "updated": "2026-10-12T12:51Z"
 }

@@ -137,3 +137,29 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 **P:** red banner **FORMATION OF BINO-BINOMIAL SERIES**; printed `(1 + x)^5 · (1 + x)^6 = ( 5C0 + 5C1 x^1 + 5C2 x^2 + … + 5C5 x^5 ) · ( 6C0 + 6C1 x^1 + 6C2 x^2 + … + 6C6 x^6 )` = `5C0 6C0 + ( 5C1 6C0 + 5C0 6C1 ) x + ( 5C2 6C0 + 5C1 6C1 + 5C0 6C2 ) x^2 + … … + ( 5C0 6C6 + 5C1 6C5 + 5C2 6C4 + 5C3 6C3 + 5C4 6C2 + 5C5 6C1 ) x^6 + …` — the two binomials printed yellow and the whole x^6 bracket inside a printed **red rectangle**.
 **H:** pink arrows dropping from the boxed line to `coeff. of x^6 in (1+x)^5 (1+x)^6 = 11C_6`, with the product wavy-underlined in yellow, a small down-arrow to yellow `coeff of x^6 in (1+x)^11` and another arrow to `11C_r x^r`; a pink `??` written between the two pink arrows (the question the slide poses: why the two must agree); a yellow arrow from the last term of the box to a yellow double-underlined `11C_6` at right.
 **DIBY:** none. **U:** none.
+<a id="p21"></a>
+## p21 · DIRECT FORMULA FOR BINO-BINOMIAL SERIES — the three conditions + the blue-cloud warning · label: **Page No. 157**
+**P:** red banner **DIRECT FORMULA FOR BINO-BINOMIAL SERIES**; three numbered white rules each ending in a printed yellow tick — `1. upper suffix is same in each term.`, `2. Sum of lower suffix in each term is equal`, `3. ` "**all" terms are presents in add**"." (inside a printed **red rectangle**; the stray closing quote and the grammar `presents in add` are the source's, kept verbatim); `Direct Ans.` with the yellow superscript label `sum of upper suffix` on `C` and yellow subscript label `sum of lower suffix`. Below, a large blue thought-cloud, printed yellow/white: **`Blue बादल (KKPNCC)`** / **`अगर ये conditions fulfill ना हो तो`** / **`Direct formula नहीं लगेगा।`** / **`THEN "GO BY THE PROCESS"`**.
+**H:** none — every mark on this slide is printed, including the ticks.
+**DIBY:** none. **U:** 1 — the acronym in the cloud heading prints as `KKPNCC`, which matches no known PW batch code; transcribed as printed, possibly a garbled `KVPNCC`-style internal label.
+
+---
+<a id="p22"></a>
+## p22 · board — sum of squares of 7Cr by the direct formula · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** white `S = (7C0)² + (7C1)² + (7C2)² + … … + (7C7)²`; a white hook arrow down to the split form `S = 7C0·7C0 + 7C1·7C1 + 7C2·7C2 + … … + 7C7·7C7` with a green down-arrow under each repeated subscript; white again below `S = 7C0·7C7 + 7C1·7C6 + 7C2·7C5 + … … + 7C7·7C0` — the second factors' subscripts written in **green** (7, 6, 5, …, 0) to show the constant sum 7 — `= 14C7` in green. No use of the general `2nC_r` form here; the numbers are worked directly (the slide is the example that the next page generalises).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p23"></a>
+## p23 · Example — the general identity S = Σ (nC_r)² = 2nC_n · label: — (chip only)
+**P:** red chip **Example**; printed blue `S = (nC0)² + (nC1)² + (nC2)² + .... + (nCn)²`.
+**H:** a green hook arrow down from the printed line to the green hand-written rewrite `nC0·nC_n + nC1·nC_{n−1} + nC2·nC_{n−2} + … … + nC_n·nC0 = 2nC_n`, closed by a green tick. Upper suffixes are all `n` and the lower ones sum to `n` — the two conditions of p21 checked visually rather than stated.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p24"></a>
+## p24 · Question [JEE Mains–2023] — Σ 22Cr · 23Cr = 45C23 · label: **Page No. 157**
+**P:** red chip **Question [JEE Mains–2023]**; **The value of** `Σ_{r=0}^{22} 22Cr 23Cr` **is**; red tiles `A 44C23`, `B 45C23`, `C 44C22`, `D 45C24` (no printed key on this slide).
+**H:** a green hook from the printed summand down to the expansion in green with the partner subscripts in orange — `22C0·23C23 + 22C1·23C22 + 22C2·23C21 + … … + 22C22·23C1 = 45C23` (the right-hand side orange); an orange tick drawn through option **B**, which is how the answer is recorded here.
+**DIBY:** none. **U:** none — the upper suffixes (22 + 23 = 45) and lower (r + r' = 23) both satisfy p21's conditions, so the direct formula applies; the middle term of the printed series is what the working silently converts.
