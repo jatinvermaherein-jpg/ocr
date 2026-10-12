@@ -1932,78 +1932,11 @@ p(8)=120+14",,no,,low-conf (0.5675) line: 'Phoo'; low-conf (0.5844) line: 'p(x)a
 Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,40,"QUESTION [JEE Mains-2021] degree-3 f(k)=-2/k, 52-10f(10)","QUESTION [JEE Mains-2021] | Let f(x) be a polynomial of degree 3 such that f(k) = -2/k for k = 2, 3, 4, 5. Then the value of 52 - 10f(10) is equal to",,no,,low-conf (0.5814) line: '26'; low-conf (0.6323) line: '60'; low-conf (0.5254) line: '(5）（)（±))'; dual-pass agreement 0.2167; verify '52 - 10f(10)' glyphs at full res,visual-full,arena-twin3-agent
 Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,41,"QUESTION degree-4 f(1)=1,f(2)=2,f(3)=3, greatest integer + DiBY-C","QUESTION | If f(x) is a polynomial of degree four with leading coefficient one satisfying f(1) = 1, f(2) = 2, f(3) = 3, then find (f(4)+f(0))/2? [scan] (where [.] represents greatest integer) | Ans : 5 [scan]",,no,,target expression needs full-res,visual-full,arena-twin3-agent
 Quadratic Equations,14,Quadratic Equations 14 Class Notes.pdf,42,Thank You slide,It is never about end result / It's always about Journey | Thank You | #futureIITians,,no,,low-conf (0.5161) line: '在u',visual-full,arena-twin3-agent
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,1,ARJUI,"ARJUI
-2027
-Lecture -01
-Mathematics
-TRIGONOMETRIC
-Physics
-EQUATION
-By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,2,Topics,"Topics
-to be coverey
-A
-Range of Trigonometric Functions
-B
-Basics of Trigonometric Equations
-C
-Question Practice
-D",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,3,H.W. Discussion,H.W. Discussion,,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,4,Bumper Question,"Bumper Question
-Page No.41
-IfA=0,B=0+
-&
-θ=5
-一
-then show that :
-3
-3
-T
-tan0 + tan
-θ+
-+ tan
-二
-3tan30
-3
-3
-T
-TT
-ii
-tan0 tan
-3
-+ tan0 tan
-θ
-3
-+ tan
-θ+
-3
-tan
-θ
-3
-=-3
-π
-π
-(i)
-tan0 tan
-θ+=
-3
-tan
-3
--tan30
-tono + tau(θ+6o)
-) + +o(θ -60
-A
-tano . fan(60+0)
-+om(60-θ
-tano +N3
-tanθ-√
-- taw 30
-1 -tanθ √3
-女
-1 + tano.√3
-t0 +d3 +413t0 +3t0",,no,,low-conf (0.5907) line: 'θ=5'; low-conf (0.569) line: 'TT'; low-conf (0.5147) line: 'θ'; low-conf (0.5546) line: 'π'; low-conf (0.6371) line: 'π'; low-conf (0.5897) line: '女'; dual-pass agreement 0.4441,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,5,tono + +au(0+6o) + +ou(0 -60),"A
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,1,Cover slide,ARJUNA JEE 2027 | Lecture - 01 | Mathematics | TRIGONOMETRIC EQUATION | By- Sachin Jakhar Sir,,no,,,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,2,Topics to be covered,Topics to be covered | A Range of Trigonometric Functions | B Basics of Trigonometric Equations | C Question Practice | D (empty),,no,,,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,3,H.W. Discussion,H.W. Discussion (boxed red),,no,,,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,4,Bumper Question (Page No.41) tan identities,"Bumper Question (Page No.41) | If A = B = C = theta and A + B + C = theta [scan, UNCLEAR] then show that: | (i) tan theta + tan(theta + 2pi/3) + tan(theta + 4pi/3) = 3 tan 3 theta [scan] | (ii) ... = 3 tan 3 theta [scan] | (iii) tan theta tan(theta - 2pi/3) + ... = -3 [scan] | (iv) tan theta tan(theta + pi/3) tan(theta + 2pi/3) = -tan 3 theta [scan]",,no,,low-conf (0.5907) line: 'θ=5'; low-conf (0.569) line: 'TT'; low-conf (0.5147) line: 'θ'; low-conf (0.5546) line: 'π'; low-conf (0.6371) line: 'π'; low-conf (0.5897) line: '女'; dual-pass agreement 0.4441; identity statements (i)-(iv) need full-res verification,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,5,Bumper working,"A
 B
 tono + +au(0+6o) + +ou(0 -60)
 Hano +N3
@@ -2018,8 +1951,8 @@ tanθ-3+u²θ+8taθ
 3tan0-+awθ
 1-3+ow2θ
 1-3+aw²θ
-=3 tan30",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,6,Bumper Question,"Bumper Question
+=3 tan30",,no,,,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,6,Bumper Question (Page No.41) repeat + pink working,"Bumper Question
 Page No.41
 IfA=0,B=0+
 π一
@@ -2081,68 +2014,11 @@ tan(A+B+C)=ton3θ
 3tan30 -(-tan30
  1 -()
 t0m30
-tan30",,no,,low-conf (0.5042) line: 'π一'; low-conf (0.6336) line: 'θ=3'; low-conf (0.6362) line: 'TT'; low-conf (0.5211) line: 'T'; low-conf (0.6086) line: '1'; low-conf (0.5595) line: 'θ'; low-conf (0.6193) line: 'π'; low-conf (0.6153) line: 'π'; low-conf (0.5722) line: 'i)'; dual-pass agreement 0.226,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,7,RANGEOFTRIGONOMETRICFUNCTIONS,"RANGEOFTRIGONOMETRICFUNCTIONS
-Page No.48
-# Type-01:
-Based on RangeofStandard TrigonometricFunctions
-sin x e [-1, 1]
-cos x ∈ [-1, 1]
-tan x ∈ R
-RAR
-cot x ∈ R
-sec x ∈ (
-(-∞,-1] U[1, ∞)
-cosec x ∈ (-∞, -1]u [1, ∞o)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,8,Question,"Question
-Find range of following functions :
-Page No.48
-(i)
-y=3sin x - 5
-xnxe [,]
-(ii)
-y=
-5c0sx+2
-sinxe[-3,3]
-(iii)
-y=√2secx -1
-3sinn-5∈
-[-8,-2]
-[-,]
-50x[5,5]
-5c+∈[3,#
-1
-500x+
-(一]",,no,,low-conf (0.5975) line: '(一]',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,9,Question,"Question
-Page No.48
-Find range of following functions :
-(iv)
-y = sin4 x + cos4 x
-y = 7sin2 x + 2cos2 x + 3
-(vi)
-y
-sin 3x
-5+
-2
-2
-+C+3
-sin x
-5x+5·E
-[5, 10]
-3sin-4x
-&iux
-i²xe [0,1]
-Aixe [0,1]
-&un e [-']
-3-
--ysinne
-[4,0]
-Ssin'xe
-e [0,5]
->3-4sinx∈
-[-,3]",,no,,low-conf (0.647) line: '+C+3'; low-conf (0.5609) line: '&iux'; dual-pass agreement 0.6242,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,10,"[0,1]","W
+tan30",,no,,low-conf (0.5042) line: 'π一'; low-conf (0.6336) line: 'θ=3'; low-conf (0.6362) line: 'TT'; low-conf (0.5211) line: 'T'; low-conf (0.6086) line: '1'; low-conf (0.5595) line: 'θ'; low-conf (0.6193) line: 'π'; low-conf (0.6153) line: 'π'; low-conf (0.5722) line: 'i)'; dual-pass agreement 0.226,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,7,RANGE OF TRIGONOMETRIC FUNCTIONS Type-01,"RANGE OF TRIGONOMETRIC FUNCTIONS (Page No.44) | # Type-01 Based on Range of Standard Trigonometric Functions | sin x in [-1, 1] | cos x in [-1, 1] | tan x in R | cot x in R | sec x in (-inf, -1] U [1, inf) | cosec x in (-inf, -1] U [1, inf)",,no,,,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,8,Question (Page No.44) ranges (i)-(iii),Question (Page No.44) | Find range of following functions: | (i) y = 3 sin x - 5 | (ii) y = 3 cos x + 4 [scan] | (iii) y = tan x / (2 cos x - 1) [scan],,no,,"low-conf (0.5975) line: '(一]'; (ii),(iii) expressions need full-res",visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,9,Question (Page No.44) ranges (iv)-(vi),"Question (Page No.44) | Find range of following functions: | (iv) y = sin^2 x + cos^2 x [scan, likely misread] | (v) y = 7 sin^2 x + 3 cos^2 x + 2 [scan] | (vi) y = ... / sin x [scan]",,no,,"low-conf (0.647) line: '+C+3'; low-conf (0.5609) line: '&iux'; dual-pass agreement 0.6242; (iv),(vi) expressions need full-res",visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,10,range working with 1/sin x,"W
 3sin-4
 Biuxe
 [0,1]
@@ -2159,102 +2035,11 @@ ysainne
 [-1,3
 &in3x
 domain (sinx)
-0#（",,no,,low-conf (0.5547) line: 'ysainne'; low-conf (0.5593) line: '&in3x'; low-conf (0.6479) line: '0#（'; dual-pass agreement 0.6516,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,11,METHOD TOCOMPLETEPERFECTSQUARE,"METHOD TOCOMPLETEPERFECTSQUARE
-STEPS
-EXAMPLE
-3x²+5x+4
-S-1:Make coefficient of x² equals to 1.
-3
-5
-x+
-A
-3
-divided by 2
-S-2:Now,coefficient of x ismultiplied &
-3
-x²+2
-5
-x+
-13
-of2x.
-s-3:Add &Subtract,squareof coefficient
-3
-x²+2
-x+
-516
-2
-+
-4-3
-term andenjoy
-S-4:Complete square,simplify constant
-3
-x+
-51
-6
-2
-+2
-23一26
-=3
-x+
-51
-6
-2
-+
-23-12",,no,,low-conf (0.5969) line: '3'; low-conf (0.6466) line: '+'; low-conf (0.5412) line: '+2'; low-conf (0.5237) line: '23一26'; low-conf (0.5408) line: '+',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,12,RAPIDFIREONCOMPLETINGPERFECTSQUARE,"RAPIDFIREONCOMPLETINGPERFECTSQUARE
-Show that:
-(!)
-x² - 4x + 9 = (x - 2)² + 5
-QIBY
-(ii)
-x²-3x+ 7 =
-x
-一
-19
-(ii)
-3x²+3x+1=3(
-(x+)
-1
-3
-(iv)
--2x² + 20x- 43 = 7 - 2(x-5)2
-3
-x²+a ↓x +
--210
-+
-43
-d
-2
-2
-α+
-x²-2(5)x+25-a5+43
-.2
-2
-=-2(x-5)+#",,no,,low-conf (0.5662) line: 'x'; low-conf (0.5126) line: '一'; low-conf (0.6287) line: 'x²+a ↓x +'; dual-pass agreement 0.5702,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,13,RANGEOFTRIGONOMETRICFUNCTIONS,"RANGEOFTRIGONOMETRICFUNCTIONS
-Page No.48
-Type-02 : Range by completing perfect square
-Question
-put
-COsx ∈[
-[]
-=cos2x-4cosx+13
-cx=t
-co3x-d e [-3,-]
-i
-y = cos 2x - 5sin x + 1
-t²-4t + 13
-(ii)
-y=sin2 x + cos4 x
--2×2t+4-4+13
-(cox-2) ∈ [1,9]
-=1-xx-5x+1
-b+(-x)
-10,18
-Cx-2
-b+",,no,,low-conf (0.5574) line: 'COsx ∈['; dual-pass agreement 0.7179,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,14,=1-xx-5x2+1,"P
+0#（",,no,,low-conf (0.5547) line: 'ysainne'; low-conf (0.5593) line: '&in3x'; low-conf (0.6479) line: '0#（'; dual-pass agreement 0.6516,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,11,METHOD TO COMPLETE PERFECT SQUARE,"METHOD TO COMPLETE PERFECT SQUARE | STEPS | EXAMPLE (3x^2 + 5x + 4) | S-1: Make coefficient of x^2 equate to 1. | 3(x^2 + (5/3)x + 4/3) | S-2: Now, coefficient of x is multiplied & divided by 2 | 3(x^2 + 2(5/6)x + 4/3) | S-3: Add & Subtract, square of coefficient of 2x. | 3((x + 5/6)^2 - (5/6)^2 + 4/3) | S-4: Complete square, simplify constant term and enjoy | 3(x + 5/6)^2 + 23/12 [scan]",,no,,low-conf (0.5969) line: '3'; low-conf (0.6466) line: '+'; low-conf (0.5412) line: '+2'; low-conf (0.5237) line: '23一26'; low-conf (0.5408) line: '+',visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,12,RAPID FIRE ON COMPLETING PERFECT SQUARE,RAPID FIRE ON COMPLETING PERFECT SQUARE | Show that: | (i) x^2 - 2x + 9 = (x - 1)^2 + 8 [scan] | (ii) x^2 - 3x + 7 = (x - 3/2)^2 + 19/4 [scan] | (iii) 3x^2 - 5x + 1 = 3[(x - 5/6)^2 - ...] [scan] | (iv) -2x^2 + 20x - 49 = -2(x - 5)^2 + 1 [scan],,no,,low-conf (0.5662) line: 'x'; low-conf (0.5126) line: '一'; low-conf (0.6287) line: 'x²+a ↓x +'; dual-pass agreement 0.5702; RHS constants need full-res confirmation,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,13,Type-02 range by completing square (i)-(iii),"RANGE OF TRIGONOMETRIC FUNCTIONS (Page No.45) | Type-02 : Range by completing perfect square | Question: | (i) y = cos^2 x - 4 cos x + 11 | (ii) y = cos 2x - 6 sin x + 1 | (iii) y = sin^2 x + cos x [scan, UNCLEAR]",,no,,low-conf (0.5574) line: 'COsx ∈['; dual-pass agreement 0.7179; (iii) expression needs full-res,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,14,Type-02 working (green/yellow),"P
 W
 =1-xx-5x2+1
 8
@@ -2287,8 +2072,8 @@ Xiux t.
 5
 41
 8
--5, 5",,no,,low-conf (0.5765) line: 'W'; low-conf (0.62) line: '&uxE'; low-conf (0.5762) line: 'e'; low-conf (0.5734) line: '++&5七+'; low-conf (0.5253) line: '8'; dual-pass agreement 0.6879,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,15,RANGEOFTRIGONOMETRICFUNCTIONS,"RANGEOFTRIGONOMETRICFUNCTIONS
+-5, 5",,no,,low-conf (0.5765) line: 'W'; low-conf (0.62) line: '&uxE'; low-conf (0.5762) line: 'e'; low-conf (0.5734) line: '++&5七+'; low-conf (0.5253) line: '8'; dual-pass agreement 0.6879,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,15,Type-02 repeat list + working,"RANGEOFTRIGONOMETRICFUNCTIONS
 PageNo.48
 Type-02 : Range by completing perfect square
 Question
@@ -2299,22 +2084,9 @@ y = sin2 x + cos4 x
 DIBY
 1-C+C9
 co²=t
-t-t+1",,no,,low-conf (0.5493) line: '00m'; low-conf (0.6344) line: '1-C+C9'; low-conf (0.6207) line: 'co²=t',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,16,RANGEOFTRIGONOMETRICFUNCTIONS,"RANGEOFTRIGONOMETRICFUNCTIONS
-Page No.48
-Type-03:Form
-f(x) = a cos x ± bsin x
-angee
-a²+b
-a²+6
-RAR
-before applying
-Hhis
-(1) augle should be same.
-powers of
-sin cos should1.
-n(angle) ∈R",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,17,divide,"Mdyomw
+t-t+1",,no,,low-conf (0.5493) line: '00m'; low-conf (0.6344) line: '1-C+C9'; low-conf (0.6207) line: 'co²=t'; coefficients differ from p13? verify at full res,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,16,Type-03 f(x) = a cos x + b sin x range,"RANGE OF TRIGONOMETRIC FUNCTIONS (Page No.46) | Type-03 : Form f(x) = a cos x + b sin x (stars) | Range = [-sqrt(a^2+b^2), sqrt(a^2+b^2)] (red box) | New way notes: (a) sin theta same (b) power of cos, sin = 1 (c) angle same [scan]",,no,,,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,17,Type-03 derivation R&Y,"Mdyomw
 divide
 √a²+ 6
 f(x)a+
@@ -2338,8 +2110,8 @@ f(x)=√a+i(±x)
 E
 [a²+，a+b
 √a?+6
-x[]",,no,,low-conf (0.5773) line: 'Mdyomw'; low-conf (0.6414) line: 'f(x)a+'; low-conf (0.637) line: 'ac的r'; low-conf (0.6469) line: '&0 ='; low-conf (0.5685) line: '日的'; low-conf (0.5676) line: '0'; low-conf (0.5865) line: 'cx±Cxx'; low-conf (0.6127) line: 'Na*+6'; dual-pass agreement 0.7708,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,18,f(x)=,"00:
+x[]",,no,,low-conf (0.5773) line: 'Mdyomw'; low-conf (0.6414) line: 'f(x)a+'; low-conf (0.637) line: 'ac的r'; low-conf (0.6469) line: '&0 ='; low-conf (0.5685) line: '日的'; low-conf (0.5676) line: '0'; low-conf (0.5865) line: 'cx±Cxx'; low-conf (0.6127) line: 'Na*+6'; dual-pass agreement 0.7708,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,18,Type-03 working cont.,"00:
 f(x)=
 acx +bxiux
 2
@@ -2359,8 +2131,8 @@ f(x))
 f()-
 (f()+
 √a²+52
-√a²+6",,no,,low-conf (0.6023) line: '00:'; low-conf (0.5821) line: 'COx+&mx'; low-conf (0.563) line: '→→'; low-conf (0.6298) line: '(f()+'; low-conf (0.6147) line: '√a²+52'; low-conf (0.6176) line: '√a²+6'; dual-pass agreement 0.7059,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,19,ues:,"ues:
+√a²+6",,no,,low-conf (0.6023) line: '00:'; low-conf (0.5821) line: 'COx+&mx'; low-conf (0.563) line: '→→'; low-conf (0.6298) line: '(f()+'; low-conf (0.6147) line: '√a²+52'; low-conf (0.6176) line: '√a²+6'; dual-pass agreement 0.7059,visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,19,Type-03 examples (i)-(iv) ranges,"ues:
 a=b=1，√a²+b²=√.
 1&mx
 Rongee 
@@ -2380,79 +2152,11 @@ JX
 α=2,b=1
 a²+5=√5
 Kauge
-[5,5]",,no,,low-conf (0.5791) line: '1&mx'; low-conf (0.5665) line: 'ii)'; low-conf (0.6276) line: '1&mx+1c孙x'; low-conf (0.5659) line: '=aeosr'; low-conf (0.6345) line: 'xm',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,20,Question[JEE-1988],"Question[JEE-1988]
-Nte
-The value of the expression V3cosec20° - sec20° is equal to
-Q
- +bi0
-A
-2
-√3
-N3
-c&o
--w0
-0S
-B
-2sin20/sin40°
-X
-(+²=
-√3ca0-90
-T
-CD330
-Sin30
-00
-&0
-d
-D
-4sin20%/sin40
-Q&in40°
-ysin60
-840
-CO)30 ce)20-sin30 sin20
-[sin60coa0-co60sin2b
-C(30+20)
-same
-Sin(66-80)",,no,,low-conf (0.5787) line: 'Q'; low-conf (0.6266) line: ' +bi0'; low-conf (0.5787) line: 'c&o'; low-conf (0.5709) line: '-w0'; low-conf (0.5944) line: '0S'; low-conf (0.5009) line: '00'; low-conf (0.5203) line: '&0'; low-conf (0.5655) line: 'Q&in40°'; dual-pass agreement 0.6102,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,21,Question,"Question
-Find the exact value of
-(a)
-√3cosec20°- sec20°
-Hw
-(b)
-cosec10°-√3sec10°",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,22,Question,"Question
-Find,the maximum & minimum value of :
-Page No.48
-y=
-y = 3cos
-x+
-B（元一
-3
-3cos0-4sin0+6 e [1,""]
-+5cosx+3
-#
-3²+4² = 5
-sin'o e [-5,5]
-(iii)
-y = 5sinx cosx - sin²x + 2
-cOsx.- Sinx.
-+ 5cx + 3 .
-[-+,]
-+3 =
-[4,10]
-2
-3
-C-3+50x+3
-P
-a
-13
-d
-d
-33
-+3.,√
-²+5",,no,,low-conf (0.59) line: 'B（元一'; dual-pass agreement 0.4495,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,23,Question,"Question
+[5,5]",,no,,low-conf (0.5791) line: '1&mx'; low-conf (0.5665) line: 'ii)'; low-conf (0.6276) line: '1&mx+1c孙x'; low-conf (0.5659) line: '=aeosr'; low-conf (0.6345) line: 'xm',visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,20,Question [JEE-1998] expression value,"Question [JEE-1998] (Page No.46) | The value of the expression sqrt(3) (cosec 30? - sec 30?) ... is equal to [scan, UNCLEAR] | (A) 2 | (B) 3 sin 20 / sin 40 [scan] | (C) 4 | (D) 4 sin 20 / sin 40 [scan]",,no,,low-conf (0.5787) line: 'Q'; low-conf (0.6266) line: ' +bi0'; low-conf (0.5787) line: 'c&o'; low-conf (0.5709) line: '-w0'; low-conf (0.5944) line: '0S'; low-conf (0.5009) line: '00'; low-conf (0.5203) line: '&0'; low-conf (0.5655) line: 'Q&in40°'; dual-pass agreement 0.6102; expression and options B/D angles need full-res,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,21,"Question: exact values (a),(b) (HW)",Question (Page No.47) | Find the exact value of | (a) sqrt(3) cosec 20 - sec 20 [scan] | (b) sec 10 - sqrt(3) cosec 10? [scan],,no,,(b) needs full-res,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,22,Question (Page No.48) max/min (i)-(iii),"Question (Page No.48) | Find the maximum & minimum value of: | (i) f(x) = 3 cos x + 4 sin x + 5 [scan] | (ii) y = 5 cos(2x + pi/3) + 4 cos x + 3 [scan, UNCLEAR] | (iii) y = 5 sin x cos x - sin^2 x + 2",,no,,low-conf (0.59) line: 'B（元一'; dual-pass agreement 0.4495; (ii) needs full-res,visual-full,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,23,max/min working green,"Question
 Find the maximum & minimum value of :
 Page No.48
 y =3cos 0 - 4sin 0+ 6
@@ -2472,18 +2176,8 @@ sin=1-co
 a
 3
 d
-，+",,no,,low-conf (0.5691) line: 'T'; low-conf (0.6086) line: '&a'; low-conf (0.5964) line: '+a'; low-conf (0.5448) line: 'a'; low-conf (0.5443) line: 'd',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,24,Question,"Question
-Find the maximum & minimum value of :
-PageNo.49
-3sinx-4cosx+15
-(ii)
-y = log2
-10
-2。
-(iv)
-y=27cos3x.81sin3x
-D",,no,,low-conf (0.5267) line: '2。',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+，+",,no,,low-conf (0.5691) line: 'T'; low-conf (0.6086) line: '&a'; low-conf (0.5964) line: '+a'; low-conf (0.5448) line: 'a'; low-conf (0.5443) line: 'd',visual-scan,arena-twin3-agent
+Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,24,"Question (Page No.49) max/min (iii),(iv) (HW)","Question (Page No.49) | Find the maximum & minimum value of: | (iii) y = 5 sin x cos x - sin^2 x + 2 | (iv) y = 2 cos^2 x ... [scan, UNCLEAR]",,no,,low-conf (0.5267) line: '2。'; (iv) needs full-res,visual-full,arena-twin3-agent
 Trigonometric Equation,1,Trigonometric Equation 01 Class Notes.pdf,25,Question[1IT-JEE-2010],"Question[1IT-JEE-2010]
 Find the maximum & minimum value of :
 1

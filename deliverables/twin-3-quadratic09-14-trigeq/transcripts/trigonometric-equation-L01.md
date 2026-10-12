@@ -8,8 +8,16 @@
 
 ## Page 1
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9842 | pass agreement 0.9659
+- Topic/heading: Cover slide
+- Page type: cover | dark bg: True | primary pass B | mean conf 0.9842 | pass agreement 0.9659
+
+### Verified transcript (visual QA)
+
+- ARJUNA JEE 2027
+- Lecture - 01
+- Mathematics
+- TRIGONOMETRIC EQUATION
+- By- Sachin Jakhar Sir
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -24,8 +32,16 @@
 
 ## Page 2
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.977 | pass agreement 1.0
+- Topic/heading: Topics to be covered
+- Page type: topics | dark bg: True | primary pass B | mean conf 0.977 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- Topics to be covered
+- A Range of Trigonometric Functions
+- B Basics of Trigonometric Equations
+- C Question Practice
+- D (empty)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -41,8 +57,12 @@
 
 ## Page 3
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9688 | pass agreement 1.0
+- Topic/heading: H.W. Discussion
+- Page type: divider | dark bg: True | primary pass A | mean conf 0.9688 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- H.W. Discussion (boxed red)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -50,8 +70,17 @@
 
 ## Page 4
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8673 | pass agreement 0.4441
+- Topic/heading: Bumper Question (Page No.41) tan identities
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8673 | pass agreement 0.4441
+
+### Verified transcript (visual QA)
+
+- Bumper Question (Page No.41)
+- If A = B = C = theta and A + B + C = theta [scan, UNCLEAR] then show that:
+- (i) tan theta + tan(theta + 2pi/3) + tan(theta + 4pi/3) = 3 tan 3 theta [scan]
+- (ii) ... = 3 tan 3 theta [scan]
+- (iii) tan theta tan(theta - 2pi/3) + ... = -3 [scan]
+- (iv) tan theta tan(theta + pi/3) tan(theta + 2pi/3) = -tan 3 theta [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -111,10 +140,12 @@
 
 > Dual-pass agreement 0.4441 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p4: identity statements (i)-(iv) need full-res verification
+
 ## Page 5
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.787 | pass agreement 0.8464
+- Topic/heading: Bumper working
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.787 | pass agreement 0.8464
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -137,8 +168,8 @@
 
 ## Page 6
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.859 | pass agreement 0.226
+- Topic/heading: Bumper Question (Page No.41) repeat + pink working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.859 | pass agreement 0.226
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -210,8 +241,19 @@
 
 ## Page 7
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9138 | pass agreement 0.9012
+- Topic/heading: RANGE OF TRIGONOMETRIC FUNCTIONS Type-01
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.9138 | pass agreement 0.9012
+
+### Verified transcript (visual QA)
+
+- RANGE OF TRIGONOMETRIC FUNCTIONS (Page No.44)
+- # Type-01 Based on Range of Standard Trigonometric Functions
+- sin x in [-1, 1]
+- cos x in [-1, 1]
+- tan x in R
+- cot x in R
+- sec x in (-inf, -1] U [1, inf)
+- cosec x in (-inf, -1] U [1, inf)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -230,8 +272,16 @@
 
 ## Page 8
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8906 | pass agreement 0.9304
+- Topic/heading: Question (Page No.44) ranges (i)-(iii)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8906 | pass agreement 0.9304
+
+### Verified transcript (visual QA)
+
+- Question (Page No.44)
+- Find range of following functions:
+- (i) y = 3 sin x - 5
+- (ii) y = 3 cos x + 4 [scan]
+- (iii) y = tan x / (2 cos x - 1) [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -256,10 +306,20 @@
 - 500x+
 - (一]  [LOWCONF]
 
+> [UNCLEAR] p8: (ii),(iii) expressions need full-res
+
 ## Page 9
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8487 | pass agreement 0.6242
+- Topic/heading: Question (Page No.44) ranges (iv)-(vi)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8487 | pass agreement 0.6242
+
+### Verified transcript (visual QA)
+
+- Question (Page No.44)
+- Find range of following functions:
+- (iv) y = sin^2 x + cos^2 x [scan, likely misread]
+- (v) y = 7 sin^2 x + 3 cos^2 x + 2 [scan]
+- (vi) y = ... / sin x [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -294,10 +354,12 @@
 
 > Dual-pass agreement 0.6242 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p9: (iv),(vi) expressions need full-res
+
 ## Page 10
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7859 | pass agreement 0.6516
+- Topic/heading: range working with 1/sin x
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.7859 | pass agreement 0.6516
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -324,8 +386,22 @@
 
 ## Page 11
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: False | primary pass B | mean conf 0.9002 | pass agreement 0.8143
+- Topic/heading: METHOD TO COMPLETE PERFECT SQUARE
+- Page type: theory | dark bg: False | primary pass B | mean conf 0.9002 | pass agreement 0.8143
+
+### Verified transcript (visual QA)
+
+- METHOD TO COMPLETE PERFECT SQUARE
+- STEPS
+- EXAMPLE (3x^2 + 5x + 4)
+- S-1: Make coefficient of x^2 equate to 1.
+- 3(x^2 + (5/3)x + 4/3)
+- S-2: Now, coefficient of x is multiplied & divided by 2
+- 3(x^2 + 2(5/6)x + 4/3)
+- S-3: Add & Subtract, square of coefficient of 2x.
+- 3((x + 5/6)^2 - (5/6)^2 + 4/3)
+- S-4: Complete square, simplify constant term and enjoy
+- 3(x + 5/6)^2 + 23/12 [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -374,8 +450,17 @@
 
 ## Page 12
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8941 | pass agreement 0.5702
+- Topic/heading: RAPID FIRE ON COMPLETING PERFECT SQUARE
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8941 | pass agreement 0.5702
+
+### Verified transcript (visual QA)
+
+- RAPID FIRE ON COMPLETING PERFECT SQUARE
+- Show that:
+- (i) x^2 - 2x + 9 = (x - 1)^2 + 8 [scan]
+- (ii) x^2 - 3x + 7 = (x - 3/2)^2 + 19/4 [scan]
+- (iii) 3x^2 - 5x + 1 = 3[(x - 5/6)^2 - ...] [scan]
+- (iv) -2x^2 + 20x - 49 = -2(x - 5)^2 + 1 [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -412,10 +497,21 @@
 
 > Dual-pass agreement 0.5702 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p12: RHS constants need full-res confirmation
+
 ## Page 13
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8559 | pass agreement 0.7179
+- Topic/heading: Type-02 range by completing square (i)-(iii)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8559 | pass agreement 0.7179
+
+### Verified transcript (visual QA)
+
+- RANGE OF TRIGONOMETRIC FUNCTIONS (Page No.45)
+- Type-02 : Range by completing perfect square
+- Question:
+- (i) y = cos^2 x - 4 cos x + 11
+- (ii) y = cos 2x - 6 sin x + 1
+- (iii) y = sin^2 x + cos x [scan, UNCLEAR]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -444,10 +540,12 @@
 
 > Dual-pass agreement 0.7179 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p13: (iii) expression needs full-res
+
 ## Page 14
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.823 | pass agreement 0.6879
+- Topic/heading: Type-02 working (green/yellow)
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.823 | pass agreement 0.6879
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -490,8 +588,8 @@
 
 ## Page 15
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8485 | pass agreement 0.9679
+- Topic/heading: Type-02 repeat list + working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8485 | pass agreement 0.9679
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -508,10 +606,19 @@
 - co²=t  [LOWCONF]
 - t-t+1
 
+> [UNCLEAR] p15: coefficients differ from p13? verify at full res
+
 ## Page 16
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9204 | pass agreement 0.9029
+- Topic/heading: Type-03 f(x) = a cos x + b sin x range
+- Page type: theory | dark bg: True | primary pass A | mean conf 0.9204 | pass agreement 0.9029
+
+### Verified transcript (visual QA)
+
+- RANGE OF TRIGONOMETRIC FUNCTIONS (Page No.46)
+- Type-03 : Form f(x) = a cos x + b sin x (stars)
+- Range = [-sqrt(a^2+b^2), sqrt(a^2+b^2)] (red box)
+- New way notes: (a) sin theta same (b) power of cos, sin = 1 (c) angle same [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -532,8 +639,8 @@
 
 ## Page 17
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7247 | pass agreement 0.7708
+- Topic/heading: Type-03 derivation R&Y
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.7247 | pass agreement 0.7708
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -567,8 +674,8 @@
 
 ## Page 18
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7383 | pass agreement 0.7059
+- Topic/heading: Type-03 working cont.
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.7383 | pass agreement 0.7059
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -598,8 +705,8 @@
 
 ## Page 19
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.774 | pass agreement 0.8601
+- Topic/heading: Type-03 examples (i)-(iv) ranges
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.774 | pass agreement 0.8601
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -627,8 +734,17 @@
 
 ## Page 20
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8118 | pass agreement 0.6102
+- Topic/heading: Question [JEE-1998] expression value
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8118 | pass agreement 0.6102
+
+### Verified transcript (visual QA)
+
+- Question [JEE-1998] (Page No.46)
+- The value of the expression sqrt(3) (cosec 30? - sec 30?) ... is equal to [scan, UNCLEAR]
+- (A) 2
+- (B) 3 sin 20 / sin 40 [scan]
+- (C) 4
+- (D) 4 sin 20 / sin 40 [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -668,10 +784,19 @@
 
 > Dual-pass agreement 0.6102 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p20: expression and options B/D angles need full-res
+
 ## Page 21
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.937 | pass agreement 0.9753
+- Topic/heading: Question: exact values (a),(b) (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.937 | pass agreement 0.9753
+
+### Verified transcript (visual QA)
+
+- Question (Page No.47)
+- Find the exact value of
+- (a) sqrt(3) cosec 20 - sec 20 [scan]
+- (b) sec 10 - sqrt(3) cosec 10? [scan]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -683,10 +808,20 @@
 - (b)
 - cosec10°-√3sec10°
 
+> [UNCLEAR] p21: (b) needs full-res
+
 ## Page 22
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8771 | pass agreement 0.4495
+- Topic/heading: Question (Page No.48) max/min (i)-(iii)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8771 | pass agreement 0.4495
+
+### Verified transcript (visual QA)
+
+- Question (Page No.48)
+- Find the maximum & minimum value of:
+- (i) f(x) = 3 cos x + 4 sin x + 5 [scan]
+- (ii) y = 5 cos(2x + pi/3) + 4 cos x + 3 [scan, UNCLEAR]
+- (iii) y = 5 sin x cos x - sin^2 x + 2
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -724,10 +859,12 @@
 
 > Dual-pass agreement 0.4495 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p22: (ii) needs full-res
+
 ## Page 23
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8392 | pass agreement 0.9353
+- Topic/heading: max/min working green
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8392 | pass agreement 0.9353
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -755,8 +892,15 @@
 
 ## Page 24
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9224 | pass agreement 0.8398
+- Topic/heading: Question (Page No.49) max/min (iii),(iv) (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9224 | pass agreement 0.8398
+
+### Verified transcript (visual QA)
+
+- Question (Page No.49)
+- Find the maximum & minimum value of:
+- (iii) y = 5 sin x cos x - sin^2 x + 2
+- (iv) y = 2 cos^2 x ... [scan, UNCLEAR]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -771,6 +915,8 @@
 - (iv)
 - y=27cos3x.81sin3x
 - D
+
+> [UNCLEAR] p24: (iv) needs full-res
 
 ## Page 25
 
