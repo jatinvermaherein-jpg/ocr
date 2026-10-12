@@ -8,8 +8,16 @@
 
 ## Page 1
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9663 | pass agreement 0.954
+- Topic/heading: Cover slide
+- Page type: cover | dark bg: True | primary pass B | mean conf 0.9663 | pass agreement 0.954
+
+### Verified transcript (visual QA)
+
+- ARJUNA JEE 2027
+- Lecture - 12
+- Mathematics
+- QUADRATIC EQUATIONS
+- By- Sachin Jakhar Sir
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -25,8 +33,16 @@
 
 ## Page 2
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9687 | pass agreement 0.9843
+- Topic/heading: Topics to be covered
+- Page type: topics | dark bg: True | primary pass A | mean conf 0.9687 | pass agreement 0.9843
+
+### Verified transcript (visual QA)
+
+- Topics to be covered
+- A Location of Roots
+- B Theory of Higher Degree Equations
+- C Question Practice
+- D (empty)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -42,8 +58,17 @@
 
 ## Page 3
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9479 | pass agreement 0.8986
+- Topic/heading: LAST CLASS REVISION - common factor questions
+- Page type: revision | dark bg: True | primary pass A | mean conf 0.9479 | pass agreement 0.8986
+
+### Verified transcript (visual QA)
+
+- LAST CLASS REVISION
+- # Answer the following Questions:
+- 1. If (x - a) is common root of two polynomial equations P1(x) = 0 and P2(x) = 0 then:
+- (a) (x - a) will also be the root of ... [handwritten fill-ins]
+- (b) All the roots of ... are common roots.
+- 2. If exactly one root is common between two quadratics, then what is the method to proceed?
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -63,10 +88,16 @@
 - the method to proceed?
 - Check!
 
+> [UNCLEAR] p3: blank-fill handwritten answers low legibility at scan res
+
 ## Page 4
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8919 | pass agreement 0.9444
+- Topic/heading: Question Practice
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.8919 | pass agreement 0.9444
+
+### Verified transcript (visual QA)
+
+- Question Practice (boxed red)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -75,8 +106,8 @@
 
 ## Page 5
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8485 | pass agreement 0.8342
+- Topic/heading: Acidic Question: common positive root (repeat L11 p20) + working
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8485 | pass agreement 0.8342
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -113,8 +144,8 @@
 
 ## Page 6
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8725 | pass agreement 0.8438
+- Topic/heading: Question [AIEEE-2008] (repeat L11 p21) + working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8725 | pass agreement 0.8438
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -154,8 +185,8 @@
 
 ## Page 7
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8376 | pass agreement 0.7455
+- Topic/heading: Question f,g common root values of a (repeat L11 p25) + working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8376 | pass agreement 0.7455
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -196,8 +227,14 @@
 
 ## Page 8
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9309 | pass agreement 0.9817
+- Topic/heading: Acidic Question: two common roots, value of p (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9309 | pass agreement 0.9817
+
+### Verified transcript (visual QA)
+
+- Acidic Question
+- If the equations x^3 + x^2 - 4x + ... = 0 and x^3 + px + 2p = 0 (p in R) have two common roots, then the value of p is
+- (A) -2 (B) -1 (C) 1 (D) 3
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -211,10 +248,19 @@
 - D
 - 3
 
+> [UNCLEAR] p8: first cubic coefficients need full-res verification
+
 ## Page 9
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9168 | pass agreement 0.8984
+- Topic/heading: LOCATION OF ROOTS - Cases I-III table
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.9168 | pass agreement 0.8984
+
+### Verified transcript (visual QA)
+
+- LOCATION OF ROOTS (T.M. circle)
+- Case-I both roots greater than k: 1. D >= 0  2. -b/2a > k  3. af(k) > 0
+- Case-II both roots less than k: 1. D >= 0  2. -b/2a < k  3. af(k) > 0
+- Case-III both roots between k1 & k2: 1. D >= 0  2. k1 < -b/2a < k2  3. af(k1) > 0  4. af(k2) > 0
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -250,8 +296,8 @@
 
 ## Page 10
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8357 | pass agreement 0.4322
+- Topic/heading: Question alpha in (-6,1) (repeat L11 p30) + working + Ans
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8357 | pass agreement 0.4322
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -298,8 +344,15 @@
 
 ## Page 11
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8412 | pass agreement 0.9548
+- Topic/heading: LOCATION OF ROOTS Case-IV (k between roots)
+- Page type: theory | dark bg: True | primary pass A | mean conf 0.8412 | pass agreement 0.9548
+- Diagram/visual: two parabola sketches
+
+### Verified transcript (visual QA)
+
+- LOCATION OF ROOTS
+- Case-IV : Any number k lies between the roots
+- condition (red box): af(k) < 0
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -318,8 +371,8 @@
 
 ## Page 12
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8201 | pass agreement 0.8977
+- Topic/heading: Case-IV extension notes
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.8201 | pass agreement 0.8977
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -342,10 +395,18 @@
 - K2
 - B
 
+> [UNCLEAR] p12: red-box condition glyphs uncertain at scan res
+
 ## Page 13
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8615 | pass agreement 0.8621
+- Topic/heading: Question: one root >2, other <2, find k
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8615 | pass agreement 0.8621
+
+### Verified transcript (visual QA)
+
+- Question
+- Find the value of k for which one root of the equation x^2 - (k+1)x + k^2 + k - 8 = 0 exceed 2 and other is smaller than 2.
+- Ans. : k in (-2, 3)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -366,8 +427,8 @@
 
 ## Page 14
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8059 | pass agreement 0.8268
+- Topic/heading: f(2)<0 working
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.8059 | pass agreement 0.8268
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -393,8 +454,8 @@
 
 ## Page 15
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8959 | pass agreement 0.9793
+- Topic/heading: Question: one root <1, other >1, find k (DiBY-B marker)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8959 | pass agreement 0.9793
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -409,10 +470,19 @@
 - K-5).t(1)<0——①
 - (K-5)·f(2)<0
 
+> [UNCLEAR] p15: equation coefficients and Ans interval need full-res verification
+
 ## Page 16
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9191 | pass agreement 0.9511
+- Topic/heading: LOCATION OF ROOTS Case-V (exactly one root between k1,k2)
+- Page type: theory | dark bg: True | primary pass A | mean conf 0.9191 | pass agreement 0.9511
+
+### Verified transcript (visual QA)
+
+- LOCATION OF ROOTS
+- Case-V : If exactly one root of quadratic lies between k1 & k2
+- condition (red box): f(k1).f(k2) < 0
+- note: D >= 0 not required
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -426,8 +496,8 @@
 
 ## Page 17
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8391 | pass agreement 0.922
+- Topic/heading: boundary-root cloud note
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.8391 | pass agreement 0.922
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -443,8 +513,17 @@
 
 ## Page 18
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9824 | pass agreement 0.9953
+- Topic/heading: IMPORTANT NOTE - boundary condition steps
+- Page type: note | dark bg: True | primary pass A | mean conf 0.9824 | pass agreement 0.9953
+
+### Verified transcript (visual QA)
+
+- IMPORTANT NOTE
+- In Case-V, Boundary Condition should be separately analyzed.
+- Boundary Condition: If x = k1 or x = k2 is given as root of Quadratic.
+- Step-01: Put x = k1 or x = k2 in given quadratic and find parameter.
+- Step-02: Substitute value of parameter in given Quadratic and calculate both roots.
+- Step-03: Now check, does roots satisfy given condition. If yes, value of parameter is included. If no, value of parameter is excluded.
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -462,8 +541,8 @@
 
 ## Page 19
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8608 | pass agreement 0.9187
+- Topic/heading: Question: exactly one root in (-2,0), values of m
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8608 | pass agreement 0.9187
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -481,10 +560,12 @@
 - m(m+6)(m+2)<0
 - {2-3-(0s)  [LOWCONF]
 
+> [UNCLEAR] p19: equation terms need full-res verification
+
 ## Page 20
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8853 | pass agreement 0.9127
+- Topic/heading: Question: exactly one root in (-2,5)? values of m
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8853 | pass agreement 0.9127
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -503,10 +584,12 @@
 - =  [LOWCONF]
 - (a-4)（α+2)=0
 
+> [UNCLEAR] p20: interval/equation need full-res verification
+
 ## Page 21
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9083 | pass agreement 0.8107
+- Topic/heading: Question: same family, pink working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9083 | pass agreement 0.8107
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -529,8 +612,14 @@
 
 ## Page 22
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8524 | pass agreement 0.8349
+- Topic/heading: Question [JEE Mains-2020] lambda, one root in (0,1)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8524 | pass agreement 0.8349
+
+### Verified transcript (visual QA)
+
+- Question [JEE Mains-2020]
+- The set of all real values of lambda for which the quadratic equations, (lambda^2 + 1)x^2 - 4 lambda x + 2 = 0 always have exactly one root in the interval (0, 1) is
+- (A) (-4, -1) (B) (2, 4] (C) (1, 2) (D) (1, 3]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -555,8 +644,8 @@
 
 ## Page 23
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8687 | pass agreement 0.565
+- Topic/heading: JEE Mains-2020 same, cyan working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8687 | pass agreement 0.565
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -589,8 +678,8 @@
 
 ## Page 24
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8456 | pass agreement 0.8367
+- Topic/heading: JEE Mains-2020 same, red working
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8456 | pass agreement 0.8367
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -615,8 +704,13 @@
 
 ## Page 25
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8501 | pass agreement 0.6159
+- Topic/heading: Question [IIT-JEE-2009] roots >= 4
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8501 | pass agreement 0.6159
+
+### Verified transcript (visual QA)
+
+- Question [IIT-JEE-2009]
+- The smallest value of a, for which both the roots of the equation, x^2 - 8ax + 16(a^2 - a + 1) = 0 are real, distinct and have values at least 4, is
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -642,8 +736,8 @@
 
 ## Page 26
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8635 | pass agreement 0.9253
+- Topic/heading: IIT-JEE-2009 same + DiBY-A marker
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8635 | pass agreement 0.9253
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -664,8 +758,8 @@
 
 ## Page 27
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7927 | pass agreement 0.8179
+- Topic/heading: IIT-JEE-2009 same, orange working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.7927 | pass agreement 0.8179
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -699,8 +793,14 @@
 
 ## Page 28
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8994 | pass agreement 0.9672
+- Topic/heading: Acidic Question: atleast one positive root, k
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8994 | pass agreement 0.9672
+
+### Verified transcript (visual QA)
+
+- Acidic Question
+- The values of k, for which the equation x^2 + 2(k+1)x + ... = 0 posses atleast one positive root, are
+- (A) [4, inf) (B) (-inf, -1] U [4, inf) (C) [-1, 4] (D) (-inf, -1]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -716,10 +816,20 @@
 - D
 - (-0o,-1]
 
+> [UNCLEAR] p28: middle coefficient of equation needs full-res verification
+
 ## Page 29
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9094 | pass agreement 0.9054
+- Topic/heading: THEORY OF HIGHER DEGREE EQUATIONS - cubic relations
+- Page type: theory | dark bg: True | primary pass A | mean conf 0.9094 | pass agreement 0.9054
+
+### Verified transcript (visual QA)
+
+- THEORY OF HIGHER DEGREE EQUATIONS
+- CUBIC EQUATION: a x^3 + b x^2 + c x + d = 0 (a != 0)
+- Sum of roots taken one at a time = alpha + beta + gamma = -b/a
+- Sum of product of roots taken two at a time = alpha beta + beta gamma + gamma alpha = c/a
+- Product of roots = alpha beta gamma = -d/a
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -738,8 +848,8 @@
 
 ## Page 30
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8654 | pass agreement 0.6048
+- Topic/heading: RAPID FIRE ROUND (i),(ii)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8654 | pass agreement 0.6048
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -767,10 +877,20 @@
 
 > Dual-pass agreement 0.6048 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p30: cubic coefficients and sub-answers need full-res verification
+
 ## Page 31
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8909 | pass agreement 0.5319
+- Topic/heading: IMPORTANT NOTE FOR CUBIC + Newton's formula
+- Page type: note | dark bg: True | primary pass A | mean conf 0.8909 | pass agreement 0.5319
+
+### Verified transcript (visual QA)
+
+- IMPORTANT NOTE FOR CUBIC
+- (i) Every odd degree polynomial equation with real coefficients always have 1 real root. (Imaginary roots exists in Pair)
+- (ii) Newton's formula: S3 + p S2 + q S1 + r n = 0 [red box, glyphs UNCLEAR]
+- (iii) Factorisation of cubic: a x^3 + b x^2 + c x + d = a(x - alpha)(x - beta)(x - gamma)
+- (iv) Form a cubic whose roots are alpha, beta, gamma: x^3 - (sum)x^2 + (pairwise)x - (product) = 0 [red box]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -796,10 +916,12 @@
 
 > Dual-pass agreement 0.5319 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p31: Newton's formula exact glyphs need full-res verification
+
 ## Page 32
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8605 | pass agreement 0.6148
+- Topic/heading: RAPID FIRE ROUND (iii),(iv) form cubics
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8605 | pass agreement 0.6148
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -828,8 +950,13 @@
 
 ## Page 33
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.955 | pass agreement 0.5914
+- Topic/heading: Challenger Question: roots between roots (HW)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.955 | pass agreement 0.5914
+
+### Verified transcript (visual QA)
+
+- Challenger Question
+- For what real values of a do the roots x^2 - 2x + a^2 + 1 = 0 lie between the roots x^2 - 2(a+1)x + a(a-1) = 0.
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -839,10 +966,12 @@
 
 > Dual-pass agreement 0.5914 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p33: verify at full res
+
 ## Page 34
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8791 | pass agreement 0.9689
+- Topic/heading: Challenger Question: expression takes all real values (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8791 | pass agreement 0.9689
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -857,10 +986,16 @@
 - [Ans. : m ∈ (4, 6)]
 - °3七  [LOWCONF]
 
+> [UNCLEAR] p34: expression glyphs and Ans need full-res verification
+
 ## Page 35
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9897 | pass agreement 1.0
+- Topic/heading: DO IT BY YOURSELF (DIBY)
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.9897 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- DO IT BY YOURSELF (DIBY)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -869,8 +1004,8 @@
 
 ## Page 36
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.922 | pass agreement 0.9312
+- Topic/heading: DIBY-57, DIBY-58 (repeat L11 p37)
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.922 | pass agreement 0.9312
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -905,8 +1040,8 @@
 
 ## Page 37
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9581 | pass agreement 0.8769
+- Topic/heading: LOCATION OF ROOTS - DIBY-59
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9581 | pass agreement 0.8769
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -929,10 +1064,12 @@
 - (1) m e (-∞, 1] , (ii) m e [9, 10), (ili) m e(0, ∞0), (iv) m e(10, ∞),
 - (v) m ∈ Φ, (vi) m ∈ Φ, (vii) m e(10, ∞), (vili) m e [9, ∞) - {10}]
 
+> [UNCLEAR] p37: answer line (iv)-(viii) small print needs full-res
+
 ## Page 38
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9596 | pass agreement 0.9653
+- Topic/heading: DIBY-60, DIBY-61
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9596 | pass agreement 0.9653
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -954,8 +1091,17 @@
 
 ## Page 39
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9777 | pass agreement 0.9973
+- Topic/heading: Homework
+- Page type: homework | dark bg: True | primary pass B | mean conf 0.9777 | pass agreement 0.9973
+
+### Verified transcript (visual QA)
+
+- Homework
+- # Re-attempt all Class Examples
+- # DPP & DIBY
+- # Module: (3 sittings of 1 HR each)
+- Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25.
+- Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -968,8 +1114,14 @@
 
 ## Page 40
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8633 | pass agreement 0.9635
+- Topic/heading: Thank You slide
+- Page type: closing | dark bg: True | primary pass B | mean conf 0.8633 | pass agreement 0.9635
+
+### Verified transcript (visual QA)
+
+- It is never about end result / It's always about Journey
+- Thank You
+- #futureIITians
 
 ### Raw OCR (primary pass, verbatim)
 

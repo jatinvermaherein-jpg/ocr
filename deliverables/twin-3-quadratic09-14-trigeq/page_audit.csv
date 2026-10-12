@@ -637,42 +637,11 @@ p3 + q(3p +1) + q² = 0
 [Ans.:(A)]",,yes,# DIBY-57; # DIBY-58,low-conf (0.6268) line: '入'; printed statements/options need full-res verification,visual-scan,arena-twin3-agent
 Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,38,Homework,"Homework | # Re-attempt all Class Examples | # DPP & DIBY | # Module: (3 sittings of 1 HR each) | Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25. | Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)",,no,,low-conf (0.5858) line: '井',visual-full,arena-twin3-agent
 Quadratic Equations,11,Quadratic Equations 11 Class Notes.pdf,39,Thank You slide,It is never about end result / It's always about Journey | Thank You | #futureIITians,,no,,low-conf (0.5161) line: '在u',visual-full,arena-twin3-agent
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,1,ARJUI,"ARJUI
-JEE2
-2202
-Lecture -12
-Mathematics
-QUADRATIC
-Physics
-EQUATIONS
-By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,2,Topics,"Topics
-tobe coverey
-A
-Location of Roots
-B
-Theory of Higher Degree Equations
-C
-Question Practice
-D",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,3,LASTCLASSREVISION,"LASTCLASSREVISION
-# Answer the following Questions:
-If (
- (x = α) is common root of two polynomial equations P(x) = 0 and
-P2(x) = 0 then:
-a
-(x = α) will also be the root of mP1 (x) ± nP2(x) = 0.
-(q)
-All the roots of mP1 (x) ± nP2(x) = 0,
-are common roots.—
-2.
-exactly one root
-tis common between two quadratics, then what is
-the method to proceed?
-Check!",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,4,Question Practice,"W
-Question Practice",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,5,Acidic Question,"Acidic Question
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,1,Cover slide,ARJUNA JEE 2027 | Lecture - 12 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir,,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,2,Topics to be covered,Topics to be covered | A Location of Roots | B Theory of Higher Degree Equations | C Question Practice | D (empty),,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,3,LAST CLASS REVISION - common factor questions,"LAST CLASS REVISION | # Answer the following Questions: | 1. If (x - a) is common root of two polynomial equations P1(x) = 0 and P2(x) = 0 then: | (a) (x - a) will also be the root of ... [handwritten fill-ins] | (b) All the roots of ... are common roots. | 2. If exactly one root is common between two quadratics, then what is the method to proceed?",,no,,blank-fill handwritten answers low legibility at scan res,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,4,Question Practice,Question Practice (boxed red),,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,5,Acidic Question: common positive root (repeat L11 p20) + working,"Acidic Question
 If the quadratic equations
 x² + ax + 12 = 0and
 x² + bx+ 15 = 0
@@ -701,8 +670,8 @@ X
 π²-9=0
 x=3
 C.R
-=±3",,no,,low-conf (0.6054) line: 'X'; low-conf (0.5405) line: '+=0'; low-conf (0.531) line: 'α',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,6,Question [AIEEE-2008],"Question [AIEEE-2008]
+=±3",,no,,low-conf (0.6054) line: 'X'; low-conf (0.5405) line: '+=0'; low-conf (0.531) line: 'α',visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,6,Question [AIEEE-2008] (repeat L11 p21) + working,"Question [AIEEE-2008]
 41%
 The quadratic equations
  x² - 6x+ a = 0 
@@ -734,8 +703,8 @@ x=4 CR
 ²-11x+6=0
 32
 x²-5+6=0
-4",,no,,low-conf (0.5023) line: 'I'; low-conf (0.5959) line: '&',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,7,Question,"# b=o,α,-2
+4",,no,,low-conf (0.5023) line: 'I'; low-conf (0.5959) line: '&',visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,7,"Question f,g common root values of a (repeat L11 p25) + working","# b=o,α,-2
 Question
 Let f(x) = x² - 3x + band g(x) = x² + bx -3, where b is a real number. If the
 equation f(x) = 0 and g(x) = 0 have a common root, then
@@ -766,46 +735,10 @@ x3-3n=0
 x²-3=D一
 -√3
 x-3+2=0=1
-n²+2x-3=0 ~α=1",,no,,low-conf (0.5519) line: '十'; low-conf (0.6033) line: 'x²)'; dual-pass agreement 0.7455,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,8,Acidic Question,"Acidic Question
-If the equations x3 + x² - 4x = 4 and x² + px + 2p = 0 (p E R) have two
-roots common, then the value of p is
-3F
-A
--2
-B
-D
-3",,no,,low-conf (0.569) line: '3F',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,9,LOCATION OFROOTS,"LOCATION OFROOTS
-RAR
-case-l
-Case-Il
-Case-IlI
-If both roots are greater than
-If both roots are less than
-Both roots lies
-number given number'k'
-number given number 'k'
-between'k'& 'k2'
-R
-k
-K
-D>0
-D>0
-D>0
-2
-2a
->k
-2.
-2a
-<k
-2a
-2<k2
-3. af(k) > 0
-3. af(k) > 0
-3. af(k1) > 0
-4. af(k2) > 0",,no,,low-conf (0.6473) line: 'D>0',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,10,Question,"Question
+n²+2x-3=0 ~α=1",,no,,low-conf (0.5519) line: '十'; low-conf (0.6033) line: 'x²)'; dual-pass agreement 0.7455,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,8,"Acidic Question: two common roots, value of p (HW)","Acidic Question | If the equations x^3 + x^2 - 4x + ... = 0 and x^3 + px + 2p = 0 (p in R) have two common roots, then the value of p is | (A) -2 (B) -1 (C) 1 (D) 3",,no,,low-conf (0.569) line: '3F'; first cubic coefficients need full-res verification,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,9,LOCATION OF ROOTS - Cases I-III table,LOCATION OF ROOTS (T.M. circle) | Case-I both roots greater than k: 1. D >= 0  2. -b/2a > k  3. af(k) > 0 | Case-II both roots less than k: 1. D >= 0  2. -b/2a < k  3. af(k) > 0 | Case-III both roots between k1 & k2: 1. D >= 0  2. k1 < -b/2a < k2  3. af(k1) > 0  4. af(k2) > 0,,no,,low-conf (0.6473) line: 'D>0',visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,10,"Question alpha in (-6,1) (repeat L11 p30) + working + Ans","Question
 dengthy
 (x)f
 Ans.:k E
@@ -842,20 +775,9 @@ D
 2
 6
 27
-K>-2",,no,,low-conf (0.5865) line: '米**'; low-conf (0.5726) line: '0<&'; low-conf (0.6378) line: '×1'; dual-pass agreement 0.4322,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,11,LOCATIONOFROOTS,"LOCATIONOFROOTS
-Case-IV :Any number k lies between the roots
-tve
-f(K)
-af(k)<
-k
-β
-f(K)
--ve
-<
-0>D
-# N & S ",,no,,low-conf (0.5145) line: '0>D',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,12,Note:,"P
+K>-2",,no,,low-conf (0.5865) line: '米**'; low-conf (0.5726) line: '0<&'; low-conf (0.6378) line: '×1'; dual-pass agreement 0.4322,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,11,LOCATION OF ROOTS Case-IV (k between roots),LOCATION OF ROOTS | Case-IV : Any number k lies between the roots | condition (red box): af(k) < 0,two parabola sketches,no,,low-conf (0.5145) line: '0>D',visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,12,Case-IV extension notes,"P
 W
 Note:
 大
@@ -872,22 +794,9 @@ K2
 α
 K
 K2
-B",,no,,low-conf (0.5673) line: 'W',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,13,Question,"Question
-Ans.:k ∈ (-2,3)
-Find the value of k for which one root of the equation of
-x2 - (k + 1)x + k2 + k - 8 = 0 exceed 2 and other is smaller than 2.
-f(x)
-#
-af(2)(0
-B
-4-(K+1)a+k²+k-8
-—2K-2+k²+k-8
-K-K—6<0
-K-3)(K+2)<0
-K∈(-2,3)
-α>α",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,14,: ax²+bx +c,"W
+B",,no,,low-conf (0.5673) line: 'W'; red-box condition glyphs uncertain at scan res,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,13,"Question: one root >2, other <2, find k","Question | Find the value of k for which one root of the equation x^2 - (k+1)x + k^2 + k - 8 = 0 exceed 2 and other is smaller than 2. | Ans. : k in (-2, 3)",,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,14,f(2)<0 working,"W
 bmgubp
 : ax²+bx +c
 Root are of opp. s
@@ -905,8 +814,8 @@ ex1x²-5x-6=0
 tve
 o>
 x:ax²+11-3=D
-Lve",,no,,low-conf (0.5291) line: 'bmgubp'; low-conf (0.6109) line: '(ten)'; low-conf (0.5335) line: 'α↓',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,15,Question,"Question
+Lve",,no,,low-conf (0.5291) line: 'bmgubp'; low-conf (0.6109) line: '(ten)'; low-conf (0.5335) line: 'α↓',visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,15,"Question: one root <1, other >1, find k (DiBY-B marker)","Question
 Ans.:kE
 813
 5
@@ -915,15 +824,9 @@ Find the value of k for which one root of the equation of
 f(x).
 QIBY!!
 K-5).t(1)<0——①
-(K-5)·f(2)<0",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,16,LOCATION OFROOTS,"LOCATION OFROOTS
-Case-V : If exactly one root of quadratic lies between k, & k2 :
-Root
-Root
-f(k).f(k2)
-ve
-# N&S",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,17,Boundary eond,"P
+(K-5)·f(2)<0",,no,,equation coefficients and Ans interval need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,16,"LOCATION OF ROOTS Case-V (exactly one root between k1,k2)",LOCATION OF ROOTS | Case-V : If exactly one root of quadratic lies between k1 & k2 | condition (red box): f(k1).f(k2) < 0 | note: D >= 0 not required,,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,17,boundary-root cloud note,"P
 W
 #
 Boundary eond
@@ -931,19 +834,9 @@ Boundary eond
 Quad H satiby
 get
 paramekr
-Calaulat Roots",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,18,IMPORTANTNOTE,"IMPORTANTNOTE
-In Case-V, Boundary Condition should be separately analyzed.
-Boundary Condition:
-If x = k1 or x = k2 is a root of Quadratic.
-Step-01:
-Put x = k1 or x = k2 in given quadratic and find parameter.
-Step-02:
-Substitute value of parameter in given Quadratic and calculate
-both roots.
-Step-03: Now check, does roots satisfy given condition. If yes, value of
-parameter is included. If no, value of parameter is excluded.",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,19,Question,"Question
+Calaulat Roots",,no,,,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,18,IMPORTANT NOTE - boundary condition steps,"IMPORTANT NOTE | In Case-V, Boundary Condition should be separately analyzed. | Boundary Condition: If x = k1 or x = k2 is given as root of Quadratic. | Step-01: Put x = k1 or x = k2 in given quadratic and find parameter. | Step-02: Substitute value of parameter in given Quadratic and calculate both roots. | Step-03: Now check, does roots satisfy given condition. If yes, value of parameter is included. If no, value of parameter is excluded.",,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,19,"Question: exactly one root in (-2,0), values of m","Question
 Find all possible values of m for which exactly one root of the equation
 KK2
 #
@@ -955,8 +848,8 @@ f(-2) f()<0
 1+4m+4
 m(m+6/<0
 m(m+6)(m+2)<0
-{2-3-(0s)",,no,,low-conf (0.5432) line: '{2-3-(0s)',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,20,Question,"Question
+{2-3-(0s)",,no,,low-conf (0.5432) line: '{2-3-(0s)'; equation terms need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,20,"Question: exactly one root in (-2,5)? values of m","Question
 Find all possible values of m for which exactly one root of the equation
 x²+mx+m² +6m=
 = 0, lies in (-2, 0).
@@ -969,8 +862,8 @@ m=-2
 Quad.
 Reyjected
 =
-(a-4)（α+2)=0",,no,,low-conf (0.5065) line: '=',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,21,Question,"Question
+(a-4)（α+2)=0",,no,,low-conf (0.5065) line: '='; interval/equation need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,21,"Question: same family, pink working","Question
 Find all possible values of m for which exactly one root of the equation
 x² + mx + m² + 6 m= 0, lies in (-2,0).
 Boun&. cmd""
@@ -985,26 +878,9 @@ Reject
 ²-6=0
 Reject
 =0
-x(-6)=0",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,22,Question[JEEMains-2020],"Question[JEEMains-2020]
-The set of all real values of 入 for which the quadratic equations,
-(^2 + 1)x2 - 42x + 2 = 0 always have exactly one root in the interval (o, 1) is
-A
-(-3, -1)
-#
-(0)(±)
-B
-(2, 4]
-²+1-4+2
-<O
-(0, 2)
--4A+3<6
-(A-1)(a-3)<0
-fnt : ae(1,3]
-(1, 3]
-2
-(e)",,no,,low-conf (0.5705) line: '(0)(±)'; low-conf (0.5234) line: '<O',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,23,Question[JEEMains-2020],"Question[JEEMains-2020]
+x(-6)=0",,no,,,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,22,"Question [JEE Mains-2020] lambda, one root in (0,1)","Question [JEE Mains-2020] | The set of all real values of lambda for which the quadratic equations, (lambda^2 + 1)x^2 - 4 lambda x + 2 = 0 always have exactly one root in the interval (0, 1) is | (A) (-4, -1) (B) (2, 4] (C) (1, 2) (D) (1, 3]",,no,,low-conf (0.5705) line: '(0)(±)'; low-conf (0.5234) line: '<O',visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,23,"JEE Mains-2020 same, cyan working","Question[JEEMains-2020]
 The set of all real values of 入 for which the quadratic equations,
 (22 + 1)x2 - 42x + 2 = 0 always have exactly one root in the interval
 1(0, 1) is
@@ -1027,8 +903,8 @@ m.p
 1=C
 A²-ya+3=0
 5x²-6x+ 1=0
-(5α-1)(α-1) =0",,no,,dual-pass agreement 0.565,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,24,Question[JEEMains-2020],"Question[JEEMains-2020]
+(5α-1)(α-1) =0",,no,,dual-pass agreement 0.565,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,24,"JEE Mains-2020 same, red working","Question[JEEMains-2020]
 The set of all real values of 入 for which the quadratic equations,
 (^2 + 1)x2 - 42x + 2 = 0 always have exactly one root in the interval (o, 1) is
 A
@@ -1045,25 +921,9 @@ B
 D
 (1, 3]
 2
-()",,no,,low-conf (0.5505) line: '<O'; low-conf (0.627) line: '()',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,25,Question[1IT-JEE-2009],"Question[1IT-JEE-2009]
-The smallest value of k, for which both the roots of the equation,
-x2 - 8kx + 16(k2 - k + 1) = 0 are real, distinct and have values at least 4, is
-μ-1
-7O
-K=1
-0
-@
-x²- 8x +16 =0
-?
-b
-x-4)~=0<
-af(4)>0
-12
-=y x00t —→ 16 -32k+16(K²-K+1) =0
-I -2k+k²-k+1 =0
-K²-3K + 2 =0",,no,,low-conf (0.5147) line: '7O'; low-conf (0.6479) line: '@'; dual-pass agreement 0.6159,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,26,Question[1IT-JEE-2009],"Question[1IT-JEE-2009]
+()",,no,,low-conf (0.5505) line: '<O'; low-conf (0.627) line: '()',visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,25,Question [IIT-JEE-2009] roots >= 4,"Question [IIT-JEE-2009] | The smallest value of a, for which both the roots of the equation, x^2 - 8ax + 16(a^2 - a + 1) = 0 are real, distinct and have values at least 4, is",,no,,low-conf (0.5147) line: '7O'; low-conf (0.6479) line: '@'; dual-pass agreement 0.6159,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,26,IIT-JEE-2009 same + DiBY-A marker,"Question[1IT-JEE-2009]
 The smallest value of k, for which both the roots of the equation,
 x2 - 8kx + 16(k2 - k + 1) = 0 are real, distinct and have values at least 4, is
 μ-2
@@ -1076,8 +936,8 @@ X
 b
 ?
 af(4)>0
-zero",,no,,low-conf (0.6427) line: 'O<@'; low-conf (0.6195) line: '?',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,27,Question[IIT-JEE-2009],"Question[IIT-JEE-2009]
+zero",,no,,low-conf (0.6427) line: 'O<@'; low-conf (0.6195) line: '?',visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,27,"IIT-JEE-2009 same, orange working","Question[IIT-JEE-2009]
 K=&
 The smallest value of k, for which both the roots of the equation,
 x2 - 8kx + 16(k2 - k + 1) = 0 are real, distinct and have values at least 4, is
@@ -1103,31 +963,10 @@ K-I>↓K-1
 K²-2k+1≥k-1
 k#1
 K²-3K+2>0
-2,8",,no,,low-conf (0.5973) line: 'K=&'; low-conf (0.5509) line: 'O<@'; low-conf (0.5814) line: '-<'; low-conf (0.6098) line: '&x1',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,28,Acidic Question,"Acidic Question
-The values of k, for which the equation x2 + 2(k - 1)x + k + 5 = 0 posses
-atleast one positive root, are
-tw),
-A
-[4,∞)
-B
-(-∞,-1) U[4,0)
-[-1, 4]
-D
-(-0o,-1]",,no,,"low-conf (0.5597) line: 'tw),'",auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,29,THEORYOFHIGHERDEGREEEQUATIONS,"THEORYOFHIGHERDEGREEEQUATIONS
-#
-三 Sum
-CUBICEQUATION:
-degre= 3=no.o Root)
-ax3 + bx2 + cx + d = 0
-(a≠0)
-Rots = α, β,Y.
-Sum of roots taken one at a time = α + β +  = Zα = -b
-Product of roots=αβy
-=
-9S3",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,30,RAPID FIREROUND,"RAPID FIREROUND
+2,8",,no,,low-conf (0.5973) line: 'K=&'; low-conf (0.5509) line: 'O<@'; low-conf (0.5814) line: '-<'; low-conf (0.6098) line: '&x1',visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,28,"Acidic Question: atleast one positive root, k","Acidic Question | The values of k, for which the equation x^2 + 2(k+1)x + ... = 0 posses atleast one positive root, are | (A) [4, inf) (B) (-inf, -1] U [4, inf) (C) [-1, 4] (D) (-inf, -1]",,no,,"low-conf (0.5597) line: 'tw),'; middle coefficient of equation needs full-res verification",visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,29,THEORY OF HIGHER DEGREE EQUATIONS - cubic relations,THEORY OF HIGHER DEGREE EQUATIONS | CUBIC EQUATION: a x^3 + b x^2 + c x + d = 0 (a != 0) | Sum of roots taken one at a time = alpha + beta + gamma = -b/a | Sum of product of roots taken two at a time = alpha beta + beta gamma + gamma alpha = c/a | Product of roots = alpha beta gamma = -d/a,,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,30,"RAPID FIRE ROUND (i),(ii)","RAPID FIREROUND
 十
 (!)
 For: 7x3
@@ -1147,27 +986,9 @@ S1 =α+β+=
 S3 = αβy =
 S2 =
 %
-=0",,no,,dual-pass agreement 0.6048,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,31,IMPORTANTNOTEFORCUBIC,"IMPORTANTNOTEFORCUBIC
-have l real root.
-(Imaginary roots exists in Pair)
-Newton's formula :S, = pαn±q βn±r yn
-a2
-+
-b+cx+=O
-Then : aS, + bSn-1 + cSn-2 + dSn-3 = 0
-αSn +b Sn-1+C Sn-2+ d Sn-3= 0 
-Factorisation of cubic:ax3 + bx2 + cx + d = α(x-α)(x-β)(α-v)
-identity
-(iv)
-Form a cubic whose root are α, β & y.
-x-
-(x+p+r)
-x+
-xβ+Br+Y
-αβr
-=0",,no,,low-conf (0.5319) line: 'a2'; dual-pass agreement 0.5319,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,32,RAPID FIRE ROUND,"RAPID FIRE ROUND
+=0",,no,,dual-pass agreement 0.6048; cubic coefficients and sub-answers need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,31,IMPORTANT NOTE FOR CUBIC + Newton's formula,"IMPORTANT NOTE FOR CUBIC | (i) Every odd degree polynomial equation with real coefficients always have 1 real root. (Imaginary roots exists in Pair) | (ii) Newton's formula: S3 + p S2 + q S1 + r n = 0 [red box, glyphs UNCLEAR] | (iii) Factorisation of cubic: a x^3 + b x^2 + c x + d = a(x - alpha)(x - beta)(x - gamma) | (iv) Form a cubic whose roots are alpha, beta, gamma: x^3 - (sum)x^2 + (pairwise)x - (product) = 0 [red box]",,no,,low-conf (0.5319) line: 'a2'; dual-pass agreement 0.5319; Newton's formula exact glyphs need full-res verification,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,32,"RAPID FIRE ROUND (iii),(iv) form cubics","RAPID FIRE ROUND
 (iii)
 Form a cubic whose roots are -1, 3, 5.
 (iv)
@@ -1186,11 +1007,9 @@ x-4x²+4x+15=0
 αβY=-15 
 ²-(11)α²+(34)x-(
 (35)
-= C",,no,,low-conf (0.5491) line: 's（'; dual-pass agreement 0.6148,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,33,ChallengerQuestion,"ChallengerQuestion
-For what real values of a do the roots x2 - 2x - a² + 1= 0 lie between the
-roots x2 - 2(a + 1)x + a(a - 1) = 0.",,no,,dual-pass agreement 0.5914,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,34,Challenger Question,"Challenger Question
+= C",,no,,low-conf (0.5491) line: 's（'; dual-pass agreement 0.6148,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,33,Challenger Question: roots between roots (HW),Challenger Question | For what real values of a do the roots x^2 - 2x + a^2 + 1 = 0 lie between the roots x^2 - 2(a+1)x + a(a-1) = 0.,,no,,dual-pass agreement 0.5914; verify at full res,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,34,Challenger Question: expression takes all real values (HW),"Challenger Question
 2x2-5x+3
 Find the values of m for which the expression:
 4x-m
@@ -1199,10 +1018,9 @@ realvalues for x E R -
 u
 4
 [Ans. : m ∈ (4, 6)]
-°3七",,no,,low-conf (0.5014) line: '4',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,35,DOITBYYOURSELF,"DOITBYYOURSELF
-(DIBY)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,36,# DIBY-61,"# DIBY-61
+°3七",,no,,low-conf (0.5014) line: '4'; expression glyphs and Ans need full-res verification,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,35,DO IT BY YOURSELF (DIBY),DO IT BY YOURSELF (DIBY),,marker-only,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,36,"DIBY-57, DIBY-58 (repeat L11 p37)","# DIBY-61
 Let 入 ≠ 0 be in R. lf α and β are the roots of the equation, x2 - x + 2入 = 0 and α and
 y are the roots of the equation, 3x2 - 10x + 27入 = 0, then 
  is equal to:
@@ -1229,8 +1047,8 @@ p3 - q(3p + 1) + q² = 0
 p3 + q(3p -1) + q² = 0
 (b)
 p3 + q(3p +1) + q² = 0
-[Ans.:(A)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,37,LOCATION OF ROOTS,"LOCATION OF ROOTS
+[Ans.:(A)]",,yes,# DIBY-57; # DIBY-58,,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,37,LOCATION OF ROOTS - DIBY-59,"LOCATION OF ROOTS
 # DIBY-63
 Let x² - (m - 3)x + m = 0(m E R) be a quadratic equation. Find the value of m for
 which
@@ -1247,8 +1065,8 @@ atleast one root lie in interval (1, 2).
 (vili) atleast one root is greater than 2.
 Ans.:
 (1) m e (-∞, 1] , (ii) m e [9, 10), (ili) m e(0, ∞0), (iv) m e(10, ∞),
-(v) m ∈ Φ, (vi) m ∈ Φ, (vii) m e(10, ∞), (vili) m e [9, ∞) - {10}]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,38,LOCATION OF ROOTS,"LOCATION OF ROOTS
+(v) m ∈ Φ, (vi) m ∈ Φ, (vii) m e(10, ∞), (vili) m e [9, ∞) - {10}]",,yes,# DIBY-59,answer line (iv)-(viii) small print needs full-res,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,38,"DIBY-60, DIBY-61","LOCATION OF ROOTS
 # DIBY-64
 Find all values of a for which the equation 4x2 - 2x + a = 0 has two roots lie in
 the interval (-1, 1).
@@ -1262,21 +1080,9 @@ The number of integral values of k, for which one root of the equation
 (B)
 (c)
 (D) 3
-[Ans.(c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,39,Homework,"Homework
-# Re-attempt all Class Examples
-#DPP&DIBY
-# Module: (3 sittings of 1 HR each)
-Exercise-02(Prabal): 1 to 10,13,16,18 to 25.
-Exercise-03(Setu): 1to 30 (except-13,16,17,21,25,26,29)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
-Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,40,never,"在u
-never
-about
-endresult
-Lts aluay about
-fourney
-Thank
-#futurellTians",,no,,low-conf (0.5161) line: '在u',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+[Ans.(c)]",,yes,# DIBY-60; # DIBY-61,,visual-scan,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,39,Homework,"Homework | # Re-attempt all Class Examples | # DPP & DIBY | # Module: (3 sittings of 1 HR each) | Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25. | Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)",,no,,,visual-full,arena-twin3-agent
+Quadratic Equations,12,Quadratic Equations 12 Class Notes.pdf,40,Thank You slide,It is never about end result / It's always about Journey | Thank You | #futureIITians,,no,,low-conf (0.5161) line: '在u',visual-full,arena-twin3-agent
 Quadratic Equations,13,Quadratic Equations 13 Class Notes.pdf,1,ARJUI,"ARJUI
 JEE2
 2202
@@ -8315,3 +8121,1145 @@ Lts alovayp aboat
 fourney
 Thank
 #futurellTians",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,1,ARJUI,"ARJUI
+2027
+Lecture -07
+Mathematics
+TRIGONOMETRIC
+Physics
+EQUATION
+By- Sachin Jakhar Sir",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,2,Topics,"Topics
+to be coverey
+A
+Graphically Solving Trigonometric Equation
+B
+Trigonometric Inequality
+C
+Question Practice
+D",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,3,H.W. Discussion,"W
+H.W. Discussion",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,4,Question [JEE (Adv.)-2014],"Question [JEE (Adv.)-2014]
+Page No.62
+For x ∈
+(0, π), the equation sin x + 2 sin2x - sin3x = 3 has
+80%
+A
+Infinitely many solutions
+—cosa.snx
++&
+sihx Cx
+=3
+B
+Three solutions
+sinz
+(Cco)ax
++
+c时x
+One solution
+XcO -
+No solution
+丈sinz .(
+(-ace² +1 +2c0x",,no,,low-conf (0.6008) line: '—cosa.snx'; low-conf (0.54) line: '(Cco)ax'; low-conf (0.5706) line: 'c时x'; low-conf (0.5095) line: 'XcO -',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,5,-ace²x+1 +2c0x,"Xsina 
+(-ac²x+1 +2c0x
+-ace²x+1 +2c0x
+# x=
+sinz 
+3
+×-
+t²+t+1
+d
+2
+sinz
+3
+×-
+2
+-2
+七
++1
+≤1
+C >
+Max. = 3
+一
+2
+when:
+Xinn = 1
+CO2=
+n.p",,no,,low-conf (0.647) line: 'Xsina '; low-conf (0.6197) line: '×-'; low-conf (0.5631) line: 'C >'; low-conf (0.6464) line: 'CO2='; dual-pass agreement 0.6116,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,6,Question [JEE Mains-2021],"Question [JEE Mains-2021]
+Page No.63
+The number of solution of sin? x + cos? x = 1, x e [0, 4π] is equal to
+84%。
+A
+11
+Jeel :
+B
+&vn = 0
+C的x = 1
+=0,&π,4π
+5
+&n = 1 
+0 = xV
+=
+2`2
+5k
+D
+9",,no,,low-conf (0.6343) line: '2`2',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,7,Page No.63,"Page No.63
+Question
+Solve for x and y :
+12 sin x - 2y²
+ = 21- 8y-5c0sx
+x² + 2xsin(xy) + 1 = 0
+egualityhdd
+1sinn+5cx
++21
+HS = RHS =13
+=2
+4 -4)
++&1
+1m+5=13
+Sino 
+Y=2
+[-13,13]
+13
+13
+13
++13
+vo
+sin(α+α)=1
+Raunge
+(0o'se] 
++α={
+(4n+1)
+2 where:α=cb'12
+13",,no,,low-conf (0.6338) line: '=2'; low-conf (0.5876) line: '+&1'; low-conf (0.6282) line: 'vo'; low-conf (0.5443) line: '(0o'se] '; dual-pass agreement 0.2707,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,8,Page No.63,"Page No.63
+Question
+Solve for x and y :
+(!)
+(ii)
+x² + 2xsin(xy) + 1 = 0
+12 sinx - 2y² = 21 - 8y - 5 cos x
+eguality hdd
+dHS = RHS = 
+2²+ 1 =-QxSin(αy
++1
+-sin(uy)
+2
+(-0∞,-2]u[2,∞)
+[-2,2]
+dec-10, Slide-13,14,Quad)",,no,,low-conf (0.6074) line: '+1'; low-conf (0.5168) line: '2'; dual-pass agreement 0.6796,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,9,eguality hdd,"eguality hdd
++1
+-sin(ny)
+αHS = RHS =-&
+(-0∞,-2]u[2,∞)
+[-2,2]
+α=-1
+de-10, Slide-13,14,Quad)
+-asin(xy)
+=1
+二
+guality hdd
+αHS= RHS =&
+nion
+(4n+1)
+?
+α+l =2
+-asin(xy) =2
+α=1
+x=-1
+=-(4n+1)
+=1 
+sin(xy)=-1
+(4m+3）≤
+=(4n+3)
+Q",,no,,low-conf (0.6389) line: '+1'; low-conf (0.5801) line: '=1'; low-conf (0.5812) line: '?'; dual-pass agreement 0.2133,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,10,Question[JEE Mains-2019],"Question[JEE Mains-2019]
+Page No.62
+All the pairs (x, y) that satisfy the inequality
+2
+sin2x-2sinx+5
+1
+4sin2y
+≤1
+also satisfy the equation
+2lsinxl
+1=2siny
+An -2sinn + 5
+akiny
+1
++1
+2sinx = siny
+Max. = 3
+&unx-1)²+4
+=
+sinx = 2siny
+min.
+max
+·uiu
+sinx = Isinyl
+=4",,no,,low-conf (0.5202) line: '·uiu',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,11,min. = 4,"P
+W
+An -2sinn + 5
+akiny
+min. = 4
+max .= 4
+egualuty
+lold→
+dHS = 
+RHS =
+xMn=1
+Biy=1
+kuwy=±1",,no,,low-conf (0.6313) line: 'xMn=1',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,12,PageNo.64,"PageNo.64
+SOLVINGGRAPHICALLY
+Point-o1: For graphically solving or finding number of solution of
+Equation: f(x) = g(x)
+Step-01:
+Simplify both side (whose graphs are known or easy to draw)
+Step-02: Draw y = f(x) & y = g(x) on same axis.
+Step-03 : Number of solutions = Number of Point of intersection of graph
+of f(x) & g(x).
+Solutions of equation are 'x-coordinate of point of intersection'",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,13,Question[JEE Mains-2021],"Question[JEE Mains-2021]
+Page No.64
+The number of solutions of the equation x + 2tanx 
+the interval
+2
+[0, 2π] is
+3
+& tanx
+-
+a
+OR
+B
+xubt
+N
+2
+2T
+=tamx
+D
+5
+=0
+二
+T
+4
+=
+4
+0=1
+2",,no,,low-conf (0.5272) line: 'xubt'; low-conf (0.5479) line: 'N'; low-conf (0.5327) line: '=tamx'; low-conf (0.6098) line: '4',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,14,Question[JEEMains-2022],"Question[JEEMains-2022]
+Page No.64
+The number of solutions of the equation 20 - cos²0 + V2 = 0 is R is equal to
+1
+ +2
++ ct 
+#
+-co²x+√ =0
+t +x-1= ct
+2
+x+√2 =
+CBS 
+x+√2 
+1 + c0y2n
+a
+#
+dn=t
+t+,↓2 = 1+ct",,no,,low-conf (0.5344) line: 'a',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,15,(no reliable text detected),"P
+W
+t +2,-1= ct
+R
+x'+ 2√-1 = c
+(0,2√2-1)
+d+a-1
+-√2
+G
+=0y=22-1
+(= o=K",,no,,low-conf (0.5064) line: 'R'; low-conf (0.5907) line: '-√2'; dual-pass agreement 0.7317,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,16,Question[JEEMains-2022],"Question[JEEMains-2022]
+PageNo.64
+The number of solutions of the equation 20 - cos²0 + V2 = 0 is R is equal to
+OR
+#
+Q2 - Cosx +  =0
+√2
+2
+9 + 2 = (
+Cx
+1=Cx
+=+√2
+3
+二
+3
+2r
+2
+2
+2",,no,,low-conf (0.5616) line: '√2'; low-conf (0.601) line: '二'; low-conf (0.5478) line: '2r',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,17,Question[JEEMains-2022],"Question[JEEMains-2022]
+The number of solutions of the equation sinx = cos²x in the interval
+(0,10), is",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,18,Question,"Question
+The total number of real solutions to the equation sinx = x2 + x + 1 is
+A
+mt
+B
+2
+D
+Infinitelymany",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,19,GRAPHICALLYSOLVINGINEQUALITY,"GRAPHICALLYSOLVINGINEQUALITY
+PageNo.65
+Inequality :f(x) > g(x)
+Solution: Draw both graph on same axis. Now answer portion of x-axis
+for which graph of f (x) lies above graph of g(x).
+g(a)
+Solve:
+f(x)
+f(c>g(x)
+nE (",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,20,Example,"Example
+Solve : cosx ≥ sinx, x E [0, 2πt]
+COSL
+5元
+T
+4
+Sinx
+S1
+xE",,no,,low-conf (0.5977) line: '5元'; low-conf (0.6472) line: 'T'; low-conf (0.5423) line: 'S1'; low-conf (0.5088) line: 'xE',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,21,Page No.65,"Page No.65
+TRIGONOMETRICINEQUALITIES
+for period o func?
+#
+ Solve given inequality for 1 complete cycle and generalise the solution.
+#
+To generalise : add integral multiple of period.
+#
+sin, cos, sec, cosec - add '2nπ'
+tan, cot - add 'nπ'
+integral mwlhiple o period 
+(2π)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,22,Page No.65,"Page No.65
+Bumper Question
+Solve following inequalities :
+sin x ≥
+1-2
+2
+cOS x
+2
+V3
+Klco
+张s
+≤ sin x
+入
+V3
+bix≥
+2
+以E
+5F
+2
+tan x ≥ 1
+Ge=
+-1 <tanx<V3
+xE
+6
+an+,2n+5
+G
+ne I
+1-4
+≥xu!s>
+3-4",,no,,low-conf (0.5425) line: 'Klco'; low-conf (0.5077) line: '张s'; low-conf (0.6159) line: '入'; low-conf (0.5806) line: 'bix≥'; low-conf (0.5731) line: 'xE',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,23,Gen,"#C
+↓3
+P
+2
+W
+2
+以E
+G
+Gen
+dn+
++ 
+G
+neI
+3
+57%y
+物
+K3
+XE
+3
+2
+3
+4
+,2π
+add &nt",,no,,low-conf (0.6411) line: '以E'; low-conf (0.6347) line: '物'; low-conf (0.633) line: 'K3'; dual-pass agreement 0.7463,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,24,add,"E
+P
+W
+=
+B2
+1</m
+K13
+下
+√
+XE
+下，
+add",,no,,low-conf (0.5016) line: 'E'; low-conf (0.5369) line: '1</m'; low-conf (0.5088) line: 'K13'; low-conf (0.503) line: '下'; dual-pass agreement 0.5862,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,25,Bumper Question,"Bumper Question
+Page No.65
+Solve following inequalities :
+(1)
+sin x ≥
+1-2
+≥ x SO3
+2
+V3
+3
+v2
+≤ sin x
+2
+3
+K/3
+tan x ≥ 1
+DIBY-
+-1<tanx<v3
+(
+1-4
+≥xzu!s>
+3-4
+XE
+gen
+XE
+V-y
+4
+v+yu
+3
+Iau",,no,,low-conf (0.635) line: 'XE'; low-conf (0.6145) line: 'Iau',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,26,Page No.65,"Page No.65
+Bumper Question
+Solve following inequalities :
+(t)
+sin x ≥
+1-2
+≥ x sO5
+2
+V3
+≤ sinx
+入
+V3
+#
+2
+返3
+2
+5K
+tan x ≥ 1
+-1 <tanx<√3
+3-2
+(6)
+1-4
+≥xu!s≥
+3-4
+ME
+图写写
+3
+5T
+2
+-<&≤-1
+2
+<&<√3
+2
+Jen",,no,,low-conf (0.5966) line: '入'; low-conf (0.551) line: '#'; low-conf (0.6364) line: '返3'; low-conf (0.5643) line: '5K'; low-conf (0.5924) line: 'ME'; low-conf (0.5217) line: '图写写'; low-conf (0.5736) line: '<&<√3',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,27,Question,"Question
+The general solution set for the trigonometric inequality
+tan x > 0 is
+given by (n E Z):
+A
+xE
+nπ,nπ+
+2
+DIBY
+B
+xE
+nT, nπ +
+2
+xE
+2nπ,2nTt+
+2
+D
+xE
+nT
+T
+2
+,nπ",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,28,Question,"Question
+[Ans.:A]
+The general solution set for the trigonometric inequality
+cos x < 
+is
+2
+given by (n E Z):
+A
+xE
+2nπ+
+2π
+,2nπ +
+4π
+3
+3
+DIBY
+B
+xE
+2nπ+
+3
+2π
+2nπ+
+3
+4πt]
+xE
+2nπ-
+3
+-,2nπ+
+3
+2π
+D
+xE
+5πt
+3
+3",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,29,Question,"Question
+The general solution of the inequality log2 ( sin *
+x1
+< -1 is given by (n E Z):
+2
+T
+5πt
+A
+xE
+4nπ,4nπ +
+3
+4nπ+
+3
+4nπ+2π
+w.
+TT
+5πt
+B
+xE
+2nπ,2nπ+
+6
+2nπ+-
+6
+,2nπ+π
+T
+5πt
+C
+x
+4nπ+
+一
+3
+4nπ+
+3
+D
+xE
+4nT
+3
+TT
+4nπ+
+3
+TT",,no,,low-conf (0.5168) line: 'x1'; low-conf (0.6062) line: 'w.'; low-conf (0.5225) line: 'T'; dual-pass agreement 0.7906,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,30,DOITBYYOURSELF,"DOITBYYOURSELF
+(DIBY)",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,31,# DIBY-01,"# DIBY-01
+Solve: v3sec 20 = 2.
+[Ans.:0 = nπ ±,n E 1]
+12
+# DIBY-02
+Find general solution of equation cotx = V3
+(A)
+x=nπ+
+(B)
+x=nπ+
+T
+3
+6
+(c)
+x=nπ+
+3
+2π
+(D)
+x=
+66
+9π5π
+[Ans.:(B)]
+# DIBY-03
+The number of values of x in the interval [0, 5rt] satisfying the equation
+3sin²x - 7sinx + 2 = 0 is:
+(A)  0
+(B) 2
+(c)
+6
+(D) 8
+[Ans.:(c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,32,# DIBY-04,"# DIBY-04
+General solution of the equation (2sin0 - V3) + (tan0 + V3) = 0
+[Ans. : (6n + 2),n E 1]
+# DIBY-05
+Find the principal solution of sin2x = 
+2
+(A)
+6
+7π11π
+6
+(B)
+12′12′12′12
+7π11π15π19π
+(c)
+12′12‘12′12
+7π11π19π23π
+(0)
+None of these
+[Ans.: (c)]
+# DIBY-06
+Find the number of solution tan 3x = 1 in the interval x E
+2π5π
+3
+[Ans.:05]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,33,# DIBY-07,"# DIBY-07
+Find the number of solution of the equation 16sin²x + 16cos²x = 10, where 0 ≤x≤ 2π.
+[Ans.:08]
+# DIBY-O8
+Number of values of 'x' in (-2π, 2nπ) satisfying the equation 2sin²x + 4(2cos²x) = 6
+is:
+(A)   8
+(B) 6
+(c)
+4
+(D)  2
+[Ans.:(c)]
+# DIBY-09
+The most general solution of tan0 = -1 and cos0
+√2
+is
+(A)
+nπ+
+7π
+4
+,neI
+(B)
+nπ +(-1)n
+7π
+4
+,neI
+(c)
+2nπ+
+7π
+,nEI
+(D)
+Noneofthese
+4
+[Ans.: (c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,34,# DIBY-10,"# DIBY-10
+If 4sin²0 + 2(V3 + 1)cos0 = 4 + V3, where n E I then the general value of 0 is
+(A)
+2nπ±
+π一3
+(B)
+2nπ +
+πI
+4
+(c)
+uu
+π一3
+(可)
+nπ-
+3
+T
+[Ans.: (A)]
+# DIBY-11
+Solve for x : sinx
+cOS-
+X1
+- 2sinx
+cOSx = 0
+4
+4
+[Ans. : 2π(4n + 1)]
+井
+DIBY-12
+The equation √3sinx + cosx = 4 has
+(A)
+Only one solution
+(B)
+Two solutions
+(c)
+Infinitely many solutions
+(D)
+No solution
+[Ans.:(D)]",,no,,low-conf (0.6485) line: 'πI'; low-conf (0.557) line: 'T'; low-conf (0.5417) line: 'X1'; low-conf (0.6171) line: '井',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,35,# DiBY-13,"# DiBY-13
+The number of solutions of sin0 + 2sin20 + 3sin30 + 4sin40 = 10 in (0, rt) is
+[Ans.....]
+# DIBY-14
+The general solution of 8tan² * = 1 + secx is
+2
+(A)
+x=2nπ±cos-
+(B)
+x=2nπ±
+6
+(c)
+x=2nπ±cos
+(D)
+None of these
+[Ans.:(c)]
+# DIBY-15
+Number of solutions of Zr-1
+ cosrx = 5 in the interval [0, 4πt] is:
+(A)  0
+(B)
+2
+(c)
+3
+(可)
+7
+[Ans.:(c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,36,# DIBY-16,"# DIBY-16
+sin30
+2c0s20+1
+2
+TT
+TT
+(A)
+θ=nπ+
+一
+,neI
+(B)
+θ=2nπ-
+=,ne I
+6
+6
+(c)
+,neI
+(D)
+θ=nπ-
+π
+,neI
+6
+6
+[Ans.:(c)]
+# DIBY-17
+Ifo≤x<
+then the number of values of x for which sinx - sin2x + sin3x = 0, is
+(A)   2
+(B) 1
+(c)
+3
+(D)
+4
+[Ans.:(A)]
+# DIBY-18
+If the sum of solutions of the system of equations 2sin²0 - cos20 = 0 and
+2cos20 + 3sin0 = 0 in the interval [0, 2rt] is krt, then k is equal to .
+[Ans.: 03]",,no,,dual-pass agreement 0.7743,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,37,# DIBY-19,"# DIBY-19
+Solve: sin(cosx) = cos(sinx)
+[Ans.: No Solution]
+# DIBY-20
+Solve: cosecx - cosec2x = cosec4x
+[Ans. :x = (2n + 1)= &n ≠ 7m + 3,n ∈ I&m ∈ 1]
+# DIBY-21
+[JEE-1995,2M]
+(A)
+nT + (-1)n
+6
+(B)
+nπ + (-1)n
+2
+T
+(c)
+nπ + (-1)n
+5πt
+(D)
+nπ + (-1)n
+7π
+6
+6
+[Ans. :(D)]",,no,,dual-pass agreement 0.6065,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,38,# DiBY-22,"# DiBY-22
+The general solution of sin x -- 3sin 2x + sin 3x = cos x - 3cos 2x + cos 3x is
+[JEE-1989, 2M]
+(A)
+nπ+
+π一8
+(B)
+2
+u
+π一8
+(c)
+(-1)n
+nπ
+2
+8
+(D)
+2
+[Ans.: (c)]
+# DIBY-23
+The possible values of 0 ∈ (0, πt) such that sin(0) + sin(40) + sin(70) = 0 are
+[AIEEE-2011]
+(A)
+2πππ2π3π8π
+'4'2′3′4′9
+(B)
+2ππ4ππ3π8π
+(c)
+5ππ2π3π8π
+(D)
+2πππ2π3π35π
+12
+3＇4′
+6
+9
+4
+2′3′4′36
+[Ans.: (B)]",,no,,dual-pass agreement 0.7303,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,39,# DIBY-24,"# DIBY-24
+The number of distinct solutions of the equation
+5
+ cos22x + cos4x + sin4x + cos6x + sin6x = 2 in the interval [0, 2rt] is
+[JEE (Adv.)-2015]
+[Ans.: 08]
+# DIBY-25
+[JEEMains-2022]
+[Ans.: 04]",,no,,dual-pass agreement 0.6139,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,40,DIBY-26,"DIBY-26
+Consider the following lists :
+[JEE (Adv.)-2022]
+List-I
+List-Il
+()
+xE
+2πt
+2π
+:cosx+ sinx=1
+(d)
+has two elements
+3
+3
+xE
+5T
+5π
+√3tan 3x = 1
+(Q)
+has three elements
+18
+()
+x E
+6TT
+6TT
+: 2cos(2x) = √3
+(a)
+has four elements
+(iv)
+xE
+/T
+7π
+sinx - cosx = 1
+(s)
+has five elements
+(1)
+has six elements
+The correct option is:
+(A)
+(1)→(P); (I)→(s); (I)→(P); (Iv)→(s) (B)
+(1)→(P); (I1)→(P); (II1)→(T); (IV)→(R)
+(c)
+(1)→(Q); (I)→(P); ()→(T); (Iv)→(s) (D)
+(0) →(Q); (m) →(S); (II) →(P); (Iv) →(R)
+[Ans.: (B)]",,no,,low-conf (0.5014) line: '/T'; dual-pass agreement 0.7776,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,41,DIBY-27,"DIBY-27
+If the solution of  the equation
+logcos x cot x + 4logsin x tan x = 1, x E
+(0,2), is
+sin
+α+√β
+where α, β are integers, then α + β is equal to:
+[JEEMains-2023]
+2
+(A)
+ 3
+(B)  5
+(c)
+(D)
+4
+[Ans.: (D)]
+# DiBY-28
+Let S be the set of all α E R such that the equation, cos 2x + αsin x = 2α - 7 has a
+solution. Then S is equal to:
+[JEE Mains-2019]
+(A) [2,6]
+(B)
+[3,7]
+(c)
+R
+(D)
+[1,4]
+[Ans.: (A)]
+# DIBY-29
+If α, -
+< α < is the solution of 4cos 0 + 5sin 0 = 1, then the valuer of tan α is
+2
+2
+[JEE Mains-2024]
+(A)
+6
+10-√10
+(B)
+12
+10-√10
+(c)
+√10-10
+12
+(D)
+6
+√10-10
+[Ans.: (c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,42,DIBY-30,"DIBY-30
+The sum of all values of θ ∈
+(0)
+satisfying sin² 20 + cos4 20 =
+3
+is:
+4
+[JEE Mains-2019]
+(A)
+TT
+(B)
+5Tt
+4
+(c)
+π一2
+(D)
+8
+3π
+[Ans.: (c)]
+# DIBY-31
+Let S = {0 E [-2π, 2πt]: 2cos2 0 + 3sin 0 = 0}. Then the sum of the elements of S is
+[JEE Mains-2019]
+(A)
+6
+13π
+(B)
+π
+(c)
+2πt
+(a)
+2
+5πt
+[Ans.: (c)]
+# DIBY-32
+Let the set of all a E R such that the equation
+ cos 2x + asin x = 2a - 7 has a
+1
+solution be [p, q] and r = tan 9° - tan 27°
+cot63°
++ tan 81°, then pqr is equal to
+[JEE Mains-2024]
+[Ans.: 48]",,no,,low-conf (0.6337) line: 'TT',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,43,DIBY-33,"DIBY-33
+Solve: sin0 + v3cos0 ≥ 1, -
+2
+>θ>
+π一2
+[Ans.:-<0≤]
+# DIBY-34
+Find the value of x in the interval
+3π
+for which √2sin2x + 1 ≤ 2sinx + √2cosx
+[Ans.: x E
+[]
+DIBY-35
+Solve sin2x > √2sin²x + (2 -√2)cos²x
+,nei]
+8
+4
+# DIBY-36
+The set of all x in
+()
+satisfying |4sinx - 1/ < V5 is given by
+(A)
+一
+10′10
+π3π
+(B)
+T
+10＇10
+-3π
+(c)
+1010
+π3π
+(D)
+None of these
+[Ans.: (A)]",,no,,low-conf (0.5183) line: '>θ>',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,44,# DIBY-37,"# DIBY-37
+Solve for x & y :
+x cos3y + 3x cosy sin²y = 14
+x sin²y + 3x cos²y siny = 13
+[Ans.:x = ±5√5&y = nπ + tan
+2
+# DIBY-38
+Solve 
+sin²x +
++
+(cos2x +
+= 12 + siny
+sin2x
+cos2x
+2
+[Ans.:x =kπ±;y = 2nπ +;k,n ∈ 1]
+# DIBY-39
+Solve x and y : 4sinx + 3cosy = 11
+5.16sinx - 2.3cosy = 2
+[Ans.:x = nπ + (-1)
+andy=2mπ±""
+where m, n E I]
+6",,no,,low-conf (0.5799) line: '+'; dual-pass agreement 0.7709,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,45,# DIBY-40,"# DIBY-40
+Consider the trigonometric equation : cos 4x + 6 = 7cos 2x.
+Which of the following represents the correct general solution for x, and what is
+the sum of all solution in the interval [o, 314]?.
+(A)
+General Solution: x = nt; Sum of solutions: 4950πt
+General solution: x = nt; Sum of solutions: 5050π
+General solution: x = nrt; Sum of solutions: 5oo0π
+General Solution: x = nr, Sum of solutions: 4900πt
+[Ans.:(A)]
+# DIBY-41
+The number of real solutions to the trigonometric equation 2v3cos x + sin x = 2
+in the interval [0, 2π] is :
+(A)  0
+(B)
+(c)
+2
+(D)
+4
+[Ans.:(c)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,46,# DIBY-42,"# DIBY-42
+The general solution of the trigonometric equation (sec x - 1) = (V2 - 1)tan x
+(where n E Z):
+(A)
+x =2nπorx =2nπ+
+(B)
+x=πox=π+
+(B)
+x=2nTorx=2nπ+
+π一4π一8
+(D)
+x=πox=π+
+π一8π一4
+[Ans.:(A)]
+# DIBY-43
+Find the general solution and number of solutions of the equation
+cos2 x + cos2 2x + cos2 3x + cos2 4x = 2 in the interval [0, rt].
+(A)   5
+(B)
+7
+(c)
+8
+(D)
+10
+[Ans.: (B)]
+# DIBY-44
+Find the general solution and number of solutions of the equation
+sin4 2x + cos4 2x = sin 2x · cos 2x in the interval [0, 2rt].
+(A)   2
+(B)
+4
+(c)
+6
+(D)
+8
+[Ans.:(B)]",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,47,# DIBY-45,"# DIBY-45
+Find the general solution and number of solutions of the equation
+cosecx - cosec2x = cosec4x in the interval [0, 2π].
+(A)
+4
+(B) 7
+(c)
+8
+(D)
+6
+[Ans.: (D)]
+DIBY-46 (challenger Question)
+3
+If 0 <α, β <π and cosα + cosβ - cos(α +β)
+一
+find α and β
+2
+[Ans.:α=β=]
+3
+# DIBY-47 (Critical Thinking Question)
+Find the solution set of the equation, log -x2-6x
+(sin3x + sinx) = log -x²-6x
+(sin2x)
+10
+10
+[Ans.: -
+5π
+3",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,48,# DIBY-48,"# DIBY-48
+The number of solutions of the pair of equations
+2sin²0 - cos20 = 0
+2cos²0 - 3sin0 = 0 in the interval [o, 2π] is
+[IT-JEE-2007, Paper-1]
+(A)
+Zero
+(B)
+One
+(c)
+Two
+(D)
+Four
+[Ans.:(c)]
+# DIBY-49
+Let P = {0: sin0 - cos0 = √2cos0}
+and
+1 Q = {0: sin0 + cos0 = √2sin0}
+be two sets.
+Then
+(A)
+PcQandQ-P≠Q
+(B)
+QαP
+(c)
+PαQ
+(D)
+P=Q
+[Ans.: (D)]
+# DIBY-50
+Let S = {0 E [-2π, 2rt]: 2cos²0 + 3sin0 = 0}. Then the sum of the elements of S is:
+(A)
+Tt
+(B)
+3
+5πt
+(c)
+13π
+(D)
+2πt
+[Ans.:(D)]",,no,,low-conf (0.6009) line: 'Tt',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,49,Homework,"Homework
+# Re-attempt all Class Examples
+# DPP & DIBY",,no,,,auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)
+Trigonometric Equation,7,Trigonometric Equation 07 Class Notes.pdf,50,never,"在i
+never
+about
+endresult
+Ats aluay about
+fourney
+Thank
+#futurellTians",,no,,low-conf (0.5309) line: '在i',auto-QA (dual-pass),pipeline (dual-pass PP-OCRv4)

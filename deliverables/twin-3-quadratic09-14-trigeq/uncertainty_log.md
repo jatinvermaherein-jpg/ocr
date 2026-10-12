@@ -87,29 +87,32 @@ Every entry cites PDF page and location/reading. Nothing below was silently corr
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p37: low-conf (0.6268) line: '入' | printed statements/options need full-res verification
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p38: low-conf (0.5858) line: '井'
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p39: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p3: blank-fill handwritten answers low legibility at scan res
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p5: low-conf (0.6054) line: 'X' | low-conf (0.5405) line: '+=0' | low-conf (0.531) line: 'α'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p6: low-conf (0.5023) line: 'I' | low-conf (0.5959) line: '&'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p7: low-conf (0.5519) line: '十' | low-conf (0.6033) line: 'x²)' | dual-pass agreement 0.7455
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p8: low-conf (0.569) line: '3F'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p8: low-conf (0.569) line: '3F' | first cubic coefficients need full-res verification
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p9: low-conf (0.6473) line: 'D>0'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p10: low-conf (0.5865) line: '米**' | low-conf (0.5726) line: '0<&' | low-conf (0.6378) line: '×1' | dual-pass agreement 0.4322
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p11: low-conf (0.5145) line: '0>D'
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p12: low-conf (0.5673) line: 'W'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p12: low-conf (0.5673) line: 'W' | red-box condition glyphs uncertain at scan res
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p14: low-conf (0.5291) line: 'bmgubp' | low-conf (0.6109) line: '(ten)' | low-conf (0.5335) line: 'α↓'
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p19: low-conf (0.5432) line: '{2-3-(0s)'
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p20: low-conf (0.5065) line: '='
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p15: equation coefficients and Ans interval need full-res verification
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p19: low-conf (0.5432) line: '{2-3-(0s)' | equation terms need full-res verification
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p20: low-conf (0.5065) line: '=' | interval/equation need full-res verification
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p22: low-conf (0.5705) line: '(0)(±)' | low-conf (0.5234) line: '<O'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p23: dual-pass agreement 0.565
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p24: low-conf (0.5505) line: '<O' | low-conf (0.627) line: '()'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p25: low-conf (0.5147) line: '7O' | low-conf (0.6479) line: '@' | dual-pass agreement 0.6159
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p26: low-conf (0.6427) line: 'O<@' | low-conf (0.6195) line: '?'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p27: low-conf (0.5973) line: 'K=&' | low-conf (0.5509) line: 'O<@' | low-conf (0.5814) line: '-<' | low-conf (0.6098) line: '&x1'
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p28: low-conf (0.5597) line: 'tw),'
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p30: dual-pass agreement 0.6048
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p31: low-conf (0.5319) line: 'a2' | dual-pass agreement 0.5319
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p28: low-conf (0.5597) line: 'tw),' | middle coefficient of equation needs full-res verification
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p30: dual-pass agreement 0.6048 | cubic coefficients and sub-answers need full-res verification
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p31: low-conf (0.5319) line: 'a2' | dual-pass agreement 0.5319 | Newton's formula exact glyphs need full-res verification
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p32: low-conf (0.5491) line: 's（' | dual-pass agreement 0.6148
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p33: dual-pass agreement 0.5914
-- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p34: low-conf (0.5014) line: '4'
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p33: dual-pass agreement 0.5914 | verify at full res
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p34: low-conf (0.5014) line: '4' | expression glyphs and Ans need full-res verification
+- **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p37: answer line (iv)-(viii) small print needs full-res
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p40: low-conf (0.5161) line: '在u'
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p6: low-conf (0.565) line: 'y2' | low-conf (0.615) line: '+i' | low-conf (0.6045) line: 'L+a' | low-conf (0.6434) line: '(三)' | dual-pass agreement 0.3269
 - **Quadratic Equations L13** `Quadratic Equations 13 Class Notes.pdf` p7: low-conf (0.5351) line: 'o' | dual-pass agreement 0.7119
@@ -353,3 +356,33 @@ Every entry cites PDF page and location/reading. Nothing below was silently corr
 - **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p33: dual-pass agreement 0.6924
 - **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p36: dual-pass agreement 0.6915
 - **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p38: low-conf (0.6218) line: 'π1' | dual-pass agreement 0.7198
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p4: low-conf (0.6008) line: '—cosa.snx' | low-conf (0.54) line: '(Cco)ax' | low-conf (0.5706) line: 'c时x' | low-conf (0.5095) line: 'XcO -'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p5: low-conf (0.647) line: 'Xsina ' | low-conf (0.6197) line: '×-' | low-conf (0.5631) line: 'C >' | low-conf (0.6464) line: 'CO2=' | dual-pass agreement 0.6116
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p6: low-conf (0.6343) line: '2`2'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p7: low-conf (0.6338) line: '=2' | low-conf (0.5876) line: '+&1' | low-conf (0.6282) line: 'vo' | low-conf (0.5443) line: '(0o'se] ' | dual-pass agreement 0.2707
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p8: low-conf (0.6074) line: '+1' | low-conf (0.5168) line: '2' | dual-pass agreement 0.6796
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p9: low-conf (0.6389) line: '+1' | low-conf (0.5801) line: '=1' | low-conf (0.5812) line: '?' | dual-pass agreement 0.2133
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p10: low-conf (0.5202) line: '·uiu'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p11: low-conf (0.6313) line: 'xMn=1'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p13: low-conf (0.5272) line: 'xubt' | low-conf (0.5479) line: 'N' | low-conf (0.5327) line: '=tamx' | low-conf (0.6098) line: '4'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p14: low-conf (0.5344) line: 'a'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p15: low-conf (0.5064) line: 'R' | low-conf (0.5907) line: '-√2' | dual-pass agreement 0.7317
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p16: low-conf (0.5616) line: '√2' | low-conf (0.601) line: '二' | low-conf (0.5478) line: '2r'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p20: low-conf (0.5977) line: '5元' | low-conf (0.6472) line: 'T' | low-conf (0.5423) line: 'S1' | low-conf (0.5088) line: 'xE'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p22: low-conf (0.5425) line: 'Klco' | low-conf (0.5077) line: '张s' | low-conf (0.6159) line: '入' | low-conf (0.5806) line: 'bix≥' | low-conf (0.5731) line: 'xE'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p23: low-conf (0.6411) line: '以E' | low-conf (0.6347) line: '物' | low-conf (0.633) line: 'K3' | dual-pass agreement 0.7463
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p24: low-conf (0.5016) line: 'E' | low-conf (0.5369) line: '1</m' | low-conf (0.5088) line: 'K13' | low-conf (0.503) line: '下' | dual-pass agreement 0.5862
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p25: low-conf (0.635) line: 'XE' | low-conf (0.6145) line: 'Iau'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p26: low-conf (0.5966) line: '入' | low-conf (0.551) line: '#' | low-conf (0.6364) line: '返3' | low-conf (0.5643) line: '5K' | low-conf (0.5924) line: 'ME' | low-conf (0.5217) line: '图写写' | low-conf (0.5736) line: '<&<√3'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p29: low-conf (0.5168) line: 'x1' | low-conf (0.6062) line: 'w.' | low-conf (0.5225) line: 'T' | dual-pass agreement 0.7906
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p34: low-conf (0.6485) line: 'πI' | low-conf (0.557) line: 'T' | low-conf (0.5417) line: 'X1' | low-conf (0.6171) line: '井'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p36: dual-pass agreement 0.7743
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p37: dual-pass agreement 0.6065
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p38: dual-pass agreement 0.7303
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p39: dual-pass agreement 0.6139
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p40: low-conf (0.5014) line: '/T' | dual-pass agreement 0.7776
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p42: low-conf (0.6337) line: 'TT'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p43: low-conf (0.5183) line: '>θ>'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p44: low-conf (0.5799) line: '+' | dual-pass agreement 0.7709
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p48: low-conf (0.6009) line: 'Tt'
+- **Trigonometric Equation L07** `Trigonometric Equation 07 Class Notes.pdf` p50: low-conf (0.5309) line: '在i'
