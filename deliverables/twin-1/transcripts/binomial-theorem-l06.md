@@ -239,3 +239,12 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 - **# DIBY-30** — **The Least value of** `n` **for which the number of integral terms in the Binomial expansion of** `(7^(1/3) + 11^(1/12))^n` **is 183, is** **[JEE Mains–2025]** `(A) 2148 (B) 2184 (C) 2196 (D) 2172` → **[Ans.: (B)]**
 **H:** none — the whole block is printed, and no item is ticked, boxed or annotated; the keys are the source's own.
 **DIBY:** three rows added to the register (BT-L06-P36-DIBY-28 / -29 / -30), the first numbered DIBY set of L06 after the reprints on p05/p07 and the handwritten tag on p15. **U:** none.
+---
+<a id="p37"></a>
+## p37 · DIBY block (contd.) — # DIBY-31, # DIBY-32, # DIBY-33 · label: — (yellow banner, no page number)
+**P:** yellow banner **NUMBER OF RATIONAL OR IRRATIONAL TERMS** (same slide title as p36, one slide later); three green-tagged items:
+- **# DIBY-31** — **The number of integral terms in the expansion of** `(5^(1/2) + 7^(1/8))^1016` **is** **[JEE Mains–2025]** `(A) 127 (B) 130 (C) 129 (D) 128` → **[Ans.: (D)]**
+- **# DIBY-32** — **The total number of irrational terms in the binomial expansion of** `(7^(1/5) − 3^(1/10))^60` **is** **[JEE Mains–2019]** `(A) 55 (B) 49 (C) 48 (D) 54` → **[Ans. : ……]** — the printed key is an ellipsis placeholder, i.e. left blank on the slide.
+- **# DIBY-33** — **The number of rational terms in the binomial expansion of** `(4^(1/4) + 5^(1/6))^120` **is** **[JEE Mains–2021]** → **[Ans.: 21]** (a short-answer item: no options are printed, only the numeric key).
+**H:** none — no ticks, circles or board work on any of the three items.
+**DIBY:** three rows added (BT-L06-P37-DIBY-31 / -32 / -33); DIBY-32 is registered with its key recorded as *not printed*. **U:** 1 — for # DIBY-32 the answer cannot be taken from the source; nothing on the page marks an option, so the register keeps `key printed as …… (blank)` rather than a guessed letter.

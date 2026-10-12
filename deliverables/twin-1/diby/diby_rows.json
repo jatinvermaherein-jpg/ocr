@@ -936,5 +936,47 @@
   "internal_id": "BT-L06-P36-DIBY-30",
   "prompt_verbatim": "The Least value of n for which the number of integral terms in the Binomial expansion of (7^(1/3) + 11^(1/12))^n is 183, is [JEE Mains-2025]",
   "options": "(A) 2148   (B) 2184   (C) 2196   (D) 2172"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 37,
+  "qa_status": "QA-PASSED (twin-1)",
+  "printed_label": "DIBY-31",
+  "diby_marker": "# DIBY-31 (printed, green tag)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "internal_id": "BT-L06-P37-DIBY-31",
+  "prompt_verbatim": "The number of integral terms in the expansion of (5^(1/2) + 7^(1/8))^1016 is [JEE Mains-2025]",
+  "options": "(A) 127   (B) 130   (C) 129   (D) 128",
+  "visible_solution_answer": "Ans.: (D) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 37,
+  "qa_status": "QA-PASSED (twin-1)",
+  "printed_label": "DIBY-32",
+  "diby_marker": "# DIBY-32 (printed, green tag)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line. The [Ans.:] slot of this item is an ellipsis placeholder and the teacher wrote nothing on the slide, so the register records no answer (not inferred from the options).",
+  "internal_id": "BT-L06-P37-DIBY-32",
+  "prompt_verbatim": "The total number of irrational terms in the binomial expansion of (7^(1/5) - 3^(1/10))^60 is [JEE Mains-2019]",
+  "options": "(A) 55   (B) 49   (C) 48   (D) 54",
+  "visible_solution_answer": "key printed as \"......\" (blank) - no answer given on the slide"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 37,
+  "qa_status": "QA-PASSED (twin-1)",
+  "printed_label": "DIBY-33",
+  "diby_marker": "# DIBY-33 (printed, green tag)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "internal_id": "BT-L06-P37-DIBY-33",
+  "prompt_verbatim": "The number of rational terms in the binomial expansion of (4^(1/4) + 5^(1/6))^120 is [JEE Mains-2021]",
+  "options": "(short-answer item - no options printed)",
+  "visible_solution_answer": "Ans.: 21 (printed)"
  }
 ]

@@ -502,5 +502,19 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 37,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "DIBY-31/32/33 rational-irrational terms; DIBY-32 key printed as blank ellipsis",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "YES (3 rows)",
+  "diby_labels": "",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
