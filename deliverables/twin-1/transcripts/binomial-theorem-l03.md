@@ -41,3 +41,14 @@
 **H:** pink tick through item 4's `True/False`, white tick at item 5's; pink leader from the red box up to pink `Σ ᵣ₌₀⁷ ⁷Cᵣ 2^{7−r} 3ʳ = (2+3)⁷`; white `Notes:` double-underlined; white `1/2 Σ ᵣ₌₀¹⁰ ¹⁰Cᵣ (−2)ʳ (1)^{10−r} = (1 + (−2))¹⁰ / 2 = 1/2` (the 2 under the fraction struck once as drawn); pink in the blank of the first item 6 `middle Term. (T₁₄)` with a curved leader; pink right `n = 32` above `(32+1)/2` (ringed, `✗` under), `(32+2)/2` (leader to a ringed `17`), `(32+3)/2` (ringed, `✗` under); pink from the second item 6 `r = (45+1)/2 or (45−1)/2` → red box `r = 23 OR 22.`
 **DIBY:** none. **U:** 1 — duplicate printed item number "6." (page 6, left column); transcribed as printed, no renumbering.
 ---
+<a id="p07"></a>
+## p07 · Section break: BINOMIAL THEOREM · label: — (PW roundel only)
+**P:** **BINOMIAL THEOREM** in a red rectangle on black. **H:** none. **DIBY:** none. **U:** none.
+---
+<a id="p08"></a>
+## p08 · Question [JEE Mains–2024] — term independent of x is 105, find a² (solves DIBY-06) · label: — (chip only)
+**P:** chip **Question [JEE Mains–2024]**; **If the term independent of x in the expansion of (√a x² + 1/(2x³))¹⁰ is 105, then a² is equal**; options **A 6**, **B 4**, **C 2**, **D 9** (`x`, `a²` cyan; binomial green).
+**H:** pink, top-right near the roundel: `85%` inside a circle with a double rule under it; pink circle round the exponent `10`; pink `G.T. (Tᵣ₊₁) = ¹⁰C (√a x²)^{10−r} (1/(2x³))^r`; pink `= ¹⁰Cᵣ (√a)^{10−r} / 2ʳ · x^{20−2r}/x^{3r}` with the x-quotient ringed in a pink oval; ring leader down to `x^{20−5r}`, then `20 − 5r = 0` and a pink circle `4 = r`; pink leader from the ¹⁰Cᵣ line to `105 = ¹⁰C₄ (√a)⁶ / 2⁴`. Pink tick struck through option **B**.
+**Cross-reference:** this is the same question as L02 p22 (handwritten `90% DIBY` / `H.W.`) and L02 p38 **DIBY-06** — the solution lives in *this* file, one lecture later.
+**DIBY:** none on this page (it is the solution of a DIBY item). **U:** none.
+---

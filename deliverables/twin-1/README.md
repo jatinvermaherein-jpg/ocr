@@ -18,7 +18,8 @@ All 13 files were verified against the master inventory before work started: pag
 |---|---|---|
 | Binomial Theorem L01 | 33 | **33 ✅** |
 | Binomial Theorem L02 | 40 | **40 ✅** (incl. printed DIBY-01…DIBY-06) |
-| Binomial Theorem L03–L09 | 271 | pending |
+| Binomial Theorem L03 | 35 | **8** (p01–p08) — in progress |
+| Binomial Theorem L04–L09 | 236 | pending |
 | Permutations & Combinations L01–L04 | 164 | pending |
 | **Total** | **508** | **36 (7.1%)** |
 

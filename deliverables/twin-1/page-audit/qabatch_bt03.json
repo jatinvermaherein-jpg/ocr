@@ -82,5 +82,33 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt03",
+  "_page": 7,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Section break: BINOMIAL THEOREM in red rectangle",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt03",
+  "_page": 8,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Question [JEE Mains-2024]: term independent of x is 105, find a^2 (solves L02 DIBY-06)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "G.T. working, x^(20-5r), 4 = r, 105 = 10C4(sqrt a)^6/2^4, B ticked, '85%' circled",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

@@ -26,3 +26,14 @@ Rule followed: nothing guessed, nothing silently corrected; every open item cite
 ## Branch note
 
 The plan assigns Twin 1 the branch `ocr/twin-1-binomial-pc01-04`, but this Arena session is pinned to `arena/5aed984f-ocr` and may not create or push other branches. All Twin 1 output is therefore committed to `arena/5aed984f-ocr` under `deliverables/twin-1/`, ready for the coordinator to merge or cherry-pick onto the Twin 1 branch. Folder layout is exactly the handoff layout from the plan, so the merge is a file move, not a rewrite.
+
+## Added while transcribing L02 / L03
+
+| # | Chapter / Lecture | PDF page | Location | What is uncertain | Status / action |
+|---|---|---|---|---|---|
+| U-08 | Binomial Theorem L03 | p06 | left column | The **printed** slide numbers two consecutive items "6." and has no item 7 (recap questions 4, 5, 6, 6). | **OPEN (source defect)** — transcribed as printed; coordinator may want the real numbering from the module PDF. |
+| U-09 | Binomial Theorem L02 | p31 | upper right orange sequence | Last subscript drawn as `a₄` where the row is labelled `T.T. = 7` (so it should be a₇). | **OPEN** — teacher's 4/7 hand, see also U-06. |
+| U-10 | Binomial Theorem L02 | p19 | third working line | Writes `⁵C₀` where the line above writes `⁵Cᵣ`. | **OPEN** — not harmonised. |
+
+**F-06 · DIBY chain spans files.** L02 p22 sets a question with a handwritten `90% DIBY` + `H.W.`; L02 p38 prints the same item as **DIBY-06** (different option order); L03 p08 contains the worked solution. The DIBY register entry for DIBY-06 now points to L03 p08. Any worker de-duplicating by question text across files must not drop either copy.
+**F-07 · Printed DIBY blocks exist.** L02 p36–p38 carry `# DIBY-01`…`# DIBY-06` with printed `[Ans.: …]`, including one answer field printed as `....` (DIBY-05). Expect the same block shape in later lectures; L01 had only a handwritten `DIBY-X`.

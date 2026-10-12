@@ -121,7 +121,7 @@
   "internal_id": "",
   "prompt_verbatim": "If the term independent of x in the expansion of (sqrt(a)x^2 + 1/(2x^3))^10 is 105, then a^2 is equal to",
   "options": "(A) 2   (B) 4   (C) 6   (D) 9",
-  "visible_solution_answer": "[Ans.: (B)] (printed)",
+  "visible_solution_answer": "[Ans.: (B)] (printed). Full working appears in the NEXT file: Binomial Theorem 03 Class Notes.pdf, PDF p08 (r = 4, 105 = 10C4 (sqrt a)^6/2^4, tick on B).",
   "uncertainty_note": "Same question as p22 (handwritten '90% DIBY' + H.W.) but option order differs - recorded separately, not merged.",
   "qa_status": "QA-PASSED (twin-1)"
  }
