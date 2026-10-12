@@ -725,8 +725,14 @@
 
 ## Page 23
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8335 | pass agreement 0.9209
+- Topic/heading: Summary cont. - imposters of rational range
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.8335 | pass agreement 0.9209
+
+### Verified transcript (visual QA)
+
+- (handwritten) # S^4 [sic heading marker]
+- V-I: red circle with ratios b1/b2 , c/c1 [UNCLEAR fractions] -> y = (ax+b)/(cx+d) (tick); cyan circle: 'Be aware Imposters!!'
+- V-2: y = a1/a2 , b1/b2 , c1/c2 , a/L [UNCLEAR last fraction]; 'Quad. in x'; D >= 0; * y in ...; 'Check.'
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -746,10 +752,21 @@
 - Imposters!
 - Check -
 
+> [UNCLEAR] p23: circled ratio glyphs in V-I and last fraction of V-2 uncertain at source resolution
+
 ## Page 24
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8744 | pass agreement 0.9668
+- Topic/heading: COMMON ROOT CONDITION - Case I
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8744 | pass agreement 0.9668
+
+### Verified transcript (visual QA)
+
+- COMMON ROOT CONDITION (stars)
+- Case - I : If both roots are common
+- a1 x^2 + b1 x + c1 = 0 (roots alpha, beta)
+- a2 x^2 + b2 x + c2 = 0 (roots alpha, beta)
+- # Cond^n : a1/a2 = b1/b2 = c1/c2 (red box)
+- ex: x^2 - 5x + 6 = 0 (roots 2, 3); 7x^2 - 35x + 42 = 0 (roots 2, 3)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -770,8 +787,15 @@
 
 ## Page 25
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.82 | pass agreement 0.9032
+- Topic/heading: Common root numeric (a^3+b^3+c^3)/3abc
+- Page type: question-handwritten | dark bg: True | primary pass A | mean conf 0.82 | pass agreement 0.9032
+
+### Verified transcript (visual QA)
+
+- (handwritten) Ques: { ax^2 + bx + c = 0 ; 7x^2 - 6x + 5 = 0 } both Roots are common
+- a/7 = b/(-6) = c/5 = k; a = 7k; b = -6k; c = 5k
+- Then (a^3 + b^3 + c^3)/(3abc) = ??
+- (7^3 k^3 - 6^3 k^3 + 5^3 k^3) / (3 x (7k)(-6k)(5k)) = (7^3 - 6^3 + 5^3)/(-630)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -793,8 +817,20 @@
 
 ## Page 26
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7828 | pass agreement 0.5655
+- Topic/heading: Proof of common-root alpha formula
+- Page type: proof-handwritten | dark bg: True | primary pass A | mean conf 0.7828 | pass agreement 0.5655
+
+### Verified transcript (visual QA)
+
+- (handwritten) # Proof: a1 x^2 + b1 x + c1 = 0 (roots alpha, beta); a2 x^2 + b2 x + c2 = 0 (roots alpha, gamma)
+- substitute alpha: a1 alpha^2 + b1 alpha + c1 = 0 ; a2 alpha^2 + b2 alpha + c2 = 0
+- x a2: a2 a1 alpha^2 + a2 b1 alpha + a2 c1 = 0
+- x a1: a1 a2 alpha^2 + a1 b2 alpha + a1 c2 = 0
+- (subtract)
+- x b2: b2 a1 alpha^2 + b2 b1 alpha + b2 c1 = 0
+- x b1: b1 a2 alpha^2 + b2 b1 alpha + b1 c2 = 0
+- (subtract) alpha^2 = (b1 c2 - b2 c1)/(b2 a1 - a2 b1)
+- right: alpha(a2 b1 - a1 b2) + (a2 c1 - a1 c2) = 0; alpha = (a1 c2 - a2 c1)/(a2 b1 - a1 b2) (red box)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -828,8 +864,16 @@
 
 ## Page 27
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8127 | pass agreement 0.7306
+- Topic/heading: Common-root condition derived
+- Page type: proof-handwritten | dark bg: True | primary pass A | mean conf 0.8127 | pass agreement 0.7306
+
+### Verified transcript (visual QA)
+
+- (handwritten) equations with roots alpha,beta / alpha,gamma
+- alpha = (a1 c2 - a2 c1)/(a2 b1 - a1 b2) (cyan, red box)
+- alpha^2 = (b1 c2 - b2 c1)/(b2 a1 - a2 b1) (red box)
+- ((a1 c2 - a2 c1)/(a2 b1 - a1 b2))^2 = (b1 c2 - b2 c1)/(b2 a1 - a2 b1)
+- => (a1 c2 - a2 c1)^2 = (b1 c2 - b2 c1)(a1 b2 - a2 b1) (red box)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -856,8 +900,15 @@
 
 ## Page 28
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.7122 | pass agreement 0.8249
+- Topic/heading: Common-root condition + determinant form
+- Page type: proof-handwritten | dark bg: True | primary pass A | mean conf 0.7122 | pass agreement 0.8249
+
+### Verified transcript (visual QA)
+
+- (handwritten) (a1 c2 - a2 c1)^2 = (b1 c2 - b2 c1)(a1 b2 - a2 b1) (red box)
+- cross-multiply sketch of the two quadratics
+- (a1 b2 - a2 b1)(b1 c2 - b2 c1) = (a1 c2 - a2 c1)^2
+- determinant form (cyan): |a1 b1; a2 b2| . |b1 c1; b2 c2| = |a1 c1; a2 c2|^2
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -878,8 +929,15 @@
 
 ## Page 29
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8782 | pass agreement 0.7129
+- Topic/heading: 2x2 determinant cross-rule examples
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.8782 | pass agreement 0.7129
+
+### Verified transcript (visual QA)
+
+- (handwritten) # |a b; c d| = ad - bc (cross rule)
+- |2 4; 5 3| = 6 - 20 = -14
+- |2 -1; 4 -3| = -6 - (-4) = -2
+- |2 -3; 8 5| = 10 - (24) = 34 [UNCLEAR: final value glyph reads 34 or 39]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -896,10 +954,22 @@
 
 > Dual-pass agreement 0.7129 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p29: third determinant final value: 34 vs 39
+
 ## Page 30
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8704 | pass agreement 0.9507
+- Topic/heading: COMMON ROOT CONDITION - Case II
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8704 | pass agreement 0.9507
+
+### Verified transcript (visual QA)
+
+- COMMON ROOT CONDITION
+- Case - II : If atleast one root are common [sic]
+- a1 x^2 + b1 x + c1 = 0
+- a2 x^2 + b2 x + c2 = 0
+- (a1 b2 - a2 b1)(b1 c2 - b2 c1) = (a1 c2 - a2 c1)^2. (red box, tick)
+- |a1 b1; a2 b2| . |b1 c1; b2 c2| = |a1 c1; a2 c2|^2 (red box, tick)
+- cyan: 'Atleast 1 Root common' -> '1 Root common' / '2 Roots common.'
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -918,8 +988,14 @@
 
 ## Page 31
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8727 | pass agreement 0.9427
+- Topic/heading: Question: common root, find p
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8727 | pass agreement 0.9427
+
+### Verified transcript (visual QA)
+
+- Question
+- Find the value of p if the equation 3x^2 - 2x + p = 0 and 6x^2 - 17x + 12 = 0 have a common roots. [sic]
+- handwritten: 3x^2 - 2x + p = 0; 6x^2 - 17x + 12 = 0; |3 -2; 6 -17| x |-2 p; -17 12| = |3 p; 6 12|^2; (-51 + 12)(-24 + 17p) = (36 - 6p)^2; # p = (tick, value not written)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -936,8 +1012,14 @@
 
 ## Page 32
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9212 | pass agreement 0.9503
+- Topic/heading: Question [JEE Mains-2023] common root, beta (HW)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.9212 | pass agreement 0.9503
+
+### Verified transcript (visual QA)
+
+- Question [JEE Mains-2023]
+- If the value of real number a > 0 for which x^2 - 5ax + 1 = 0 and x^2 - ax - 5 = 0 have a common real roots is 3/sqrt(2 beta), then beta is equal to
+- (handwritten white circled marker: HW.)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -951,8 +1033,12 @@
 
 ## Page 33
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9897 | pass agreement 1.0
+- Topic/heading: DO IT BY YOURSELF (DIBY)
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.9897 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- DO IT BY YOURSELF (DIBY)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -961,8 +1047,16 @@
 
 ## Page 34
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9527 | pass agreement 0.9647
+- Topic/heading: GRAPH OF QUADRATIC - DIBY-36 (repeat slide)
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9527 | pass agreement 0.9647
+- Diagram/visual: yellow upward parabola, roots -2 and 3
+
+### Verified transcript (visual QA)
+
+- GRAPH OF QUADRATIC
+- # DIBY-36
+- Consider the graph f(x) = ax^2 + bx + c and comment on sign of following parts: (i) (abc) is ___. (ii) (4a + 2b + c) is ___. (iii) for all x > 3, f(x) is ___. (iv) For all -2 < x < 3, f(x) is ___. (v) D is ___. (vi) (a - b + c).(9a - 3b + c) is ___.
+- Ans. : (i) +ve, (ii) -ve, (iii) +ve, (iv) -ve, (v) +ve, (vi) -ve
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -985,8 +1079,15 @@
 
 ## Page 35
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9431 | pass agreement 0.9725
+- Topic/heading: DIBY-37(Challenger) (repeat slide)
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9431 | pass agreement 0.9725
+
+### Verified transcript (visual QA)
+
+- GRAPH OF QUADRATIC
+- # DIBY-37(Challenger)
+- Draw the graph of quadratic (y = ax^2 + bc + c) [sic - as printed] in each part with given conditions: (i) Roots are 3 & 7 and crosses y-axis at (0, -2) (ii) Imaginary roots with vertex at (-3/4, 1/2) and a - b + c = 2. (iii) Touches x-axis at x = -3 and value at x = 2 is -8.
+- Also find value of a, b & c in each case.
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1007,8 +1108,17 @@
 
 ## Page 36
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9443 | pass agreement 0.7451
+- Topic/heading: DIBY-37(Answer) (repeat slide)
+- Page type: diby-answer | dark bg: True | primary pass B | mean conf 0.9443 | pass agreement 0.7451
+- Diagram/visual: three parabola sketches
+
+### Verified transcript (visual QA)
+
+- GRAPH OF QUADRATIC
+- # DIBY-37(Answer)
+- (i) a = -2/21, b = 20/21, c = -2
+- (ii) a = 24, b = 36, c = 14
+- (iii) a = -8/25, b = -48/25, c = -72/25
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1043,8 +1153,19 @@
 
 ## Page 37
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9174 | pass agreement 0.8525
+- Topic/heading: DIBY-38 & DIBY-39 (repeat slides)
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9174 | pass agreement 0.8525
+- Diagram/visual: downward parabola with positive roots x1, x2
+
+### Verified transcript (visual QA)
+
+- GRAPH OF QUADRATIC
+- # DIBY-38
+- If the equation ax^2 + bc + c = 0, (a > 0) [sic] has two real roots alpha and beta such that alpha < -2 and beta > 2, then which of the following statements is/are true? (A) a - |b| + c < 0 (B) c < 0, b^2 - 4ac > 0 (C) 4a - 2|b| + c < 0 (D) 9a - 3|b| + c < 0
+- [Ans.: A, B, C]
+- # DIBY-39
+- The adjoining figure shows the graph of y = ax^2 + bx + c. Then (A) a < 0 (B) b^2 < 4ax (C) c > 0 (D) a and b are of opposite sign
+- [Ans.: A, D]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1078,8 +1199,18 @@
 
 ## Page 38
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9143 | pass agreement 0.7163
+- Topic/heading: DIBY-40 & DIBY-41 (repeat slides)
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9143 | pass agreement 0.7163
+
+### Verified transcript (visual QA)
+
+- RANGE OF QUADRATIC
+- # DIBY-40
+- Find the range of f(x): (i) f(x) = 2x^2 - 3x + 2 (ii) f(x) = 2x^2 - 3x + 2, x in [0, 2]
+- [Ans.: (i) [7/8, infinity), (ii) [7/8, 4]]
+- # DIBY-41
+- Find range of following functions: (i) f(x) = 3x^2 - 2x - 7 (ii) f(x) = 3x^2 - 2x - 7, x in (0, 5] (iii) f(x) = 3x^2 - 2x - 7, x in [-6, -1]
+- [Ans.: (i) [-22/3, infinity), (ii) [-22/3, 58], (iii) [-2, 113]]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1104,8 +1235,18 @@
 
 ## Page 39
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9373 | pass agreement 0.8248
+- Topic/heading: DIBY-42 & DIBY-43
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9373 | pass agreement 0.8248
+
+### Verified transcript (visual QA)
+
+- RANGE OF RATIONAL FUNCTION
+- # DIBY-42
+- If the range of the function f(x) = (5 - x)/(x^2 - 3x + 2), x != 1, 2, is (-infinity, alpha] U [beta, infinity), then alpha^2 + beta^2 is equal to: (A) 190 (B) 192 (C) 188 (D) 194 [JEE Mains-2025]
+- [Ans.: (D)]
+- # DIBY-43
+- Let f : R - {2, 6} -> R be real valued function defined as f(x) = (x^2 + 2x + 1)/(x^2 - 8x + 12). Then range of f is [JEE Mains-2023] (A) (-inf, -21/4] U [0, inf) (B) (-inf, -21/4) U (0, inf) (C) (-inf, -21/4] U [21/4, inf) (D) (-inf, -21/4] U [1, inf)
+- [Ans.: (A)]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1151,8 +1292,20 @@
 
 ## Page 40
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9481 | pass agreement 0.9345
+- Topic/heading: DIBY-44, 45, 46
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9481 | pass agreement 0.9345
+
+### Verified transcript (visual QA)
+
+- RANGE OF RATIONAL FUNCTION
+- # DIBY-44
+- Let the sum of the maximum and the minimum values of the function f(x) = (2x^2 - 3x + 8)/(2x^2 + 3x + 8) be m/n, where gcd(m, n) = 1. Then m + n is equal to [JEE Mains-2024] (A) 195 (B) 201 (C) 217 (D) 182
+- [Ans.: (B)]
+- # DIBY-45
+- Show that if x is real then (x^2 - 3x + 4)/(x^2 + 3x + 4) lies from 1/7 and 7.
+- # DIBY-46
+- Find the range of : f(x) = (x^2 + x + 2)/(x^2 + x + 1), x in R [IITJEE-2003]
+- [Ans.: (1, 7/3]]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1191,8 +1344,20 @@
 
 ## Page 41
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9667 | pass agreement 0.9987
+- Topic/heading: DIBY-47, 48, 49
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9667 | pass agreement 0.9987
+
+### Verified transcript (visual QA)
+
+- RANGE OF RATIONAL FUNCTION
+- # DIBY-47
+- We call 'p' a good number if the inequality (2x^2 + 2x + 3)/(x^2 + x + 1) <= p is satisfied for any real x. Find the smallest integral good number.
+- [Ans.: 4]
+- # DIBY-48
+- If alpha, beta are the roots of equation x^2 + x - 2 = 0, then find the value of (alpha beta^4 (beta+1)^4 + beta alpha^4 (alpha+1)^4)/(alpha^2 + beta^2 + alpha + beta).
+- # DIBY-49
+- The minimum value of the sum of the squares of the roots of x^2 + (3 - a)x + 1 = 2a is:
+- [Ans.: 6]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1215,8 +1380,19 @@
 
 ## Page 42
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9347 | pass agreement 0.9137
+- Topic/heading: DIBY-50 & DIBY-51
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9347 | pass agreement 0.9137
+
+### Verified transcript (visual QA)
+
+- RANGE OF RATIONAL FUNCTION
+- # DIBY-50
+- The number of real solutions of the equation 3(x^2 + 1/x^2) - 2(x + 1/x) + 5 = 0, is [JEE Mains-2023] (A) 4 (B) 0 (C) 3 (D) 2
+- Ans.: (B)
+- COMMON ROOT CONDITION
+- # DIBY-51
+- If x^2 + 4ax + 3 = 0 and 2x^2 + 3ax - 9 = 0 have a common root then the value of |a| is (A) 1 (B) 0 (C) -1 (D) None of these
+- [Ans.: A]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1244,8 +1420,17 @@
 
 ## Page 43
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9777 | pass agreement 0.9973
+- Topic/heading: Homework
+- Page type: homework | dark bg: True | primary pass B | mean conf 0.9777 | pass agreement 0.9973
+
+### Verified transcript (visual QA)
+
+- Homework
+- # Re-attempt all Class Examples
+- # DPP & DIBY
+- # Module: (3 sittings of 1 HR each)
+- Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25.
+- Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1258,8 +1443,14 @@
 
 ## Page 44
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+- Topic/heading: Thank You slide
+- Page type: closing | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+
+### Verified transcript (visual QA)
+
+- It is never about end result / It's always about Journey
+- Thank You
+- #futureIITians [glyphs render '#futurellTians']
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1271,3 +1462,5 @@
 - fourney
 - Thank
 - #futurellTians
+
+> [UNCLEAR] p44: hashtag glyph ambiguity I vs l

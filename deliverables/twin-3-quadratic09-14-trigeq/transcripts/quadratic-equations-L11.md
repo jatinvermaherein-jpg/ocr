@@ -8,8 +8,16 @@
 
 ## Page 1
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9694 | pass agreement 0.9595
+- Topic/heading: Cover slide
+- Page type: cover | dark bg: True | primary pass B | mean conf 0.9694 | pass agreement 0.9595
+
+### Verified transcript (visual QA)
+
+- ARJUNA JEE 2027
+- Lecture - 11
+- Mathematics
+- QUADRATIC EQUATIONS
+- By- Sachin Jakhar Sir
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -25,8 +33,16 @@
 
 ## Page 2
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.973 | pass agreement 0.982
+- Topic/heading: Topics to be covered
+- Page type: topics | dark bg: True | primary pass A | mean conf 0.973 | pass agreement 0.982
+
+### Verified transcript (visual QA)
+
+- Topics to be covered
+- A Common Root Condition
+- B Location of Roots
+- C Question Practice
+- D (empty)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -42,8 +58,12 @@
 
 ## Page 3
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8971 | pass agreement 0.9444
+- Topic/heading: Question Practice
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.8971 | pass agreement 0.9444
+
+### Verified transcript (visual QA)
+
+- Question Practice (boxed red)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -52,8 +72,14 @@
 
 ## Page 4
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8367 | pass agreement 0.5926
+- Topic/heading: CTQ repeat (range [-5,4]) + worked solution
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8367 | pass agreement 0.5926
+
+### Verified transcript (visual QA)
+
+- Critical Thinking Question (CTQ)
+- If the range of the function f(x) = (x^2 + ax + b)/(x^2 + 2x + 3) is [-5, 4], a, b in N, then find the value of (a^2 + b^2)
+- handwritten red solution at right (cross-multiply, D >= 0, wavy curve)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -86,8 +112,8 @@
 
 ## Page 5
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.7821 | pass agreement 0.7444
+- Topic/heading: CTQ solution cont.
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.7821 | pass agreement 0.7444
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -106,10 +132,12 @@
 
 > Dual-pass agreement 0.7444 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p5: handwritten solution lines low-legibility at scan res; rely on OCR + flags
+
 ## Page 6
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.88 | pass agreement 0.9121
+- Topic/heading: CTQ solution cont. (green/red)
+- Page type: solution-handwritten | dark bg: True | primary pass B | mean conf 0.88 | pass agreement 0.9121
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -137,8 +165,17 @@
 
 ## Page 7
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8234 | pass agreement 0.921
+- Topic/heading: COMMON ROOT CONDITION Case-I (repeat) + ex
+- Page type: theory | dark bg: True | primary pass A | mean conf 0.8234 | pass agreement 0.921
+
+### Verified transcript (visual QA)
+
+- COMMON ROOT CONDITION
+- Case - I : If both roots are common
+- a1 x^2 + b1 x + c1 = 0
+- a2 x^2 + b2 x + c2 = 0
+- a1/a2 = b1/b2 = c1/c2 (red box)
+- ex: x^2 - 5x + 6 = 0 ; 7x^2 - 35x + 42 = 0
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -162,8 +199,8 @@
 
 ## Page 8
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8504 | pass agreement 0.8053
+- Topic/heading: both-roots-common numeric cloud
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.8504 | pass agreement 0.8053
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -194,8 +231,14 @@
 
 ## Page 9
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8518 | pass agreement 0.5418
+- Topic/heading: COMMON ROOT CONDITION Case-II + Direct Result
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8518 | pass agreement 0.5418
+
+### Verified transcript (visual QA)
+
+- COMMON ROOT CONDITION
+- Case - II : If atleast one root are common [sic]
+- Direct Result!: alpha = (c1 a2 - c2 a1)/(b1 c2 - b2 c1)? [red box, UNCLEAR at scan res]; Condition for atleast one common root: (a1 b2 - a2 b1)(b1 c2 - b2 c1) = (a1 c2 - a2 c1)^2 (red box)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -218,10 +261,12 @@
 
 > Dual-pass agreement 0.5418 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p9: Direct Result fraction glyphs need full-res check
+
 ## Page 10
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8843 | pass agreement 0.8688
+- Topic/heading: imp formulas + square-of note
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.8843 | pass agreement 0.8688
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -241,8 +286,13 @@
 
 ## Page 11
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8611 | pass agreement 0.9391
+- Topic/heading: Question common root find p (repeat) + solution
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8611 | pass agreement 0.9391
+
+### Verified transcript (visual QA)
+
+- Question
+- Find the value of p if the equation 3x^2 - 2x + p = 0 and 6x^2 - 17x + 12 = 0 have a common roots. [sic]
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -262,8 +312,8 @@
 
 ## Page 12
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8711 | pass agreement 0.8478
+- Topic/heading: find p solution cont.
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8711 | pass agreement 0.8478
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -287,10 +337,12 @@
 - (-d)=
 - 13
 
+> [UNCLEAR] p12: final boxed p value uncertain at scan res
+
 ## Page 13
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8774 | pass agreement 0.7746
+- Topic/heading: find p solution (cyan)
+- Page type: solution-handwritten | dark bg: True | primary pass A | mean conf 0.8774 | pass agreement 0.7746
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -329,8 +381,13 @@
 
 ## Page 14
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8722 | pass agreement 0.7052
+- Topic/heading: Question [JEE Mains-2023] beta (repeat) + solution
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8722 | pass agreement 0.7052
+
+### Verified transcript (visual QA)
+
+- Question [JEE Mains-2023]
+- If the value of real number a > 0 for which x^2 - 5ax + 1 = 0 and x^2 - ax - 5 = 0 have a common real roots is 3/sqrt(2 beta), then beta is equal to
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -360,8 +417,8 @@
 
 ## Page 15
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9143 | pass agreement 0.9609
+- Topic/heading: Question [JEE Mains-2023] ratio of coefficients
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9143 | pass agreement 0.9609
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -379,10 +436,12 @@
 - D
 - 3:1:2
 
+> [UNCLEAR] p15: printed statement/options need full-res verification
+
 ## Page 16
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8645 | pass agreement 0.5889
+- Topic/heading: Acidic Question: exactly one root in common, k
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8645 | pass agreement 0.5889
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -414,10 +473,12 @@
 
 > Dual-pass agreement 0.5889 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p16: printed statement/options need full-res verification
+
 ## Page 17
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8762 | pass agreement 0.6705
+- Topic/heading: Acidic Question (same) red working
+- Page type: question | dark bg: True | primary pass B | mean conf 0.8762 | pass agreement 0.6705
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -457,8 +518,8 @@
 
 ## Page 18
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8614 | pass agreement 0.5642
+- Topic/heading: Acidic Question (same) white working
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8614 | pass agreement 0.5642
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -495,8 +556,8 @@
 
 ## Page 19
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8851 | pass agreement 0.6873
+- Topic/heading: Acidic Question: uncommon roots equation (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8851 | pass agreement 0.6873
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -526,10 +587,12 @@
 
 > Dual-pass agreement 0.6873 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p19: printed statement needs full-res verification
+
 ## Page 20
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8883 | pass agreement 0.9947
+- Topic/heading: Acidic Question: common positive root (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8883 | pass agreement 0.9947
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -539,10 +602,18 @@
 - the root of the equation.
 - GteuO。  [LOWCONF]
 
+> [UNCLEAR] p20: printed statement needs full-res verification
+
 ## Page 21
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9334 | pass agreement 0.971
+- Topic/heading: Question [AIEEE-2008] common root, ratio 4:3 (HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9334 | pass agreement 0.971
+
+### Verified transcript (visual QA)
+
+- Question [AIEEE-2008]
+- The quadratic equations x^2 - 6x + a = 0 and x^2 - cx + 6 = 0 have one common root. The other roots of the first and second equations are integers in the ratio 4 : 3. Then the common root is
+- (A) 1 (B) 4 (C) 3 (D) 2
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -559,8 +630,8 @@
 
 ## Page 22
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8605 | pass agreement 0.8707
+- Topic/heading: common-root subtraction note (star cloud)
+- Page type: handwritten | dark bg: True | primary pass A | mean conf 0.8605 | pass agreement 0.8707
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -580,8 +651,8 @@
 
 ## Page 23
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8164 | pass agreement 0.9069
+- Topic/heading: AIEEE-2008 working
+- Page type: handwritten | dark bg: True | primary pass B | mean conf 0.8164 | pass agreement 0.9069
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -605,8 +676,8 @@
 
 ## Page 24
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.8461 | pass agreement 0.9402
+- Topic/heading: Question: cubic & quadratic two common roots, show that
+- Page type: question | dark bg: True | primary pass A | mean conf 0.8461 | pass agreement 0.9402
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -624,10 +695,12 @@
 - 2q-c
 - 12²+Px+ =0  [LOWCONF]
 
+> [UNCLEAR] p24: printed statement needs full-res verification
+
 ## Page 25
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9548 | pass agreement 0.9392
+- Topic/heading: Question: f(x), g(x) common root, values of a (multiple correct, HW)
+- Page type: question | dark bg: True | primary pass A | mean conf 0.9548 | pass agreement 0.9392
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -644,10 +717,12 @@
 - D
 - Sum of all possible values of b is 2.
 
+> [UNCLEAR] p25: printed statement/options need full-res verification
+
 ## Page 26
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8703 | pass agreement 0.9351
+- Topic/heading: LOCATION OF ROOTS Case-I (both roots > k)
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8703 | pass agreement 0.9351
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -663,10 +738,12 @@
 - α=β  [LOWCONF]
 - β
 
+> [UNCLEAR] p26: condition boxes need full-res verification
+
 ## Page 27
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.843 | pass agreement 0.4048
+- Topic/heading: Question: parameter a, both roots exceed 2
+- Page type: question | dark bg: True | primary pass A | mean conf 0.843 | pass agreement 0.4048
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -700,10 +777,12 @@
 
 > Dual-pass agreement 0.4048 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p27: printed statement needs full-res verification
+
 ## Page 28
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8082 | pass agreement 0.9548
+- Topic/heading: LOCATION OF ROOTS Case-II (both roots < k)
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8082 | pass agreement 0.9548
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -716,8 +795,8 @@
 
 ## Page 29
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8671 | pass agreement 0.8732
+- Topic/heading: LOCATION OF ROOTS Case-III (roots between k1,k2)
+- Page type: theory | dark bg: True | primary pass B | mean conf 0.8671 | pass agreement 0.8732
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -736,8 +815,8 @@
 
 ## Page 30
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9613 | pass agreement 1.0
+- Topic/heading: Question: x^2+2(a-3)x+9=0, alpha in (-6,1)
+- Page type: question | dark bg: True | primary pass B | mean conf 0.9613 | pass agreement 1.0
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -745,10 +824,16 @@
 - If α, β are the roots of the quadratic equation x2 + 2(k - 3)x + 9 = 0 (α ≠β).
 - If α, β e (-6, 1), then find the values of k.
 
+> [UNCLEAR] p30: printed statement needs full-res verification
+
 ## Page 31
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9897 | pass agreement 1.0
+- Topic/heading: DO IT BY YOURSELF (DIBY)
+- Page type: divider | dark bg: True | primary pass B | mean conf 0.9897 | pass agreement 1.0
+
+### Verified transcript (visual QA)
+
+- DO IT BY YOURSELF (DIBY)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -757,8 +842,8 @@
 
 ## Page 32
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9667 | pass agreement 0.9987
+- Topic/heading: DIBY-47,48,49 (repeat of L10 p41)
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9667 | pass agreement 0.9987
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -781,8 +866,8 @@
 
 ## Page 33
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9241 | pass agreement 0.9787
+- Topic/heading: DIBY-50, DIBY-51 (repeat of L10 p42)
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9241 | pass agreement 0.9787
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -815,8 +900,8 @@
 
 ## Page 34
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9088 | pass agreement 0.8602
+- Topic/heading: DIBY-52
+- Page type: diby | dark bg: True | primary pass A | mean conf 0.9088 | pass agreement 0.8602
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -857,10 +942,12 @@
 - None of these
 - [Ans.:c]
 
+> [UNCLEAR] p34: printed statement/options need full-res verification
+
 ## Page 35
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9575 | pass agreement 0.7477
+- Topic/heading: DIBY-53, DIBY-54
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9575 | pass agreement 0.7477
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -907,10 +994,12 @@
 
 > Dual-pass agreement 0.7477 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p35: printed statements/options need full-res verification
+
 ## Page 36
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9355 | pass agreement 0.5345
+- Topic/heading: DIBY-55, DIBY-56
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9355 | pass agreement 0.5345
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -961,10 +1050,12 @@
 
 > Dual-pass agreement 0.5345 (<0.80): secondary pass text kept in raw record for audit.
 
+> [UNCLEAR] p36: printed statements/options need full-res verification
+
 ## Page 37
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.9252 | pass agreement 0.9376
+- Topic/heading: DIBY-57, DIBY-58
+- Page type: diby | dark bg: True | primary pass B | mean conf 0.9252 | pass agreement 0.9376
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -997,10 +1088,21 @@
 - p3 + q(3p +1) + q² = 0
 - [Ans.:(A)]
 
+> [UNCLEAR] p37: printed statements/options need full-res verification
+
 ## Page 38
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass A | mean conf 0.9216 | pass agreement 0.9894
+- Topic/heading: Homework
+- Page type: homework | dark bg: True | primary pass A | mean conf 0.9216 | pass agreement 0.9894
+
+### Verified transcript (visual QA)
+
+- Homework
+- # Re-attempt all Class Examples
+- # DPP & DIBY
+- # Module: (3 sittings of 1 HR each)
+- Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25.
+- Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)
 
 ### Raw OCR (primary pass, verbatim)
 
@@ -1014,8 +1116,14 @@
 
 ## Page 39
 
-- Topic/heading: (see text)
-- Page type: auto | dark bg: True | primary pass B | mean conf 0.8633 | pass agreement 0.9635
+- Topic/heading: Thank You slide
+- Page type: closing | dark bg: True | primary pass B | mean conf 0.8633 | pass agreement 0.9635
+
+### Verified transcript (visual QA)
+
+- It is never about end result / It's always about Journey
+- Thank You
+- #futureIITians
 
 ### Raw OCR (primary pass, verbatim)
 

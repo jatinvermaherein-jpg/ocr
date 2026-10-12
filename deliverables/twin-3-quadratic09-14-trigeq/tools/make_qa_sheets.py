@@ -22,10 +22,12 @@ def main():
     ap.add_argument("--pdf", required=True)
     ap.add_argument("--work", default="/home/user/ocr_work")
     ap.add_argument("--per-sheet", type=int, default=2)
+    ap.add_argument("--tag", default="", help="sheet set suffix, e.g. scan")
     ap.add_argument("--page-width", type=int, default=1280)
     a = ap.parse_args()
 
-    out = os.path.join(a.work, "sheets", a.slug)
+    name = a.slug + ("-" + a.tag if a.tag else "")
+    out = os.path.join(a.work, "sheets", name)
     os.makedirs(out, exist_ok=True)
     doc = pymupdf.open(os.path.join(REPO, a.pdf))
     n = doc.page_count
@@ -46,7 +48,7 @@ def main():
             x = k * pw
             canv.paste(img, (x, label_h))
             dr.rectangle([x, 0, x + pw - 1, label_h], fill=(24, 24, 28))
-            dr.text((x + 10, 9), f"PDF page {pno + 1} / {n}   [{a.slug}]", fill=(255, 220, 0))
+            dr.text((x + 10, 9), f"PDF page {pno + 1} / {n}   [{name}]", fill=(255, 220, 0))
             dr.rectangle([x, label_h, x + pw - 1, label_h + ph - 1], outline=(90, 90, 96))
         canv.save(os.path.join(out, f"sheet_{sheet_i:02d}.png"), optimize=True)
     doc.close()

@@ -43,45 +43,48 @@ Every entry cites PDF page and location/reading. Nothing below was silently corr
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p19: low-conf (0.5197) line: 'vO' | low-conf (0.5404) line: 'hcc' | low-conf (0.5136) line: '<' | dual-pass agreement 0.3521
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p20: low-conf (0.6092) line: 'W' | low-conf (0.5616) line: 'y-' | low-conf (0.5768) line: '二0' | low-conf (0.6282) line: '<' | dual-pass agreement 0.7926
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p22: low-conf (0.5674) line: '#' | low-conf (0.6172) line: '[一~]' | low-conf (0.5707) line: '()' | low-conf (0.6398) line: 'Rauy:' | dual-pass agreement 0.7119 | heading glyph '# S^Y' uncertain (likely 'Summary')
-- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p23: low-conf (0.6221) line: 'D~O'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p23: low-conf (0.6221) line: 'D~O' | circled ratio glyphs in V-I and last fraction of V-2 uncertain at source resolution
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p24: low-conf (0.6284) line: 'α' | low-conf (0.5874) line: 'a2'
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p25: low-conf (0.6334) line: 'any' | low-conf (0.6247) line: 'x6+'
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p26: low-conf (0.604) line: 'W' | low-conf (0.601) line: 'x a2' | low-conf (0.5097) line: 'α' | low-conf (0.6366) line: 'a2b1α' | dual-pass agreement 0.5655
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p27: low-conf (0.6249) line: 'aC2-a2C)' | low-conf (0.5958) line: '(6hc-b2c)(ab-6)' | dual-pass agreement 0.7306
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p28: low-conf (0.5421) line: 'W' | low-conf (0.624) line: '(hC2-b2C1)(a6)' | low-conf (0.5435) line: '(a-a)²' | low-conf (0.5244) line: '.'
-- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p29: dual-pass agreement 0.7129
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p29: dual-pass agreement 0.7129 | third determinant final value: 34 vs 39
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p35: low-conf (0.6357) line: 'ili'
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p36: low-conf (0.5065) line: '=5`' | dual-pass agreement 0.7451
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p38: dual-pass agreement 0.7163
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p39: low-conf (0.5715) line: '-8,-'
 - **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p40: low-conf (0.5956) line: '='
-- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p44: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L10** `Quadratic Equations 10 Class Notes.pdf` p44: low-conf (0.5161) line: '在u' | hashtag glyph ambiguity I vs l
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p4: low-conf (0.5058) line: 'O' | low-conf (0.5763) line: '？' | low-conf (0.5579) line: '+R-' | low-conf (0.6185) line: '# =0' | dual-pass agreement 0.5926
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p5: low-conf (0.6115) line: 'Ye[5,4]' | dual-pass agreement 0.7444
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p5: low-conf (0.6115) line: 'Ye[5,4]' | dual-pass agreement 0.7444 | handwritten solution lines low-legibility at scan res; rely on OCR + flags
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p6: low-conf (0.6465) line: 'X'
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p7: low-conf (0.5165) line: '&' | low-conf (0.6025) line: '二'
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p8: low-conf (0.5449) line: 'houwnn' | low-conf (0.6284) line: 'α>@' | low-conf (0.6191) line: '11'
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p9: dual-pass agreement 0.5418
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p12: low-conf (0.6195) line: 'M' | low-conf (0.5481) line: ')（（p-s)' | low-conf (0.6173) line: '6π²-y'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p9: dual-pass agreement 0.5418 | Direct Result fraction glyphs need full-res check
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p12: low-conf (0.6195) line: 'M' | low-conf (0.5481) line: ')（（p-s)' | low-conf (0.6173) line: '6π²-y' | final boxed p value uncertain at scan res
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p13: low-conf (0.5995) line: 'F3' | dual-pass agreement 0.7746
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p14: low-conf (0.6032) line: '= 2' | low-conf (0.6428) line: 'C=±' | dual-pass agreement 0.7052
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p15: low-conf (0.6254) line: '#Q<0'
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p16: low-conf (0.6472) line: 'iabu)' | low-conf (0.588) line: 'L' | dual-pass agreement 0.5889
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p15: low-conf (0.6254) line: '#Q<0' | printed statement/options need full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p16: low-conf (0.6472) line: 'iabu)' | low-conf (0.588) line: 'L' | dual-pass agreement 0.5889 | printed statement/options need full-res verification
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p17: low-conf (0.5933) line: 'Q' | low-conf (0.5877) line: 'K=l x' | dual-pass agreement 0.6705
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p18: low-conf (0.5622) line: 'Riddy' | dual-pass agreement 0.5642
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p19: dual-pass agreement 0.6873
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p20: low-conf (0.565) line: 'GteuO。'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p19: dual-pass agreement 0.6873 | printed statement needs full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p20: low-conf (0.565) line: 'GteuO。' | printed statement needs full-res verification
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p21: low-conf (0.58) line: 'tu.'
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p22: low-conf (0.5136) line: 'L'
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p23: low-conf (0.5383) line: '二' | low-conf (0.5482) line: 'X'
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p26: low-conf (0.6463) line: '&a'
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p27: low-conf (0.5989) line: '&a' | low-conf (0.643) line: '36d²-（2-a+9d²)20' | low-conf (0.6284) line: 'Xx1' | dual-pass agreement 0.4048
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p24: printed statement needs full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p25: printed statement/options need full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p26: low-conf (0.6463) line: '&a' | condition boxes need full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p27: low-conf (0.5989) line: '&a' | low-conf (0.643) line: '36d²-（2-a+9d²)20' | low-conf (0.6284) line: 'Xx1' | dual-pass agreement 0.4048 | printed statement needs full-res verification
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p28: low-conf (0.6199) line: 'Cona”'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p30: printed statement needs full-res verification
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p33: low-conf (0.5821) line: 't²-α'
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p34: low-conf (0.5679) line: '(C)' | low-conf (0.61) line: '以' | low-conf (0.5677) line: '—α，β,Y' | low-conf (0.6265) line: '(可)'
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p35: dual-pass agreement 0.7477
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p36: dual-pass agreement 0.5345
-- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p37: low-conf (0.6268) line: '入'
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p34: low-conf (0.5679) line: '(C)' | low-conf (0.61) line: '以' | low-conf (0.5677) line: '—α，β,Y' | low-conf (0.6265) line: '(可)' | printed statement/options need full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p35: dual-pass agreement 0.7477 | printed statements/options need full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p36: dual-pass agreement 0.5345 | printed statements/options need full-res verification
+- **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p37: low-conf (0.6268) line: '入' | printed statements/options need full-res verification
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p38: low-conf (0.5858) line: '井'
 - **Quadratic Equations L11** `Quadratic Equations 11 Class Notes.pdf` p39: low-conf (0.5161) line: '在u'
 - **Quadratic Equations L12** `Quadratic Equations 12 Class Notes.pdf` p5: low-conf (0.6054) line: 'X' | low-conf (0.5405) line: '+=0' | low-conf (0.531) line: 'α'
@@ -163,3 +166,190 @@ Every entry cites PDF page and location/reading. Nothing below was silently corr
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p39: low-conf (0.5675) line: 'Phoo' | low-conf (0.5844) line: 'p(x)a' | low-conf (0.609) line: 'Thenftind' | dual-pass agreement 0.5633
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p40: low-conf (0.5814) line: '26' | low-conf (0.6323) line: '60' | low-conf (0.5254) line: '(5）（)（±))' | dual-pass agreement 0.2167
 - **Quadratic Equations L14** `Quadratic Equations 14 Class Notes.pdf` p42: low-conf (0.5161) line: '在u'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p4: low-conf (0.5907) line: 'θ=5' | low-conf (0.569) line: 'TT' | low-conf (0.5147) line: 'θ' | low-conf (0.5546) line: 'π' | low-conf (0.6371) line: 'π' | low-conf (0.5897) line: '女' | dual-pass agreement 0.4441
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p6: low-conf (0.5042) line: 'π一' | low-conf (0.6336) line: 'θ=3' | low-conf (0.6362) line: 'TT' | low-conf (0.5211) line: 'T' | low-conf (0.6086) line: '1' | low-conf (0.5595) line: 'θ' | low-conf (0.6193) line: 'π' | low-conf (0.6153) line: 'π' | low-conf (0.5722) line: 'i)' | dual-pass agreement 0.226
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p8: low-conf (0.5975) line: '(一]'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p9: low-conf (0.647) line: '+C+3' | low-conf (0.5609) line: '&iux' | dual-pass agreement 0.6242
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p10: low-conf (0.5547) line: 'ysainne' | low-conf (0.5593) line: '&in3x' | low-conf (0.6479) line: '0#（' | dual-pass agreement 0.6516
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p11: low-conf (0.5969) line: '3' | low-conf (0.6466) line: '+' | low-conf (0.5412) line: '+2' | low-conf (0.5237) line: '23一26' | low-conf (0.5408) line: '+'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p12: low-conf (0.5662) line: 'x' | low-conf (0.5126) line: '一' | low-conf (0.6287) line: 'x²+a ↓x +' | dual-pass agreement 0.5702
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p13: low-conf (0.5574) line: 'COsx ∈[' | dual-pass agreement 0.7179
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p14: low-conf (0.5765) line: 'W' | low-conf (0.62) line: '&uxE' | low-conf (0.5762) line: 'e' | low-conf (0.5734) line: '++&5七+' | low-conf (0.5253) line: '8' | dual-pass agreement 0.6879
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p15: low-conf (0.5493) line: '00m' | low-conf (0.6344) line: '1-C+C9' | low-conf (0.6207) line: 'co²=t'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p17: low-conf (0.5773) line: 'Mdyomw' | low-conf (0.6414) line: 'f(x)a+' | low-conf (0.637) line: 'ac的r' | low-conf (0.6469) line: '&0 =' | low-conf (0.5685) line: '日的' | low-conf (0.5676) line: '0' | low-conf (0.5865) line: 'cx±Cxx' | low-conf (0.6127) line: 'Na*+6' | dual-pass agreement 0.7708
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p18: low-conf (0.6023) line: '00:' | low-conf (0.5821) line: 'COx+&mx' | low-conf (0.563) line: '→→' | low-conf (0.6298) line: '(f()+' | low-conf (0.6147) line: '√a²+52' | low-conf (0.6176) line: '√a²+6' | dual-pass agreement 0.7059
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p19: low-conf (0.5791) line: '1&mx' | low-conf (0.5665) line: 'ii)' | low-conf (0.6276) line: '1&mx+1c孙x' | low-conf (0.5659) line: '=aeosr' | low-conf (0.6345) line: 'xm'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p20: low-conf (0.5787) line: 'Q' | low-conf (0.6266) line: ' +bi0' | low-conf (0.5787) line: 'c&o' | low-conf (0.5709) line: '-w0' | low-conf (0.5944) line: '0S' | low-conf (0.5009) line: '00' | low-conf (0.5203) line: '&0' | low-conf (0.5655) line: 'Q&in40°' | dual-pass agreement 0.6102
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p22: low-conf (0.59) line: 'B（元一' | dual-pass agreement 0.4495
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p23: low-conf (0.5691) line: 'T' | low-conf (0.6086) line: '&a' | low-conf (0.5964) line: '+a' | low-conf (0.5448) line: 'a' | low-conf (0.5443) line: 'd'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p24: low-conf (0.5267) line: '2。'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p26: low-conf (0.5426) line: '?' | low-conf (0.6328) line: 'b1' | dual-pass agreement 0.6297
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p27: low-conf (0.6346) line: 'W'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p28: low-conf (0.5401) line: 'Q²' | low-conf (0.597) line: '=√x2√3'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p30: low-conf (0.5886) line: 'H+' | low-conf (0.5442) line: '+1' | low-conf (0.5704) line: '&ugn' | low-conf (0.623) line: 'w'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p31: low-conf (0.5227) line: 'W' | low-conf (0.6138) line: 'H' | low-conf (0.5511) line: 'θ+x6' | low-conf (0.5175) line: 'C' | low-conf (0.6499) line: '亚' | dual-pass agreement 0.7604
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p32: low-conf (0.5422) line: 'P' | low-conf (0.5443) line: 'θ+y' | low-conf (0.5989) line: '6'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p33: low-conf (0.6411) line: 'H' | low-conf (0.5988) line: 'θ+v6' | low-conf (0.6433) line: 'θ-' | dual-pass agreement 0.7172
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p34: low-conf (0.539) line: 'P' | low-conf (0.599) line: 'θ+6' | low-conf (0.5443) line: 'θ+y'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p35: low-conf (0.5048) line: '—V-1'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p37: low-conf (0.5467) line: 'i' | low-conf (0.6085) line: 'CD&A' | dual-pass agreement 0.547
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p38: low-conf (0.5846) line: 'T' | dual-pass agreement 0.6667
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p39: low-conf (0.6148) line: '7πT' | dual-pass agreement 0.3516
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p40: low-conf (0.5289) line: '=1' | low-conf (0.6044) line: '(管)' | dual-pass agreement 0.7378
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p41: low-conf (0.6452) line: 'cosa' | low-conf (0.5065) line: '②'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p43: low-conf (0.5787) line: 'X1' | dual-pass agreement 0.398
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p44: low-conf (0.5373) line: 'cOS' | low-conf (0.6072) line: 'cOS' | dual-pass agreement 0.7086
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p45: dual-pass agreement 0.7632
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p46: low-conf (0.5314) line: 'if' | dual-pass agreement 0.6509
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p47: low-conf (0.5758) line: '3-1'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p48: low-conf (0.6444) line: '>'
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p49: low-conf (0.6213) line: 'cOS' | dual-pass agreement 0.7748
+- **Trigonometric Equation L01** `Trigonometric Equation 01 Class Notes.pdf` p50: low-conf (0.6401) line: '+'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p3: low-conf (0.588) line: '[√，]'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p4: low-conf (0.618) line: 'X+' | low-conf (0.6304) line: '+x'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p5: low-conf (0.5706) line: 'OE' | low-conf (0.6128) line: '[,2' | low-conf (0.6364) line: '4' | dual-pass agreement 0.7119
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p8: low-conf (0.5575) line: '&' | low-conf (0.5481) line: 'ce10' | low-conf (0.6366) line: '3'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p9: low-conf (0.5472) line: '一' | low-conf (0.5352) line: '5' | low-conf (0.5452) line: '(C元2])' | dual-pass agreement 0.6938
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p10: low-conf (0.6189) line: '1 -ces20'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p11: low-conf (0.5382) line: 'tw'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p12: low-conf (0.5682) line: 'Uu)。'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p14: low-conf (0.5954) line: 'IORN' | low-conf (0.6024) line: '一π-θ' | low-conf (0.5297) line: 'V' | low-conf (0.6315) line: 'K3K' | low-conf (0.627) line: '-' | low-conf (0.537) line: 'G-' | low-conf (0.5649) line: '-' | low-conf (0.6319) line: '—2π-' | low-conf (0.5158) line: '—y-' | dual-pass agreement 0.5337
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p15: low-conf (0.5977) line: '-0' | low-conf (0.6405) line: '≤3K3' | low-conf (0.6225) line: '—下' | low-conf (0.6195) line: '—3π' | low-conf (0.5539) line: 'K3k/3' | dual-pass agreement 0.6109
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p16: low-conf (0.6184) line: '9=' | low-conf (0.628) line: '四' | low-conf (0.6057) line: '2+' | low-conf (0.6006) line: '3π+' | low-conf (0.6486) line: '+v-' | low-conf (0.6489) line: '-4六+内'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p17: low-conf (0.5038) line: '&u=-#' | low-conf (0.5977) line: '-0'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p20: low-conf (0.5881) line: 'y' | low-conf (0.6297) line: '-3K'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p21: low-conf (0.5168) line: '>' | low-conf (0.6021) line: 'd' | low-conf (0.529) line: 'Iau'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p22: low-conf (0.5077) line: '三' | low-conf (0.6152) line: '0' | low-conf (0.5843) line: '一' | low-conf (0.634) line: '2'' | dual-pass agreement 0.6615
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p23: low-conf (0.5899) line: '2π-' | low-conf (0.5548) line: 'Y' | low-conf (0.6458) line: '—3π-' | dual-pass agreement 0.7669
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p24: low-conf (0.6024) line: 'R' | low-conf (0.636) line: '一π' | low-conf (0.6433) line: '√B' | low-conf (0.6057) line: '[0,4π' | low-conf (0.5099) line: 'QOE' | low-conf (0.5763) line: '11n' | low-conf (0.6144) line: '#' | low-conf (0.6421) line: '2下' | dual-pass agreement 0.4658
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p25: low-conf (0.639) line: '-' | dual-pass agreement 0.6135
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p27: low-conf (0.5718) line: '3_'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p28: low-conf (0.5701) line: '(' | low-conf (0.5728) line: 'V)' | low-conf (0.6406) line: '8xE'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p29: low-conf (0.6216) line: 'Ⅱ'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p30: low-conf (0.5369) line: '张1以' | low-conf (0.506) line: '1'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p31: low-conf (0.5869) line: '小w)。'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p32: low-conf (0.5691) line: '的=C' | dual-pass agreement 0.3899
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p33: low-conf (0.6319) line: 'ne I' | low-conf (0.5142) line: 'G' | low-conf (0.6149) line: '天一' | low-conf (0.5478) line: '6' | low-conf (0.5841) line: 'G' | low-conf (0.6269) line: '1=u' | low-conf (0.5617) line: 'G' | low-conf (0.5125) line: 'C' | dual-pass agreement 0.5766
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p34: low-conf (0.6186) line: 'θ-α' | low-conf (0.6466) line: '日+α' | low-conf (0.5477) line: 'e' | dual-pass agreement 0.7
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p35: low-conf (0.6093) line: 'si' | low-conf (0.5327) line: 'θ+' | low-conf (0.5692) line: 'θ-α'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p36: low-conf (0.6418) line: '-uh' | low-conf (0.5896) line: 'm L'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p37: low-conf (0.6228) line: 'HW'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p38: low-conf (0.5451) line: 'T'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p40: low-conf (0.6053) line: 'cos' | low-conf (0.6202) line: 'W'
+- **Trigonometric Equation L02** `Trigonometric Equation 02 Class Notes.pdf.pdf` p41: low-conf (0.5161) line: '在u'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p4: low-conf (0.6205) line: 'say' | low-conf (0.6479) line: '(1-α-34' | low-conf (0.565) line: '14一α' | low-conf (0.6192) line: '[]' | low-conf (0.5345) line: 'α' | dual-pass agreement 0.4395
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p5: low-conf (0.5764) line: 'xow' | low-conf (0.6488) line: 'max.' | dual-pass agreement 0.6957
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p7: low-conf (0.5959) line: '一+aα' | low-conf (0.5575) line: '1-aα' | low-conf (0.5722) line: '12cx' | low-conf (0.5843) line: '[，∞' | low-conf (0.5658) line: '(]n[-)1'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p8: low-conf (0.6299) line: '1+Cx' | dual-pass agreement 0.5271
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p9: low-conf (0.5951) line: '18 sx. 800x' | low-conf (0.6279) line: '&' | low-conf (0.5538) line: 'COS'x' | low-conf (0.5912) line: '=' | dual-pass agreement 0.7804
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p10: low-conf (0.574) line: '1' | low-conf (0.6465) line: ':udym' | low-conf (0.6119) line: '1 =Cox' | dual-pass agreement 0.5581
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p11: low-conf (0.5605) line: '1-2孔L' | low-conf (0.6363) line: '(t(x)('
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p14: low-conf (0.5401) line: '2' | low-conf (0.643) line: 'π一' | low-conf (0.5933) line: 'x' | low-conf (0.6355) line: 'cos' | low-conf (0.543) line: 'x' | low-conf (0.5945) line: 'dog' | low-conf (0.5044) line: '5' | dual-pass agreement 0.4713
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p16: low-conf (0.5043) line: '—c的#' | dual-pass agreement 0.6386
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p17: low-conf (0.5897) line: '°mH'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p18: low-conf (0.5186) line: '=' | low-conf (0.6414) line: 'n+' | low-conf (0.5607) line: '=n±'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p20: low-conf (0.5686) line: 'Tπ' | low-conf (0.6302) line: '≤/3' | low-conf (0.6448) line: 'T' | low-conf (0.6076) line: 'c' | low-conf (0.5753) line: '×'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p21: low-conf (0.6347) line: 'α' | dual-pass agreement 0.6917
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p22: low-conf (0.5007) line: '二' | low-conf (0.6082) line: 'θ E' | dual-pass agreement 0.7439
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p23: low-conf (0.6269) line: 'm' | low-conf (0.5793) line: '3个' | low-conf (0.6027) line: '5个' | low-conf (0.6316) line: '6124'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p24: low-conf (0.5335) line: '&0 =3' | low-conf (0.6158) line: '&iu0 = su' | low-conf (0.5064) line: '下-' | low-conf (0.5712) line: '+' | low-conf (0.5937) line: '-V' | dual-pass agreement 0.5183
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p25: low-conf (0.5647) line: '0 =3' | low-conf (0.5482) line: '2' | low-conf (0.5452) line: 'IU'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p26: low-conf (0.6182) line: '3π' | dual-pass agreement 0.508
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p27: low-conf (0.5882) line: 'π'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p28: low-conf (0.5349) line: '='
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p29: low-conf (0.5973) line: '，答，一' | low-conf (0.6289) line: 'x+ n' | low-conf (0.5691) line: 'COSPCK' | low-conf (0.6089) line: ',ne L' | dual-pass agreement 0.7592
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p30: low-conf (0.5752) line: 'cotx' | low-conf (0.6238) line: 'B' | low-conf (0.6) line: '9' | low-conf (0.6451) line: '三' | low-conf (0.6398) line: 'tun' | low-conf (0.5922) line: 'x=n+≤' | low-conf (0.6364) line: '9' | low-conf (0.6407) line: 'n±' | low-conf (0.5345) line: '二'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p31: low-conf (0.5939) line: '10' | low-conf (0.5677) line: '不' | low-conf (0.5795) line: '5K' | low-conf (0.6138) line: '3天' | low-conf (0.6313) line: '3天' | low-conf (0.6055) line: '5K' | low-conf (0.6079) line: 'XE' | low-conf (0.6186) line: '10' | low-conf (0.6092) line: '10' | dual-pass agreement 0.6136
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p33: low-conf (0.6303) line: '°3+'
+- **Trigonometric Equation L03** `Trigonometric Equation 03 Class Notes.pdf` p36: low-conf (0.5695) line: '6' | dual-pass agreement 0.2648
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p3: low-conf (0.5904) line: 'W'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p4: low-conf (0.5471) line: '2' | low-conf (0.6404) line: '(cx)' | low-conf (0.5998) line: '1-2' | low-conf (0.6164) line: 'I+' | low-conf (0.6231) line: '=0' | low-conf (0.6044) line: '=U' | low-conf (0.6146) line: '≥√3' | dual-pass agreement 0.7593
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p5: low-conf (0.608) line: '#(x)' | low-conf (0.5919) line: 'x+1' | low-conf (0.5997) line: 'x+1' | low-conf (0.5361) line: '=6' | low-conf (0.5783) line: 'a' | dual-pass agreement 0.7185
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p6: low-conf (0.6372) line: 'x[0,y天]' | low-conf (0.5754) line: '&ux 1 + dug' | low-conf (0.544) line: '[ cesx I' | low-conf (0.5986) line: '1=2' | low-conf (0.6045) line: 'a' | low-conf (0.5162) line: 'Y2' | dual-pass agreement 0.7689
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p7: low-conf (0.6491) line: ',neI.' | dual-pass agreement 0.5961
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p8: low-conf (0.6134) line: 'T' | low-conf (0.5088) line: 'an>' | low-conf (0.6106) line: 'π一'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p9: low-conf (0.6444) line: 'dew.'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p10: low-conf (0.5604) line: 'ⅡⅡ'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p11: low-conf (0.5333) line: '-0' | low-conf (0.536) line: 'T' | low-conf (0.554) line: '二' | low-conf (0.591) line: '+xu' | low-conf (0.5649) line: '&' | low-conf (0.5916) line: 'T' | low-conf (0.6236) line: '=' | low-conf (0.543) line: '儿θ#' | low-conf (0.6237) line: '=u' | low-conf (0.5964) line: '5' | low-conf (0.5367) line: '9天' | dual-pass agreement 0.4309
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p12: low-conf (0.5622) line: 'lledh'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p13: low-conf (0.628) line: 'Buux =&n'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p16: low-conf (0.5276) line: '3pm'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p17: low-conf (0.5109) line: 'm+' | low-conf (0.6102) line: '1-COx' | low-conf (0.6366) line: 'Cox)(1+cox'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p18: low-conf (0.6402) line: 'Sinax' | low-conf (0.5346) line: '(6' | low-conf (0.529) line: '（t' | dual-pass agreement 0.6751
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p19: low-conf (0.5748) line: '1' | low-conf (0.6131) line: 'But' | dual-pass agreement 0.7322
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p20: low-conf (0.6471) line: '°m+'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p21: low-conf (0.52) line: 'X' | low-conf (0.614) line: 'ta'x'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p22: low-conf (0.5966) line: 'cθ' | low-conf (0.6032) line: 'biuo'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p23: low-conf (0.5016) line: '=v' | low-conf (0.5126) line: 'biu='
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p24: low-conf (0.5286) line: '9' | low-conf (0.6208) line: '[-/' | low-conf (0.6224) line: '0=0-π' | dual-pass agreement 0.7563
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p25: low-conf (0.6375) line: '=' | low-conf (0.6463) line: '二' | low-conf (0.6246) line: '5K' | dual-pass agreement 0.784
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p26: low-conf (0.6155) line: ']'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p28: low-conf (0.6323) line: 'Q×2.' | dual-pass agreement 0.4741
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p29: low-conf (0.6295) line: 'CB=' | dual-pass agreement 0.5827
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p30: low-conf (0.5909) line: 'cOS' | low-conf (0.5809) line: 'πI' | low-conf (0.5919) line: 'cos' | low-conf (0.626) line: 'π1'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p31: low-conf (0.5205) line: 'M=' | low-conf (0.6038) line: '√a46?' | low-conf (0.5964) line: '9' | dual-pass agreement 0.7644
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p32: low-conf (0.5725) line: 'CB' | low-conf (0.6445) line: '#cOSx-' | low-conf (0.5783) line: '-=an' | low-conf (0.601) line: 'neI'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p33: low-conf (0.6426) line: 'tauy' | low-conf (0.6418) line: '—- tau'' | low-conf (0.5533) line: '+atom×'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p34: low-conf (0.6035) line: 'K2' | low-conf (0.6098) line: 'a'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p35: low-conf (0.6451) line: 'T' | dual-pass agreement 0.7
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p36: low-conf (0.6399) line: 'n.p' | dual-pass agreement 0.2578
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p38: low-conf (0.6148) line: 'Tπ'
+- **Trigonometric Equation L04** `Trigonometric Equation 04 Class Notes.pdf.pdf` p41: low-conf (0.645) line: '在u' | low-conf (0.5884) line: 'Eraluoy' | low-conf (0.5084) line: 'oW'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p4: low-conf (0.6094) line: '+a' | low-conf (0.5145) line: 'pospormmne' | low-conf (0.5712) line: 'sind-' | low-conf (0.6471) line: 'C' | low-conf (0.5328) line: ',MeT' | low-conf (0.6084) line: 'Bix=+!' | low-conf (0.5895) line: '10=xmo' | low-conf (0.6331) line: '=-' | low-conf (0.6092) line: 'po' | dual-pass agreement 0.4009
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p5: low-conf (0.5739) line: '&uin' | low-conf (0.6138) line: '十4bx' | low-conf (0.5445) line: '2' | low-conf (0.6043) line: 'Na/ce-coβ)' | dual-pass agreement 0.428
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p6: low-conf (0.5458) line: '。' | low-conf (0.53) line: '大' | low-conf (0.5423) line: '大' | dual-pass agreement 0.7056
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p7: low-conf (0.5184) line: '#' | low-conf (0.5398) line: 'Xwx=' | low-conf (0.5776) line: '+0x' | low-conf (0.6223) line: '√3' | low-conf (0.6082) line: 'm=' | dual-pass agreement 0.7634
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p8: low-conf (0.6312) line: '二' | low-conf (0.5559) line: 'T'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p9: low-conf (0.5942) line: 'x' | low-conf (0.5185) line: 'x=' | low-conf (0.6037) line: 'ton?x' | low-conf (0.6116) line: 'taw' | low-conf (0.5937) line: 'taux' | low-conf (0.6046) line: '（2-#)²' | dual-pass agreement 0.2468
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p10: low-conf (0.5958) line: 'COS' | low-conf (0.5617) line: 'cOS' | low-conf (0.584) line: 'kiu.cOsx' | low-conf (0.5203) line: 'cBs -AiMx' | low-conf (0.6147) line: '1' | low-conf (0.5673) line: '2x' | low-conf (0.5588) line: 'Biu' | low-conf (0.5956) line: 'CeS×-1' | low-conf (0.6159) line: 'Bix.' | dual-pass agreement 0.3546
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p11: low-conf (0.621) line: '√' | low-conf (0.5328) line: 'y' | low-conf (0.6305) line: 'Sir' | dual-pass agreement 0.6253
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p12: low-conf (0.5363) line: 'S4' | low-conf (0.6278) line: 'a' | dual-pass agreement 0.6761
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p13: low-conf (0.6207) line: 'Raug =-5,2]' | low-conf (0.5452) line: 'Ca+Ma=' | dual-pass agreement 0.7509
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p14: low-conf (0.6414) line: 'm=1' | low-conf (0.6337) line: 'Ca+xα=3' | low-conf (0.6253) line: 'oS=' | low-conf (0.5704) line: '0S=' | dual-pass agreement 0.7383
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p15: low-conf (0.5998) line: '(+)'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p16: low-conf (0.5114) line: 'd' | low-conf (0.6111) line: 'x=' | low-conf (0.6108) line: '''' | low-conf (0.5944) line: '3' | low-conf (0.5784) line: 'α' | dual-pass agreement 0.5386
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p18: low-conf (0.6449) line: 'COa+Cyx+C6x=D' | low-conf (0.5614) line: 'cO4n. Ca+cby=0' | low-conf (0.595) line: '+CO3' | dual-pass agreement 0.7042
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p19: low-conf (0.6288) line: 'GR' | low-conf (0.5864) line: 'Ceax' | low-conf (0.5399) line: 'n='
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p21: low-conf (0.5458) line: 'A' | low-conf (0.5844) line: 'CH' | low-conf (0.5192) line: '幼+' | low-conf (0.517) line: 'C' | dual-pass agreement 0.5659
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p22: low-conf (0.6358) line: '[v-]30'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p23: low-conf (0.5798) line: 'Binan'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p24: low-conf (0.6196) line: '+cx-√(x)' | low-conf (0.5791) line: '=0' | low-conf (0.5007) line: '√' | dual-pass agreement 0.6478
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p25: low-conf (0.5812) line: '[&x+1Coyx' | low-conf (0.6401) line: 'y' | low-conf (0.5569) line: 'α+>'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p26: low-conf (0.648) line: '²x+3sinxcx-xCx-3C²x=0.' | low-conf (0.634) line: 'sinn -coα' | low-conf (0.5331) line: '√3cex' | low-conf (0.5665) line: 'un-c9x' | low-conf (0.6231) line: '+3co'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p28: low-conf (0.5848) line: '以1' | low-conf (0.5779) line: ' /α+' | low-conf (0.6486) line: 'COa=1cO3n=1' | low-conf (0.6177) line: 'an>+' | low-conf (0.6309) line: 'H' | dual-pass agreement 0.7259
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p29: low-conf (0.5908) line: '2下，4元，6π，' | low-conf (0.5717) line: 'xE'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p30: low-conf (0.6487) line: '1= 4C0 + 4c0x + 4c0' | low-conf (0.5136) line: 'Woso' | dual-pass agreement 0.4923
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p32: low-conf (0.6312) line: 'BundxE' | low-conf (0.5668) line: 'din2#' | low-conf (0.6465) line: 'kE'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p33: low-conf (0.5066) line: 'Riuxt]' | low-conf (0.5764) line: '+一' | low-conf (0.6445) line: 'Bunn+3' | low-conf (0.6443) line: 'din+2' | dual-pass agreement 0.7472
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p34: low-conf (0.58) line: '9cb²x-1' | low-conf (0.5766) line: 'co²x' | low-conf (0.5988) line: 'cox(' | low-conf (0.5508) line: '世一y+—一+一'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p35: low-conf (0.6132) line: '&inax e[-1,]' | low-conf (0.5698) line: '&M2n E' | low-conf (0.5367) line: '-L Au 2n-1 E'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p36: low-conf (0.5531) line: 'HW。'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p40: low-conf (0.5695) line: '6' | dual-pass agreement 0.2644
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p42: low-conf (0.5868) line: '1L' | low-conf (0.5216) line: '1' | dual-pass agreement 0.386
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p43: low-conf (0.6019) line: '1Ⅱ'
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p44: low-conf (0.5288) line: '1Ⅱ' | low-conf (0.6499) line: 'neI' | dual-pass agreement 0.7866
+- **Trigonometric Equation L05** `Trigonometric Equation 05 Class Notes.pdf` p46: low-conf (0.6311) line: 'E aluoy'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p4: low-conf (0.5343) line: 'Ⅱ' | low-conf (0.5744) line: 'c的θ' | low-conf (0.5962) line: 'Kc0=' | low-conf (0.617) line: 'quisA-xu' | low-conf (0.5077) line: '&(+' | low-conf (0.6148) line: 'N2' | low-conf (0.5695) line: 'n0.o=as' | low-conf (0.6438) line: '9+!' | low-conf (0.5279) line: '4' | dual-pass agreement 0.7164
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p5: low-conf (0.5624) line: '(0+' | low-conf (0.5687) line: '[=α' | low-conf (0.6109) line: '=' | dual-pass agreement 0.6066
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p6: low-conf (0.617) line: 'nTT' | low-conf (0.5848) line: 'x=0' | low-conf (0.6041) line: '-×' | low-conf (0.6438) line: 'x=nπ-' | low-conf (0.5379) line: 'x=2'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p7: low-conf (0.5766) line: 'dn' | low-conf (0.6068) line: 'Qn' | low-conf (0.6189) line: '2π,' | low-conf (0.5207) line: 'Y7'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p8: low-conf (0.6094) line: '0=0' | low-conf (0.5399) line: '0,下' | low-conf (0.5578) line: 'kin0' | low-conf (0.5843) line: '3-i20-2(20sy' | low-conf (0.6449) line: '—=Q9' | low-conf (0.6002) line: '+' | dual-pass agreement 0.6158
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p9: low-conf (0.5943) line: '&inex ∈' | low-conf (0.61) line: 'xiu2x E' | low-conf (0.6184) line: 'xW2x ∈' | low-conf (0.6069) line: '1 -3 xu 2~ ∈'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p11: low-conf (0.646) line: '*来*' | low-conf (0.5536) line: 'A20E' | low-conf (0.5177) line: '1-a9ce' | low-conf (0.6427) line: '2θ' | low-conf (0.5409) line: '9' | low-conf (0.5313) line: 'si20' | dual-pass agreement 0.6794
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p13: low-conf (0.535) line: 'd4s' | low-conf (0.5199) line: '&MxE' | low-conf (0.5385) line: '&uu α' | dual-pass agreement 0.5635
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p14: low-conf (0.5717) line: 'inn<' | low-conf (0.5606) line: 'biuy' | low-conf (0.5382) line: 'plom'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p15: low-conf (0.5671) line: 'Bin' | low-conf (0.6214) line: '&x=0' | low-conf (0.5122) line: 'pIom' | low-conf (0.5172) line: 'π=' | low-conf (0.6381) line: '=xmg'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p16: low-conf (0.561) line: 'α' | low-conf (0.6063) line: 'α' | low-conf (0.619) line: '17' | low-conf (0.5559) line: '=0' | low-conf (0.6473) line: 'α=t1' | dual-pass agreement 0.7557
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p17: low-conf (0.5685) line: '00m' | low-conf (0.588) line: '彤×=0' | low-conf (0.577) line: 'cBx=o' | low-conf (0.6049) line: '6mt'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p20: low-conf (0.6145) line: 'CS(' | low-conf (0.5968) line: ')-' | dual-pass agreement 0.7169
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p21: low-conf (0.5223) line: '°/①/亩←ds' | low-conf (0.5658) line: '×' | low-conf (0.5618) line: 'o= ×3' | low-conf (0.6013) line: '什' | dual-pass agreement 0.7309
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p23: low-conf (0.5062) line: 'CO' | low-conf (0.5263) line: '以二0' | low-conf (0.5432) line: 'G'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p24: low-conf (0.6212) line: '七3' | low-conf (0.5757) line: '0' | low-conf (0.6385) line: 'nuis-uso)+'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p25: low-conf (0.5432) line: '=0' | low-conf (0.5319) line: '00→Φ'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p28: low-conf (0.5848) line: '=' | low-conf (0.6164) line: 'KS01=K'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p30: low-conf (0.5072) line: 'XE' | dual-pass agreement 0.7955
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p31: low-conf (0.5411) line: 'W'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p32: low-conf (0.6198) line: 'T'
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p33: dual-pass agreement 0.6924
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p36: dual-pass agreement 0.6915
+- **Trigonometric Equation L06** `Trigonometric Equation 06 Class Notes.pdf` p38: low-conf (0.6218) line: 'π1' | dual-pass agreement 0.7198

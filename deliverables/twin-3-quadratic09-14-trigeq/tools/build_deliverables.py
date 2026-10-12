@@ -61,6 +61,47 @@ def log_conf_lines(rec, thr=0.65):
     return low_conf_lines(rec, thr)
 
 
+def auto_diby(rec):
+    """Fallback DIBY extraction from OCR text for pages without manual notes."""
+    import re as _re
+    prim = rec["pass_A_native"] if rec["primary_pass"] == "A" else rec["pass_B_adapted"]
+    lines = [l["text"] for l in prim["lines"]]
+    out = []
+    for i, t in enumerate(lines):
+        m = _re.search(r"DIBY\s*[-–]?\s*(\d+)", t, _re.I)
+        if not m:
+            continue
+        label = "# DIBY-" + m.group(1)
+        prompt, opts, ans = [], [], ""
+        for t2 in lines[i + 1:i + 9]:
+            if _re.match(r"^\([A-D]\)", t2.strip()):
+                opts.append(t2.strip())
+            elif "Ans" in t2:
+                ans = t2.strip()
+            else:
+                prompt.append(t2.strip())
+        def row(meta, p, rec, label=label, prompt=" ".join(prompt), opts=opts, ans=ans):
+            return {"Chapter": meta["chapter"], "Lecture No.": meta["lecture"],
+                    "Source PDF": meta["source_pdf"], "PDF page": p,
+                    "DIBY marker": label, "Printed question number/letter (exact)": label,
+                    "Internal ID (only if no printed label)": "",
+                    "Prompt (verbatim)": prompt, "Options": "; ".join(opts),
+                    "Visible solution/answer": ans,
+                    "Uncertainty note": "auto-extracted from OCR; pending visual confirmation",
+                    "QA status": "auto-extract"}
+        out.append(row)
+    return out
+
+
+def auto_topic(rec):
+    prim = rec["pass_A_native"] if rec["primary_pass"] == "A" else rec["pass_B_adapted"]
+    for l in prim["lines"]:
+        t = l["text"].strip()
+        if len(t) >= 3 and l["conf"] >= 0.8:
+            return t[:70]
+    return "(no reliable text detected)"
+
+
 def build_transcript(slug, meta, pages, qa):
     L = []
     L.append(f"# {meta['chapter']} - Lecture {meta['lecture']:02d}")
@@ -135,13 +176,13 @@ def main():
             audit.append({
                 "Chapter": meta["chapter"], "Lecture No.": meta["lecture"],
                 "Source PDF": meta["source_pdf"], "PDF page": p,
-                "Visible topic/heading": note.get("topic", ""),
+                "Visible topic/heading": note.get("topic", "") or auto_topic(rec),
                 "Full text / equations": note.get("verified_text", rec["text"]),
                 "Diagram/visual notes": note.get("diagram", ""),
                 "DIBY present?": "yes" if dibs else ("marker-only" if note.get("type") == "divider" and "DIBY" in rec["text"].upper() else "no"),
                 "DIBY printed label(s)": "; ".join(d.get("printed_label", "") for d in dibs),
                 "OCR uncertainty / location": "; ".join(uncert),
-                "Visual QA status": "visual-full" if note else "auto-QA (dual-pass)",
+                "Visual QA status": ("visual-full" if note.get("verified_text") else "visual-scan") if note else "auto-QA (dual-pass)",
                 "Reviewer": AGENT if note else "pipeline (dual-pass PP-OCRv4)",
             })
             for d in dibs:
@@ -155,8 +196,11 @@ def main():
                     "Options": "; ".join(d.get("options", [])) if isinstance(d.get("options"), list) else d.get("options", ""),
                     "Visible solution/answer": d.get("answer", ""),
                     "Uncertainty note": d.get("uncertainty", ""),
-                    "QA status": "visual-full",
+                    "QA status": "visual-full" if note.get("verified_text") else "visual-scan",
                 })
+            if not dibs and "DIBY" in rec["text"].upper():
+                for m in auto_diby(rec):
+                    diby.append(m(meta, p, rec))
             if uncert:
                 page_unc.setdefault(p, []).extend(uncert)
         for p in sorted(page_unc):
