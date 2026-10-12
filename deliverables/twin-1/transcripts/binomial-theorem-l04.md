@@ -54,3 +54,57 @@ Source: `Binomial Theorem 04 Class Notes.pdf` (46 pages, image-only, no text lay
 **DIBY:** YES — handwritten `DIBY—(X)`; internal ID `BT-L04-P08-DIBY-INT-01` (internal). **U:** none.
 
 ---
+<a id="p09"></a>
+## p09 · Question [JEE Mains–2024] — sum of the coefficients of x³ and x⁻¹³ · label: **Page No. 153**
+**P:** chip **Question [JEE Mains–2024]**; **In the expansion of (1 + x)(1 − x²)(1 + 3/x + 3/x² + 1/x³)⁵, x ≠ 0, the sum of the coefficient of x³ and x⁻¹³ is equal to _________** — the three factors green, `x³` cyan, `x⁻¹³` cyan.
+**H:** orange `−1` double-underlined beneath `x³`; green `119` double-underlined beneath `x⁻¹³`; green circle `118` at the end of the blank (the sum) with pink `fnf` below it; cyan leader `coeff of x³ in →` to cyan `(1 + x − x² − x³)(1+x)¹⁵ / x¹⁵`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p10"></a>
+## p10 · Board: coefficient of x³ (= −1) by the x¹⁸ route · label: — (PW roundel)
+**H (all of it):** yellow `coeff. of x³ in →` cyan `(1 + x − x² − x³)(1+x)¹⁵ / x¹⁵ = (−1)` with −1 in an orange circle; yellow `OR` double-underlined; yellow `coeff. of x¹⁸ in →` cyan `(1 + x − x² − x³)(1+x)¹⁵` with an orange arrow to orange `¹⁵Cᵣ x^{ⓡ}`; orange column `x⁰ / x¹ / x²` against `0 x¹⁸ / 0 x¹⁷ / 0 x¹⁶` inside a brace; bottom `−1 x³ × ¹⁵C x¹⁵ = (−1) x¹⁸` with the `15` subscript circled and an orange arc linking x³ to ¹⁵C.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p11"></a>
+## p11 · Board: coefficient of x⁻¹³ → coefficient of x² = 119 · label: — (PW roundel)
+**H (all of it):** yellow `coeff of x⁻¹³ in →` cyan `(1 + x − x² − x³)(1+x)¹⁵ / x¹⁵`; yellow `OR`; yellow `coeff of x² in →` cyan `(1 + x − x² − x³)(1+x)¹⁵` — the leading `1` double-underlined; green arc to green `¹⁵C x^{Ⓨ}` → `r ∈ W` double-underlined; four pink/orange rows `1 x⁰ × ¹⁵C₂ x² = ¹⁵C₂ x²` (green `105` annotated above ¹⁵C₂), `1 x¹ × ¹⁵C₁ x¹ = ¹⁵C₁ x²`, `−1 x² × (¹⁵C₀) x⁰ = −1 x²` (¹⁵C₀ ringed green), `−1 x³ × 0 x⁻¹ = 0 x²`; green brace → green `105 + 15 − 1 = 119` with 119 in a circle.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p12"></a>
+## p12 · Question [JEE Mains–2024] — |α| from the x³⁰ coefficient, marked H.W. · label: — (chip only)
+**P:** chip **Question [JEE Mains–2024]**; **If the coefficient of x³⁰ in the expansion of (1 + 1/x)⁶ (1 + x²)⁷ (1 − x³)⁸ ; x ≠ 0 is α, then |α| equals** — the three factors green, `|α|` cyan.
+**H:** green `H.W.` inside a hand-drawn circle, double underline and a dot; nothing else — the question is left as homework.
+**DIBY:** none (H.W. tag only). **U:** none.
+
+---
+<a id="p13"></a>
+## p13 · RAPID FIRE DIBY'S — printed # DIBY-01 / # DIBY-02 · label: — (chip only)
+**P:** chip **RAPID FIRE DIBY'S**; green `# DIBY-01` — **In the binomial expansion of (a − b)ⁿ, n ≥ 5, the sum of 5ᵗʰ and 6ᵗʰ terms is zero, then a/b equals** (a/b cyan) · options **(A) 6/(n−5) (B) (n−5)/6 (C) (n−4)/5 (D) 5/(n−4)** · printed **Ans. : (C)**.
+Green `# DIBY-02` — **Number of rational terms in the expansion of (√2 + ⁴√3)¹⁰⁰ is :** · options **(A) 25 (B) 26 (C) 27 (D) 28** · printed **Ans. : (B)**.
+**H:** none. **DIBY:** YES — printed labels `DIBY-01`, `DIBY-02`. **U:** none.
+
+---
+<a id="p14"></a>
+## p14 · RAPID FIRE DIBY'S — printed # DIBY-03 / # DIBY-04 · label: — (chip only)
+**P:** green `# DIBY-03` — **Find the coefficient of x² in the expansion of (1 − x + 2x²)(x + 1/x)¹⁰** · options **(A) 120 (B) 210 (C) 720 (D) 504** · printed **Ans. : (C)**.
+green `# DIBY-04` — **If aᵣ denotes the coefficient of xʳ in the expansion of (1 − x)²ⁿ⁻¹, then the value of aᵣ₋₁ + a₂ₙ₋ᵣ =** (the sum cyan) · options **(A) −1 (B) 1 (C) 2aᵣ (D) 0** · printed **Ans. : (D)**.
+**H:** none. **DIBY:** YES — printed labels `DIBY-03`, `DIBY-04`. **U:** none.
+
+---
+<a id="p15"></a>
+## p15 · RAPID FIRE DIBY'S — printed # DIBY-05 / # DIBY-06 · label: — (chip only)
+**P:** green `# DIBY-05` — **Find the term independent of x in the expansion of (1 + x + 2x³)( (3x²/2) − 1/(3x) )⁹.** · printed **Ans. : 17/54**.
+green `# DIBY-06` — **For natural numbers m, n if (1 − y)ᵐ(1 + y)ⁿ = 1 + a₁y + a₂y² + ⋯, and a₁ = a₂ = 10, then (m, n) is–** · options **(A) (45, 35) (B) (35, 45) (C) (20, 45) (D) (35, 20)** · printed **Ans. : (B)**.
+**H:** none. **DIBY:** YES — printed labels `DIBY-05`, `DIBY-06` (note: p04 already carried a printed `DIBY-05` with a different question — see uncertainty log).
+**U:** 1 — this lecture's deck has two different items both printed `# DIBY-05` (p04 greatest term independent of x, Ans. (A) 63/8; p15 term independent of x, Ans. 17/54). Kept as separate register rows.
+
+---
+<a id="p16"></a>
+## p16 · DIBY-06 solved on the board (Notes) · label: — (PW roundel)
+**H (all of it, over a dimmed reprint of the DIBY-06 slide):** orange `Notes` with double underline above the printed tag; cyan generic terms `ᵐC(−y)^r` and `ⁿCᵧ y^y` at the left edge; yellow `coeff of y¹ → (1−y)ᵐ (1+y)ⁿ`; cyan pairings `¹ᵐC₀ y⁰ × ⁿC₁ y¹ = n y¹` and `− ᵐC₁ y¹ × ⁿC₀ y⁰ = −m y¹` (the four binomial coefficients in cyan clouds, small `m` / `1` written beneath); cyan rule → red box `a₁ = n − m = 10`; right pink `coeff of y¹ ↗ coeff of y²` leaders into the printed `a₁ = a₂ = 10` (wavy underline); orange tick through option **(B)**.
+**DIBY:** the printed DIBY-06 of p15, solved here (register row `BT-L04-P15-DIBY-06`). **U:** none.
+
+---
