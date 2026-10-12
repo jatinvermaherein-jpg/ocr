@@ -257,3 +257,12 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 - **# DIBY-36** — **The sum of all rational terms in the expansion of** `(2 + √3)^8` **is** **[JEE Mains–2025]** `(A) 16923 (B) 3763 (C) 33845 (D) 18817` → **[Ans.: (D)]**
 **H:** none — all three printed, nothing ticked or written; every item here does carry its key (unlike DIBY-32 on p37).
 **DIBY:** three rows added (BT-L06-P38-DIBY-34 / -35 / -36). **U:** none.
+---
+<a id="p39"></a>
+## p39 · DIBY block — FINDING COEFFICIENTS: # DIBY-37, # DIBY-38, # DIBY-39 · label: — (yellow banner, no page number)
+**P:** yellow banner **FINDING COEFFICIENTS** (new sub-topic of the DIBY block); three green-tagged items, each with its year in yellow and key in green:
+- **# DIBY-37** — **The coefficient of** `x^101` **in the expression** `(5 + x)^500 + x(5 + x)^499 + x²(5 + x)^498 + … + x^500`, `x > 0`, **is** **[JEE Mains–2022]** `(A) 501C101 (5)^399` `(B) 501C101 (5)^400` `(C) 501C100 (5)^400` `(D) 500C101 (5)^309` → **[Ans.: (A)]**
+- **# DIBY-38** — **The coefficient of** `x^301` **in** `(1 + x)^500 + x(1 + x)^499 + x²(1 + x)^498 + … + x^500` **is:** (the printed expression standing inside a printed **red rectangle**) **[JEE Mains–2023]** `(A) 501C302 (B) 500C301 (C) 500C300 (D) 501C200` → **[Ans.: (D)]**
+- **# DIBY-39** — **The coefficient of** `x^70` **in** `x²(1 + x)^98 + x³(1 + x)^97 + x⁴(1 + x)^96 + … + x^54(1 + x)^46` **is** `99Cp − 46Cq`. **Then a possible value to** `p + q` **is:** (again inside a printed **red rectangle**) **[JEE Mains–2024]** `(A) 55 (B) 61 (C) 68 (D) 83` → **[Ans.: (D)]**
+**H:** two identical yellow annotations `A.G.P.` (arithmetic–geometric progression — the printed sums are GPs in `x/(1+x)`) written above the red rectangles of DIBY-38 and DIBY-39, each with a curved yellow arrow down onto the boxed expression; no other handwriting, no ticks.
+**DIBY:** three rows added (BT-L06-P39-DIBY-37 / -38 / -39). **U:** none.

@@ -1020,5 +1020,47 @@
   "prompt_verbatim": "The sum of all rational terms in the expansion of (2 + sqrt(3))^8 is [JEE Mains-2025]",
   "options": "(A) 16923   (B) 3763   (C) 33845   (D) 18817",
   "visible_solution_answer": "Ans.: (D) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 39,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide; the only handwriting is the yellow 'A.G.P.' tag over two items. Keys read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-37 (printed, green tag)",
+  "printed_label": "DIBY-37",
+  "internal_id": "BT-L06-P39-DIBY-37",
+  "prompt_verbatim": "The coefficient of x^101 in the expression (5 + x)^500 + x(5 + x)^499 + x^2(5 + x)^498 + ... + x^500, x > 0, is [JEE Mains-2022]",
+  "options": "(A) 501C101 (5)^399   (B) 501C101 (5)^400   (C) 501C100 (5)^400   (D) 500C101 (5)^309",
+  "visible_solution_answer": "Ans.: (A) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 39,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide; the only handwriting is the yellow 'A.G.P.' tag over two items. Keys read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-38 (printed, green tag)",
+  "printed_label": "DIBY-38",
+  "internal_id": "BT-L06-P39-DIBY-38",
+  "prompt_verbatim": "The coefficient of x^301 in (1 + x)^500 + x(1 + x)^499 + x^2(1 + x)^498 + ... + x^500 is: [JEE Mains-2023]",
+  "options": "(A) 501C302   (B) 500C301   (C) 500C300   (D) 501C200",
+  "visible_solution_answer": "Ans.: (D) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 39,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide; the only handwriting is the yellow 'A.G.P.' tag over two items. Keys read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-39 (printed, green tag)",
+  "printed_label": "DIBY-39",
+  "internal_id": "BT-L06-P39-DIBY-39",
+  "prompt_verbatim": "The coefficient of x^70 in x^2(1 + x)^98 + x^3(1 + x)^97 + x^4(1 + x)^96 + ... + x^54(1 + x)^46 is 99Cp - 46Cq. Then a possible value to p + q is: [JEE Mains-2024]",
+  "options": "(A) 55   (B) 61   (C) 68   (D) 83",
+  "visible_solution_answer": "Ans.: (D) (printed)"
  }
 ]
