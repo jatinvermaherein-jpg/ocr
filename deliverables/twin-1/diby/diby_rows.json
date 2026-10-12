@@ -835,8 +835,8 @@
   "internal_id": "BT-L05-P23-DIBY (handwritten)",
   "prompt_verbatim": "The sum of the series 20C0 - 20C1 + 20C2 - 20C3 + .... + 20C10 is",
   "options": "(A) 1/2 20C10   (B) 0   (C) -20C10   (D) 20C10",
-  "visible_solution_answer": "no answer printed or written (set as H.W.)",
-  "uncertainty_note": "Handwritten DIBY tag only, no # DIBY-nn label. Same 90%. DIBY habit as L03 p29 / L02 p22 (F-13). The parallel item with n=24 (L05 p24 DIBY-02) has key (C) 2^23 - 1/2 24C12, i.e. the half-row-with-middle-term pattern; inferred (A) here but NOT recorded as page evidence.",
+  "visible_solution_answer": "SOLVED in L06 p09: 20C10/2 (option A), board proof by pairing the alternating row across r and 20-r; green tick on A, '79%' tag",
+  "uncertainty_note": "Handwritten DIBY tag only, no # DIBY-nn label. Same 90%. DIBY habit as L03 p29 / L02 p22 (F-13). The parallel item with n=24 (L05 p24 DIBY-02) has key (C) 2^23 - 1/2 24C12, i.e. the half-row-with-middle-term pattern; inferred (A) here but NOT recorded as page evidence. | RESOLVED: the H.W. item is re-printed as Question [AIEEE-2007] in L06 p09 and solved on the board (F-23).",
   "qa_status": "QA-PASSED (twin-1)"
  },
  {

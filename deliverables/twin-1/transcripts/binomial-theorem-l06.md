@@ -54,3 +54,36 @@ Source: `Binomial Theorem 06 Class Notes.pdf` (43 pages, image-only, no text lay
 **P:** none — pure board page continuing p07.
 **H:** the p07 stack re-drawn at the top (three red-boxed numerators `nC_0 + nC_1`, `nC_1 + nC_2`, `nC_2 + nC_3` × … over `nC_0`, `nC_1`, `nC_2`), cyan arrows to `n+1C_1/nC_0 × n+1C_2/nC_1 × n+1C_3/nC_2 × … … n+1C_n/nC_{n−1}`; pink `↓` arrows labelled `n+1` into the expanded factorials `(n+1)!/(1·n!)`, `(n+1)!/(2·n!)`, `(n+1)!/(3·n!)`, … , `(n+1)!/(n·…)` — every `(n+1)!` numerator and every `n!` factor struck out in yellow, the leading integers `1`, `2`, `3` left standing (yellow rules under the denominators); the final answer in pink `(n+1)^n / n!` with a wavy underline, exactly option (A).
 **DIBY:** none new (p07's DIBY-03). **U:** none.
+<a id="p09"></a>
+## p09 · Question [AIEEE–2007] — 20C0 − 20C1 + … + 20C10 (the L05 p23 H.W., now solved) · label: **Page No. 155**
+**P:** red chip **Question [AIEEE–2007]**; **The sum of the series** `20C0 − 20C1 + 20C2 − 20C3 + …. + 20C10` **is**; red tiles `A 1/2 20C10`, `B 0`, `C −20C10`, `D 20C10`.
+**H:** the full board proof. Cyan top line `20C0 − 20C1 + 20C2 − 20C3 + … … − 20C9 + 20C10 − 20C11 − … + 20C18 − 20C19 + 20C20 = 0` (the alternating sum of the whole row, i.e. x = −1); yellow pairing marks — double underline under `20C0`, an up-arrow under `20C1`, orange `*` under `20C2`, and yellow hooks folding `20C11 → −20C9`, `20C18 → +20C2`, `20C19 → −20C1`, `20C20 → +20C0` (double-underlined again, second `*` under the reused `20C2`), which leaves the middle term alone: yellow/green `{ 20C0 − 20C1 + 20C2 − … … − 20C9 + 20C10 } = 20C10/2` with a wavy rule under the answer. **Option A** carries a green tick, and a green circle round `79%` with a double underline sits top-right (the success-rate tag, F-13).
+**DIBY:** none on this slide — it is the printed-question version of **L05 p23's handwritten `90% DIBY` + `H.W.` item**, so the register row `BT-L05-P23-DIBY (handwritten)` is cross-linked here and its status moves from *assigned* to *solved* (the inferred answer (A) is confirmed by the board). **U:** none.
+
+---
+<a id="p10"></a>
+## p10 · Question [JEE Mains–2023] — Σ r²·2023Cr = 2023 × α × 2^2022, find α · label: **Page No. 155**
+**P:** red chip **Question [JEE Mains–2023]**; **Suppose** `Σ_{r=0}^{2023} r^2 · 2023Cr = 2023 × α × 2^2022`**. Then the value of** `α` **is** — the upper limit and `α` green, the summation body white with `2023` printed inside a green oval.
+**H:** cyan arrow from the printed `2023` oval up to a handwritten `n.` (the generalisation to `nC_r`); cyan derivation on the left — `n . nCr = n . n-1Cr-1` (Property 04, wavy underline), `= n (n−1 + 1) n−1Cr−1` with two orange star stickers on the row, `= n ( (n−1)·n−1C₂ + n−1Cr−1 )` with pink arcs marking the split, then the two sums `n(n−1) Σ_{r=2}^{n} n−2Cr−2 + n Σ_{r=1}^{n} n−1Cr−1` with the first summation looped in yellow. Yellow on the right: `= n(n−1) 2^{n−2} + n (2^{n−1})`; substituted `2023 × 2022 × 2^{2021} + 2023 × 2^{2022}` with `(2 × 1011)` written above and struck, `2023 × 2^{2022} { 1011 + 1 }` and the `{1011 + 1}` ringed in yellow with a yellow arrow up to the printed `α` — i.e. **α = 1012** (not written out as a separate line). A yellow circle round `80%` with a double underline sits top-right.
+**DIBY:** none. **U:** none. **Chain:** this is the **L05 p34** `H.W.` item (JEE Main 2023, α) from the F-22 pile-up — closed here.
+
+---
+<a id="p11"></a>
+## p11 · Question [JEE Mains–2021] — Σ (2^k + 3k)·10Ck = α·3^10 + β·2^10 (assigned H.W.) · label: **Page No. 155**
+**P:** red chip **Question [JEE Mains–2021]**; **Let** `nC_r` **denote the binomial coefficient of** `x^r` **in the expansion of (1 + x)^n.** / **If** `Σ_{k=0}^{10} (2^k + 3k) 10C_k = α · 3^10 + β · 2^10 , α, β ∈ R ,` `α + β` **is equal to ______.** — the sum and `(2^k + 3k)` yellow, `α + β` cyan, the binomial green.
+**H:** a single white mark: `H.W.` written inside a hand-drawn circle with a dot at each side and a double underline, under the sentence — assigned, **not solved on this slide**.
+**DIBY:** none (H.W. tag only). **U:** none. **Open item leaving this file:** if L07 opens with its H.W. discussion, cross-link it here exactly as p04/p05/p09/p10 did for L05 (F-23).
+
+---
+<a id="p12"></a>
+## p12 · SERIES — Type-02: binomial coefficients divided by a constant · label: **Page No. 156**
+**P:** clipboard icon + red **SERIES** banner; `# Type–02:` blue with green **When Binomial Coefficients are divided by a constant**; red chip **Question**; printed green **Show that :** `C0 + C1/2 + C2/3 + … + Cn/(n+1) = (2^(n+1) − 1)/(n+1)`.
+**H:** a white tick under the printed right-hand side; at right a white hand-drawn **cloud** containing Property 05 re-stated `nC_r/(r+1) = n+1C_{r+1}/(n+1)` — the tool the proof is built on (the same cloud shape as L05 p16).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p13"></a>
+## p13 · Question [JEE Mains–2024] — 11C1/2 + … + 11C9/10 = n/m, find n + m · label: **Page No. 156**
+**P:** red chip **Question [JEE Mains–2024]**; **If** `11C1/2 + 11C2/3 + … + 11C9/10 = n/m` **with** `gcd(n, m) = 1`**, then** `n + m` **is equal to** — the fractions green, `n + m` cyan, `gcd(n, m)` yellow.
+**H:** white arrow down to the sum rewritten green as `Σ_{n=1}^{9} 11Cn/(n+1)` (the summand ringed in green; the index letter is the teacher's cursive `n`, drawn like an aleph), `= Σ_{r=1}^{9} 12C_{r+1}/12` with a green hook under the `12`, `= 1/12 Σ_{r=1}^{9} 12C_{r+1}` with that sum looped in orange; a white wavy brace hands over to orange `= 1/12 (12C0 + 12C1 + 12C2 + 12C3 + 12C4 + … … + 12C10 + 12C11 + 12C12 − (12C0 + 12C1 + 12C11 + 12C12))` with the removed values `1, 12, 12, 1` written under the four struck coefficients; white `= 1/12 (2^12 − 26) =` cyan `2035/4070` over a struck `12 · 6` `= 2035/6`; top-right a cyan circle round `2041` with a double underline (the value of n + m) and beside it the cursive **`fnf`** final-answer tag (F-21), and further right a cyan circle round `76%` double-underlined.
+**DIBY:** none. **U:** none. **Chain:** this closes the **L05 p36** `H.W.` item (JEE Main 2024, n + m) from the F-22 pile-up.
