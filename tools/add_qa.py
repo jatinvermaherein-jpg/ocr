@@ -9,14 +9,16 @@ n = 0
 for line in sys.stdin:
     line = line.rstrip("\n")
     if not line.strip(): continue
-    p, lbl, head, hand, unc, diby = (line.split("|") + [""] * 6)[:6]
+    parts = line.split("\t") if "\t" in line else (line.split("|") + [""] * 6)[:6]
+    parts = parts + [""] * (6 - len(parts))
+    p, lbl, head, hand, unc, diby = parts[:6]
     p = int(p)
     if p in have:
         rows = [r for r in rows if r["_page"] != p]
     d, _, lab = diby.partition(":")
     rows.append({"_key": key, "_page": p, "source_page_label": lbl or "—", "topic_or_heading": head,
                  "printed_text_captured": "full", "handwriting_captured": hand or "none",
-                 "diby_present": d or "NO", "diby_labels": lab, "uncertainty_count": int(unc or 0),
+                 "diby_present": d or "NO", "diby_labels": lab, "uncertainty_count": int(unc) if str(unc).strip().isdigit() else 0,
                  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
                  "visual_qa_status": "QA-PASSED", "reviewer": "twin-1"})
     n += 1
