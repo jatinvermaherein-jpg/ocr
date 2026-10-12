@@ -488,5 +488,33 @@
   "visible_solution_answer": "Ans.: (B) (printed); solved on p16: a1 = n - m = 10 in a red box, option (B) ticked",
   "uncertainty_note": "Working is on the next page (p16), not on this slide.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "04",
+  "source_pdf": "Binomial Theorem 04 Class Notes.pdf",
+  "pdf_page": 19,
+  "diby_marker": "# DIBY-07 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-07",
+  "internal_id": "BT-L04-P19-DIBY-07",
+  "prompt_verbatim": "Find the coefficient of x^m in (1 + x)^m + (1 + x)^(m+1) + ... + (1 + x)^n, where m <= n.",
+  "options": "(A) (n+1)C(m+1)  (B) nC(m+1)  (C) (n+1)Cm  (D) nCm",
+  "visible_solution_answer": "Ans.: (A) (printed)",
+  "uncertainty_note": "Annotated as a G.P. on p20 (a=(1+x)^m, r=1+x, tot=n-m+1); worked example of the same technique on p21.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "04",
+  "source_pdf": "Binomial Theorem 04 Class Notes.pdf",
+  "pdf_page": 19,
+  "diby_marker": "# DIBY-08 (printed, green tag, chip RAPID FIRE DIBY'S)",
+  "printed_label": "DIBY-08",
+  "internal_id": "BT-L04-P19-DIBY-08",
+  "prompt_verbatim": "The sum of the coefficients of all the even powers of x in the expansion of (2x^2 - 3x + 1)^11 is -",
+  "options": "(A) 2.6^10  (B) 3.6^10  (C) 6^11  (D) None of these",
+  "visible_solution_answer": "Ans.: (B) (printed)",
+  "uncertainty_note": "No working on the slide or on any page seen so far.",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]

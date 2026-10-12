@@ -108,3 +108,57 @@ green `# DIBY-06` — **For natural numbers m, n if (1 − y)ᵐ(1 + y)ⁿ = 1 +
 **DIBY:** the printed DIBY-06 of p15, solved here (register row `BT-L04-P15-DIBY-06`). **U:** none.
 
 ---
+<a id="p17"></a>
+## p17 · DIBY-06 continues: the y² coefficient rows · label: — (dimmed printed strip)
+**H:** yellow `coeff of y² → (1−y)ᵐ(1+y)ⁿ`; green rows `ᵐC₀ y⁰ × ⁿC₂ y² = ⁿC₂ y²` (ᵐC₀ ringed green), `−ᵐC₁ y¹ × ⁿC₁ y¹ = −mn y²`, `ᵐC₂ y² × ⁿC₀ y⁰ = ᵐC₂ y²`; green brace → orange `a₂ =` red box `ᵐC₂ − mn + ⁿC₂ = 10`; cyan generic terms `ᵐC(−y)^r`, `ⁿCᵧ y^y` at left edge; pink `coeff of y²` (cyan double underline) and `coeff of y¹` leaders into the printed `a₁ = a₂ = 10`; the printed `# DIBY-06` tag and the full printed question + options + **[Ans. : (B)]** re-appear dimmed under the writing.
+**DIBY:** same printed item as p15 (`BT-L04-P15-DIBY-06`). **U:** none.
+
+---
+<a id="p18"></a>
+## p18 · DIBY-06 solved: m = 35, n = 45 · label: — (PW roundel)
+**H (all of it, orange):** left column `n − m = 10`, `n + m = 80` (wavy rule), `2n = 90`, then a big circle `(n = 45, m = 35)`; right column `ⁿC₂ − mn + ᵐC₂ = 10` ↷ `n(n−1)/2 − mn + m(m−1)/2 = 10` → `n² − n − 2mn + m² − m = 20` (ticks over the three −n/−2mn/−m terms) → `(n − m)² − n − m = 20` ↷ `100 − 20 = n + m`.
+**DIBY:** resolves the printed DIBY-06 (option B (35,45)). **U:** none — the board writes `n` where the printed question uses `n` and `m` for the exponents consistently; `m=35, n=45`.
+
+---
+<a id="p19"></a>
+## p19 · RAPID FIRE DIBY'S — printed # DIBY-07 / # DIBY-08 · label: — (chip only)
+**P:** green `# DIBY-07` — **Find the coefficient of xᵐ in (1 + x)ᵐ + (1 + x)ᵐ⁺¹ + ⋯ + (1 + x)ⁿ, where m ≤ n.** · options **(A) ⁿ¹C_{m+1} (B) ⁿC_{m+1} (C) ⁿ⁺¹C_m (D) ⁿC_m** · printed **Ans. : (A)**.
+green `# DIBY-08` — **The sum of the coefficients of all the even powers of x in the expansion of (2x² − 3x + 1)¹¹ is –** · options **(A) 2.6¹⁰ (B) 3.6¹⁰ (C) 6¹¹ (D) None of these** · printed **Ans. : (B)**.
+**H:** none. **DIBY:** YES — printed labels `DIBY-07`, `DIBY-08`. **U:** none.
+
+---
+<a id="p20"></a>
+## p20 · DIBY-07 annotated: the sum is a G.P. · label: — (chip only)
+**P:** identical reprint of the DIBY-07 slide (question, four options, **Ans. : (A)**).
+**H:** orange arrow from the option row down to `G.P.` double-underlined over a big brace `{ a = (1+x)^m , r = (1+x) , tot = n − m + 1 }`.
+**DIBY:** same printed item (`BT-L04-P19-DIBY-07`). **U:** none.
+
+---
+<a id="p21"></a>
+## p21 · Example on the board: coefficient of x⁷ / x⁸ in the G.P. sum up to (1+x)¹⁵ · label: — (PW roundel)
+**H (all of it):** green `ex!` double-underlined; pink `coeff of x⁷ in` → red box (green tick on top) `(1+x)¹ + (1+x)² + (1+x)³ + (1+x)⁴ + …… (1+x)¹⁵`; green `G.P.` with `a = 1+x, r = 1+x, n = 15` and a green brace to the sum formula `(1+x)[((1+x)¹⁵ − 1)/(1+x−1)]` — the denominator struck with a diagonal; pink `coeff of x⁷ in → ((1+x)¹⁶ − (1+x))/x`; pink `coeff of x⁸ in → (1+x)¹⁶ − (1+x)` with a green arrow to `¹⁶C₈`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p22"></a>
+## p22 · Topic card: NUMERICALLY GREATEST TERM · label: **Page No. 153**
+**P:** red banner **NUMERICALLY GREATEST TERM** with a clipboard/pencil/pie-chart icon; magenta **Page No. 153**.
+**H:** orange `without sign` with a leader to the wavy underline under "NUMERICALLY"; orange `(a+b)ⁿ` above a red rectangle containing `|T_r| ≤ |T_{r+1}| ≥ |T_{r+2}|`; cyan expansion of the same inequality `|ⁿC_{r−1} a^{n−r+1} b^{r−1}| ≤ |ⁿC_r a^{n−r} b^r| ≥ |ⁿC_{r+1} a^{n−r−1} b^{r+1}|`; orange arrow from Tᵣ₊₁ into the cyan line.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p23"></a>
+## p23 · Board: (x+3)⁴ vs (x−3)⁴ term-by-term · label: — (PW roundel)
+**H (all of it):** two cyan expansions, each term's binomial coefficient ringed orange with its value written above and the numeric term below in pink.
+`（x+3)⁴ = ⁴C₀x⁴ + ⁴C₁x³·3¹ + ⁴C₂x²3² + ⁴C₃x·3³ + ⁴C₄3⁴` with superscripts `1 4 6 4 1` and pink values `16 | 96 | 216 | 216 | 81`.
+`(x−3)⁴ = ⁴C₀x⁴ − ⁴C₁x³·3¹ + ⁴C₂x²3² − ⁴C₃x·3³ + ⁴C₄3⁴` with the same `1 4 6 4 1` and pink values `16 | −96 | 216 | −216 | 81`.
+**DIBY:** none. **U:** none (the first line's `⁴C₀x⁴` value is written 16 while ⁴C₀ = 1; the numbers are the coefficients of the *expanded* polynomial as the teacher computed them; transcribed as drawn).
+
+---
+<a id="p24"></a>
+## p24 · NUMERICALLY GREATEST TERM — the solve-for-r formula · label: **Page No. 153**
+**P:** banner **NUMERICALLY GREATEST TERM**; **`#` Assume Tᵣ₊₁ in numerically greatest**; **Now : |Tᵣ| ≤ |Tᵣ₊₁| ≥ |Tᵣ₊₂|**; **for expansion (a + b)ⁿ : Solve:** followed by a blue boxed pair `(n+1)/(1+|a/b|) − 1 ≤ r ≤ (n+1)/(1+|a/b|)` — printed inside a red rectangle.
+**H:** orange `-1` above the box with a double-headed arc joining the two fractions; orange leader from `(a + b)ⁿ` to the box.
+**DIBY:** none. **U:** none.
+
+---
