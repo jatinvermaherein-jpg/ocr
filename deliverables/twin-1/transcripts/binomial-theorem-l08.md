@@ -68,3 +68,43 @@ Source: `Binomial Theorem 08 Class Notes.pdf` (46 pages, image-only, no text lay
 **P:** none — board page split by a wavy white vertical line.
 **H:** left, green `R = 2 <=` green `8/3` `==` pink `13 x 23 x 65 x 101` with green remainders `-2, 2, -1, 2` above the factors and a pink `3` under the join; below it green `R = (-1)` ringed `<=` `-16/3` `==` the same pink product with remainders `-2, 2, 2, 2` and a pink `3`, then a green arrow from the ringed `(-1)` labelled `+3` to a ringed `2` with a green tick. Right, white `(13)^76 / 3 ==` a ringed `R = 1`, with white arcs down to `13 x 13 x 13 x … 13` carrying a small `1` above every factor and a `3` under the product line (13 == 1 mod 3).
 **DIBY:** none. **U:** none.
+<a id="p11"></a>
+## p11 · p10 continued — (14)^76/3 solved two ways, named after students · label: — (no header, board slide)
+**P:** none.
+**H:** white at top `(14)^76 / 3 => R = (1)` with the answer ringed; two orange arrows down to two orange methods, each headed by a name with a wavy underline: **`Sumit`** — `14 x 14 x … 14` (76 factors) over `3` with `-1` written above every 14, collapsing to orange `(-1)^76/3 => (R = 1)` ringed; **`Santosh`** — the same product with `2` above every factor over `3`, then `=> 2^76/3 = (2 x 2 x … x 2)/3` with `-1` above each 2 over `3`, an orange arrow to a large ringed **`R = 1`**.
+**DIBY:** none. **U:** none. (Both routes give the same remainder; the naming is the teacher's habit of crediting a classroom solution.)
+
+---
+<a id="p12"></a>
+## p12 · RAPID FIRE ROUND — remainder items (i)–(iv), (i) solved twice · label: **Page No. 161 / 162**
+**P:** red chip **RAPID FIRE ROUND**; printed list `(i)` **Find Remainder of** `2^136 ÷ 7`, `(ii)` **Find Fractional part of** `5^99/13`, `(iii)` `7^2022 + 3^2022` **divided by 5**, `(iv)` **[JEE MAINS–2022] Remainder when (11)^1011 + (1011)^11 divided by 9** (the year-tag yellow). The printed label is the compound **`Page No. 161 / 162`**, i.e. one slide spanning two module pages (kept in the audit as one row, first of four such slides).
+**H:** orange, top-right, the remainder-of-products route: `2^136/7 = 2¹.(8)^45/7 = 2¹ · 8.8.8…8/7` with `-1` above every 8, an arc marked `7` under the run, giving orange `R = 2`. Below the printed list, the same (i) by expansion: orange `2^136 = 2¹.(2^135) = 2¹.(2³)^45 = 2¹.(7+1)^45` (the `2³` ringed and double-underlined); cyan `2^136/7 = ( ⁴⁵C₀ 7^45·2 + ⁴⁵C₁ 7^44·2 + … … + ⁴⁵C₄₄ 7¹·2 + ⁴⁵C₄₅ 1·2 )` with everything but the last term inside a **red rectangle** (those are multiples of 7), the final `⁴⁵C₄₅ 1·2` ringed cyan with a `2` above it; then cyan `2^136/7 = (integer)/7 + (2/7)` with the `2/7` ringed, and cyan `R = 2` under a white tick. Item `(i)` carries an orange tick; item `(iii)` an orange stroke through the numeral.
+**DIBY:** none. **U:** 1 — the compound printed page label `161 / 162` (F-08's non-monotonic labelling, new form).
+
+---
+<a id="p13"></a>
+## p13 · RAPID FIRE ROUND — item (ii) fractional part of 5^99/13 · label: **Page No. 161 / 162**
+**P:** the same printed four-item list; `(i)` and `(ii)` now ticked in magenta.
+**H:** cyan at top right `5¹.5^98/13 = 5¹.25^49/13 = 5¹.25.25.25…25/13` — a green brace over the run labelled `49`, a `5` then `-1` written above the factors, and cyan `≡ -5/13`; yellow `R = -5 +13 = (8)` with 8 ringed. Item `(ii)` re-opened in cyan: `{ 5^99/13 } = Remainder/13 = 8/13`; a green generic division sketch `y sqrt(x)` with `Q` above and `R` below, in braces, `-> x = yQ + R`; below, pink `13 sqrt(5^99)` with `8` under the bar, then `{5^99/13} = { (13(Q) + 8)/13 } = { Q + 8/13 } = {8/13} = 8/13 - [8/13 (struck, `0` beneath) } = 8/13`, with a magenta arc linking the pink working to the green sketch.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p14"></a>
+## p14 · rule card — fractional-part function · label: — (no header, board slide)
+**P:** none.
+**H:** a cyan cloud enclosing a **red rectangle** with cyan `{ a^n / b } = Remainder/b`; a cyan line from the cloud to a small pink oval labelled **`FPF`** (the curly braces are the fractional-part function); at right a pink cloud with pink `{ Integer + a } = { a }`.
+**DIBY:** none. **U:** 1 — this is the one place the writer spells **`FPF`** in clear capitals; it must not be conflated with the cursive `fnf`/`fnl` mark that follows ringed answers on p06 and in L05 (F-30) — different glyph, different meaning, both appearing in the same lecture.
+
+---
+<a id="p15"></a>
+## p15 · RAPID FIRE ROUND — item (iii): 7^2022 + 3^2022 mod 5 · label: **Page No. 161 / 162**
+**P:** the same printed list.
+**H:** a green arrow from `(iii)` to cyan `(iii)` then green `7^2022/5 + 3^2022/5`; the `7^2022` term ringed in orange with an orange arrow down to `(49)^1011/5 => (-1) or (4)` (both ringed); an orange arrow from the second fraction to `(-1) or (4)`; orange at right `(3²)^1011/5 = (9.9.9…9)/5` with `-1` above each 9, over `5`, giving `=> (-1)` ringed; the item's answer written at top-right in a yellow ring fed by an orange arc: **`R = 3`** (4 + 4 = 8 ≡ 3).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p16"></a>
+## p16 · RAPID FIRE ROUND — item (iv), JEE MAINS–2022 · label: **Page No. 161 / 162**
+**P:** the same printed list, item `(iv)` unchanged.
+**H:** green working in two halves, each headed by a green `9` (the divisor) under the printed bases. Left: `11.11.11…11` (1011 factors) with a `2` above each, over `9`, `≡ 2^1011/9 = (2³)^337/9 = 8^337/9 = (8.8.8…8)/9` with `-1` above each 8, `=> R = -1 + 9 = (8)`. Right: `1011.1011…1011` (11 factors) with a `3` above each, over `9`, `=> 3^11/9` with a green arrow to `R = 0`. The two halves are joined by green arcs up to the green conclusion `8 + 0 = (8)` with the 8 ringed.
+**DIBY:** none. **U:** none. (The same JEE MAINS–2022 pair sum reappears as L07 p04's H.W. answer — cross-lecture chain already logged there.)
