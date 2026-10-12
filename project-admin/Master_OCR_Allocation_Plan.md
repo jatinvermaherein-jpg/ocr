@@ -1,6 +1,6 @@
 # Master OCR Allocation Plan
 
-**Visible scope: 66 PDFs / 2,624 pages** (54 PDFs in the cloned repo main branch, 2,128 pages; 12 attached Sequence & Series PDFs, 496 pages). The user reports 55 additional PDFs in the repo, but only 54 are present in the current main-branch checkout; one remains unlocated.
+**Visible scope: 66 PDFs / 2,624 pages** (54 PDFs in the cloned repo main branch, 2,128 pages; 12 attached Sequence & Series PDFs, 496 pages). The user has confirmed that 54 PDFs is the complete repository set; together with the 12 attached Sequence & Series PDFs, the current scope is 66 PDFs / 2,624 pages.
 
 ## Worker split
 
@@ -93,5 +93,5 @@ Branch: `ocr/twin-4-trigonometric-functions`
 - Keep a page audit for all pages including cover/graphics-only/blank-looking pages; reconcile expected and reviewed counts.
 - Handoffs: transcript, page audit, DIBY index, uncertainty log; commit only to assigned branch. Never commit credentials.
 
-## Missing file
-When the 55th repo PDF is pushed/located, inventory it and assign it to the worker with the lowest page total; then rebalance.
+## Scope confirmed
+The repository set is confirmed at 54 PDFs. If additional PDFs are added later, inventory each one and assign it to the worker with the lowest page total before OCR begins.

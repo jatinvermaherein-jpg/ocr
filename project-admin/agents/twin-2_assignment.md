@@ -37,4 +37,4 @@
 - Assignment/inventory docs are on branch `admin/ocr-work-plan`. Start your branch from that branch. The shared SSH setup file is provided outside the repository; never commit it or any private key.
 
 ## Coverage note
-The current checkout contains 54 PDFs in the repository (2,128 pages); the user expected 55. The 12 attached Sequence & Series PDFs make the currently indexed total 66 PDFs / 2,624 pages. One expected repo PDF is not yet visible. Do not silently add it; coordinator will inventory and assign it when located.
+The user confirmed that the repository contains 54 PDFs (2,128 pages). The 12 attached Sequence & Series PDFs make the current total 66 PDFs / 2,624 pages. The assigned file list covers the confirmed scope; if more PDFs are added later, wait for the coordinator to update assignments.
