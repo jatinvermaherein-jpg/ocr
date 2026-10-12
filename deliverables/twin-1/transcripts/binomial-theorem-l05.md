@@ -106,3 +106,43 @@ Source: `Binomial Theorem 05 Class Notes.pdf` (38 pages, image-only, no text lay
 **P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `# Property – 05 :` blue **Jab r ko denominator (division) se gayab krna ho** (the `r` in yellow).
 **H:** a white hand-drawn **cloud** enclosing the identity `ⁿCᵣ⁄(r+1) = ⁿ⁺¹Cᵣ₊₁⁄(n+1)`; pink at lower left `ex:` double-underlined with `¹⁵C₇⁄8 = ¹⁶C₈⁄16`, the `7` ringed and the `8` ringed, wavy underline under the denominator `16`; at right yellow `# P-04` above `(r+1) . ⁿ⁺¹Cᵣ₊₁ = (n+1) . ⁿCᵣ` (`r+1` and `n+1` double-underlined, a small arrow hooking up from under `n+1`), and below it the divided form `ⁿ⁺¹C₊₁⁄(n+1) = ⁿCᵣ⁄(r+1)` — Property 05 derived from Property 04.
 **DIBY:** none. **U:** none.
+<a id="p17"></a>
+## p17 · board rule-card — even/odd coefficient sums inside a blue cloud · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** one large blue hand-drawn **cloud** filling the slide. Inside it, cyan `In any expansion :`; white `Sum of all coeff. = (put variable = 1)`; orange `Sum of coeff. of even powers = (put variable = 1) + (put variable = −1)` over an orange wavy rule with `2` beneath the rule; green `Sum of coeff. of odd powers = (put variable = 1) − (put variable = −1)` over a green wavy rule with `2` beneath. The hand-lettering renders `all` as `al`, `coeff.` as `coeff.` and the digits in the teacher's own shapes — read with the U-06 ledger in mind.
+**DIBY:** none. **U:** none. (This is the verbal rule that p20's Property 06 prints formally.)
+
+---
+<a id="p18"></a>
+## p18 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 06: Sum of Binomial Coefficients (setup) · label: **Page No. 155**
+**P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `# Property – 06 :` blue **Sum of Binomial Coefficients** — the whole body of the slide is blank, every line written by hand.
+**H:** cyan `(1+x)ⁿ = ⁿC₀ + ⁿC₁x + ⁿC₂x² + … … + ⁿCₙ₋₁xⁿ⁻¹ + ⁿCₙxⁿ`; yellow `x=1` with a wavy underline and a long yellow arrow curving up into `(1+x)ⁿ`, then yellow `2ⁿ = ⁿC₀ + ⁿC₁ + ⁿC₂ + … … + ⁿCₙ`; yellow `x=−1` underlined, then yellow `0 = ⁿC₀ − ⁿC₁ + ⁿC₂ − ⁿC₃ + … … + ⁿCₙ(−1)ⁿ`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p19"></a>
+## p19 · Property 06 — adding and subtracting the two lines (board) · label: — (no header, board slide)
+**P:** none — pure board page continuing p18.
+**H:** yellow the two results re-stated and tagged in red circles: `2ⁿ = ⁿC₀ + ⁿC₁ + ⁿC₂ + … … + ⁿCₙ —①` and `0 = ⁿC₀ − ⁿC₁ + ⁿC₂ − ⁿC₃ + … … + ⁿCₙ(−1)ⁿ —②`, with pink strike-throughs crossing out the **odd**-subscript terms in ① and ②; yellow `add` + a long yellow rule → pink `# 2ⁿ⁻¹ = { ⁿC₀ + ⁿC₂ + ⁿC₄ + … … } —③` with the subscripts 0, 2, 4 double-underlined in yellow. A **red horizontal rule** splits the slide; below it the same two yellow lines are re-marked for subtraction (pink strokes this time crossing the even terms, small pink `+`/`−` written under them), then pink `sub 2ⁿ⁻¹ = { ⁿC₁ + ⁿC₃ + ⁿC₅ + … … } —④` with 1, 3, 5 double-underlined.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p20"></a>
+## p20 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 06 printed (i)(ii)(iii) with three blanks · label: **Page No. 155**
+**P:** clipboard icon + red banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green `Property – 06` (no `#` here, unlike p18); `(i)` blue **Sum of all binomial coefficients** `∑_{r=0}^{n} ⁿC = ⁿC₀ + C₁ + ⁿC₂ + …… + ⁿCₙ = ___`; `(ii)` blue **Sum of all coefficients with alternate signs** `∑_{r=0}^{n} (−1)ʳ·ⁿCᵣ = C₀ − ⁿC₁ + ⁿC₂ − …… + (−1)ⁿ·ⁿCₙ = ___`; `(iii)` blue **Sum of coefficients having ever or odd lower suffix** `C₀ + C₂ + C₄ + …… = C₁ + C₃ + C₅ + …… = ___`.
+**H:** orange into the three blanks: `2ⁿ`, `0`, `2ⁿ⁻¹`.
+**DIBY:** none. **U:** 1 — (iii) prints **`ever`** for *even* (same class of typo as L03's `IVRTTATIONAL`); transcribed as printed.
+
+---
+<a id="p21"></a>
+## p21 · RAPID FIRE ROUND — six n = 14 sums, four answered · label: — (chip only)
+**P:** red chip **RAPID FIRE ROUND**; six items in blue: `1. ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + …… + ¹⁴C₁₄ =`, `2. ¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + …… + ¹⁴C₁₄ =`, `3. ¹⁴C₂ + ¹⁴C₃ + ¹⁴C₄ + …… + ¹⁴C₁₃ =`, `4. ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + …… + ¹⁴C₆ =`, `5. ¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + …… + ¹⁴C₆ =`, `6. ¹⁴C₀ + ¹⁴C₂ + ¹⁴C₄ + …… + ¹⁴C₁ =`.
+**H:** yellow answers with white ticks against 1, 2, 3 and 6 — 1 `2¹⁴`; 2 the word `zero` (the `z` crossed, so it reads `ẑero`); 3 `2¹⁴ − (¹⁴C₀ + ¹⁴C₁ + ¹⁴C₁₄) = 2¹⁴ − 16`; 6 `2¹⁴⁻¹ = 2¹³`. Items **4** and **5** are left blank here and solved on p22.
+**DIBY:** none (RAPID FIRE ROUND carries no `# DIBY-nn` tags, see F-15). **U:** none.
+
+---
+<a id="p22"></a>
+## p22 · RAPID FIRE ROUND — items 4 and 5 solved (half of the sum, minus the middle term) · label: — (chip only)
+**P:** red chip **RAPID FIRE ROUND**; the blue text of items 4 and 5 reprinted unchanged from p21 (`¹⁴C₀ + … + ¹⁴C₆ =` and `¹⁴C₀ − ¹⁴C₁ + … − ¹⁴C₃ + …… + ¹⁴C₆ =`).
+**H:** gold star stickers clustered beside each item number (two above and one below `4.`; one above and three below `5.`); yellow brace over item 4's left-hand side labelled yellow **`Half - Bino. Coeff`**, with a long cyan arrow up to the cyan working at the top of the slide: `2¹⁴ = ¹⁴C₀ + ¹⁴C₁ + ¹⁴C₂ + … ¹⁴C₆ + ¹⁴C₇ + … ¹⁴C₁₂ + ¹⁴C₁₃ + ¹⁴C₁₄`, where the middle term `¹⁴C₇` is ringed in **pink** (yellow arrow down onto it), the last term `¹⁴C₁` ringed in **green**, and green arrows fold `¹⁴C₁₂ → ¹⁴C₂`, `¹⁴C₁ → ¹⁴C₁`, `¹⁴C₁ → ¹⁴C₀` (each paired subscript double-underlined, orange `*` marks under the `¹⁴C₂` and near `¹⁴C₁₂`), the pink `¹⁴C₇` folding to a pink `¹⁴C₆`-column partner; pink answer under item 4 `(2¹⁴ − ¹⁴C₇)/2` with a wavy rule. Item 5: a pink arrow from its `=` to the answer `½ · ¹⁴C₇`; below, the cyan/white alternating row `¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − ¹⁴C₃ + … + ¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈ … + ¹⁴C₁₂ − ¹⁴C₁₃ + ¹⁴C₁ = 0` with the group `¹⁴C₆ − ¹⁴C₇ + ¹⁴C₈` ringed in pink (white tick over `¹⁴C₁₄`), and the pink conclusion `2{¹⁴C₀ − ¹⁴C₁ + ¹⁴C₂ − … … + ¹⁴C₆} − ¹⁴C₇ = 0`.
+**DIBY:** none. **U:** 1 — the pink-ringed middle subscript is the ambiguous crossed glyph and could be read `⁸`; the written answer `(2¹⁴ − ¹⁴C₇)/2` fixes it as `7` (U-06/U-18 ledger).
