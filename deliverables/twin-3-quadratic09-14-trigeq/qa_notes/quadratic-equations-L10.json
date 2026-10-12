@@ -1,0 +1,421 @@
+{
+ "slug": "quadratic-equations-L10",
+ "chapter": "Quadratic Equations",
+ "lecture": 10,
+ "source_pdf": "Quadratic Equations 10 Class Notes.pdf",
+ "qa_reviewer": "arena-twin3-agent (visual QA: pp1-22 full-res 2-up; pp23-44 full-res 2-up; complete 44/44)",
+ "pages": {
+  "1": {
+   "type": "cover",
+   "topic": "Cover slide",
+   "verified_text": "ARJUNA JEE 2027 | Lecture - 10 | Mathematics | QUADRATIC EQUATIONS | By- Sachin Jakhar Sir | (PW logo)",
+   "diagram": "Instructor photo (Sachin Jakhar Sir), ARJUNA JEE 2027 branding",
+   "qa": "Cover confirms chapter=Quadratic Equations, lecture=10; matches filename."
+  },
+  "2": {
+   "type": "topics",
+   "topic": "Topics to be covered",
+   "verified_text": "Topics to be covered (handwritten cursive) | A Range of Rational Functions | B Common Root Condition | C Question Practice | D (label printed, no text)",
+   "diagram": "3D question-mark with thinking pencil mascot"
+  },
+  "3": {
+   "type": "revision",
+   "topic": "LAST CLASS REVISION - range of quadratic",
+   "verified_text": "LAST CLASS REVISION | # Answer the following Questions: | Quadratic: y = ax^2 + bx + c | (i) If a > 0 => Range(y) in [-D/4a, infinity) | (ii) If a < 0 => Range(y) in (-infinity, -D/4a] | handwritten: 'if x in R' (circled, underlined); '# x in [p, q]' -> 'Quad. Range?' -> 'Graphical Method'"
+  },
+  "4": {
+   "type": "divider",
+   "topic": "Question Practice",
+   "verified_text": "Question Practice",
+   "diagram": "none"
+  },
+  "5": {
+   "type": "question",
+   "topic": "Challenger Question [IIT-JEE] solved",
+   "verified_text": "Challenger Question [IIT-JEE] (stars) | If a < b < c and a, b, c in R then comment on nature of roots of following: | (i) f(x) = (x - a)(x - b) - 1 | (ii) f(x) = (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) (red box; faded '= 3x^2 ...' tail) | handwritten (i): Graph: f(x) = x^2 - (a+b)x + ab - 1 (red box); f(a) = -1, f(b) = -1; 2 R & D Root; 1 Root > b; 1 Root < a; two parabolas with points a, b | handwritten (ii): x=a: f(a) = (a-b)(a-c) -> (+); f(b) = (b-c)(b-a) -> (-); f(c) = (c-a)(c-b) -> (+); 2 R & D Root; a < 1 Root < b; b < 1 Root < c; red/white parabolas through a, b, c",
+   "diagram": "two parabola sketches (left: magenta pair; right: red+white)"
+  },
+  "6": {
+   "type": "handwritten",
+   "topic": "Nature of roots - two tools",
+   "verified_text": "(handwritten cloud) Nature of Roots -> # D ; Graph",
+   "diagram": "blue cloud with two branches"
+  },
+  "7": {
+   "type": "question",
+   "topic": "Find range -x^2+4x-6 (repeat of L09 p23, with answers)",
+   "verified_text": "Question | Find range for following functions : | (i) f(x) = -x^2 + 4x - 6 | (ii) f(x) = -x^2 + 4x - 6, x in [-3, 1) | (iii) f(x) = -x^2 + 4x - 6, x in (0, 4] | Ans. : (i) y in (-infinity, -2], (ii) y in [-27, -3), (iii) y in [-6, -2]",
+   "qa": "No handwritten DiBY marker visible on this page (cf. L09 p23)."
+  },
+  "8": {
+   "type": "question-diby",
+   "topic": "Range questions incl. 5.4^x - 2^(x+3) + 1 (DiBY-A)",
+   "verified_text": "Question | Find range for following functions : | (i) f(x) = 2x^2 - 3x + 5, x in [-1, 1] (tick) | (ii) f(x) = x^2 - x - 8, x in (-infinity, -2] U [2, infinity) (tick) | (iii) f(x) = 5.4^x - 2^(x+3) + 1 (red box, stars) | handwritten marker: DiBY - (A) [green, circled] | f(x) = 5(2^x)^2 - 2^x.2^3 + 1; say: 2^x = t (circled); +ve; t in (0, infinity); f(t) = 5t^2 - 8t + 1 (red box), t in (0, infinity); star-cloud: 'Quad. in Terms of any other fun?' | Ans. : (i) y in [31/8, 10], (ii) y in [-6, infinity), (iii) y in [-11/5, infinity)",
+   "diby": [
+    {
+     "printed_label": "DiBY - (A)  [handwritten, green, circled]",
+     "internal_id": "",
+     "prompt": "Find range for following functions : (i) f(x)=2x^2-3x+5, x in [-1,1] (ii) f(x)=x^2-x-8, x in (-inf,-2] U [2,inf) (iii) f(x)=5.4^x - 2^(x+3) + 1",
+     "answer": "(i) y in [31/8, 10], (ii) y in [-6, inf), (iii) y in [-11/5, inf)",
+     "uncertainty": ""
+    }
+   ]
+  },
+  "9": {
+   "type": "handwritten-diby",
+   "topic": "Range of 2sin^2 - 6sin + 7 (DiBY-B)",
+   "verified_text": "(handwritten) f(theta) = 2 sin^2 theta - 6 sin theta + 7 , Range ?? ; [-1, 1]; sin theta = t; f(t) = 2t^2 - 6t + 7 , t in [-1, 1] (red box, tick); marker: DiBY - (B) [green, circled]",
+   "diby": [
+    {
+     "printed_label": "DiBY - (B)  [handwritten, green, circled]",
+     "prompt": "f(theta) = 2 sin^2 theta - 6 sin theta + 7, Range ??",
+     "answer": "reduced to f(t) = 2t^2 - 6t + 7, t in [-1,1]",
+     "uncertainty": ""
+    }
+   ]
+  },
+  "10": {
+   "type": "handwritten",
+   "topic": "Rational function range examples",
+   "verified_text": "(handwritten) y = (ax+b)/(cx+d); x in R - {-d/c}; y in R - {a/c} | ex: y = (2x+7)/(5-3x); x in R - {5/3}; y in R - {-2/3} | ex: y = (x-7)/(14-2x); x in R - {7}; y in R - {-1/2} (cross); y = (x-7)/(-2(x-7)) = -1/2; y in {-1/2} (tick)"
+  },
+  "11": {
+   "type": "handwritten",
+   "topic": "Note: f(m).f(n) < 0",
+   "verified_text": "(handwritten) Note: (pink cloud) f(m).f(n) < 0 => 1 Root lies b/w m & n ; 2 Real, distinct roots"
+  },
+  "12": {
+   "type": "theory",
+   "topic": "RANGE OF RATIONAL FUNCTION - 4-step format",
+   "verified_text": "RANGE OF RATIONAL FUNCTION | Format : y = Quad./Quad. or Linear/Quad. or Quad./Linear or Constant/Quad. | Step-1 : Cross-multiply & form a Quadratic in 'x', (tick) | Step-2 : Make D >= 0 or above quadratic. (as x in Real) | Step-3 : Solve above inequality using Wavy Curve. (This answer is not final) [red box] | Step-4 : Check your Answer | # Make coefficient of x^2 = 0 | # Obtain 'y' & put that value of 'y' in equation (1) | # If you get any 'x' -> Then S-III final ans. | # If you don't get any 'x' -> Then remove that 'y' from S-III."
+  },
+  "13": {
+   "type": "question",
+   "topic": "Bumper Question - range of rational (ii) worked",
+   "verified_text": "Bumper Question | Find range of following function : | (i) f(x) = (x+2)(x-1) / (x(x+1)) (struck) | (ii) f(x) = (x^2+x+1)/(x^2-x+1) (struck) | (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) | (iv) f(x) = (x^2+1)/x | handwritten (2): y = (x^2+x+1)/(x^2-x+1) in [1/3, 3]; Real: x^2 y - xy + y = x^2 + x + 1; (y-1)x^2 - (y+1)x + (y-1) = 0 (red box) 'Quad. in x'; => D >= 0; (-(y+1))^2 - 4(y-1)(y-1) >= 0; y^2 + 2y + 1 - 4(y^2 - 2y + 1) >= 0; -3y^2 + 10y - 3 >= 0; 3y^2 - 10y + 3 <= 0; (3y-1)(y-3) <= 0",
+   "diagram": "none"
+  },
+  "14": {
+   "type": "solution-handwritten",
+   "topic": "Bumper (ii) concluded + check",
+   "verified_text": "(handwritten) y = (x^2+x+1)/(x^2-x+1) ---- (1); (y-1)x^2 - (y+1)x + (y-1) = 0 (red box); y != 1 (circled); => D >= 0; (3y-1)(y-3) <= 0; wavy curve + - + at 1/3, 3; # y in [1/3, 3] | Check: coeff. of x^2 = y - 1 = 0; y = 1 (circled); 1 = (x^2+x+1)/(x^2-x+1); x^2 - x + 1 = x^2 + x + 1; 0 = 2x; x = 0 (circled, tick)"
+  },
+  "15": {
+   "type": "solution-handwritten",
+   "topic": "Bumper (i) worked + check",
+   "verified_text": "(handwritten) (1): y = (x^2+x-2)/(x^2+x) (red box) -(1); x^2 y + xy = x^2 + x - 2; (y-1)x^2 + (y-1)x + 2 = 0 (red box) 'Quad.'; D >= 0; (y-1)^2 - 4(y-1)(2) >= 0; (y-1){y-1-8} >= 0; (y-1)(y-9) >= 0; wavy curve + - + at 1, 9; y in (-infinity, 1] U [9, infinity); Check: y-1 = 0 => y = 1 (circled) 'Remove.'; 1 = (x^2+x-2)/(x^2+x); x^2+x = x^2+x-2; 0 = -2 (boxed) -> 'No value of x obtained'; therefore y in (-infinity, 1) U [9, infinity) (red box)"
+  },
+  "16": {
+   "type": "question",
+   "topic": "Bumper (iii) cancelled factor",
+   "verified_text": "Bumper Question | Find range of following function : | (i)-(iv) list repeated; stars at (iii) | handwritten: 'Impost' [sic, likely 'Important']; (iii) f(x) = (x^2+2x-3)/(x^2-8x+7) (red box) = (x+3)(x-1) / (x-1)(x-7) (cancelled); # x in R - {1, 7}; y = (x+3)/(x-7); y in R - {1, -2/3} (red box); cyan: x = 1, x - 1 = 0 (circled); 'value of y corrsp. to cancelled factor'"
+  },
+  "17": {
+   "type": "handwritten",
+   "topic": "cancelled-factor example 2",
+   "verified_text": "(handwritten) ex: y = (2x-1)(x+3) / (x-3)(2x-1) (cancelled); # x in R - {3, 1/2}; x = 1/2 -> y = -7/5; x = 1/2 (red box); y = (x+3)/(x-3); y in R - {1, -7/5} (red box on -7/5)"
+  },
+  "18": {
+   "type": "solution-handwritten",
+   "topic": "Bumper (iv) y = (x^2+1)/x",
+   "verified_text": "(handwritten) (iv) y = (x^2+1)/x ; 'Quad / Linear' arrows; xy = x^2 + 1; 1x^2 - yx + 1 = 0 (cloud); D >= 0; (-y)^2 - 4x1 >= 0; y^2 - 4 >= 0; (y-2)(y+2) >= 0; wavy curve + - + at -2, 2; y in (-infinity, -2] U [2, infinity) (red box, double tick)"
+  },
+  "19": {
+   "type": "question",
+   "topic": "Question [JEE (Adv.)-2021] range",
+   "verified_text": "Question [JEE (Adv.)-2021] | Let f : R -> R be defined by f(x) = (x^2 - 3x - 6)/(x^2 + 2x + 4) (red box). Find range. | handwritten: y = (x^2-3x-6)/(x^2+2x+4); x^2 y + 2xy + 4y = x^2 - 3x - 6; (y-1)x^2 + (2y+3)x + (4y+6) = 0 (red box); D >= 0; (2y+3)^2 - 4(y-1)(4y+6) >= 0; -12y^2 + 4y + 33 >= 0; 12y^2 - 4y - 33 <= 0; 12y^2 + 18y - 22y - 33 <= 0; 6y(2y+3) - 11(2y+3) <= 0; (2y+3)(6y-11) <= 0; wavy curve + - + at -3/2, 11/6",
+   "diagram": "two wavy-curve sign charts (orange)"
+  },
+  "20": {
+   "type": "solution-handwritten",
+   "topic": "JEE Adv 2021 concluded + check",
+   "verified_text": "(handwritten) y = (x^2-3x-6)/(x^2+2x+4); (y-1)x^2 + (2y+3)x + (4y+6) = 0 (red box, x^2 circled); D >= 0; (2y+3)(6y-11) <= 0; wavy curve + - + at -3/2, 11/6; y in [-3/2, 11/6] 'fnf.' [sic, likely 'final'] | Check: y - 1 = 0 => y = 1 (circled); 1 = (x^2-3x-6)/(x^2+2x+4); x^2+2x+4 = x^2-3x-6; 5x = -10; x = -2 (circled, tick)"
+  },
+  "21": {
+   "type": "question",
+   "topic": "Critical Thinking Question (CTQ) - HW",
+   "verified_text": "Critical Thinking Question (CTQ) | If the range of the function f(x) = (x^2 + ax + b)/(x^2 + 2x + 3) is [-5, 4], a, b in N, then find the value of (a^2 + b^2) | (handwritten cyan circled marker: HW.)",
+   "markers": [
+    "HW (handwritten, cyan circle)"
+   ]
+  },
+  "22": {
+   "type": "summary-handwritten",
+   "topic": "Summary of range methods",
+   "verified_text": "(handwritten) # S^Y [sic, heading]; bullet: y = ax^2+bx+c -> Graph / Range -> [-D/4a, infinity) or (-infinity, -D/4a] } x in R (underlined); bullet: y = ax^2+bx+c, x in [p, q) -> Graphical. | right: Range?; y = 2(h(x))^2 + 3 h(x) - 7; 'Quad. in h(x)'; h(x) = t; y = 2t^2 + 3t - 7, t in ...; down-arrow Range.",
+   "issues": [
+    "heading glyph '# S^Y' uncertain (likely 'Summary')"
+   ]
+  },
+  "23": {
+   "type": "handwritten",
+   "topic": "Summary cont. - imposters of rational range",
+   "verified_text": "(handwritten) # S^4 [sic heading marker] | V-I: red circle with ratios b1/b2 , c/c1 [UNCLEAR fractions] -> y = (ax+b)/(cx+d) (tick); cyan circle: 'Be aware Imposters!!' | V-2: y = a1/a2 , b1/b2 , c1/c2 , a/L [UNCLEAR last fraction]; 'Quad. in x'; D >= 0; * y in ...; 'Check.'",
+   "issues": [
+    "circled ratio glyphs in V-I and last fraction of V-2 uncertain at source resolution"
+   ]
+  },
+  "24": {
+   "type": "theory",
+   "topic": "COMMON ROOT CONDITION - Case I",
+   "verified_text": "COMMON ROOT CONDITION (stars) | Case - I : If both roots are common | a1 x^2 + b1 x + c1 = 0 (roots alpha, beta) | a2 x^2 + b2 x + c2 = 0 (roots alpha, beta) | # Cond^n : a1/a2 = b1/b2 = c1/c2 (red box) | ex: x^2 - 5x + 6 = 0 (roots 2, 3); 7x^2 - 35x + 42 = 0 (roots 2, 3)"
+  },
+  "25": {
+   "type": "question-handwritten",
+   "topic": "Common root numeric (a^3+b^3+c^3)/3abc",
+   "verified_text": "(handwritten) Ques: { ax^2 + bx + c = 0 ; 7x^2 - 6x + 5 = 0 } both Roots are common | a/7 = b/(-6) = c/5 = k; a = 7k; b = -6k; c = 5k | Then (a^3 + b^3 + c^3)/(3abc) = ?? | (7^3 k^3 - 6^3 k^3 + 5^3 k^3) / (3 x (7k)(-6k)(5k)) = (7^3 - 6^3 + 5^3)/(-630)"
+  },
+  "26": {
+   "type": "proof-handwritten",
+   "topic": "Proof of common-root alpha formula",
+   "verified_text": "(handwritten) # Proof: a1 x^2 + b1 x + c1 = 0 (roots alpha, beta); a2 x^2 + b2 x + c2 = 0 (roots alpha, gamma) | substitute alpha: a1 alpha^2 + b1 alpha + c1 = 0 ; a2 alpha^2 + b2 alpha + c2 = 0 | x a2: a2 a1 alpha^2 + a2 b1 alpha + a2 c1 = 0 | x a1: a1 a2 alpha^2 + a1 b2 alpha + a1 c2 = 0 | (subtract) | x b2: b2 a1 alpha^2 + b2 b1 alpha + b2 c1 = 0 | x b1: b1 a2 alpha^2 + b2 b1 alpha + b1 c2 = 0 | (subtract) alpha^2 = (b1 c2 - b2 c1)/(b2 a1 - a2 b1) | right: alpha(a2 b1 - a1 b2) + (a2 c1 - a1 c2) = 0; alpha = (a1 c2 - a2 c1)/(a2 b1 - a1 b2) (red box)"
+  },
+  "27": {
+   "type": "proof-handwritten",
+   "topic": "Common-root condition derived",
+   "verified_text": "(handwritten) equations with roots alpha,beta / alpha,gamma | alpha = (a1 c2 - a2 c1)/(a2 b1 - a1 b2) (cyan, red box) | alpha^2 = (b1 c2 - b2 c1)/(b2 a1 - a2 b1) (red box) | ((a1 c2 - a2 c1)/(a2 b1 - a1 b2))^2 = (b1 c2 - b2 c1)/(b2 a1 - a2 b1) | => (a1 c2 - a2 c1)^2 = (b1 c2 - b2 c1)(a1 b2 - a2 b1) (red box)"
+  },
+  "28": {
+   "type": "proof-handwritten",
+   "topic": "Common-root condition + determinant form",
+   "verified_text": "(handwritten) (a1 c2 - a2 c1)^2 = (b1 c2 - b2 c1)(a1 b2 - a2 b1) (red box) | cross-multiply sketch of the two quadratics | (a1 b2 - a2 b1)(b1 c2 - b2 c1) = (a1 c2 - a2 c1)^2 | determinant form (cyan): |a1 b1; a2 b2| . |b1 c1; b2 c2| = |a1 c1; a2 c2|^2"
+  },
+  "29": {
+   "type": "handwritten",
+   "topic": "2x2 determinant cross-rule examples",
+   "verified_text": "(handwritten) # |a b; c d| = ad - bc (cross rule) | |2 4; 5 3| = 6 - 20 = -14 | |2 -1; 4 -3| = -6 - (-4) = -2 | |2 -3; 8 5| = 10 - (24) = 34 [UNCLEAR: final value glyph reads 34 or 39]",
+   "issues": [
+    "third determinant final value: 34 vs 39"
+   ]
+  },
+  "30": {
+   "type": "theory",
+   "topic": "COMMON ROOT CONDITION - Case II",
+   "verified_text": "COMMON ROOT CONDITION | Case - II : If atleast one root are common [sic] | a1 x^2 + b1 x + c1 = 0 | a2 x^2 + b2 x + c2 = 0 | (a1 b2 - a2 b1)(b1 c2 - b2 c1) = (a1 c2 - a2 c1)^2. (red box, tick) | |a1 b1; a2 b2| . |b1 c1; b2 c2| = |a1 c1; a2 c2|^2 (red box, tick) | cyan: 'Atleast 1 Root common' -> '1 Root common' / '2 Roots common.'"
+  },
+  "31": {
+   "type": "question",
+   "topic": "Question: common root, find p",
+   "verified_text": "Question | Find the value of p if the equation 3x^2 - 2x + p = 0 and 6x^2 - 17x + 12 = 0 have a common roots. [sic] | handwritten: 3x^2 - 2x + p = 0; 6x^2 - 17x + 12 = 0; |3 -2; 6 -17| x |-2 p; -17 12| = |3 p; 6 12|^2; (-51 + 12)(-24 + 17p) = (36 - 6p)^2; # p = (tick, value not written)"
+  },
+  "32": {
+   "type": "question",
+   "topic": "Question [JEE Mains-2023] common root, beta (HW)",
+   "verified_text": "Question [JEE Mains-2023] | If the value of real number a > 0 for which x^2 - 5ax + 1 = 0 and x^2 - ax - 5 = 0 have a common real roots is 3/sqrt(2 beta), then beta is equal to | (handwritten white circled marker: HW.)",
+   "markers": [
+    "HW (handwritten, white circle)"
+   ]
+  },
+  "33": {
+   "type": "divider",
+   "topic": "DO IT BY YOURSELF (DIBY)",
+   "verified_text": "DO IT BY YOURSELF (DIBY)"
+  },
+  "34": {
+   "type": "diby",
+   "topic": "GRAPH OF QUADRATIC - DIBY-36 (repeat slide)",
+   "verified_text": "GRAPH OF QUADRATIC | # DIBY-36 | Consider the graph f(x) = ax^2 + bx + c and comment on sign of following parts: (i) (abc) is ___. (ii) (4a + 2b + c) is ___. (iii) for all x > 3, f(x) is ___. (iv) For all -2 < x < 3, f(x) is ___. (v) D is ___. (vi) (a - b + c).(9a - 3b + c) is ___. | Ans. : (i) +ve, (ii) -ve, (iii) +ve, (iv) -ve, (v) +ve, (vi) -ve",
+   "diagram": "yellow upward parabola, roots -2 and 3",
+   "diby": [
+    {
+     "printed_label": "# DIBY-36",
+     "prompt": "Consider the graph f(x)=ax^2+bx+c and comment on sign of following parts: (i)(abc) (ii)(4a+2b+c) (iii) for all x>3, f(x) (iv) For all -2<x<3, f(x) (v) D (vi) (a-b+c).(9a-3b+c)",
+     "answer": "(i) +ve, (ii) -ve, (iii) +ve, (iv) -ve, (v) +ve, (vi) -ve"
+    }
+   ]
+  },
+  "35": {
+   "type": "diby",
+   "topic": "DIBY-37(Challenger) (repeat slide)",
+   "verified_text": "GRAPH OF QUADRATIC | # DIBY-37(Challenger) | Draw the graph of quadratic (y = ax^2 + bc + c) [sic - as printed] in each part with given conditions: (i) Roots are 3 & 7 and crosses y-axis at (0, -2) (ii) Imaginary roots with vertex at (-3/4, 1/2) and a - b + c = 2. (iii) Touches x-axis at x = -3 and value at x = 2 is -8. | Also find value of a, b & c in each case.",
+   "diby": [
+    {
+     "printed_label": "# DIBY-37(Challenger)",
+     "prompt": "Draw the graph of quadratic (y = ax^2 + bc + c) [sic] in each part with given conditions: (i) Roots are 3 & 7 and crosses y-axis at (0,-2) (ii) Imaginary roots with vertex at (-3/4, 1/2) and a-b+c=2. (iii) Touches x-axis at x=-3 and value at x=2 is -8. Also find value of a, b & c in each case.",
+     "answer": "see L09 p30 (same slide): (i) a=-2/21,b=20/21,c=-2 (ii) a=24,b=36,c=14 (iii) a=-8/25,b=-48/25,c=-72/25"
+    }
+   ]
+  },
+  "36": {
+   "type": "diby-answer",
+   "topic": "DIBY-37(Answer) (repeat slide)",
+   "verified_text": "GRAPH OF QUADRATIC | # DIBY-37(Answer) | (i) a = -2/21, b = 20/21, c = -2 | (ii) a = 24, b = 36, c = 14 | (iii) a = -8/25, b = -48/25, c = -72/25",
+   "diagram": "three parabola sketches",
+   "diby": [
+    {
+     "printed_label": "# DIBY-37(Answer)",
+     "prompt": "(answers to DIBY-37)",
+     "answer": "(i) a=-2/21, b=20/21, c=-2; (ii) a=24, b=36, c=14; (iii) a=-8/25, b=-48/25, c=-72/25"
+    }
+   ]
+  },
+  "37": {
+   "type": "diby",
+   "topic": "DIBY-38 & DIBY-39 (repeat slides)",
+   "verified_text": "GRAPH OF QUADRATIC | # DIBY-38 | If the equation ax^2 + bc + c = 0, (a > 0) [sic] has two real roots alpha and beta such that alpha < -2 and beta > 2, then which of the following statements is/are true? (A) a - |b| + c < 0 (B) c < 0, b^2 - 4ac > 0 (C) 4a - 2|b| + c < 0 (D) 9a - 3|b| + c < 0 | [Ans.: A, B, C] | # DIBY-39 | The adjoining figure shows the graph of y = ax^2 + bx + c. Then (A) a < 0 (B) b^2 < 4ax (C) c > 0 (D) a and b are of opposite sign | [Ans.: A, D]",
+   "diagram": "downward parabola with positive roots x1, x2",
+   "diby": [
+    {
+     "printed_label": "# DIBY-38",
+     "prompt": "If the equation ax^2 + bc + c = 0, (a > 0) [sic] has two real roots alpha and beta such that alpha < -2 and beta > 2, then which of the following statements is/are true?",
+     "options": [
+      "(A) a - |b| + c < 0",
+      "(B) c < 0, b^2 - 4ac > 0",
+      "(C) 4a - 2|b| + c < 0",
+      "(D) 9a - 3|b| + c < 0"
+     ],
+     "answer": "A, B, C"
+    },
+    {
+     "printed_label": "# DIBY-39",
+     "prompt": "The adjoining figure shows the graph of y = ax^2 + bx + c. Then",
+     "options": [
+      "(A) a < 0",
+      "(B) b^2 < 4ax",
+      "(C) c > 0",
+      "(D) a and b are of opposite sign"
+     ],
+     "answer": "A, D"
+    }
+   ]
+  },
+  "38": {
+   "type": "diby",
+   "topic": "DIBY-40 & DIBY-41 (repeat slides)",
+   "verified_text": "RANGE OF QUADRATIC | # DIBY-40 | Find the range of f(x): (i) f(x) = 2x^2 - 3x + 2 (ii) f(x) = 2x^2 - 3x + 2, x in [0, 2] | [Ans.: (i) [7/8, infinity), (ii) [7/8, 4]] | # DIBY-41 | Find range of following functions: (i) f(x) = 3x^2 - 2x - 7 (ii) f(x) = 3x^2 - 2x - 7, x in (0, 5] (iii) f(x) = 3x^2 - 2x - 7, x in [-6, -1] | [Ans.: (i) [-22/3, infinity), (ii) [-22/3, 58], (iii) [-2, 113]]",
+   "diby": [
+    {
+     "printed_label": "# DIBY-40",
+     "prompt": "Find the range of f(x): (i) f(x)=2x^2-3x+2 (ii) f(x)=2x^2-3x+2, x in [0,2]",
+     "answer": "(i) [7/8, inf), (ii) [7/8, 4]"
+    },
+    {
+     "printed_label": "# DIBY-41",
+     "prompt": "Find range of following functions: (i) f(x)=3x^2-2x-7 (ii) f(x)=3x^2-2x-7, x in (0,5] (iii) f(x)=3x^2-2x-7, x in [-6,-1]",
+     "answer": "(i) [-22/3, inf), (ii) [-22/3, 58], (iii) [-2, 113]"
+    }
+   ]
+  },
+  "39": {
+   "type": "diby",
+   "topic": "DIBY-42 & DIBY-43",
+   "verified_text": "RANGE OF RATIONAL FUNCTION | # DIBY-42 | If the range of the function f(x) = (5 - x)/(x^2 - 3x + 2), x != 1, 2, is (-infinity, alpha] U [beta, infinity), then alpha^2 + beta^2 is equal to: (A) 190 (B) 192 (C) 188 (D) 194 [JEE Mains-2025] | [Ans.: (D)] | # DIBY-43 | Let f : R - {2, 6} -> R be real valued function defined as f(x) = (x^2 + 2x + 1)/(x^2 - 8x + 12). Then range of f is [JEE Mains-2023] (A) (-inf, -21/4] U [0, inf) (B) (-inf, -21/4) U (0, inf) (C) (-inf, -21/4] U [21/4, inf) (D) (-inf, -21/4] U [1, inf) | [Ans.: (A)]",
+   "diby": [
+    {
+     "printed_label": "# DIBY-42",
+     "prompt": "If the range of the function f(x) = (5-x)/(x^2-3x+2), x != 1,2, is (-inf, alpha] U [beta, inf), then alpha^2 + beta^2 is equal to:",
+     "options": [
+      "(A) 190",
+      "(B) 192",
+      "(C) 188",
+      "(D) 194"
+     ],
+     "answer": "(D)"
+    },
+    {
+     "printed_label": "# DIBY-43",
+     "prompt": "Let f : R - {2,6} -> R be real valued function defined as f(x) = (x^2+2x+1)/(x^2-8x+12). Then range of f is",
+     "options": [
+      "(A) (-inf,-21/4] U [0,inf)",
+      "(B) (-inf,-21/4) U (0,inf)",
+      "(C) (-inf,-21/4] U [21/4,inf)",
+      "(D) (-inf,-21/4] U [1,inf)"
+     ],
+     "answer": "(A)"
+    }
+   ]
+  },
+  "40": {
+   "type": "diby",
+   "topic": "DIBY-44, 45, 46",
+   "verified_text": "RANGE OF RATIONAL FUNCTION | # DIBY-44 | Let the sum of the maximum and the minimum values of the function f(x) = (2x^2 - 3x + 8)/(2x^2 + 3x + 8) be m/n, where gcd(m, n) = 1. Then m + n is equal to [JEE Mains-2024] (A) 195 (B) 201 (C) 217 (D) 182 | [Ans.: (B)] | # DIBY-45 | Show that if x is real then (x^2 - 3x + 4)/(x^2 + 3x + 4) lies from 1/7 and 7. | # DIBY-46 | Find the range of : f(x) = (x^2 + x + 2)/(x^2 + x + 1), x in R [IITJEE-2003] | [Ans.: (1, 7/3]]",
+   "diby": [
+    {
+     "printed_label": "# DIBY-44",
+     "prompt": "Let the sum of the maximum and the minimum values of the function f(x) = (2x^2-3x+8)/(2x^2+3x+8) be m/n, where gcd(m,n)=1. Then m+n is equal to",
+     "options": [
+      "(A) 195",
+      "(B) 201",
+      "(C) 217",
+      "(D) 182"
+     ],
+     "answer": "(B)"
+    },
+    {
+     "printed_label": "# DIBY-45",
+     "prompt": "Show that if x is real then (x^2-3x+4)/(x^2+3x+4) lies from 1/7 and 7. [sic]",
+     "answer": ""
+    },
+    {
+     "printed_label": "# DIBY-46",
+     "prompt": "Find the range of : f(x) = (x^2+x+2)/(x^2+x+1), x in R",
+     "answer": "(1, 7/3]"
+    }
+   ]
+  },
+  "41": {
+   "type": "diby",
+   "topic": "DIBY-47, 48, 49",
+   "verified_text": "RANGE OF RATIONAL FUNCTION | # DIBY-47 | We call 'p' a good number if the inequality (2x^2 + 2x + 3)/(x^2 + x + 1) <= p is satisfied for any real x. Find the smallest integral good number. | [Ans.: 4] | # DIBY-48 | If alpha, beta are the roots of equation x^2 + x - 2 = 0, then find the value of (alpha beta^4 (beta+1)^4 + beta alpha^4 (alpha+1)^4)/(alpha^2 + beta^2 + alpha + beta). | # DIBY-49 | The minimum value of the sum of the squares of the roots of x^2 + (3 - a)x + 1 = 2a is: | [Ans.: 6]",
+   "diby": [
+    {
+     "printed_label": "# DIBY-47",
+     "prompt": "We call 'p' a good number if the inequality (2x^2+2x+3)/(x^2+x+1) <= p is satisfied for any real x. Find the smallest integral good number.",
+     "answer": "4"
+    },
+    {
+     "printed_label": "# DIBY-48",
+     "prompt": "If alpha, beta are the roots of equation x^2+x-2=0, then find the value of (alpha beta^4 (beta+1)^4 + beta alpha^4 (alpha+1)^4)/(alpha^2+beta^2+alpha+beta).",
+     "answer": ""
+    },
+    {
+     "printed_label": "# DIBY-49",
+     "prompt": "The minimum value of the sum of the squares of the roots of x^2 + (3-a)x + 1 = 2a is:",
+     "answer": "6"
+    }
+   ]
+  },
+  "42": {
+   "type": "diby",
+   "topic": "DIBY-50 & DIBY-51",
+   "verified_text": "RANGE OF RATIONAL FUNCTION | # DIBY-50 | The number of real solutions of the equation 3(x^2 + 1/x^2) - 2(x + 1/x) + 5 = 0, is [JEE Mains-2023] (A) 4 (B) 0 (C) 3 (D) 2 | Ans.: (B) | COMMON ROOT CONDITION | # DIBY-51 | If x^2 + 4ax + 3 = 0 and 2x^2 + 3ax - 9 = 0 have a common root then the value of |a| is (A) 1 (B) 0 (C) -1 (D) None of these | [Ans.: A]",
+   "diby": [
+    {
+     "printed_label": "# DIBY-50",
+     "prompt": "The number of real solutions of the equation 3(x^2+1/x^2) - 2(x+1/x) + 5 = 0, is",
+     "options": [
+      "(A) 4",
+      "(B) 0",
+      "(C) 3",
+      "(D) 2"
+     ],
+     "answer": "(B)"
+    },
+    {
+     "printed_label": "# DIBY-51",
+     "prompt": "If x^2+4ax+3=0 and 2x^2+3ax-9=0 have a common root then the value of |a| is",
+     "options": [
+      "(A) 1",
+      "(B) 0",
+      "(C) -1",
+      "(D) None of these"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  "43": {
+   "type": "homework",
+   "topic": "Homework",
+   "verified_text": "Homework | # Re-attempt all Class Examples | # DPP & DIBY | # Module: (3 sittings of 1 HR each) | Exercise-02(Prabal): 1 to 10, 13, 16, 18 to 25. | Exercise-03(Setu): 1 to 30 (except-13, 16, 17, 21, 25, 26, 29)"
+  },
+  "44": {
+   "type": "closing",
+   "topic": "Thank You slide",
+   "verified_text": "It is never about end result / It's always about Journey | Thank You | #futureIITians [glyphs render '#futurellTians']",
+   "issues": [
+    "hashtag glyph ambiguity I vs l"
+   ]
+  }
+ }
+}
