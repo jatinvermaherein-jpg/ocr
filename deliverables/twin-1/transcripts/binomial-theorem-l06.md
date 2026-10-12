@@ -266,3 +266,12 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 - **# DIBY-39** — **The coefficient of** `x^70` **in** `x²(1 + x)^98 + x³(1 + x)^97 + x⁴(1 + x)^96 + … + x^54(1 + x)^46` **is** `99Cp − 46Cq`. **Then a possible value to** `p + q` **is:** (again inside a printed **red rectangle**) **[JEE Mains–2024]** `(A) 55 (B) 61 (C) 68 (D) 83` → **[Ans.: (D)]**
 **H:** two identical yellow annotations `A.G.P.` (arithmetic–geometric progression — the printed sums are GPs in `x/(1+x)`) written above the red rectangles of DIBY-38 and DIBY-39, each with a curved yellow arrow down onto the boxed expression; no other handwriting, no ticks.
 **DIBY:** three rows added (BT-L06-P39-DIBY-37 / -38 / -39). **U:** none.
+---
+<a id="p40"></a>
+## p40 · DIBY block (contd.) — # DIBY-40, # DIBY-41, # DIBY-42 · label: — (yellow banner, no page number)
+**P:** yellow banner **FINDING COEFFICIENTS**; three green-tagged items:
+- **# DIBY-40** — **The coefficient of** `x^7` **in the expression** `(1 + x)^10 + x(1 + x)^9 + x²(1 + x)^8 + … + x^10` **is:** **[JEE Mains–2020]** `(A) 210 (B) 330 (C) 420 (D) 120` → **[Ans.: (B)]**
+- **# DIBY-41** — **The coefficient of** `x^256` **in the expansion of** `(1 − x)^101 (x² + x + 1)^100` **is:** **[JEE Mains–2021]** `(A) −100C15 (B) 100C16 (C) −100C16 (D) 100C15` → **[Ans.: (D)]**
+- **# DIBY-42** — **The coefficient of** `x^2012` **in the expansion of** `(1 − x)^2008 (1 + x + x²)^2007` **is equal to** **[JEE Mains–2024]** → **[Ans.: (0)]** (short answer, the key printed as a literal zero in brackets)
+**H:** none — no board work on this slide either; the whole L06 DIBY block is presented as print-only practice.
+**DIBY:** three rows added (BT-L06-P40-DIBY-40 / -41 / -42). **U:** none.

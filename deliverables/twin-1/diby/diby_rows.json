@@ -1062,5 +1062,47 @@
   "prompt_verbatim": "The coefficient of x^70 in x^2(1 + x)^98 + x^3(1 + x)^97 + x^4(1 + x)^96 + ... + x^54(1 + x)^46 is 99Cp - 46Cq. Then a possible value to p + q is: [JEE Mains-2024]",
   "options": "(A) 55   (B) 61   (C) 68   (D) 83",
   "visible_solution_answer": "Ans.: (D) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 40,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-40 (printed, green tag)",
+  "printed_label": "DIBY-40",
+  "internal_id": "BT-L06-P40-DIBY-40",
+  "prompt_verbatim": "The coefficient of x^7 in the expression (1 + x)^10 + x(1 + x)^9 + x^2(1 + x)^8 + ... + x^10 is: [JEE Mains-2020]",
+  "options": "(A) 210   (B) 330   (C) 420   (D) 120",
+  "visible_solution_answer": "Ans.: (B) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 40,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-41 (printed, green tag)",
+  "printed_label": "DIBY-41",
+  "internal_id": "BT-L06-P40-DIBY-41",
+  "prompt_verbatim": "The coefficient of x^256 in the expansion of (1 - x)^101 (x^2 + x + 1)^100 is: [JEE Mains-2021]",
+  "options": "(A) -100C15   (B) 100C16   (C) -100C16   (D) 100C15",
+  "visible_solution_answer": "Ans.: (D) (printed)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "06",
+  "source_pdf": "Binomial Theorem 06 Class Notes.pdf",
+  "pdf_page": 40,
+  "qa_status": "QA-PASSED (twin-1)",
+  "uncertainty_note": "Printed DIBY slide, no handwriting; key read from the slide's own [Ans.:] line.",
+  "diby_marker": "# DIBY-42 (printed, green tag)",
+  "printed_label": "DIBY-42",
+  "internal_id": "BT-L06-P40-DIBY-42",
+  "prompt_verbatim": "The coefficient of x^2012 in the expansion of (1 - x)^2008 (1 + x + x^2)^2007 is equal to [JEE Mains-2024]",
+  "options": "(short-answer item - no options printed)",
+  "visible_solution_answer": "Ans.: (0) (printed)"
  }
 ]
