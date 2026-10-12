@@ -1,0 +1,72 @@
+[
+ {
+  "_key": "bt09",
+  "_page": 1,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "ARJUNA JEE 2027 title card, Lecture 09",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt09",
+  "_page": 2,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Topics to be covered A-D (D blank)",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt09",
+  "_page": 3,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "H.W. Discussion divider",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt09",
+  "_page": 4,
+  "source_page_label": "Page No. 161",
+  "topic_or_heading": "H.W. JEE MAINS-2023 19^200+23^200 mod 49, 18-star strip",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt09",
+  "_page": 5,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "2^201/49 via (7+1)^64, ringed 29; board uses 67 for 64C63",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ }
+]
