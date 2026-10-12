@@ -162,3 +162,58 @@ green `# DIBY-08` — **The sum of the coefficients of all the even powers of x 
 **DIBY:** none. **U:** none.
 
 ---
+<a id="p25"></a>
+## p25 · Question — numerically greatest term, x = 1/3 in (1+4x)⁸ · label: **Page No. 153**
+**P:** chip **Question**; **If x = 1/3, then the numerically greatest term in the expansion of (1 + 4x)⁸ is** — x = 1/3 green/yellow, `(1 + 4x)⁸` cyan; options **A ⁸C₄(4/3)⁴, B ⁸C₅(4/3)⁵, C ⁸C₃(4/3)³, D ⁸C₆(4/3)⁶**; yellow tick through **B**.
+**H:** orange at the top `(1 + 4/3)⁸ = ~~~~~~`; orange `(1+4x)⁸` over cyan `(a+b)ⁿ` with three ticks; orange `T₅₊₁ = ⁸C₅ (4/3)⁵`; cyan `a = 1`, `b = 4x = 4/3`; right cyan `n ≤ (n+1)/(1+|a/b|)` → `n ≤ (8+1)/(1+|3/4|)` → cyan in red box `4.14 ≤ n ≤ 5.14` → cyan circle `n = 5`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p26"></a>
+## p26 · Question [JEE (Adv.)–2025] — aᵣ largest in (1 + 2x/5)²³ · label: — (chip only)
+**P:** chip **Question [JEE (Adv.)–2025]**; **Let a₀, a₁, …, a₂₃ be real numbers such that (1 + (2/5)x)²³ = Σᵢ₌₀²³ aᵢxⁱ for every real number x. Let aᵣ be the largest among the numbers aⱼ for 0 ≤ j ≤ 23. Then the value of r is _______.**
+**H:** orange `6` in a circle written into the blank with pink `fnf` below; yellow restatement `(1 + 2x/5)²³ = a₀ + a₁x + a₂x² + a₃x³ + … … + a₂₃x²³` (green wavy + arrow beneath the bracket); green `aₙ = ²³Cₙ(2/5)ⁿ`; four orange circles round the first terms `²³C₀`, `²³C₁ 2/5`, `²³C₂ (2/5)²`, `²³C₃ (2/5)³` with blue leaders from the printed aᵢ's.
+**DIBY:** none. **U:** none (solution continues on p28).
+
+---
+<a id="p27"></a>
+## p27 · Question — numerically greatest term, x = 1 in (3 − 2x)⁹ · label: — (chip only)
+**P:** chip **Question**; **If x = 1, then the numerically greatest term in the expansion of (3 − 2x)⁹ is** — `(3 − 2x)⁹` cyan; options **A T₂ & T₃, B T₄, C T₄ & T₅, D None of these**; yellow tick through **C**.
+**H:** yellow `(a+b)ⁿ`, `a = 3`, `b = −2x = −2×1 = −2`, `n = 9` under a wavy leader from the printed bracket; centre `≤ n ≤ (9+1)/(1+|3/−2|)` → yellow in red box `3 ≤ n ≤ 4` → `n = 3, 4` → arrows to `T₄ , T₅`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p28"></a>
+## p28 · Board: NGT method applied to (1 + 2x/5)²³ → r = 6 · label: — (PW roundel)
+**H (all of it, orange/blue):** `a` → ①, `b` → ②⁄ in a circle, `n` → ②③ over blue `(1 + 2/5)`; blue arrow to an orange circle `NGT` with a cyan double underline; `n ≤ (23+1)/(1 + 5/2)`; `5.~~~ ≤ n ≤ 6.~~~` ↷ orange circle `n = 6` ↷ `T is NGT` (wavy); right `T₇ = ²³C₆ (2/5)⁶` double-underlined, arrow down to `a₆`.
+**DIBY:** none (this is the working for p26's answer 6). **U:** none.
+
+---
+<a id="p29"></a>
+## p29 · Question [JEE Mains–2022] — 9ᵗʰ term greatest in (3+6x)ⁿ, H.W. · label: **Page No. 153**
+**P:** chip **Question [JEE Mains–2022]**; **Let for the 9ᵗʰ term in the binomial expansion of (3 + 6x)ⁿ, in the increasing powers of 6x, to be the greatest for x = 3/2, the least value of n is n₀. If k is the ratio of the coefficient of x⁶ to the coefficient of x³, then k + n₀ is equal to** — `(3 + 6x)ⁿ` green, `x = 3/2` yellow, `k + n₀` cyan.
+**H:** orange `H.W.` in a hand-drawn circle with a double underline and a dot — no working.
+**DIBY:** none (H.W. tag only). **U:** none.
+
+---
+<a id="p30"></a>
+## p30 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 01 · label: **Page No. 154**
+**P:** banner **PROPERTIES OF BINOMIAL COEFFICIENT** (clipboard icon); **Binomial coefficient or combinatorial coefficient denoted as** — red boxes **ⁿCᵣ** or **(ⁿᵣ)** or **Cᵣ**; green **`# Property – 01`**; **(i)** red box **ⁿCᵣ = ⁿCₙ₋ᵣ**; **(ii) If** red box **ⁿCₓ = ⁿCᵧ** **then:**.
+**H:** cyan leader from (i) to cyan `ex:` `⁵C₃ = C₂ ✓` and `¹⁵C₄ = ¹⁵C₈ ✓`; yellow `x = y` in a red box, `or`, `x + y = n` in a red box with a yellow flourish through it.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p31"></a>
+## p31 · Question — ²³C₄ₙ₋₃ = ²³Cₙ₊, sum of values of n · label: — (chip only)
+**P:** chip **Question**; **If ²³C₄ₙ₋₃ = ²³Cₙ₊₆, then sum of all possible values of n is _____** — the two subscripts green with wavy underlines, `n` cyan; yellow `7` in a circle written into the blank.
+**H:** yellow two-column working `4n−3 = n+6` (arc between the subscripts) ↷ `3n = 9` ↷ circle `n = 3`; `OR` double-underlined; `4n−3 + n+6 = 23` ↷ `5n = 20` ↷ circle `n = 4`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p32"></a>
+## p32 · PROPERTIES OF BINOMIAL COEFFICIENT — Property 02 (addition), proved on the board · label: **Page No. 154**
+**P:** banner **PROPERTIES OF BINOMIAL COEFFICIENT**; green **`# Property – 02 :`** white **Addition of Binomial coefficient**; a large empty red rectangle under the heading (the identity itself is written into it by hand).
+**H:** pink inside that red box `ⁿC + ⁿCᵣ₋₁ = ⁿ⁺¹Cᵣ`; orange `Proof:` `LHS = n!/(r!(n−r)!) + n!/((r−1)!(n−r+1)!)` with both `n!` circled green and `r!`, `(n−r)!`, `(n−r+1)!` annotated to `r(r−1)!` and `(n−r+1)(n−r)!`; right `= n!/((r−1)!(n−r)!) { 1/r + 1/(n−r+1) }` → `n!(n+1)/(r(r−1)!(n−r+1)(n−r)!)` with `(n+1)`, `r`, `(n−r+1)` each in red boxes → `= (n+1)!/(r!(n−r+1)!)`.
+**DIBY:** none. **U:** none.
+
+---

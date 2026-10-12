@@ -131,14 +131,14 @@ Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,21,—,"Example: coeff o
 Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,22,Page No. 153,Topic card NUMERICALLY GREATEST TERM: |Tr| <= |Tr+1| >= |Tr+2|,binomial-theorem-l04#p22,full,"'without sign' tag, expansion to binomial form",NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
 Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,23,—,Board: (x+3)^4 and (x-3)^4 term-by-term with values 16/96/216/216/81,binomial-theorem-l04#p23,full,"two lines, coefficients ringed",NO,,1,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
 Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,24,Page No. 153,NUMERICALLY GREATEST TERM: solve (n+1)/(1+|a/b|) - 1 <= r <= (n+1)/(1+|a/b|),binomial-theorem-l04#p24,full,orange '-1' arc,NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,25,,,binomial-theorem-l04#p25,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,26,,,binomial-theorem-l04#p26,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,27,,,binomial-theorem-l04#p27,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,28,,,binomial-theorem-l04#p28,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,29,,,binomial-theorem-l04#p29,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,30,,,binomial-theorem-l04#p30,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,31,,,binomial-theorem-l04#p31,,,,,,,PENDING,,
-Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,32,,,binomial-theorem-l04#p32,,,,,,,PENDING,,
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,25,Page No. 153,"Question: numerically greatest term, x=1/3 in (1+4x)^8 - B 8C5(4/3)^5 ticked",binomial-theorem-l04#p25,full,"NGT inequality, 4.14<=n<=5.14, n=5",NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,26,—,"Question [JEE (Adv.)-2025]: a_r largest among coefficients of (1+2x/5)^23, find r",binomial-theorem-l04#p26,full,"r=6 circled in the blank, term list ringed",NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,27,—,"Question: numerically greatest term, x=1 in (3-2x)^9 - C T4 & T5 ticked",binomial-theorem-l04#p27,full,3<=n<=4 board,NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,28,—,"Board: NGT for (1+2x/5)^23 -> n<=24/(1+5/2), n=6, T7 is NGT",binomial-theorem-l04#p28,full,full board,NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,29,Page No. 153,Question [JEE Mains-2022]: 9th term greatest in (3+6x)^n for x=3/2; k+n0 - marked H.W.,binomial-theorem-l04#p29,full,circled H.W. tag,NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,30,Page No. 154,PROPERTIES OF BINOMIAL COEFFICIENT - Property 01 (symmetry + equal-C rule),binomial-theorem-l04#p30,full,"examples 5C3=5C2, 15C4=15C8; x=y or x+y=n",NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,31,—,"Question: 23C(4n-3) = 23C(n+6), sum of n = 7",binomial-theorem-l04#p31,full,n=3 and n=4 columns,NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
+Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,32,Page No. 154,"PROPERTIES OF BINOMIAL COEFFICIENT - Property 02 addition, identity written into the empty red box",binomial-theorem-l04#p32,full,full factorial proof,NO,,0,visual transcription from rendered page (PDF has no text layer),QA-PASSED,twin-1,2026-10-12T10:34Z
 Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,33,,,binomial-theorem-l04#p33,,,,,,,PENDING,,
 Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,34,,,binomial-theorem-l04#p34,,,,,,,PENDING,,
 Binomial Theorem,04,Binomial Theorem 04 Class Notes.pdf,35,,,binomial-theorem-l04#p35,,,,,,,PENDING,,
