@@ -37,3 +37,15 @@ The plan assigns Twin 1 the branch `ocr/twin-1-binomial-pc01-04`, but this Arena
 
 **F-06 · DIBY chain spans files.** L02 p22 sets a question with a handwritten `90% DIBY` + `H.W.`; L02 p38 prints the same item as **DIBY-06** (different option order); L03 p08 contains the worked solution. The DIBY register entry for DIBY-06 now points to L03 p08. Any worker de-duplicating by question text across files must not drop either copy.
 **F-07 · Printed DIBY blocks exist.** L02 p36–p38 carry `# DIBY-01`…`# DIBY-06` with printed `[Ans.: …]`, including one answer field printed as `....` (DIBY-05). Expect the same block shape in later lectures; L01 had only a handwritten `DIBY-X`.
+
+## Batch 6 (Binomial Theorem L03 p25–p35)
+- **U-11 | Binomial Theorem L03 | p27 | low→med | open-top digit** — power list for `(2+x^3)^5` written `x^0, x^3, x^5, x^9, x^12`; the third entry should be `x^6` (open-top ⁶ vs ⁵ hazard). Transcribed as drawn; page 27 top-right.
+- **U-12 | Binomial Theorem L03 | p25 | low | unfinished board** — two coefficient blanks (`___ x^7 × ___ x^30`, `~~~ x^0 × ~~~ x^0`) are left unfilled on the slide; nothing to disambiguate, recorded as-is.
+- **U-13 | Binomial Theorem L03 | p16 | low | printed defect** — red chip prints `IVRTTATIONAL` where `IRRATIONAL` is meant (transcribed as printed; not a handwriting ambiguity).
+- **U-14 | Binomial Theorem L03 | p15 | low | handwriting** — single unreadable token before "is multiple of 4" in the yellow line; every other word on the page is legible.
+- **U-15 | Binomial Theorem L03 | p34 | low | printed defect** — hashtag printed `#futurellTians` (double l) on the closing card.
+## Findings (batch 6)
+- **F-08 | printed page labels are not monotonic** — L03 shows Page No. 149 (p12), 151 (p09, p13, p16), 152 (p21, p22, p23, p24, p25, p26), 153 (p28): module pages repeat and drift, so the transcript key is always the PDF page and the label is quoted per page.
+- **F-09 | DIBY numbering restarts inside one lecture** — L03 has `DIBY-01…DIBY-05` (p11, p14) *and* a second `DIBY-01…DIBY-12` (p31–p35). Same label, different question. The register therefore carries internal IDs (`BT-L03-P11-DIBY-01` vs `BT-L03-P31-DIBY-01`).
+- **F-10 | cross-file duplicate set, different answer keys** — L03 p31–p32 reproduces the six printed DIBY questions of L02 p37–p38 in a different order; L02's DIBY-05 answer line is blank (`....`) and L03 p32's DIBY-05 supplies `Ans.: 8` for that same question. Both rows kept; the L02 row now cross-references L03.
+- **F-11 | deck order anomaly** — the Thank-You card is PDF p34 while printed DIBY-10/11/12 sit on p35 after it; transcribed in PDF order with a note.
