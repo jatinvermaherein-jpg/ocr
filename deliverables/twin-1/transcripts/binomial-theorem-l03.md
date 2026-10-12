@@ -101,3 +101,48 @@
 **DIBY:** none. **U:** none.
 
 ---
+## p17 · Question [JEE Mains–2020] — 33 integral terms, least n · label: **Page No. 152**
+**P:** chip **Question [JEE Mains–2020]**; **If the number of integral terms in the expansion of (3^{1/2} + 5^{1/8})ⁿ is exactly 33, then the least value of n is** — the clause **then the least value of n** inside a red rectangle, `n` cyan; options **A 264, B 128, C 256, D 248**.
+**H:** pink `ⁿCᵣ (3^{1/2})^{n−r} (5^{−1/8})ʳ` → `Tᵣ₊₁ = ⁿCᵣ 3^{(n−r)/2} 5^{r/8}`; cyan `0 ≤ r ≤ n`; cyan `(n−r)/2 = Int & r/8 = Int`; yellow `(n/2 − r/2) = Int` with `n/2`, `r/2` ringed pink; pink list `r = 0, 8, 16, 24 ……, 8×32` under a "33 Terms" arc with `8×0 8×1 8×2 8×3` sub-labels → `256` double-underlined; cyan `r = 0,8,16,24,32,40 … …` to a white-circled `256`; pink `n = [256]` (red box) `, 258, 260, 262, (264)` with 264 crossed ✗; pink `n → even` wavy; white tick through option **C**.
+**DIBY:** none. **U:** none.
+
+---
+## p18 · Question [JEE Mains–2024] — 824th power, integral terms (**DIBY-A**) · label: — (chip only)
+**P:** chip **Question [JEE Mains–2024]**; **Number of integral terms in the expansion of {7^{(1/2)} + 11^{(1/6)}}^{824} is equal to _________** (the braces/exponents cyan) — printed **Ans: 138** (138 green).
+**H:** white `# DIBY∘ — Ⓐ` (A inside a circle) with a double wavy underline — the teacher's own DIBY tag; no working on the slide.
+**DIBY:** YES — handwritten `DIBY — (A)`; no printed label → internal ID `BT-L03-P18-DIBY-INT-01` (internal). **U:** none.
+
+---
+## p19 · RAPID FIRE ROUND — four coefficient blanks, all filled on the board · label: — (chip only)
+**P:** chip **RAPID FIRE ROUND**; **1.** Coefficient of x^r in (1 + x)ⁿ is _____. **2.** Coefficient of x⁹ in (1 + 3x + 3x² + x³)¹⁵ is _____. **3.** Coefficient of x¹⁰ in x³(2 − 3x)⁹ is _____. **4.** Coefficient of x¹⁰ in (2x+5)¹⁷/x⁴ is _____.
+**H (answers written into the blanks):** 1 → green `ⁿCᵣ` (wavy, leader to green `ⁿC xʳ`); 2 → orange `⁴⁵C₉`; 3 → orange/pink `⁹C₇ 2² 3⁷`; 4 → cyan `coeff. of x¹⁴ in (2x+5)¹⁷` then pink `¹⁷C₃ 2¹⁴ 5³`; supporting work: magenta `¹⁷C (2x)^{14−r} 5^r = x^{14−r}` with `14−r` ringed; orange `((1+x)³)^{15} = (1+x)^{45}` → `⁴⁵Cᵣ x^r` (x^r ringed); white leader from item 4 down to `coeff of x¹⁰ in x³(2−3x)⁹ = coeff of x⁷ in (2−3x)⁹` — the `x³(2−3x)⁹` inside a red rectangle with a green `x⁷` below it, and yellow `⁹Cᵣ 2^{9−r}(−3)^r x^r` (x^r ringed).
+**DIBY:** none. **U:** none.
+
+---
+## p20 · Blue बादल (KPNCC) rule card · label: — (PW roundel)
+**P:** inside a blue cloud outlined yellow: **Blue बादल (KPNCC)** (white; Devanagari "बादल" = cloud) · **Before finding coefficient** (white, red rectangle) · **Always simplify → Given expression** (yellow). Acronym printed "KPNCC" — kept as printed.
+**H:** none. **DIBY:** none. **U:** none.
+
+---
+## p21 · Acidic Question — (1+x+x²+x³)¹⁵, find a₅ (**DIBY-B**) · label: **Page No. 152**
+**P:** chip **Acidic Question**; **If (1 + x + x² + x³)¹⁵ = a₀ + a₁x + a₂ x² + …., then find a₅ & also find total number of terms.** — the quartic bracket green inside a red rectangle, a₅ cyan.
+**H:** cyan tick above the prompt; pink circle round `a₅` with a pink leader to `coeff. of x⁵`; orange `((1+x+x²(1+x))¹⁵ = ((1+x)(1+x²))¹⁵` (wavy under 1+x and x²(1+x)); white `coeff. of x⁵ →` orange `(1+x)¹⁵ · (1+x²)¹⁵`; cyan `DIBY∘ — Ⓑ` (B circled) with a cyan arrow to `a₇ =` pink-in-red-box `coeff. of x⁷`.
+**DIBY:** YES — handwritten `DIBY — (B)`; internal ID `BT-L03-P21-DIBY-INT-02` (internal). **U:** none.
+
+---
+## p22 · Coefficient of x⁵ in (1+x)¹⁵(1+x²)¹⁵ · label: — (PW roundel)
+**H (all of it, split by a white dashed rule):** left — cyan `¹⁵C x^{ⓡ}` underbraced; white `coeff. of x⁵ →` with `(1+x)¹⁵` in a cyan cloud and `(1+x²)¹⁵` beside it; three cyan/orange pairings `¹⁵C₅ x⁵ × ¹⁵C₀ x⁰ = ¹⁵C₅ ×1 x⁵`, `¹⁵C₃ x³ × ¹⁵C₁ x² = ¹⁵C₃ ¹⁵C₁ x⁵`, `¹⁵C₁ x⁴ × ¹⁵C₂ x⁴ = ¹⁵C₁ ¹⁵C₂ x⁵` (the third's first exponent written x⁴ as drawn, see U); yellow brace → red box `(¹⁵C₅ + ¹⁵C₃¹⁵C₁ + ¹⁵C₁¹⁵C₂) x⁵` with a cyan `fnf` leader below; right — orange `(1+x²)¹⁵` → white `¹⁵Cᵣ (x²)^r` → `¹⁵C₀ + ¹⁵C₁x² + ¹⁵C₂x⁴ + ¹⁵C₃x⁶ ……`.
+**DIBY:** none. **U:** 1 — third pairing written `¹⁵C₁ x⁴ ×` though the pattern requires x¹; transcribed as drawn. Page 22, left block.
+
+---
+## p23 · Same Acidic Question with options — total number of terms = 46 · label: **Page No. 152**
+**P:** chip **Acidic Question**; identical printed stem to p21 but here `a₅` is cyan with no red rectangle on the bracket… (bracket still green, red rectangle still present).
+**H:** pink options written at left `Ⓐ 16²`, `Ⓑ 32`, `Ⓒ 46`, `Ⓓ 52` — green ✗ through A and B, green double-tick on C; green `((1+x+x²+x³)¹⁵ = (1+x)¹⁵ · (1+x²)¹⁵`; green leader to red box `(1+x+x²+x³)¹⁵ = a₀ + a₁x + a₂x² + … … + a₄₅x⁴⁵`; yellow `T.T. = (46)` circled + tick; white cloud `N.O.T. = (max. power + 1) (provided all terms should be present)`.
+**DIBY:** none (the DIBY-B tag from p21 is not repeated here). **U:** none.
+
+---
+## p24 · Same problem with x → x² substitution: T.T. 46 vs 91 · label: — (PW roundel)
+**H (all of it):** green `(1+x+x²+x³)¹⁵ =` red box `a₀ + a₁x + a₂x² + … … + a₄₅x⁴⁵`, yellow leader to `T.T. = (46)` circled + tick; pink red box `x → x²`; pink `(1+x²+x⁴+x⁶)¹⁵ = a₀ + a₁x² + a₂x⁴ + … … + a₄₅x⁹⁰`; pink leader down to `T.T. = 91 ✗` and `T.T. = 46 ✓`.
+**DIBY:** none. **U:** none.
+
+---

@@ -194,5 +194,33 @@
   "visible_solution_answer": "[Ans.: (A)]",
   "uncertainty_note": "",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "03",
+  "source_pdf": "Binomial Theorem 03 Class Notes.pdf",
+  "pdf_page": 18,
+  "diby_marker": "# DIBY\u2218 \u2014 \u24b6 (handwritten, white, double wavy underline)",
+  "printed_label": "none - marker is handwritten on the slide",
+  "internal_id": "BT-L03-P18-DIBY-INT-01 (internal; no printed DIBY label)",
+  "prompt_verbatim": "Number of integral terms in the expansion of {7^(1/2) + 11^(1/6)}^824 is equal to ________",
+  "options": "None (fill in the blank)",
+  "visible_solution_answer": "Ans: 138 (printed on the slide, '138' in green)",
+  "uncertainty_note": "The circled A after the DIBY mark is the teacher's own item letter, not a printed label - recorded in internal-ID form.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "03",
+  "source_pdf": "Binomial Theorem 03 Class Notes.pdf",
+  "pdf_page": 21,
+  "diby_marker": "DIBY\u2218 \u2014 \u24b7 (handwritten, cyan)",
+  "printed_label": "none - marker is handwritten on the slide",
+  "internal_id": "BT-L03-P21-DIBY-INT-02 (internal; no printed DIBY label)",
+  "prompt_verbatim": "If (1 + x + x^2 + x^3)^15 = a0 + a1 x + a2 x^2 + ...., then find a5 & also find total number of terms.",
+  "options": "None (fill in the blank)",
+  "visible_solution_answer": "Not on this slide: working for a5 on p22; total-terms answer 46 on p23-24. Here the tag drives a follow-up: a7 = coeff of x^7 (red box).",
+  "uncertainty_note": "Same printed question re-appears on p23 with options A 16^2 B 32 C 46 D 52 (C ticked).",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]
