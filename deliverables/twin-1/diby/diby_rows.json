@@ -1,0 +1,9 @@
+[
+ {"chapter":"Binomial Theorem","lecture":"01","source_pdf":"Binomial Theorem 01 Class Notes.pdf","pdf_page":4,
+  "diby_marker":"DIBY-X","printed_label":"DIBY-X","internal_id":"",
+  "prompt_verbatim":"Find number of integral solutions of following equation : xyz = 2^8 . 3^5 . 5^4 , (x, y, z \u2208 N)",
+  "options":"None (numerical answer question; no options printed)",
+  "visible_solution_answer":"Ans: 14175 (printed in red answer box; cyan tick added by hand). No working on the slide.",
+  "uncertainty_note":"Equation is set in cyan type inside a red rectangle. Only marker 'DIBY-X' present - no Q.number/alphabet label on this page.",
+  "qa_status":"QA-PASSED (twin-1, visual compare vs rendered page)"}
+]

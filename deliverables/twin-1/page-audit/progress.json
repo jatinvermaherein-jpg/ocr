@@ -1,0 +1,61 @@
+{
+ "worker": "twin-1",
+ "qa_rows_applied": 33,
+ "pages_reviewed": 33,
+ "pages_total": 508,
+ "per_lecture": {
+  "Binomial Theorem L01": {
+   "reviewed": 33,
+   "total": 33
+  },
+  "Binomial Theorem L02": {
+   "reviewed": 0,
+   "total": 40
+  },
+  "Binomial Theorem L03": {
+   "reviewed": 0,
+   "total": 35
+  },
+  "Binomial Theorem L04": {
+   "reviewed": 0,
+   "total": 46
+  },
+  "Binomial Theorem L05": {
+   "reviewed": 0,
+   "total": 38
+  },
+  "Binomial Theorem L06": {
+   "reviewed": 0,
+   "total": 43
+  },
+  "Binomial Theorem L07": {
+   "reviewed": 0,
+   "total": 34
+  },
+  "Binomial Theorem L08": {
+   "reviewed": 0,
+   "total": 46
+  },
+  "Binomial Theorem L09": {
+   "reviewed": 0,
+   "total": 29
+  },
+  "Permutations & Combinations L01": {
+   "reviewed": 0,
+   "total": 46
+  },
+  "Permutations & Combinations L02": {
+   "reviewed": 0,
+   "total": 33
+  },
+  "Permutations & Combinations L03": {
+   "reviewed": 0,
+   "total": 42
+  },
+  "Permutations & Combinations L04": {
+   "reviewed": 0,
+   "total": 43
+  }
+ },
+ "updated": "2026-10-12T10:08Z"
+}

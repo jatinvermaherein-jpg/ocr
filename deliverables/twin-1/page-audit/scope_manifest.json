@@ -1,0 +1,138 @@
+{
+ "worker": "twin-1",
+ "pdfs": 13,
+ "total_pages": 508,
+ "inventory_mismatches": [],
+ "files": [
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "01",
+   "file": "Binomial Theorem 01 Class Notes.pdf",
+   "expected": 33,
+   "actual": 33,
+   "match": true,
+   "sha256": "7854ca485b66913550fdcc54cd1faa290a5f01195b85f5789726561e211ab780",
+   "transcript": "transcripts/binomial-theorem-l01.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "02",
+   "file": "Binomial Theorem 02 Class Notes.pdf",
+   "expected": 40,
+   "actual": 40,
+   "match": true,
+   "sha256": "a2d66a23954c1583ec018b1c0d4fc897136f4b724b2af2f29a8ea919ee02541c",
+   "transcript": "transcripts/binomial-theorem-l02.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "03",
+   "file": "Binomial Theorem 03 Class Notes.pdf",
+   "expected": 35,
+   "actual": 35,
+   "match": true,
+   "sha256": "227ed2ddf4d084f086e3a4fed0332cc9abb7937cfc4cf4d2076afb3d4aea9b21",
+   "transcript": "transcripts/binomial-theorem-l03.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "04",
+   "file": "Binomial Theorem 04 Class Notes.pdf",
+   "expected": 46,
+   "actual": 46,
+   "match": true,
+   "sha256": "1daea54ebaf2276b05e0873f6ae67ae4ac3f80a18cf035272cc130f631e06e1a",
+   "transcript": "transcripts/binomial-theorem-l04.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "05",
+   "file": "Binomial Theorem 05 Class Notes.pdf",
+   "expected": 38,
+   "actual": 38,
+   "match": true,
+   "sha256": "84915f8deb3983b61e52965a3c985fe0e14696667be166c0c54c53682561a15e",
+   "transcript": "transcripts/binomial-theorem-l05.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "06",
+   "file": "Binomial Theorem 06 Class Notes.pdf",
+   "expected": 43,
+   "actual": 43,
+   "match": true,
+   "sha256": "13e68354822f8664b03d61b65eb0f58b3ddcec63ca1cc1d95f544b507e9e0843",
+   "transcript": "transcripts/binomial-theorem-l06.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "07",
+   "file": "Binomial Theorem 07 Class Notes.pdf",
+   "expected": 34,
+   "actual": 34,
+   "match": true,
+   "sha256": "161ad02f634e54c71faac07fcdeec0f17428319a36f594240dc1072e49552df4",
+   "transcript": "transcripts/binomial-theorem-l07.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "08",
+   "file": "Binomial Theorem 08 Class Notes.pdf",
+   "expected": 46,
+   "actual": 46,
+   "match": true,
+   "sha256": "90d372df9d8ac8022daf6599198dc519d355f64fd32fda698af0294121b36daa",
+   "transcript": "transcripts/binomial-theorem-l08.md"
+  },
+  {
+   "chapter": "Binomial Theorem",
+   "lecture": "09",
+   "file": "Binomial Theorem 09 Class Notes.pdf",
+   "expected": 29,
+   "actual": 29,
+   "match": true,
+   "sha256": "463d7c4e529a8557abc550503b013b5a1bdf18f3acaf2c9485cf3f23a076adac",
+   "transcript": "transcripts/binomial-theorem-l09.md"
+  },
+  {
+   "chapter": "Permutations & Combinations",
+   "lecture": "01",
+   "file": "Permutations and Combinations 01 Class Notes.pdf",
+   "expected": 46,
+   "actual": 46,
+   "match": true,
+   "sha256": "2acf451653c36a417b7a058fffbf0b906feec282adc5eb2bc7977fa4d5445b1a",
+   "transcript": "transcripts/permutations-combinations-l01.md"
+  },
+  {
+   "chapter": "Permutations & Combinations",
+   "lecture": "02",
+   "file": "Permutations and Combinations 02 Class Notes.pdf",
+   "expected": 33,
+   "actual": 33,
+   "match": true,
+   "sha256": "7db249fb2174b4128894bab56034c048de0957fff317f321ce10ac838e79e42b",
+   "transcript": "transcripts/permutations-combinations-l02.md"
+  },
+  {
+   "chapter": "Permutations & Combinations",
+   "lecture": "03",
+   "file": "Permutations and Combinations 03 Class Notes.pdf",
+   "expected": 42,
+   "actual": 42,
+   "match": true,
+   "sha256": "e00eff4ec9108fb7cd2dbf656ef87ca2255ec63b21f36655b0830137abc03ccf",
+   "transcript": "transcripts/permutations-combinations-l03.md"
+  },
+  {
+   "chapter": "Permutations & Combinations",
+   "lecture": "04",
+   "file": "Permutations and Combinations 04 Class Notes.pdf",
+   "expected": 43,
+   "actual": 43,
+   "match": true,
+   "sha256": "9aad325532aac2ffaf5c49eaa9e8da26cbcc2e1ce91f7cbe62fe0f720a84da07",
+   "transcript": "transcripts/permutations-combinations-l04.md"
+  }
+ ]
+}
