@@ -390,5 +390,19 @@
   "visible_solution_answer": "Ans.: 1 (printed)",
   "uncertainty_note": "Greek letters alpha/beta in the source; 'co-efficient x^-9' prints without 'of'.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Binomial Theorem",
+  "lecture": "04",
+  "source_pdf": "Binomial Theorem 04 Class Notes.pdf",
+  "pdf_page": 8,
+  "diby_marker": "DIBY\u2014\u24e3 (handwritten, cyan)",
+  "printed_label": "none - marker is handwritten on the slide",
+  "internal_id": "BT-L04-P08-DIBY-INT-01",
+  "prompt_verbatim": "The coefficient of x^18 in the product (1 + x)(1 - x)^10(1 + x + x^2)^9 is  [main question, options (A) 84 (B) -126 (C) -84 (D) 126, Ans (A) printed]; the DIBY tag itself points to a follow-up 'coeff of x^26'.",
+  "options": "(A) 84  (B) -126  (C) -84  (D) 126",
+  "visible_solution_answer": "Main question answered on the slide: 9C6 = 84 (option A ticked). The DIBY item (coeff of x^26) has no working - the tag sits above a cyan arrow to 'coeff of x^26'.",
+  "uncertainty_note": "The DIBY mark is the teacher's own letter (X), not a printed label; recorded with an internal ID.",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]
