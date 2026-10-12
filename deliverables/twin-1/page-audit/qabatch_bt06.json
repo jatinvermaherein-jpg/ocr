@@ -516,5 +516,19 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt06",
+  "_page": 38,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "DIBY-34/35/36 rational-term sums, all keys printed",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "YES (3 rows)",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

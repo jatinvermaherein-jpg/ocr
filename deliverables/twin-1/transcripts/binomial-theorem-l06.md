@@ -248,3 +248,12 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 - **# DIBY-33** — **The number of rational terms in the binomial expansion of** `(4^(1/4) + 5^(1/6))^120` **is** **[JEE Mains–2021]** → **[Ans.: 21]** (a short-answer item: no options are printed, only the numeric key).
 **H:** none — no ticks, circles or board work on any of the three items.
 **DIBY:** three rows added (BT-L06-P37-DIBY-31 / -32 / -33); DIBY-32 is registered with its key recorded as *not printed*. **U:** 1 — for # DIBY-32 the answer cannot be taken from the source; nothing on the page marks an option, so the register keeps `key printed as …… (blank)` rather than a guessed letter.
+---
+<a id="p38"></a>
+## p38 · DIBY block (contd.) — # DIBY-34, # DIBY-35, # DIBY-36 · label: — (yellow banner, no page number)
+**P:** yellow banner **NUMBER OF RATIONAL OR IRRATIONAL TERMS** (third slide of the block); three green-tagged items:
+- **# DIBY-34** — **The sum of all those terms which are rational numbers in the expansion of** `(2^(1/3) + 3^(1/4))^12` **is** **[JEE Mains–2021]** `(A) 89 (B) 35 (C) 27 (D) 43` → **[Ans.: (D)]**
+- **# DIBY-35** — **Number of integral terms in the expansion of** `{7^(1/2) + 11^(1/6)}^824` **is equal to** **[JEE Mains–2024]** → **[Ans.: 138]** (short answer, no options printed)
+- **# DIBY-36** — **The sum of all rational terms in the expansion of** `(2 + √3)^8` **is** **[JEE Mains–2025]** `(A) 16923 (B) 3763 (C) 33845 (D) 18817` → **[Ans.: (D)]**
+**H:** none — all three printed, nothing ticked or written; every item here does carry its key (unlike DIBY-32 on p37).
+**DIBY:** three rows added (BT-L06-P38-DIBY-34 / -35 / -36). **U:** none.
