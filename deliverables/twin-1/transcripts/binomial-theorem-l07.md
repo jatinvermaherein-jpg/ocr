@@ -125,3 +125,29 @@ Source: `Binomial Theorem 07 Class Notes.pdf` (34 pages, image-only, no text lay
 **P:** red chip **Question [JEE Mains-2022]**; blue sum `Sum_{i,j=0, i != j}^{n} ^nC_i ^nC_j` (its ranges printed above and below the sigma in blue) + white **is equal to**; red tiles `A 2^{2n} - ^{2n}C_n`, `B 2^{2n-1} - ^{2n-1}C_{n-1}`, `C 2^n - 1/2 ^{2n}C_n`, `D 2^{n-1} + ^{2n-1}C_n`; no printed key line.
 **H:** a green arrow from the printed sum to green `Sum_{i,j=0, i != j}^{n} ^nC_i ^nC_j = Sum_{i=0}^{n} Sum_{j=0 (i != j)}^{n} ^nC_i ^nC_j` — the double-sum form the p15/p16 machinery applies to; top right, an orange ring enclosing orange **`dev.`** double-underlined with a dot beside it, the same mark seen in L05.
 **DIBY:** none. **U:** 1 — `dev.` (also at L05) is left uninterpreted; see U-27 in the log.
+<a id="p20"></a>
+## p20 · MULTINOMIAL THEOREM — tri-nomial and quad-nomial, with the n.o.t. count · label: **Page No. 160**
+**P:** clipboard icon + red banner **MULTINOMIAL THEOREM**; nothing else printed — the whole page is board work.
+**H:** pink `# TRI-NOMIAL:` with a wavy underline; yellow `(a+b+c)^n = Sum m!/(a!b!c!) a^a b^b c^c` over a red rectangle reading `a+b+Y = n`, the exponent letters written as greek a/b/Y each with a small `0` under its factorial; an orange **cloud** at right containing `a,b,Y E W`; a magenta arrow down from the rectangle to magenta `n.o.t = ^(n+3-1)C_3-1` carrying an orange `*` and blue `( soch smjh kr use )`; below, the same layout in cyan for four terms — `(a+b+c+d)^n = Sum m!/(a!b!c!d!) a^a b^b c^c d^d` over a red rectangle `a+b+Y+d = n`, a cyan cloud `a,b,Y,d E W`, a magenta arrow to magenta `n.o.t = ^(n+4-1)C_4-1` with the same blue parenthetical `( soch smjh kr use )`.
+**DIBY:** none. **U:** 1 — the numerator on both lines is written `m!`, not `n!`, and the exponent letters `a, b` are indistinguishable from the base letters (the greek set is what the clouds say); recorded, transcribed as written. See F-27 in the log.
+
+---
+<a id="p21"></a>
+## p21 · board — where the n.o.t. formula works and where it lies · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** blue, top half, `(x+y+z)^10` with a blue arrow to `n.o.t. = ^(10+3-1)C_3-1 = ^12 C_2` and a blue tick — the formula applied correctly; blue, bottom half, `(x^2+x+1)^10` with an arrow to the identical computation `n.o.t. = ^(10+3-1)C_3-1 = ^12 C_2` followed by a blue **cross** — the count is invalid there because the three "terms" are powers of one variable and collapse.
+**DIBY:** none. **U:** none — the tick/cross pairing is the whole content of the slide, so the cross is not a marking error.
+
+---
+<a id="p22"></a>
+## p22 · Question — coefficient of x^4 in (3x^2 - x - 2)^10 by the multinomial route · label: — (chip only, no page label)
+**P:** red chip **Question**; **The coefficient of** `x^4` **in** `(3x^2 - x - 2)^10` **is______.** (the target power in green, the trinomial in cyan).
+**H:** an orange circle round the printed exponent `10` with an orange arrow up to `n`; a cyan arrow from the printed trinomial down into a cyan column of powers; a red vertical rule splitting the board — left of it, an orange ring `4-1` double-underlined over cyan `(x-1)^10 (3x+2)^10` and two facing orange columns `x^0 x^1 x^2 x^3 x^4` / `x^4 x^3 x^2 x^1 x^0`; right of it, cyan `G.T. = 10!/(a!b!c!) (3x^2)^a (-x)^b (-2)^c` with a small `0` under each factorial, an orange arrow into orange `G.T. = [ 10!/(a!b!c!) 3^a (-1)^b (-2)^c ] . x^(2a+b)` with the bracketed factor inside a **red rectangle**; below, yellow the three admissible substitutions `10!/(2!0!8!) 3^2(-1)^0(-2)^8 + 10!/(1!2!7!) 3^1(-1)^2(-2)^7 + 10!/(0!4!6!) 3^0(-1)^4(-2)^6`; at right cyan a circled `W` with two arrows up from `a+b+Y = 10`, then cyan `2a+b = 4 & a+b+Y = 10` and a cyan table with head `a | b | Y` over the rows `2 0 8` / `1 2 7` / `0 4 6`.
+**DIBY:** none. **U:** none — **cross-lecture chain closed**: this is L06 p34's unanswered "Acidic Question" (F-25), re-printed and worked here; the three-case sum evaluates to -21120.
+
+---
+<a id="p23"></a>
+## p23 · Question [JEE Mains-2023] — coefficient of x^7 in (1 - x + 2x^3)^10, Ans: 960 · label: **Page No. 160**
+**P:** red chip **Question [JEE Mains-2023]**; **The coefficient of** `x^7` **in** `(1 - x + 2x^3)^10` **is** (green target power, cyan trinomial); green **`Ans: 960`** at the right.
+**H:** blue at the top an arrow from the printed trinomial up to the warning reused from p21, `n.o.t. = ^(10+3-1)C_3-1 = ^12C_2` crossed out in blue; cyan the two conditions `b+3c = 7 & a+b+c = 10`; yellow `10!/(a!b!c!) (1)^a (-x)^b (2x^3)^c` with small `0`s under the factorials, a yellow arrow into a **red rectangle** `10!/(a!b!c!) (-1)^b 2^c . x^(b+3c)`; an orange table head `a | b | c` over rows `3 7 0` / `5 4 1` / `7 1 2`; a white **`960`** ringed in white with `=` into a large red rectangle holding the three-term sum `10!/(3!7!0!) (-1)^7 2^0 + 10!/(5!4!1!) (-1)^4 . 2^1 + 10!/(7!1!2!) (-1)^1 2^2` (written `-120 + 2520 - 1440`, which does give 960).
+**DIBY:** none. **U:** none.

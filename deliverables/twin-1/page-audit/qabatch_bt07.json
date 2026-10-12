@@ -264,5 +264,61 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 20,
+  "source_page_label": "Page No. 160",
+  "topic_or_heading": "MULTINOMIAL THEOREM board slide - tri/quad-nomial rule + n.o.t. counts",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 21,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "board: ^(12)C_2 term count ticked for (x+y+z)^10, crossed for (x^2+x+1)^10",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 22,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "Question: coeff of x^4 in (3x^2-x-2)^10 by multinomial - closes L06 p34 H.W.",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "bt07",
+  "_page": 23,
+  "source_page_label": "Page No. 160",
+  "topic_or_heading": "Question [JEE Mains-2023] coeff of x^7 in (1-x+2x^3)^10 = 960, board-verified",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
