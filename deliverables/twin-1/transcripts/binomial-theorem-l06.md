@@ -187,3 +187,8 @@ Right of the fourth line, a **red rectangle** holds pink `n+2C_2 + n+2C_3 + … 
 **P:** red chip **Question [JEE (Adv.)–2018]**; **Let** `X = (10C1)² + 2(10C2)² + ..... + 10(10C10)²` **where** `r ∈ {1, 2,..., 10}` **&** `10Cr` **denote binomial coefficients. Then the value of** `(1/1430) X` **is ________.** (the expression green, the fraction cyan).
 **H:** orange hook to orange `X = Σ_{r=1}^{10} r · 10C_r · 10C_r`; cyan wavy underline and down arrow onto the identity `r·nC_r = n·n−1C_{r−1}`, giving cyan `X = 10 ( Σ_{r=1}^{10} 9C_{r−1} 10C_r )` with a cyan curl arrow between the two factors, and inside brackets the Vandermonde form in orange `= 10 ( 9C_9 10C_1 + 9C_8 10C_2 + 9C_7 10C_3 + … … + 9C_0 10C_10 )`; cyan `X = 10 (19C_10)`. Top-right in cyan the arithmetic `1/1430 × 10 × 19!/(10! 9!) = 1/143 (19.18.17.16.15.14.^ / 9.8.7.6.5.4.3.2.1)` with the continuation `13.12.11` written above at the right edge, `= 646` double-underlined in cyan.
 **DIBY:** none. **U:** none.
+<a id="p29"></a>
+## p29 · Question [IIT–JEE–2010] — Σ A_r(B_10B_r − C_10A_r) · label: **Page No. 157**
+**P:** red chip **Question [IIT–JEE–2010]**; **For** `r = 0, 1, …, 10`, **let** `A_r, B_r` **and** `C_r` **denote, respectively, the coefficient of** `x^r` **in the expansions** `(1 + x)^10, (1 + x)^20` **and** `(1 + x)^30`**.** **Then** `Σ_{r=1}^{10} A_r(B_10 B_r − C_10 A_r)` **is equal to**; red tiles `A B10 − C10`, `B A10(B10² − C10 A10)`, `C 0`, `D C10 − B10` (the summand cyan, the powers green).
+**H:** `H.W.` in cyan cursive, circled and underlined at the right of the question — left for the students, no working anywhere on this page.
+**DIBY:** none — the cyan `H.W.` carries no `# DIBY-nn` tag, so no register row (house rule). **U:** 0.
