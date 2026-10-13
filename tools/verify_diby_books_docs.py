@@ -43,6 +43,40 @@ def check(path: str) -> bool:
     print(f"   books (Heading1) {len(heads)} | DIBY- tags {tags} | oMath {omath}")
     print(f"   raw LaTeX {raw} | colours {cols} | odd-page breaks {len(odd)}/{len(types) - 1}")
     print(f"   header/footer parts {'none' if not hf else hf}")
+
+    # typography + heading bond
+    styles = z.read("word/styles.xml").decode()
+    norm = re.search(r'w:styleId="Normal".*?<w:sz w:val="(\d+)"', styles, re.S)
+    h1sz = re.search(r'w:styleId="Heading1".*?<w:sz w:val="(\d+)"', styles, re.S)
+    normal_pt = int(norm.group(1)) / 2 if norm else None
+    h1_pt = int(h1sz.group(1)) / 2 if h1sz else None
+    ps = list(root.iter(W + "p"))
+    tag_sizes = []
+    for p in ps:
+        pPr = p.find(W + "pPr")
+        if pPr is None:
+            continue
+        r = p.find(W + "r")
+        rPr = r.find(W + "rPr") if r is not None else None
+        sz = rPr.find(W + "sz") if rPr is not None else None
+        txt = "".join(t.text or "" for t in p.iter(W + "t"))
+        if sz is not None and re.fullmatch(r"DIBY[- ]?[\dA-Z]+", (txt or "").strip()):
+            tag_sizes.append(int(sz.get(W + "val")) / 2)
+    print(f"   question {normal_pt} pt | heading {h1_pt} pt | DIBY number "
+          f"{sorted(set(tag_sizes)) or 'style default'} pt")
+    orphan = []
+    for i, p in enumerate(ps):
+        pPr = p.find(W + "pPr")
+        if pPr is None or pPr.find(W + "pStyle") is None:
+            continue
+        if pPr.find(W + "pStyle").get(W + "val") != "Heading1":
+            continue
+        nxt = ps[i + 1] if i + 1 < len(ps) else None
+        if nxt is not None and not "".join(t.text or "" for t in nxt.iter(W + "t")).strip():
+            orphan.append(pPr.find(W + "pStyle").get(W + "val"))
+        if pPr.find(W + "keepNext") is None:
+            orphan.append("no-keepNext")
+    print(f"   book headings alone on their page: {'none' if not orphan else orphan}")
     for h in heads:
         print("     -", h)
 

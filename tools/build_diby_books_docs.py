@@ -35,10 +35,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "deliverables/diby-books/diby_books.json")
 BLACK = RGBColor(0, 0, 0)
 
+# Type scale: question 16 pt, DIBY number 14 pt; the book heading keeps its old size.
 STYLES = {
-    "print": dict(out="deliverables/DIBY_Books_Print.docx", body=12, opt=11, tag=11.5,
+    "print": dict(out="deliverables/DIBY_Books_Print.docx", body=16, opt=14, tag=14,
                   h1=18, h2=13.5, side=2.0, vert=1.8, spacing=1.15, gap=11, rule=True),
-    "compact": dict(out="deliverables/DIBY_Books.docx", body=10.5, opt=10, tag=10,
+    "compact": dict(out="deliverables/DIBY_Books.docx", body=16, opt=13, tag=14,
                     h1=15, h2=12, side=1.5, vert=1.3, spacing=0.95, gap=7, rule=False),
 }
 
@@ -83,20 +84,25 @@ def emit_spans(par, pieces, omml, *, size=None, bold=False, italic=False, colour
     return par
 
 
-def rule(doc, space_after=10):
-    p = doc.add_paragraph()
-    p.paragraph_format.space_after = Pt(space_after)
-    p.paragraph_format.space_before = Pt(0)
-    pPr = p._p.get_or_add_pPr()
+def underline_rule(par, space="1"):
+    """Draw the horizontal rule as the paragraph's own bottom border.
+
+    It used to be a separate empty paragraph. That empty paragraph was the only thing
+    between a book heading and its first item, and it carried no `keepNext`, so a
+    reader (or any viewer that lays the section break out differently) could leave the
+    heading sitting alone at the bottom of a page with the first DIBY overleaf.
+    Attaching the border to the heading means nothing can come between the two.
+    """
+    pPr = par._p.get_or_add_pPr()
     borders = OxmlElement("w:pBdr")
     bottom = OxmlElement("w:bottom")
     bottom.set(qn("w:val"), "single")
     bottom.set(qn("w:sz"), "8")
-    bottom.set(qn("w:space"), "1")
+    bottom.set(qn("w:space"), space)
     bottom.set(qn("w:color"), "000000")
     borders.append(bottom)
     pPr.append(borders)
-    return p
+    return par
 
 
 def build(style_name: str, items: list[dict], omml: dict, latex_ok: set):
@@ -136,9 +142,11 @@ def build(style_name: str, items: list[dict], omml: dict, latex_ok: set):
             first_book = False
             prev_book = it["book"]
             prev_section = None
-            doc.add_heading(it["book"].upper(), level=1)
+            head = doc.add_heading(it["book"].upper(), level=1)
+            head.paragraph_format.keep_with_next = True      # never orphan the heading
+            head.paragraph_format.space_after = Pt(8)
             if st["rule"]:
-                rule(doc)
+                underline_rule(head)
 
         if it.get("section") and it["section"] != prev_section and it["section"].lower() != it["book"].lower():
             doc.add_heading(it["section"], level=2)

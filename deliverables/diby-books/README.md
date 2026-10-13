@@ -34,6 +34,12 @@ Trigonometric Functions 59.
 Documents built from this: `deliverables/DIBY_Books.docx` (compact) and
 `deliverables/DIBY_Books_Print.docx` (print, pure black, no cover/contents/header/footer).
 
+Type scale in both: **question 16 pt, DIBY number 14 pt**, options 14 pt (print) / 13 pt
+(compact), book heading unchanged (18 pt print / 15 pt compact). The horizontal rule under a
+book heading is now the heading's own bottom border — there is no empty paragraph between a
+heading and its first item, and the heading carries `keepNext`, so a heading can never be left
+alone on a page with its first DIBY overleaf.
+
 ## How to reproduce
 
 ```bash
