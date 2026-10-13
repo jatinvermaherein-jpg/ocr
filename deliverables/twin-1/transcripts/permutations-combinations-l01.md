@@ -131,3 +131,30 @@ Source: `Permutations & Combinations 01 Class Notes.pdf` (46 pages, image-only, 
 **P:** red chip **Question**; **Number of solutions of equation |x^2 - |x|| = ln|x| is equal to** (the equation in cyan).
 **H:** an orange circle enclosing the cursive `H.W.` over a double underline with two small rings — the item is assigned, nothing solved on this slide.
 **DIBY:** none (H.W. only, F-18). **U:** none — this is the same question that P&C L02 p12 works through graphically (with the ringed `2` and a `fnf` mark), so the two decks cross-reference: assigned in L01, solved in L02.
+---
+<a id="p27"></a>
+## p27 · Question — number of solutions of |f(|x|)| = 2 from a printed graph (H.W.) · label: — (no label)
+**P:** red chip **Question**; **If graph of a function f(x) is shown as following then number of solutions of equation |f(|x|)| = 2 is equal to**; red tiles **A** 3, **B** 6, **C** 10, **D** Infinite. The printed white figure at the right: a curve rising linearly from `x = -1` (dashed drop to the axis) to a peak `3` on the y-axis, falling to `0` at `x = 1`, curling up to a sharp spike just before `2`, plunging through `3` down to `-3` near `3.5` and returning up towards the axis; dotted rules at the levels `3` and `-3`, axis ticks `-1, 0, 1, 2, 3, 4`, y-ticks `3, 2, -3`.
+**H:** an orange cursive `H.W.` with two dots and a double dash to the left of the figure — the question is assigned, no construction drawn on this slide.
+**DIBY:** none (H.W. only). **U:** none — the same question is fully graphed and answered (C, 10) two lectures later at P&C L02 p11; cross-referenced there.
+
+---
+<a id="p26"></a>
+## p26 · Example — six graphs by multiple transformation (H.W.) · label: — (no label)
+**P:** red chip **Example**; **Draw following graphs using multiple transformation:** cyan `(i) y = |ln|x||`, `(ii) y = |||x| - 2| - 3|`, `(iii) y = e^(-|x|) + 2`, `(iv) y = -{-x}`, `(v) |y| = 3 + sqrt(2 - x)`, `(vi) y = |x^2 - 5|x| + 6|`.
+**H:** an orange cursive `H.W.` with dots and a double underline at the lower right of the list; nothing drawn on this page.
+**DIBY:** none (H.W. only, F-18). **U:** none — all six graphs are worked through on P&C L02 p06-p10, which carries the same printed slide with the sketches.
+
+---
+<a id="p25"></a>
+## p25 · board — |y| = sin x, the lens construction · label: — (no header, board slide)
+**P:** none — board page (illustration of the rule on p24).
+**H:** pink `# |y| = sin x`; red axes with arrowheads; orange curve drawn as two closed "lens" shapes sitting symmetrically about the x-axis — one between `0` and `pi`, one between `-2pi` and `-pi` (the only intervals where sin x is non-negative), with orange dots at `0`, `pi`, `-pi`, `-2pi` and those labels written in orange below the axis.
+**DIBY:** none. **U:** none — no `pi`-labelled hump is drawn between `-pi` and `0`, consistent with |y| requiring sin x >= 0.
+
+---
+<a id="p24"></a>
+## p24 · GRAPHICAL TRANSFORMATION — T-IX: to draw |y| = f(x) · label: — (no label)
+**P:** clipboard icon + red banner **GRAPHICAL TRANSFORMATION**; `# T-IX : To Draw |y| = f(x)` (green `T-IX`, yellow `To Draw`, cyan formula); white rule **Remove part of the graph below X-axis, now take image of portion above X-axis in X-axis & keep both.**
+**H:** two green sketches — at the left `y = f(x)` drawn as an upward parabola cutting the axis twice with a hand-drawn arrow up the y-axis; at the right `|y| = f(x)`, the same curve keeping only the parts at or above the axis together with their mirror images below it (the two lower branches).
+**DIBY:** none. **U:** 1 — the rule as printed is loose ("remove the part below the X-axis" then "keep both"): it describes reflecting the *upper* part downward while retaining it, which is what the sketch shows, but the wording could be read as deleting the lower part of f(x) first; kept verbatim.
