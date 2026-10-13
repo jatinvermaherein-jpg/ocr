@@ -124,7 +124,12 @@ CSV companions (not JSON but part of the same reporting layer): `Page_Audit.csv`
 | `deliverables/DIBY_Master.md` | **One document with every DIBY item in the repository** (721 items, chapter → lecture → page order), each badged by transcription quality, with lecture index and appendices for unverified / unnumbered items |
 | `deliverables/DIBY_Master.csv` / `.json` | The same 721 records in machine-readable form (one row/object per item) |
 | `deliverables/DIBY_Master.docx` | Word export of the master document |
+| `deliverables/DIBY_Questions.docx` | **Question bank in the requested layout** — 655 questions (section markers excluded), one title per chapter+lecture, DIBY tag, italic question with **typeset Word equations**, options, right-aligned answer |
+| `deliverables/DIBY_Questions.csv` | The same 655 questions in document order, machine-readable |
 | `tools/build_diby_master.py` | Builds all four from the four worker registers; for Twin 2/Twin 4 (no prompts extracted) it reconstructs draft question text from those workers' own raw page OCR, delimited by the next marker, and labels it unverified |
+| `tools/build_diby_docx_v2.py` | Builds the question-bank DOCX (current layout). Maths is converted to LaTeX and rendered as native Word equations (OMML) through pandoc |
+| `tools/ocr_math_to_latex.py` | OCR maths → LaTeX converter (superscripts, subscripts, fractions, roots, Greek/operators). Conservative: anything it is unsure of stays plain text |
+| `tools/build_diby_docx.py` | Earlier question-bank DOCX builder (Question/Options/Answer/Tag/Source block layout with marker appendix) — superseded by `build_diby_docx_v2.py` |
 
 Coverage of the master document: 195 verified · 112 ocr-extract · 348 ocr-draft · 66 marker-only (655 items carry question text).
 

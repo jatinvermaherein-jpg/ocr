@@ -264,6 +264,10 @@
     {
       "path": "deliverables/DIBY_Master.csv",
       "rows": 721
+    },
+    {
+      "path": "deliverables/DIBY_Questions.csv",
+      "rows": 655
     }
   ],
   "tools": [
@@ -306,6 +310,14 @@
     {
       "path": "tools/build_diby_master.py",
       "role": "assembles the consolidated DIBY document from all four worker registers"
+    },
+    {
+      "path": "tools/build_diby_docx_v2.py",
+      "role": "builds the question-bank DOCX in the requested layout with native Word equations"
+    },
+    {
+      "path": "tools/ocr_math_to_latex.py",
+      "role": "converts OCR maths to LaTeX (conservative; falls back to plain text)"
     }
   ],
   "open_items": [
@@ -360,6 +372,14 @@
     },
     "items_with_question_text": 655,
     "repeat_appearances": 108,
-    "note": "One document with every DIBY item from all four worker registers. Twin 2 / Twin 4 had no prompts extracted, so draft text is reconstructed from their own raw page OCR (delimited by the next marker) and labelled unverified; nothing was corrected or re-worded."
+    "note": "One document with every DIBY item from all four worker registers. Twin 2 / Twin 4 had no prompts extracted, so draft text is reconstructed from their own raw page OCR (delimited by the next marker) and labelled unverified; nothing was corrected or re-worded.",
+    "question_bank_docx": "deliverables/DIBY_Questions.docx",
+    "question_bank_csv": "deliverables/DIBY_Questions.csv",
+    "question_bank_note": "655 questions with type-set Word equations (section markers excluded), one heading per chapter+lecture, DIBY tag, right-aligned answer; 561 unique maths expressions rendered as native OMML equations via pandoc",
+    "builders": [
+      "tools/build_diby_master.py",
+      "tools/build_diby_docx_v2.py",
+      "tools/ocr_math_to_latex.py"
+    ]
   }
 }
