@@ -678,3 +678,271 @@ Not all JEE aspirants are together
 No 2 JEE aspirants are together.
 [Ans.. .....
 
+=== PDF PAGE 36 ===
+#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+"cURRIcULUM" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans.: (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+   sas  s ss s
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]
+
+=== PDF PAGE 37 ===
+#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+# DIBY-65
+Let the set S = {2, 4, 8, 16, ..5
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A U B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.:(D)]
+
+=== PDF PAGE 38 ===
+#DIBY-66
+A natura number has prime factorization given by n = 2x3y5", where y and z are
+such that y + z = 5 and y-1 + z-1
+ y > z. Then the number of odd divisors of 
+5
+二
+n, including 1, is
+[JEE Mains-2021]
+(A) 11
+(B)
+6x
+(c)
+12
+(D)
+6
+[Ans.:(c)]
+#DIBY-67
+Number of integral solutions to the equation x + y + z = 21, where x ≥1, y ≥3, z
+≥ 4, is equal to
+[JEE Mains-2023]
+[Ans.:105]
+#DIBY-68
+There are 
+ infinite number of Identical BLUE, RED, GREEN and YELLOW balls
+available for selections. In how many ways can we select 1o balls.
+14C3
+(B)
+13C10
+(c)
+12C10
+(D)
+14C4
+(A)
+[Ans.: (B)]
+
+=== PDF PAGE 39 ===
+#DIBY-69
+The number of triangles whose vertices are at the vertices of a regular octagon
+but none of whose sides is a side of the octagon is
+[JEE Mains-2024]
+(A)
+56
+(B)
+16
+(c)
+24
+(D)
+48
+[Ans.:(B)]
+#DIBY-70
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can be placed in row so that between any two red cubes, there should be at
+least 2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+# DIBY-71
+Number of ways of arranging 8 identical books into 4 identical shelves where
+any number of shelves may remain empty is equal to
+[JEEMains-2024]
+(A) 
+18
+(B)
+16
+(c)
+12
+(D)
+15
+[Ans.:(D)]
+
+=== PDF PAGE 40 ===
+#DIBY-72
+The total number of positive integral solutions (x, y, z) such that xyz = 24 is
+[JEE Mains-2021]
+(A)
+(B)
+(c)
+(D) 30
+36
+45
+24
+[Ans.: (D)]
+#DIBY-73
+(4!)!
+(5!)!
+Let α =
+and β =
+then
+[JEEMains-2024]
+(4!)3!
+(5!)4!"
+(A)
+(B)
+αeNandβeN
+αeNandβeN
+(c)
+()
+α Nandβ ∈ N
+α N andβ ε N
+[Ans.: (A)]
+
+=== PDF PAGE 41 ===
+#DIBY-74
+From a group of 7 batsmen and 6 bowlers, 10 players are to be chosen for a
+team, which should include atleast 4 batsmen and atleast 4 bowlers. One
+batsmen and one bowler who are captain and vice-captain respectively of the
+team should be included. Then the total number of ways such a selection can
+be made, is
+[JEE Mains-2025]
+(A)
+165
+(B)
+155
+(c)
+145
+(D)
+135
+[Ans.: (B)]
+#DIBY-75
+The number of ways, in which the letters A, B, C, D, E can be placed in the 8
+boxes of the figure below so that no row remains empty and at most one letter
+can be placed in a box, is
+[JEE Mains-2025]
+(A)
+5880
+(B)
+960
+(c)
+840
+(D)
+5760
+[Ans.:(D)]
+
+=== PDF PAGE 42 ===
+#DIBY-76
+The number of functions f from [1, 2, 3, .., 20} only {1, 2, 3, ., 2
+20}
+such that f(k)
+is a multiple of 3, whenever k is a multiple of 4, is
+[JEE Mains-2019]
+(A)
+65 × (15)!
+(B)
+5!×6!
+(c)
+(15)! x 6!
+(D)
+56 × 15
+[Ans.: (c)]
+#DIBY-77
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can placed in a row so that between any two red cubes there should be at least
+2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+#DIBY-78
+For n ≥ 2, let S, denote the set of all subsets of {l, 2,
+n}
+with no two
+1
+consecutive numbers. For example {1, 3, 5} e S, but {1, 2, 4}  S. Then n(S5) is
+equal to
+[JEE Mains-2025]
+[Ans. : 13]
+
+=== PDF PAGE 43 ===
+#DIBY-79
+The largest n ∈ N such that 3n divides 5o! is
+[JEEMains-2025]
+(A)
+21
+(B)
+22
+(c)
+20
+(D) 23
+[Ans.: (B)]
+DIBY-80
+
+In an examination 5 students have been allotted their seats as per their roll
+numbers. The number of ways, in which none of the students sits on the allotted
+seat, is
+[JEEMains-2023]
+[Ans.: 44]
+
+=== PDF PAGE 44 ===
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+
+=== PDF PAGE 45 ===
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+

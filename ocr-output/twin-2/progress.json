@@ -2,11 +2,11 @@
   "worker": "Twin 2",
   "mode": "OCR only; no manual review",
   "started_at": "2026-10-13T10:33:31+00:00",
-  "updated_at": "2026-10-13T10:38:56+00:00",
+  "updated_at": "2026-10-13T10:45:14+00:00",
   "expected_files": 15,
   "expected_pages": 536,
-  "pages_ocr_processed": 268,
-  "files_complete": 6,
+  "pages_ocr_processed": 332,
+  "files_complete": 8,
   "complete": false,
   "manual_pages_reviewed": 0,
   "documents": [
@@ -62,24 +62,24 @@
       "id": "pc11",
       "source": "Permutations and Combinations 11 Class Notes.pdf",
       "expected_pages": 45,
-      "pages_saved": 35,
-      "pages_ocr_processed": 35,
-      "complete": false
+      "pages_saved": 45,
+      "pages_ocr_processed": 45,
+      "complete": true
     },
     {
       "id": "qe01",
       "source": "Quadratic Equations 01 Class Notes.pdf",
       "expected_pages": 34,
-      "pages_saved": 0,
-      "pages_ocr_processed": 0,
-      "complete": false
+      "pages_saved": 34,
+      "pages_ocr_processed": 34,
+      "complete": true
     },
     {
       "id": "qe02",
       "source": "Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf",
       "expected_pages": 38,
-      "pages_saved": 0,
-      "pages_ocr_processed": 0,
+      "pages_saved": 20,
+      "pages_ocr_processed": 20,
       "complete": false
     },
     {

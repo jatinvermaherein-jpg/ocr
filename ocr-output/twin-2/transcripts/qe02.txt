@@ -2,3 +2,398 @@ Quadratic Equations — Lecture 02
 Source: Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf
 AUTOMATED OCR — NOT MANUALLY REVIEWED
 
+=== PDF PAGE 1 ===
+ARJUN
+JEE2027
+30
+Lecture -02
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tohecoverey
+A
+RelationbetweenRoots&Coefficients
+B
+Important Points about Quadratic
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+LASTCLASSRECAP
+α
+ax2
++ bx + c = 0
+(a#0)
+P
+coefficient of x
+Sum of Roots =
+α+β
+coefficient of x²
+a
+constant term
+ii
+Product of Roots =
+αβ=+C
+coefficient of x2
+a
+(iii)
+Difference of Roots
+α-β1
+D
+1
+# Note :1
+To find sum, product & difference of roots, roots calculate krne
+ki jarurat nhi hai.
+
+=== PDF PAGE 4 ===
+(α+B)²=(α-B)
+²+4αβ
+Ldentity
+开
+(α-B)²=(α+B)²-
+Yαβ
+(ii)
+(-P)²=
+
+C
+a
+%%
+b
+
+(α-β)²
+b-4ac
+α-βl=
+2D
+ar
+1a
+
+=== PDF PAGE 5 ===
+QUESTION PRACTICE
+
+=== PDF PAGE 6 ===
+83%
+α=0,8,3
+Module Question
+?
+3x4 + x2 -2x -3
+5x4 +2x²-7x+3
+Solve the equation
+3x4 -x2 + 2x + 3
+5x4-2x2+7x-3
+# cd
+A
+x=5,2
+Ctd
+X+ye+-+x--x+x
+5x+22-+3+5x-2x2+-3
+x+4=p+9
+B
+x = 4,1
+3x+x²-ax-3-{2x-x²+2x+3}
+5+ax-x+3-(5-2x+x-3
+R-
+p-q
+6x
+x =3, 8
+hx 01
+&x²-4n-G
+4x2-14x+ 6
+D
+x=1, 5
+
+=== PDF PAGE 7 ===
+6xy
+10x
+dx²-4n-G
+4x2-14α+6
+米**
+6x
+I0x!
+&x²-4x-G
+4x2-14α+6
+1x-42x+18-10x²+20x+30
+3(4x-14x+6)-5(ax-4n-G)
+x
+axax(x²-11x+24)=0
+x-4-G
+4x-14α+ 6
+>/
+4 x4(x-8)(x-3) =0
+x
+x-+48
+0
+x(x²-11α+24）=0
+=8
+=3
+=0
+
+=== PDF PAGE 8 ===
+QUADRATIC EQUATIONS
+
+=== PDF PAGE 9 ===
+607.
+Question
+ the roots of the
+ x2 - bx + c = 0 be two consecutive
+f
+equation
+
+integers, then b2 - 4c equals
+A
+-2
+n
+m+1
+diffo Root
+ =1
+OR
+#
+di4h
+B
+m-1,
+
+n
+b-4x1xc
+1
+6-4c = 1
+6-4c=1
+
+=== PDF PAGE 10 ===
+Question[JEEMains-2022]
+The minimum value of the sum of the squares of the roots
+of
+x² + (3 -a)x + 1 = 2a is
+>
+α+β
+X
+A
+X~+(
+(3-a)x+(1-aa
+0=
+α+B)
+α²+B²+aαB
+B
+5
+?!
+3 =-(3-a)=a-3
+α+β
+α²+β²+a-4a
+
+6
+I
+αβ=1-2a=1-aa
+a²+9-6a+4a-2=&²+β2
+1
+D
+8
+a²-aa+2+6=α²+β²
+(a-1)+6=α²+β²
+
+=== PDF PAGE 11 ===
+M
+α²+β²=6+(a-1)
+J
+=6+0
+0
+
+T
+53
+
+=== PDF PAGE 12 ===
+Note
+eum og turo prime no. uodd)
+Hhen one prime no. &hould be &
+2,3,5,4,11,13,
+a+
+= odd
+
+=== PDF PAGE 13 ===
+AcidicQuestion
+Let f (x) = x² - ax + b where 'a' is odd positive integer and roots of
+equation f (x) = 0 are two distinct prime numbers. If a + b = 35, then value
+of f(10)
+dulferent
+P=&
+odd
+f(x)=x²-ax+b
+P=a
+# α=2u aroot
+²-ax+b=0
+4-αa+b=0
+P2= 1l -
+f(αx)=x²-13x+aa
+h-=g+og-
+P+P2=-(-a)
+=10
+α±b=35
+=a
+f(10) = 1o²-13x10 +22 =-30+22 
+-3a =-39
+=-8
+a = 13 , b = 35-13 = 22
+
+=== PDF PAGE 14 ===
+x=1→HS=1=1
+&olve
+=1→dHS=(1)²=1
+ex:
+1
+dHS=O°=nd
+g
+#
+10
+x²-x
+8
+&
+X
+(1
+d10 (
+ol
+0 = 1xl
+x-x
+deg
+X
+10
+1α/ =10=1
+=not def
+=±l
+x(x-1)
+dog
+901x1
+110
+91=0
+x=1.=±1
+
+=== PDF PAGE 15 ===
+Critical Thinking Question (cTQ) [JEE Mains-2016]
+x²+4x-60
+The sum of all real values of x satisfying (x² - 5x + 5)
+= 1is
+eo
+#
+#x²-5x+4=0
+A
+5
+(x-1)(x-y) =0
+x²+4x -60
+Ly
+α²-5x+5
+og
+B
+3
+#x²-5+6=6
+(x-2)(x-3)=0
+x²+4α-60
+g
+x²-5x+5
+-4
+110
+1
+(α+10)(α-6)
+[x²-5x+5| = 1
+D
+6
+x²-5α+5=1 =x-5μ+4=0
+n²-5α+5 =-1 ≥n-5μ+6 =0
+
+=== PDF PAGE 16 ===
+Critical Thinking Question (cTQ) [JEE Mains-2016]
+38%.
+x²+4x-60
+The sum of all real values of x satisfying (x² - 5x + 5)
+= 1is
+Check-
+A
+5
+#
+(x-1)(α-y)=0
+X=1
+55
+=1 → HS =(1)
+=4
+↓&
+1
+=2 →s=
+x-2)（x-3）=0
+1
+-4
+Xx→s=()
+-39
+=2
+3
+(α+10)(α-6)=0
+6
+=6 →
+α1-g=
+dHs= II=1 .
+=-10 → dHs= 155°=1 .
+Qum = 6
+Sum=3
+
+=== PDF PAGE 17 ===
+TRICK
+#
+#
+V=1
+V2 =0
+V=
+Noneed
+Check!
+y
+Check
+
+=== PDF PAGE 18 ===
+Identity
+Equation
+True for
+ewwy vaue
+a+b)
+a²+ab+6
+-5x+6=0
+一
+x+cox=1
+-a
+= x²-4x+4
+degree = 2
+sec²θ - tauθ = 1
+x²-4x+4-x²+4x-4=0
+Ot²+0x+ 0 =0
+
+=== PDF PAGE 19 ===
+EQUATION&IDENTITIES
+#
+Which is true for every value of 'x'(wherever defined)
+OR
+ Which has more roots then its degree.
+#
+OR
+Ffor plyomio deutitis 
+# In which coefficient of each term is zero.
+
+=== PDF PAGE 20 ===
+Question [AlEEE-2011]
+The values of Λ for which
+(x² - 3 + 2)x² + (x² -5+ 6)x+ ²-4 = 0
+S
+an identity in x is
+lo
+O
+电
+A
+(x-1)(x-2) =0
+a-2)(a-3) =0
+(-2)(+2) =0
+=
+2
+2:
+2
+:
+二
+二
+-2
+D
+
