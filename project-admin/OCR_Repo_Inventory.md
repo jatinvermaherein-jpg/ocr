@@ -9,13 +9,14 @@
 
 | Item | Value | Verified how |
 |---|---|---|
-| Source PDFs in repo root | **66** | `ls *.pdf` |
-| Total source pages | **2,624** | PyMuPDF `page_count` on all 66 files |
+| Source PDFs in repo root | **66 class notes + 9 DIBY-only books = 75** | `ls *.pdf` |
+| Total source pages | **2,624 class notes + 241 DIBY-only = 2,865** | PyMuPDF `page_count` |
 | OCR workstreams | **5** (Current-assistant S&S + Twin 1–4) | master allocation plan |
 | Pages with a page-audit row | **2,624 / 2,624** — the whole corpus | 508 + 536 + 544 + 540 + 496 CSV rows |
 | Pages visually verified | **850** (508 Twin 1 + 259 Twin 3 + 83 Sequence & Series) | audit `visual_qa_status` / `qa_notes` |
 | Pages machine-OCR'd only | **1,774** (536 Twin 2 + 540 Twin 4 + 285 Twin 3 + 413 Sequence & Series) | audit status columns |
 | DIBY items captured | **916** rows across 5 registers (143 + 242 + 164 + 172 + 195) | CSV row counts |
+| DIBY-only books | **9 books / 565 items extracted** (552 numbered + 13 lettered) | `deliverables/diby-books/diby_books.json` |
 | Uncertainty entries logged | **4,260** across all logs | CSV/MD entry counts |
 | JSON/JSONL machine reports | **27 JSON + 536 JSONL page records** | `find` + parse |
 
@@ -77,6 +78,26 @@ The 12 Sequence & Series PDFs (496 pp) that the master plan listed as "current c
 - DIBY register: **195 rows** (28 visually verified, 167 auto-extracted), every row with a prompt and a printed label.
 - 12 transcripts, `page_audit.csv` (496 rows), `uncertainty_log.md` (310 entries with page + location).
 
+### DIBY-only books (9 books, 241 pp) · **EXTRACTED — new question documents built**
+`deliverables/diby-books/` + `deliverables/DIBY_Books.docx` / `DIBY_Books_Print.docx`
+- Source: 9 uploaded books (Basic Mathematics Part 01/02, Set Theory, Permutations & Combinations,
+  Quadratic Equations Part 01/02, Sequence & Series, Trigonometric Equations, Trigonometric Functions),
+  "Arjuna JEE 2027 — By: Sachin Jakhar". Digital natives: **no OCR needed**, text layer + span
+  geometry rebuilt into typeset text (superscripts, subscripts, stacked fractions).
+- **565 items** extracted — 552 numbered (`#DIBY-nn`, incl. `DIBY-27-A/-B` parts) + 13 lettered
+  (`DIBY-A…M`, answers merged from the A–M key page). 535 carry an answer, 312 carry options,
+  **0 duplicate tags**, no marker left behind (7 markers are motivational slides, correctly skipped).
+- Two layouts handled: marker-first (numbered books) and marker-last (lettered book), where the
+  option block straddles the marker.
+- 4 items (BM-01 48/49/50, Set Theory 06/07 split) were read from the rendered page because the
+  text layer holds them as images/merged cells — recorded in `manual_fixes.json`.
+- 1,924 of 1,977 maths spans typeset as native Word equations (OMML); the rest fall back to
+  readable plain text. Every question was parsed from the PDF text layer, **not visually verified
+  page by page** — see `deliverables/diby-books/qa_notes.md`.
+- Documents: `DIBY_Books.docx` (compact, 10.5 pt) and `DIBY_Books_Print.docx` (print, 12 pt, pure
+  black, no cover/contents/header/footer) — each 9 book sections starting on an odd page, 565
+  questions, 2,354 typeset equations, 107/108 KB.
+
 ---
 
 ## 4. Directory map (where everything lives)
@@ -135,6 +156,11 @@ CSV companions (not JSON but part of the same reporting layer): `Page_Audit.csv`
 | `tools/build_diby_docx_v2.py` | Builds the question-bank DOCX (current layout). Maths is converted to LaTeX and rendered as native Word equations (OMML) through pandoc |
 | `tools/ocr_math_to_latex.py` | OCR maths → LaTeX converter (superscripts, subscripts, fractions, roots, Greek/operators). Conservative: anything it is unsure of stays plain text |
 | `tools/build_diby_docx_print.py` | Builds the print-professional edition (`DIBY_Questions_Print.docx`) |
+| `tools/extract_diby_books_text.py` | DIBY-only books → `deliverables/diby-books/diby_books.json` + CSV (+ `manual_fixes.json` overrides, `qa_notes.md`) |
+| `tools/diby_layout.py` | Span-geometry text reconstruction for the DIBY books: rows, super/subscripts, stacked fractions, option-column splitting |
+| `tools/diby_math.py` | Prose/maths splitter for already-typeset LaTeX text + plain-text fallback |
+| `tools/build_diby_books_docs.py` | Builds `deliverables/DIBY_Books.docx` (compact) and `DIBY_Books_Print.docx` from the DIBY-book JSON |
+| `tools/ocr_diby_books.py` | Optional resumable RapidOCR fallback for image-only pages (`$DIBY_BOOKS_DIR`) — unused by the current run |
 | `tools/build_diby_docx.py` | Earlier question-bank DOCX builder (Question/Options/Answer/Tag/Source block layout with marker appendix) — superseded by `build_diby_docx_v2.py` |
 
 Coverage of the master document: 195 verified · 112 ocr-extract · 348 ocr-draft · 66 marker-only (655 items carry question text).

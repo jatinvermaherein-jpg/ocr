@@ -1,0 +1,56 @@
+[
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 19,
+  "question": "Value of x satisfying: x^{2}+ 7^{log_{7}x}- 2= 0",
+  "options": "",
+  "answer": "(x = 1)",
+  "note": "question text read from the page image (PDF p19); the exponent was mangled in the text layer"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 19,
+  "question": "The sum of all the solutions of the equation: 2log x - log(2x - 75) = 2",
+  "options": "(A) 30   (B) 350   (C) 75   (D) 200",
+  "answer": "D",
+  "note": "item is an image in the PDF — question, options and answer read from p19"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 19,
+  "question": "The solution of the equation: log_{7}log_{5}(√(x^{2}+ 5)+ x)= 0",
+  "options": "(A) x = 2   (B) x = 3   (C) x = 4   (D) x = -2",
+  "answer": "C",
+  "note": "item is an image in the PDF — question, options and answer read from p19"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 20,
+  "question": "Number of real solution of: log_{5}[2+ log_{3}(x+ 3)]= 0 is",
+  "options": "",
+  "answer": "1",
+  "note": "item is an image in the PDF — question and answer read from p20"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 4,
+  "question": "If A and B are two sets such that n(A) = 70, n(B) = 60, and n(A∪B) = 110, then n(A∩B) is equal to",
+  "options": "(A) 240   (B) 50   (C) 40   (D) 20",
+  "answer": "(D)",
+  "note": "split from the merged text layer around the DIBY-07 marker; text read from p4"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "Let n(U) = 700, n(A) = 200, n(B) = 300 and n(A∩B) = 100 then n(A^{c}∩B^{c}) =",
+  "options": "(A) 400   (B) 600   (C) 300   (D) 200",
+  "answer": "(C)",
+  "note": "marker sits inside option (A) in the text layer; text read from p4"
+ }
+]
