@@ -131,3 +131,71 @@ Source: `Permutations & Combinations 03 Class Notes.pdf` (42 pages, image-only, 
 **P:** red chip **Question**; **The number of 5 lettered palindromes (with repetition) which can be formed using the letters from the English alphabets, is** options **A** 26⁵, **B** 26⁴, **C** 26³, **D** 26².
 **H:** orange `26 letters.` with a curved arrow up to "English alphabets"; centre, orange three ringed slots plus two dashes reading `26 × 26 × 26 × 1 × 1`; at right cyan `MADAM` between a right-pointing arrow above and a left-pointing arrow below (the palindrome reversal), then cyan `RACECAR` and `NITIN`. An orange tick is struck through option **C** (26³).
 **DIBY:** none. **U:** none.
+<a id="p21"></a>
+## p21 · Question — MIRACLE, vowels in odd places (H.W.) · label: — (chip only)
+**P:** red chip **Question** with a cluster of twelve gold star stickers beside it (two rows of six); **Find the number of words that can be formed using all the letters of the word 'MIRACLE' such that the vowels occupy only the odd positions.** ('MIRACLE' yellow, "odd positions" green); options **A** 576, **B** 144, **C** 288, **D** 720.
+**H:** orange `H.W.` inside an orange circle over a double underline — assigned, nothing worked on this slide.
+**DIBY:** none (H.W. only). **U:** none.
+
+---
+<a id="p22"></a>
+## p22 · UNDERSTANDING MEANING OF PERMUTATION & COMBINATION — selection vs line-up · label: **Page No.128**
+**P:** long red banner **UNDERSTANDING MEANING OF PERMUTATION & COMBINATION**; green label **Class** above a white-framed box `A, B, C, D`; an orange-framed box **Call any 3 students on the ground**; below it a second orange-framed box **Call any 3 student on the ground & ask them to stand in a line.**
+**H:** two yellow arrows from the class box, one into each task box; under the first task, four cyan circles holding the triples `A B C`, `A C D`, `A B D`, `B C D`, gathered by an orange brace to orange `Selectⁿ or Comb.` (double-underlined); under the second, one cyan circle `A B C` with an orange arrow into a yellow column of the six orders `ABC ACB BAC BCA CAB CBA`, and an orange brace at right reading `Permut. or Arrang.`
+**DIBY:** none. **U:** none.
+
+---
+<a id="p23"></a>
+## p23 · board — Combination = selection, Permutation = arrangement · label: — (no header, board slide)
+**P:** none — board page.
+**H:** cyan `Combination` inside a cyan ellipse, arrow out to cyan `only Selection`; below it green `Permutation` inside a pink ellipse, arrow out to green `arrangement`. Nothing else on the page.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p24"></a>
+## p24 · board — factorial: definition, 0! = 1, n! = n·(n−1)! · label: — (no header, board slide)
+**P:** none — board page.
+**H:** pink circled `#` with pink cursive `factorial :-` (wavy double underline); green `n or n! = 1.2.3.4......n` in a red box, cyan `, n ∈ N` double-underlined; at left a tall red box listing cyan/white `0! = 1`, `1! = 1. = 1`, `2! = 1.2 = 2`, `3! = 1.2.3 = 6`, `4! = 1.2.3.4 = 24`, `5! = 1.2.3.4.5 = 120`, `6! = 1.2.3.4.5.6 = 720`, `7! = 1.2.3.4.5.6.7 = 5040`. Right: pink `# 15! = 1.2.3.4.....14.15` with a pink bracket under the initial product and an arrow down to `= 14! × 15`; pink `OR` beside a red box `n! = n.(n−1)!` whose pink arrow drops to `n = 1`, `1! = 1 × 0!`, `1 = 0!`; three green arrows out of the box to green `7! = 7 × (6!)`, `13! = 13 × 12!`, `56! = 56.55!`.
+**DIBY:** none. **U:** none — the small open circles written beneath several digits (e.g. under the 1 in 15!, 14!, 0!) are a habitual pen flourish, not notation.
+
+---
+<a id="p25"></a>
+## p25 · FORMULA's FOR P & C — Theorem-01 (n! ways) · label: **Page No.128**
+**P:** clipboard icon + red banner **FORMULA's FOR P & C**; yellow **Theorem-01 :**; red rectangle **Number of ways of arranging n different things in a line = ⁿ!** (the `n` circled in pink, wavy underline under "different things in a line", a small ring under the factorial sign); white **Ex. : Number of ways in which 5 persons can be sited on 5 chairs (in a line)** [printed "sited"] yellow **OR** **5 different chocolates distributed to 5 boys each get one.**
+**H:** orange arrow from the first example to a written `5!` and a pink curved arrow from the second example up to the same `5!`; pink two-row matching beneath — `C₁ C₂ C₃ C₄ C₅` over `A B C D E` (chocolates to boys).
+**DIBY:** none. **U:** none — the ASCII rendering keeps the subscripts as `C1..C5`; the printed "sited" is a typo left as is.
+
+---
+<a id="p26"></a>
+## p26 · FORMULA's FOR P & C — Theorem-02 (ⁿP_r) with the 5-seats-from-8 example · label: **Page No.128**
+**P:** same banner; yellow **Theorem-02 :**; white **Number of ways of arranging r things taken out of n-different things in a line =**; **Ex. : Number of ways in which 5 seats can be filled by 8 persons.** (the `8` ringed in orange).
+**H:** an orange brace from the theorem text into a red double-framed box holding orange `ⁿP_r = P(n,r) = n!/(n−r)!`; below left orange `8P5 = 8!/3!` with a check; pink roster `A,B,C,D,E,F,G,H` with a cyan arrow into five cyan circles, weights `8 × 7 × 6 × 5 × 4` written under them in cyan; orange long-division form `= (8×7×6×5×4×3×2×1)/(3×2×1) = 8!/3!`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p27"></a>
+## p27 · board — ⁿPₙ = n!/0! = n! · label: — (no header, board slide)
+**P:** none — board page.
+**H:** a single orange line: `#  ⁿP_r = n!/0! = n!` — with the lower index written `n`, i.e. the r = n case of the previous formula (the denominator `0!` carrying the habitual small ring beneath).
+**DIBY:** none. **U:** 1 — the left-hand side is written `ⁿP_r` while the denominator is `0!`, so the line only closes if r = n; read as `ⁿP_n`.
+
+---
+<a id="p28"></a>
+## p28 · FORMULA's FOR P & C — Theorem-03 "Process Break" (ⁿC_r) · label: **Page No.128**
+**P:** same banner; yellow **Theorem-03 :** white *Process Break*; **Number of ways of selecting r things out of n-different things =**; a red box holding orange `ⁿC_r = (n r) = C(n,r) = n!/(r! (n−r)!)`.
+**H:** orange handwriting completing the printed sentence at the right margin with `ⁿC_r`.
+**DIBY:** none. **U:** none — the middle form is the binomial-style column notation `(n over r)`; transcribed linearly.
+
+---
+<a id="p29"></a>
+## p29 · board — deriving 8C5 from select-then-arrange · label: — (no header, board slide)
+**P:** none — board page (the 5-seats/8-people example continued).
+**H:** pink roster `A,B,C,D,E,F,G,H` at top left with a cyan arrow down; a row of four pink dashes for the seats; cyan first line `(Select any 5 out of 8) × (arrange these 5 on 5 seats) = 8!/3!` with the second factor inside a red rectangle and a cyan arrow curving out of it; cyan second line `(Select any 5 out of 8) × 5! = 8!/3!`; cyan third line `(Select any 5 out of 8) = 8!/(5! 3!)`.
+**DIBY:** none. **U:** 1 — only four seat-dashes are drawn although the working is for five seats; the arithmetic itself is consistent.
+
+---
+<a id="p30"></a>
+## p30 · board — 13C4 vs 13P4, C = selection / P = arrangement, ⁿC₀, ⁿC₁, symmetry · label: — (no header, board slide)
+**P:** none — board page.
+**H:** top line white/pink `13C4 = 13!/(9! 4!)` at left and `13P4 = 13!/9!` at right; pink legends `C ≡ comb.` with an arc to `selecⁿ`, and `P ≡ perm.` with an arc to `arrang`; a green horizontal rule across the board. Below it cyan `(i) ⁿC_0 = n!/(n! 0!) = 1` (the top `n!` struck through), `(ii) ⁿC_1 = n!/((n−1)! 1!) = n.(n−1)!/(n−1)! = n` with the cancelling strokes drawn; then cyan `(iv)` before a red box `ⁿC_r = ⁿC_{n−r}`, two yellow arrows dropping to yellow `n!/(r! (n−r)!) = n!/((n−r)! r!)`; a cluster of gold star stickers (about sixteen, three rows) to the right of the red box.
+**DIBY:** none (star cluster only). **U:** 1 — the property list jumps from `(ii)` to `(iv)`; no `(iii)` is written on this page, so the numbering as it stands cannot be matched to a specific missing identity.
