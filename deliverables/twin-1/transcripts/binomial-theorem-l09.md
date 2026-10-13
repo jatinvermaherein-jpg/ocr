@@ -89,7 +89,7 @@ Source: `Binomial Theorem 09 Class Notes.pdf` (29 pages, image-only) · page ima
 ## p13 · B.T. FOR RATIONAL NUMBER & –VE INTEGERS — the infinite expansion, |x| < 1 · label: **Page No. 163**
 **P:** clipboard icon + red banner **B.T. FOR RATIONAL NUMBER & –VE INTEGERS**; blue formula in a wide red rectangle `(1 + x)^n = 1 + nx + n(n-1)/2! x^2 + n(n-1)(n-2)/3! x^3 + ...... ∞`; white **This expression is valid only if** followed by `|x| < 1` inside a red rectangle (green/cyan lettering).
 **H:** pink `ex:` double-underlined with pink `(1+x)^(4/3), (1-x)^(-3), - - - -`; at the right a green hand-drawn scalloped cloud badge containing green `RAR`, ringed by about two dozen gold star stickers.
-**DIBY:** none. **U:** none — the `RAR` badge is the same motif I flagged on P&C L03 p10; it recurs here and on p18, in different colours and shapes, always as a stand-alone emphasis mark, so it is recorded as decoration/instructor signature rather than as content (F-20).
+**DIBY:** none. **U:** none — the `RAR` badge is the same motif I flagged on P&C L03 p10; it recurs here and on p18, in different colours and shapes, always as a stand-alone emphasis mark, so it is recorded as decoration/instructor signature rather than as content (F-35).
 
 ---
 <a id="p14"></a>
