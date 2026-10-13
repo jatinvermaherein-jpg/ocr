@@ -394,8 +394,8 @@
       },
       "print": {
         "file": "deliverables/DIBY_Questions_Print.docx",
-        "est_pages": 55,
-        "layout": "cover + contents (live TOC field), chapters on odd pages, running chapter header, page numbers, 2.2cm margins, 11pt body, 1.15 spacing, keep-together questions"
+        "est_pages": 61,
+        "layout": "no cover, no contents — starts at chapter 1; 12pt body / 1.15 spacing; 2.0cm margins; chapters on odd pages; running chapter header + page number; questions kept together; pure black and white (#000000 only, no colour in any content part)"
       }
     }
   }
