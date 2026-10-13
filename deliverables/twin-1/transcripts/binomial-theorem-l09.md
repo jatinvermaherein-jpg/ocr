@@ -84,3 +84,44 @@ Source: `Binomial Theorem 09 Class Notes.pdf` (29 pages, image-only) · page ima
 **P:** none — board page.
 **H:** yellow pair of expansions `(sqrt(17)+4)^7 = 7C0 (sqrt(17))^7 + 7C1 (sqrt(17))^6 4^1 + 7C2 (sqrt(17))^5 4^2 + - - - -` and `(sqrt(17)-4)^7 = 7C0 (sqrt(17))^7 - 7C1 (sqrt(17))^6 4^1 + 7C2 (sqrt(17))^5 4^2 - - - - -`; a white circle containing a minus sign at the left of a long white subtraction rule; yellow result `(sqrt(17)+4)^7 - (sqrt(17)-4)^7 = 2 { 7C1 (sqrt(17))^6 4^1 + 7C3 (sqrt(17))^4 4^3 + - - - - }` with white braces; green wavy underlines below both binomials leading to green `I + [f - G] = 2 (I)` with `f - G` boxed in red, then cyan `integer.` below the box, cyan `f - G = 0` and cyan `f = G.`; at lower right yellow `(sqrt(17)+4)^7 . (sqrt(17)-4)^7 = (I+f) G` with cyan `1 = (I+f) f` under a cyan arc and the conclusion cyan `1/f - f = I` with a cyan tick.
 **DIBY:** none. **U:** none — G (the conjugate's integer part) is introduced by the board only; it is never defined in print on p11.
+---
+<a id="p13"></a>
+## p13 · B.T. FOR RATIONAL NUMBER & –VE INTEGERS — the infinite expansion, |x| < 1 · label: **Page No. 163**
+**P:** clipboard icon + red banner **B.T. FOR RATIONAL NUMBER & –VE INTEGERS**; blue formula in a wide red rectangle `(1 + x)^n = 1 + nx + n(n-1)/2! x^2 + n(n-1)(n-2)/3! x^3 + ...... ∞`; white **This expression is valid only if** followed by `|x| < 1` inside a red rectangle (green/cyan lettering).
+**H:** pink `ex:` double-underlined with pink `(1+x)^(4/3), (1-x)^(-3), - - - -`; at the right a green hand-drawn scalloped cloud badge containing green `RAR`, ringed by about two dozen gold star stickers.
+**DIBY:** none. **U:** none — the `RAR` badge is the same motif I flagged on P&C L03 p10; it recurs here and on p18, in different colours and shapes, always as a stand-alone emphasis mark, so it is recorded as decoration/instructor signature rather than as content (F-20).
+
+---
+<a id="p14"></a>
+## p14 · RAPID FIRE ROUND (i)-(ii) — fourth term, and the range of x · label: — (no label)
+**P:** red chip **RAPID FIRE ROUND**; white `(i) **Fourth term in the expansion** (1 - 2x)^(3/2)`, `(ii) **Value of x for which** 1/sqrt(5+4x) **can be expanded as** ∞ **series.**`, `(iii) **Using binomial calculate** sqrt(10) **upto two decimal places.**`, `(iv) **Using binomial calculate** (121)^(1/3) **upto two decimal places.**`
+**H:** pink ticks through (i) and (ii) with a long pink arc from them down to the working; green note at the right of (ii) `in (up-arrow) powers of x.`; pink `(i°) T4 = n(n-1)(n-2)/3! x^3 = ( (3/2)(3/2 - 1)(3/2 - 2) )/3! (-2x)^3` with a pink tick and small `0` subscript marks under each `3!`; orange `(ii°) 1/sqrt(5+4x) = (5+4x)^(-1/2) = 5^(-1/2) (1 + 4x/5)^(-1/2)` with `4x/5` circled in green; green `=> |4x/5| < 1 => (4/5)|x| < 1 => |x| < 5/4`; a green scalloped cloud at lower right containing `−5/4 < x < 5/4` with a green tick.
+**DIBY:** none — a RAPID FIRE ROUND chip carries no `# DIBY-nn` tag (F-15). **U:** none.
+
+---
+<a id="p15"></a>
+## p15 · RAPID FIRE ROUND — (iii) sqrt(10) = 3.16 and (iv) set up · label: — (no label)
+**P:** identical printed slide to p14 (four items, (i)-(iv)).
+**H:** yellow arc from (iii) to `(iii°) (10)^(1/2) = (9+1)^(1/2) = 3 (1 + 1/9)^(1/2)`; cyan wavy underline and arrow into cyan `= 3 ( 1 + (1/2)(1/9) + ( (1/2)(1/2 - 1) )/2! (1/8)^1 + ... ∞ )` with an orange wavy rule under the first two terms and a `0` subscript under `2!`; orange `= 3 + 1/6 ≅ 3.16` (wavy underline under 3.16). At the right in magenta: `(iv) (125 - 4)^(1/3) = 5 (1 - 4/125)^(1/3)` with an arc and a tick; in pink, two extra examples `sqrt(7) = (9-2)^(1/2) = 3 (1 - 2/9)^(1/2)` tick, `OR = (4+3)^(1/2) = 2 (1 + 3/4)^(1/2)` tick.
+**DIBY:** none. **U:** 1 — the second correction term is written with `(1/8)^1`, which fits neither `(1/9)^2` (the consistent term of the sqrt(10) expansion) nor the `4^3` of the (iv) line; transcribed as it stands.
+
+---
+<a id="p16"></a>
+## p16 · IMPORTANT NOTE — six standard negative-index expansions, derived two ways · label: **Page No. 163**
+**P:** red chip **IMPORTANT NOTE**; six yellow bullets: `(1 + x)^-1 = 1 - x + x^2 - x^3 + x^4 - ... ∞` (right-hand side inside a red rectangle), `(1 - x)^-1 = 1 + x + x^2 + x^3 + x^4 + ... ∞`, `(1 + x)^-2 = 1 - 2x + 3x^2 - 4x^3 + ... ∞`, `(1 - x)^-2 = 1 + 2x + 3x^2 + 4x^3 + ... ∞`, `(1 + x)^-3 = 1 - 3x + 6x^2 - 10x^3 + ... ∞`, `(1 - x)^-3 = 1 + 3x + 6x^2 + 10x^3 + ... ∞`.
+**H:** orange arrow from the boxed series to cyan `S4S` (double-underlined) above orange `∞ - G.P.` and orange `1/(1-(-x)) = 1/(1+x) = (1+x)^-1`; a cyan arrow from the same box to cyan `B.T.` (double-underlined) above cyan `(1+x)^-1 = 1 + (-1)x + (-1)(-1-1)/2! x^2 + (-1)(-1-1)(-1-2)/3! x^3 + - - - ∞` with the two fractions struck through (cancellation arcs, a `-6` written over the second) and cyan `= 1 - x + x^2 - x^3 + x^4 - - - - ∞` below.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p17"></a>
+## p17 · IMPORTANT NOTE — (1-x)^-n and the n+r-1 C_r coefficient rule · label: **Page No. 164**
+**P:** red chip **IMPORTANT NOTE**; yellow italic **When power is negative integer:**; blue `(1 - x)^-n =` with the pink expansion `1 + (-n)(-x) + (-n)(-n-1)/2! (-x)^2 + (-n)(-n-1)(-n-2)/3! (-x)^3 + - - - - ∞`.
+**H:** pink `n in N` with an arc into the printed `-n` exponent; cyan simplified line `= 1 + nx + n(n+1)/2! x^2 + n(n+1)(n+2)/3! x^3 + - - - ∞`; three yellow blob-circles round `n`, `n(n+1)/2!` and `n(n+1)(n+2)/3!`, each with a yellow arrow down to the matching binomial coefficient `nC1`, `n+1C2`, `n+2C3`; a red rectangle at the foot holding orange `Coefficient of x^r in (1-x)^-n =` and cyan `n+r-1 C_r`.
+**DIBY:** none. **U:** none — the printed second numerator is read as `(-n)(-n-1)`; the second dash is faint against the fraction rule.
+
+---
+<a id="p18"></a>
+## p18 · board — the coefficient rules boxed in stars, with x^7 examples · label: — (no header, board slide)
+**P:** none — board page.
+**H:** at the top a red rectangle with orange `Coefficient of x^r in (1-x)^-n = n+r-1 C_r`, framed on four sides by some 44 gold star stickers; to its right a magenta circle with magenta `RAR` over a double underline; below, cyan `Coeff. of x^7 in (1-x)^-3 is` with orange `3+7-1 C_7 = 9C_4`; a second red rectangle with cyan `Coeff. of x^r in (1+x)^-n is` and pink `n+r-1 C_r (-1)^r`, flanked right by a block of about thirty gold stars; and cyan `Coeff. of x^7 in (1+x)^-3 is` with `3+7-1 C_7 (-1)^7 = - 9C_7`.
+**DIBY:** none. **U:** none.
