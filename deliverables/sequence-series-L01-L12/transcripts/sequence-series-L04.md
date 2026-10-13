@@ -2,7 +2,7 @@
 
 - Source PDF: `Sequence and Series 04 Class Notes.pdf`
 - SHA-256: `308679659e771b063e66e3f8dce3b144951c3f27e7f53bc8b9683c20f7e35893`
-- Pages: 42 (reviewed: 34)
+- Pages: 42 (reviewed: 42)
 - Worker: Sequence & Series (session branch arena/02fffb3f-ocr; plan branch ocr/current-sequence-series)
 - QA reviewer: arena-seq-agent
 
@@ -1110,3 +1110,308 @@
 - 4
 - 2
 - [Ans.: (c)]
+
+## Page 35
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass B | mean conf 0.9605 | pass agreement 0.9664
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-11
+- +19÷+18
+- upto nth term is 488 and the nth
+- 5
+- 5
+- 5
+- term is negative, then
+- [JEE Mains-2020]
+- (A)
+- n =41
+- (B)
+- nth term is -4
+- 2-5
+- (c)
+- n = 60
+- (口)  [LOWCONF]
+- nth term is -4
+- [Ans.:(D)]
+- # dIBY-12
+- Five numbers are in A.P., whose sum is 25 and product is 2520. If one of these
+- five numbers is -
+- -1
+- then the greatest number amongst them is
+- 2
+- [JEE Mains-2020]
+- (a)
+- 21
+- (B)
+- 16
+- (c)
+- 27
+- (D) 7
+- 2
+- [Ans.: (B)]
+
+## Page 36
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass A | mean conf 0.9644 | pass agreement 0.828
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-13
+- If 32sin 2α-1, 14 and 34-2sin 2α
+-  are the first three terms of an A.p. for some α, then
+- the sixth term of this A.P. is:
+- [JEE Mains-2020]
+- (A)
+- 65
+- (B)
+- 78
+- (c)
+- 81
+- (D)
+- 66
+- [Ans.: (D)]
+- #
+- DIBY-14
+- f
+- a1, a2,a3. and b1, b2, b3. are in A.P., and a1 = 2,a1o = 3, ab1 = 1 = a1ob1o, then
+- a4b4 is equal to.
+- [JEE Mains-2022]
+- (A)
+- 35
+- 27
+- (B)
+- (c)
+- 27
+- 28
+- (D)
+- 27
+- 28
+- [Ans.: (D)]
+- # DIBY-15
+- A software company sets
+- dn s
+- 0 m number of computer systems to finish an
+-       ss       s  [LOWCONF]
+-           t    [LOWCONF]
+- and so on, then it took 8 more days to finish the assignment. The value of m is
+- equal to:
+- [JEE Mains-2024]
+- (A)
+- 125
+- (B)
+- 150
+- (c)
+- 180
+- (D)
+- 160
+- [Ans.: (B)]
+
+## Page 37
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass B | mean conf 0.9704 | pass agreement 0.9181
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-16
+- Consider two sets A and B, each containing three numbers in A. P. Let the sum
+- and the product of the elements of A be 36 and p respectively and the sum and
+- the product of the elements of B be 36 and q respectively. Let d and D be the
+- common differences of AP's in A and B respectively such that D = d + 3, d > 0. If
+- p+q
+- b-d
+- 19
+- 5
+- then p - q is equal to
+- [JEE Mains-2025]
+- (A)
+- 600
+- (a)
+- 450
+- (c)
+- 630
+- (D)
+- 540
+- [Ans. :(D)]
+- # diBY-17
+- Consider an A. P. of positive integers, whose sum of the first three terms is 54
+- and the sum of the first twenty terms lies between 1600 and 1800. Then its 1ith
+- term is:
+- [JEEMains-2025]
+- (A)   84
+- 06 (a)
+- (c)
+- 108
+- (D)
+- 122
+- [Ans.: (B)]
+
+## Page 38
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass A | mean conf 0.9801 | pass agreement 0.3135
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-18
+- Number of 4 digit integers less than 28o0 which are either divisible by 3 or by 11
+- is equal to ?
+- [JEEMains-2023]
+- [Ans.:710]
+- # DIBY-19
+- If where n is an even integer, is an arithmetic progression with common
+- a2i = 120, then n is equal to
+- [JEEMains-2022]
+- (A)
+- 48
+- (B)
+- 96
+- (c)
+- 92
+- (D)
+- 104
+- [Ans.:(B)]
+- # DIBY-20
+- Let S, be the sum of first 2n term of an arithmetic progression. Let S, be the sum
+- of first 4n terms of the same arithmetic progression. If (S2 - S) is 1ooo, then the
+- sum of the first 6n terms of the arithmetic progression is equal to
+- [JEE Mains-2021]
+- (A)
+- 5000
+- (B)
+- 1000
+- (c)
+- 7000
+- (D)
+- 3000
+- [Ans.:(D)]
+
+> Dual-pass agreement 0.3135 (<0.80): secondary pass text kept in raw record for audit.
+
+## Page 39
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass A | mean conf 0.9645 | pass agreement 0.9425
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-21
+- The sum of all natural numbers 'n' such that 100 < n < 200 and H.c.F. (91, n) > 1
+- is
+- [JEEMains-2019]
+- (A)
+- 3221
+- (B)
+- 3121
+- (c)
+- 3203
+- (D)
+- 3303
+- [Ans.: (B)]
+- # DIBY-22
+- The series of positive multiples of 3 is divided into sets : {3}, {6, 9, 12}, {15, 18, 21,
+- 24, 27},
+- Then the sum of the elements in the 1ith set is equal to
+- [JEEMains-2022]
+- [Ans.:6993]
+- # DIBY-23
+- a2i-1. If a5 = 27 and S - 2T = 75,
+- then aio is equal to
+- [JEE Mains-2019]
+- (A)
+- 52
+- (B)
+- 57
+- (c)
+- 47
+- (D)
+- 42
+- [Ans.: (A)]
+
+## Page 40
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass A | mean conf 0.9613 | pass agreement 0.8347
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-24
+- Let a1, a2,. a2024 be an Arithmetic Progression such that
+- a1 + (a5 + a10 +a15 + …. + a2020) + a2024 = 223. Then a1 + a2 + a3 + …- + a2024
+- is equal
+- to
+- [JEE Mains-2025]
+- [Ans. : 11132]
+- # DIBY-25
+- If pth, qth
+- and rth term of an A.P. are respectively a, b and c, then the value of
+- a(q -r) + b(r - p) + c(p -q) is
+- (A)  o
+- (B) 1
+- (c)
+- p+q+r
+- (D)
+- abc
+- [Ans.:(A)]
+- # DIBY-26
+- Find the value of the sum S = 1002 - 992 + 982 - 972 + 962 - 952 + --:+ 22 - 12
+- (A)
+- 4950
+- (B)
+- 10100
+- (c)
+- 5150
+- (D)
+- 5050
+- [Ans.: (D)]
+
+## Page 41
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass A | mean conf 0.9678 | pass agreement 0.9928
+
+### Raw OCR (primary pass, verbatim)
+
+- # DIBY-27
+- The sum of first 3 terms of an A.P. is 27 and the sum of their squares is 293, then
+- first term and common difference of A.p.is
+- (A)
+- First term = 3, Common difference = ±6
+- First term = 4, Common difference = 5
+- First term = 4 or 14, Common difference = ±5
+- First term = 2 or 16, Common difference = ±7
+- [Ans.:(c)]
+- #DIBY-28
+- The number of terms in an A.p. is even, the sum of the odd numbered terms is
+- 24 & sum of the even numbered terms is 30 and thelast term exceeds the first
+- term by 10 .
+- Find the number of terms.
+- 2
+- (A)   4
+- (B)
+- 6
+- (c)
+- 8
+- (D)
+- 12
+- [Ans.:(c)]
+
+## Page 42
+
+- Topic/heading: (see text)
+- Page type: auto | dark bg: True | primary pass B | mean conf 0.8629 | pass agreement 0.942
+
+### Raw OCR (primary pass, verbatim)
+
+- 在u  [LOWCONF]
+- never
+- about
+- endresult
+- Lts aluay about
+- fourney
+- Thank
+- #futurellTians

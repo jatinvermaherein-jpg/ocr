@@ -4,18 +4,44 @@
 **Sequence & Series, Lectures 01–12, 12 PDFs / 496 pages**, plan branch `ocr/current-sequence-series`.
 This session is pinned to `arena/02fffb3f-ocr`, so all work is committed here.
 
-## ⛔ Status: BLOCKED — source PDFs not delivered
+## ✅ Status: OCR complete — 496/496 pages (visual QA only where noted)
 
-The 12 Sequence & Series PDFs are recorded in the master inventory as **"Current chat uploads"**.
-Attachment metadata for all 12 files arrived in-session (twice), but **no file bytes reached the
-sandbox**: `/home/user/uploads` does not exist and a full filesystem scan returns only the
-**54 PDFs already in the repository**. Nothing Sequence & Series exists in any branch or in any
-commit in repository history.
+Machine extraction (dual-pass PP-OCRv4) is **complete for all 12 lectures / 496 pages**, with every
+page reconciled against the plan (expected == reviewed, no gaps, 0 pages with no text detected).
 
-**No OCR has been run and no page content has been written.** Nothing in this folder is invented —
-every content field is blank or explicitly marked pending.
+**Per instruction, this pass was OCR-only: no new visual verification was performed.** The only
+visually verified pages in this block are L01 (44/44) and L02 (39/39), verified in earlier passes —
+their status is preserved here and is carried per page in `page_audit.csv`.
 
-## What *is* done (all of it real, none of it dependent on the missing files)
+| Tier | Pages | Meaning |
+|---|---:|---|
+| `visual-full` | **83** | L01 + L02 only — read off contact sheets by a human-directed pass |
+| `auto-QA (dual-pass)` | **413** | machine-only (L03–L12). **Not verified** — do not treat as a faithful transcript |
+
+| Lecture | Pages | OCR | Visual QA |
+|---|---:|---|---|
+| Sequence & Series 01 | 44 | ✅ 44/44 | ✅ visual-full (44) |
+| Sequence & Series 02 | 39 | ✅ 39/39 | ✅ visual-full (39) |
+| Sequence & Series 03 | 43 | ✅ 43/43 | machine-only |
+| Sequence & Series 04 | 42 | ✅ 42/42 | machine-only |
+| Sequence & Series 05 | 40 | ✅ 40/40 | machine-only |
+| Sequence & Series 06 | 38 | ✅ 38/38 | machine-only |
+| Sequence & Series 07 | 41 | ✅ 41/41 | machine-only |
+| Sequence & Series 08 | 48 | ✅ 48/48 | machine-only |
+| Sequence & Series 09 | 44 | ✅ 44/44 | machine-only |
+| Sequence & Series 10 | 35 | ✅ 35/35 | machine-only |
+| Sequence & Series 11 | 42 | ✅ 42/42 | machine-only |
+| Sequence & Series 12 | 40 | ✅ 40/40 | machine-only |
+| **Total** | **496** | **496/496** | **83 verified / 413 machine-only** |
+
+Deliverables produced by this pass: **12 transcripts**, `page_audit.csv` (**496 rows**, one per page),
+`diby_index.csv` (**195 rows** — 28 verified from L01/L02, 167 auto-extracted), `uncertainty_log.md`
+(**310 entries** with page + location).
+
+Mirroring the plan's standard, and matching how `ocr-output/twin-2/` is labelled: the machine output
+carries no claim of visual QA, math correction, or verified DIBY question/answer extraction.
+
+## Pre-registration and tooling (produced before the sources arrived)
 
 | Deliverable | State |
 |---|---|
@@ -25,39 +51,6 @@ every content field is blank or explicitly marked pending.
 | **`tools/ocr_pipeline.py`** | ✅ written and **dry-run verified** — reports the 12 missing sources cleanly and exits; dual-pass PP-OCRv4 (200 dpi native + background-adapted); multi-location source lookup (repo root → `/home/user/uploads` → `--src`); automatic page-count and SHA-256 verification against the inventory |
 | **`tools/make_qa_sheets.py`** | ✅ ready (2-up native-resolution contact sheets for visual QA, supports `--first/--last` for partial passes) |
 | **`tools/build_deliverables.py`** | ✅ ready (merges raw OCR + QA notes into the standard handoff set, master-workbook column templates) |
-
-## Expected scope (from the inventory, unverified until the files arrive)
-
-| Lecture | Pages | Source filename |
-|---|---:|---|
-| Sequence & Series 01 | 44 | `Sequence and Series 01 Class Notes.pdf` |
-| Sequence & Series 02 | 39 | `Sequence and Series 02 Class Notes.pdf` |
-| Sequence & Series 03 | 43 | `Sequence and Series 03 Class Notes.pdf` |
-| Sequence & Series 04 | 42 | `Sequence and Series 04 Class Notes.pdf` |
-| Sequence & Series 05 | 40 | `Sequence and Series 05 Class Notes.pdf` |
-| Sequence & Series 06 | 38 | `Sequence and Series 06 Class Notes.pdf` |
-| Sequence & Series 07 | 41 | `Sequence and Series 07 Class Notes.pdf.pdf` |
-| Sequence & Series 08 | 48 | `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` |
-| Sequence & Series 09 | 44 | `Sequence and Series 09 Class Notes.pdf.pdf` |
-| Sequence & Series 10 | 35 | `Sequence and Series 10 Class Notes.pdf.pdf` |
-| Sequence & Series 11 | 42 | `Sequence and Series 11 Class Notes.pdf.pdf` |
-| Sequence & Series 12 | 40 | `Sequence and Series 12 Class Notes.pdf.pdf` |
-| **Total** | **496** | |
-
-## To unblock — any one of these
-
-1. **Re-attach the PDFs** to the chat (a fresh attachment attempt).
-2. **Commit them to the repository** (repo root, same as the other 54), then tell me — I pull and start.
-3. **Give me a reachable URL** for the files (my network access is limited to GitHub/npm/PyPI hosts).
-
-The moment a source appears, verification and extraction start with **zero setup cost**:
-
-```bash
-# verifies page count + SHA-256 against the inventory, then runs dual pass over every page
-python tools/ocr_pipeline.py --work /home/user/ocr_work --workers 2 --src /path/to/pdfs
-python tools/make_qa_sheets.py --slug sequence-series-L01 --pdf "Sequence and Series 01 Class Notes.pdf"
-python tools/build_deliverables.py
-```
 
 ## Method (as specified by the plan, applied unchanged)
 
