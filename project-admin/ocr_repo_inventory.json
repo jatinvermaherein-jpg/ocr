@@ -122,7 +122,7 @@
       "pages_audited": 540,
       "pages_visually_verified": 0,
       "qa_status_breakdown": {
-        "NOT VISUALLY VERIFIED \u2014 machine OCR draft only": 540
+        "NOT VISUALLY VERIFIED — machine OCR draft only": 540
       },
       "diby_rows": 172,
       "uncertainty_entries": 203,
@@ -208,6 +208,12 @@
       "kind": "visual QA records",
       "scope": "Twin 3",
       "highlights": "7 files, 259 page records (verified text, diagram notes, DIBY, [UNCLEAR])"
+    },
+    {
+      "path": "deliverables/DIBY_Master.json",
+      "kind": "consolidated DIBY register",
+      "scope": "all workers",
+      "highlights": "721 items with prompt, options, answer, provenance and quality badge"
     }
   ],
   "csv_reports": [
@@ -254,6 +260,10 @@
     {
       "path": "deliverables/twin-4-trigonometric-functions/uncertainty_log.csv",
       "rows": 203
+    },
+    {
+      "path": "deliverables/DIBY_Master.csv",
+      "rows": 721
     }
   ],
   "tools": [
@@ -292,6 +302,10 @@
     {
       "path": "deliverables/twin-3-quadratic09-14-trigeq/tools/",
       "role": "dual-pass OCR pipeline, QA contact sheets, deliverable builder"
+    },
+    {
+      "path": "tools/build_diby_master.py",
+      "role": "assembles the consolidated DIBY document from all four worker registers"
     }
   ],
   "open_items": [
@@ -330,5 +344,22 @@
       "issue": "Reporting granularity differs per twin (item / line / page level); no unified handoff schema",
       "severity": "low"
     }
-  ]
+  ],
+  "consolidated_outputs": {
+    "markdown": "deliverables/DIBY_Master.md",
+    "csv": "deliverables/DIBY_Master.csv",
+    "json": "deliverables/DIBY_Master.json",
+    "docx": "deliverables/DIBY_Master.docx",
+    "builder": "tools/build_diby_master.py",
+    "items": 721,
+    "quality": {
+      "verified": 195,
+      "ocr_extract": 112,
+      "ocr_draft": 348,
+      "marker_only": 66
+    },
+    "items_with_question_text": 655,
+    "repeat_appearances": 108,
+    "note": "One document with every DIBY item from all four worker registers. Twin 2 / Twin 4 had no prompts extracted, so draft text is reconstructed from their own raw page OCR (delimited by the next marker) and labelled unverified; nothing was corrected or re-worded."
+  }
 }

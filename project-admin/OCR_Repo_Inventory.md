@@ -87,6 +87,7 @@ ocr/
 │   ├── OCR_Repo_Inventory.md / .json      ← THIS AUDIT
 ├── tools/                                 shared pipeline scripts (9 files + requirements)
 ├── deliverables/
+│   ├── DIBY_Master.md/.csv/.json/.docx   ← consolidated DIBY register (all 721 items, all workers)
 │   ├── twin-1/            transcripts(.md+.docx) · page-audit/ · diby/ · uncertainty/
 │   ├── twin-3-.../        transcripts/ · page_audit.csv · diby_index.csv · qa_notes/ · uncertainty_log.md · tools/
 │   └── twin-4-.../        transcript.md · page_audit.csv · diby_index.csv · uncertainty_log.csv
@@ -115,6 +116,17 @@ ocr/
 CSV companions (not JSON but part of the same reporting layer): `Page_Audit.csv` (536 rows), `DIBY_Candidates.csv` (242 rows), `Uncertainty_Log.csv` (3,343 rows = 536 unreviewed + 2,807 low-confidence lines), `page_audit_twin1.csv` (508), `diby_index_twin1.csv` (143), `page_audit.csv` twin-3 (544) / twin-4 (540), `diby_index.csv` twin-3 (164) / twin-4 (172), `uncertainty_log.csv` twin-4 (203).
 
 ---
+
+## 5b. Consolidated outputs
+
+| File | What it holds |
+|---|---|
+| `deliverables/DIBY_Master.md` | **One document with every DIBY item in the repository** (721 items, chapter → lecture → page order), each badged by transcription quality, with lecture index and appendices for unverified / unnumbered items |
+| `deliverables/DIBY_Master.csv` / `.json` | The same 721 records in machine-readable form (one row/object per item) |
+| `deliverables/DIBY_Master.docx` | Word export of the master document |
+| `tools/build_diby_master.py` | Builds all four from the four worker registers; for Twin 2/Twin 4 (no prompts extracted) it reconstructs draft question text from those workers' own raw page OCR, delimited by the next marker, and labels it unverified |
+
+Coverage of the master document: 195 verified · 112 ocr-extract · 348 ocr-draft · 66 marker-only (655 items carry question text).
 
 ## 6. Shared tooling
 
