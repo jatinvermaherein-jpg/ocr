@@ -2,3 +2,669 @@ Quadratic Equations — Lecture 06
 Source: Quadratic Equations 06 Class Notes.pdf
 AUTOMATED OCR — NOT MANUALLY REVIEWED
 
+=== PDF PAGE 1 ===
+ARJUN
+JEE2027
+80
+Lecture-06
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+to be coverey
+A
+Types of Roots
+B
+Graph of Quadratic
+Range of Quadratic
+D
+Question Practice
+
+=== PDF PAGE 3 ===
+Question Practice
+
+=== PDF PAGE 4 ===
+#
+α+β=-√6
+α+β
+α+B
+=
+Question [JEE Mains-2023]
+#αβ=3
+=x（²+B²)
+0=
+Let α, β be the roots of the quadratic equation x² + √6x + 3 = 0. Then
+α23 + β23
+SBS
+gmplex
++
+a14
++B14
+81（a+p
+ISIS
+is equal to
+No.
+α15 +β15
++α10
+α²+β²+
+B10
+81.
+文aB
+= 6
+αs+B5
+14
+A
+729
+α+
+SBS
+α
+4
+B
+72
+α=-β²
+α+β+aa²=0
+10
+10
+·α+β
+d：
+
+α+B²=-()
+SBS
+81
+23
+=2
+P
++α=-18
+α+β
+23
+B
+81(α)
+8
+81-=
+D
+TS
+X
+α
++β
+X
+二
+5
+α=81 
+α=-9
+
+=== PDF PAGE 5 ===
+8
+Question [JEE Mains-2020]
+49%
+The least positive value of 'a' for which the question,
+33
+2x² + (a-10)x+
+= 2a has real roots is
+2
+α-8)(a+4）≥0
+x²+（a-10)+-a=0
+a
+
+(a-10)²-4xx
+33-2a
+Q∈(∞,-4][8,∞)
+O
+?
+a²+100-a0a-4(33-4a
+a²-4a-32=0
+
+=== PDF PAGE 6 ===
+Question
+For what value of p, (4 - p)x² + (2p + 4)x + (8p + 1) = 0 is a perfect square.
+Ans:0,3
+二O
+
+=== PDF PAGE 7 ===
+ChallengerQuestion
+Let a, b ∈ R,a ≠ 0 be such that the equation, ax2 - 2bx + 5 = 0 has a
+repeated root α, which is also a root of the equation, x2 - 2bx - 10 = 0. If β
+is the other root of this equation, then α² + β² is equal to:
+620 +5
+X
+lK
+25
+ax²-bx+5=0
+x²- & bx -10 =0
+1
+C
+B
+α+α=2b
+28
+α+B=2b
+=ab
+a
+a
+αβ=-10
+α/-=
+α=5
+26
+a
+Q
+#β=-loa
+_109-2b
+θ=0
+α²=5
+-20
+SBS
+24
+1/4
+46²-4xax5-0
+50 -10q²=10a²
+D
+α²β²=100.
+6²-10a²=aab²
+50=a0a
+x0 β~= 100
+b=5a
+5a-10a²=2a(5a)
+I
+β²=5
+a=0
+X
+4
+
+=== PDF PAGE 8 ===
+Types of Roots: Sachin Sir Special Summary (s4):
+#
+(a, b, c e R),
+, (a#0)
+ax² + bx + c = 0
+D=0
+D>0
+0>a
+(Roots are real
+(Roots are real
+(Roots imaginary)
+&equal)
+& distinct)
+p+iq.p -iq
+Coniugate air
+a,b, c ∈ Q
+a, b, c ∈ Q
+D=Perfect square
+D = Not a perfect square
+(Roots are Rational)
+(Roots are Irrational)
+p+vqp-√q
+a=1,b&c∈l
+D=Perfect square
+pair
+(Roots are Integral)
+
+=== PDF PAGE 9 ===
+#x²- 5x+6=0
+=-b±
+-b+
+b-4qc
+a=
+b=-5,c=6
+QO
+a=1
+a5-4x6
+oh
+L
+odd
+odd-even=
+odd)— P.s.
+#x²+ax-15=0
+x=- odd ± odd
+/3
+even
+=Int
+%
+0
+a：
+=2,C=-15
+二
+=4-4×1x(-15）=64
+
+=== PDF PAGE 10 ===
+PLEASECHECKTHEFOLLOWING
+Ex.: x2-(2 +√3)x +√12 =0
+$
+√3
+Ir.
+#
+Ex.:x2-（2+i)x+2i=0
+6
+Ex. : Form Quadratic whose one roots is 2 + v3
+Tncomplete intfo
+Ex. : Form Quadratic with rational coefficient having one root is 2 + /3 .
+&一√.
+x²-4x+1=0
+
+=== PDF PAGE 11 ===
+Question [JEE Mains-2021]
+is a root of equation
+√5-1
+5+ 1
+(1+S%)
+女(5+1)
+1+5
+√5-1
++1
+(5)²-(1)²
+A
+x² + 2x- 4 = 0
+4
+1-√5
+B
+x²-2x+4=0
+1+√5
+²-()x+(-4)=0
+
+4x²+2x-1=0
+x²-2x-4=0
+
+=== PDF PAGE 12 ===
+IMPORTANTOBSERVATION
+Quadratic;
+ax²+bx+c = 0
+fa+b+c=0
+Roots of quadratic are —→
++
+1
+C
+a
+Sumofcouh)
+a-b+c=0
+Roots of quadratic are
+1
+?
+a
+
+=== PDF PAGE 13 ===
+#
+#
+x²-8x+1=0
+x²(8+1
+x²-x-x+1=0
+x(x-1)-1（x-1)
+#
+二（
+3x²
+11x(-12)=0
+>1
+(α-1)(4x-1)=6
+#
+X=1. !
+去
+
+=== PDF PAGE 14 ===
+ax²+bx+C=O
+a+b+c= 0
+÷a
+1xβ=
+C
+a
++
+?
+久
+C
+1+β=-b
+O
+a
+b-1
+a
+
+=== PDF PAGE 15 ===
+Acidic Question
+2
++
+p(q -r)x² + q(r -p)x + r(p -q) = 0has equal roots prove
+1
+6
+0
+?=0
+α=@
+H-
+q(x-p)²-4 p(a-n)(p-q) =0
+Gtw.
+q²(π-p)²=4pr(a-r)(p-q)
+lask
+
+=== PDF PAGE 16 ===
+Acidic Question
+2
+1
+p(q -r)x² + q(r -p)x + r(p - q) = 0has equal roots prove =
+十
+a
+p
+r(p-q)
+c-a
+(M-2
+p(q-r)
+8umgco=p(q-)+q(r-p)+x(p-q
+n(p-q)
+从比水时
+P(q-)
+0
+p-q=pq-p
+HHI
+ap=pa+q
+PAY
+
+#
+敬+
+b
+PYLY
+
+=== PDF PAGE 17 ===
+Question
+y
+If a, b, c e Q, then roots of the equation
+0=(-q+)+x(q-+)+x(-+q)
+-
+Rational
+b+c-aa
+W-L:
+M-T:
+B
+Non-real
+&umycol =b+c-aa+C+a-2b+a+b-2c
+Calcwate
+Irrational
+C
+perlet square
+D
+Equal
+
+=== PDF PAGE 18 ===
+Challenger Question[JEEMains-2025]
+Consider the equation x² + 4x -n = 0, where n ∈ [20,100] is a natural
+number. Then the number of all distinct values of n)
+for which the given
+equationhasintegralroots
+ is equal to
+M-a
+x²+4x=n
+H-1
+<100
+A
+perfect square
+x²+4x+4=n+4
+V
+一
+24
+nt4
+104
+(x+2)²
+(4)-yx1x(-n)
+= n+4
+B
+α+α=±
+n+y
+: 16 + 4n
+m+4 = &5, 36 ,49,64,81, 100
+#=-2+
+h+u
+6
+(4+n
+n+4= P.S
+= 21,32,45,60,44,96
+P.S. P.S.
+D
+5
+
+=== PDF PAGE 19 ===
+CRITICAL THINKING QUESTION(CTQ)
+a=12,8
+Find all the integral values of a for which the quadratic equation
+(x - a)(x - 10) + 1 = 0 has integral roots
+(a-10)-4. = 0,1,4,9,16,25,
+&
+x²=a-10+ loa +1 =0
+(a-10)-4 =0 = (a-10)²=(→ a-10 = ±2
+0
+x²-(a+10)x+(0a+1)
+0=
+(a-10)- 4=1
+a=12,
+α=8
+(m
+(a-10)=
+=(-（a+10))
+)-4×1x（10a+1)
+(a-10)²-4=4
+K
+(i)
+P.S
+α-10 = ±√5
+a²+100 +20a-40a -4.
+(iu)
+(a-10)-4=g
+α=10 ±√5 x
+α²-a0a+96
+(a-0)=⑧
+α²-80a+ 100
+0-10=a2x
+
+=== PDF PAGE 20 ===
+CRITICAL THINKING QUESTION(CTQ)
+a=12,8
+Find all the integral values of a for which the quadratic equation
+(x - a)(x - 10) + 1 = 0 has integral roots
+H-2
+0-
+α-10
+xta botw are integer
+T
+#
+X
+
+α-a =1
+1- = 0)-x
+=9
+1 =o-b
+1
+8= a
+1=0-/-=0-
+"==
+-α=-)
+la=α
+
+=== PDF PAGE 21 ===
+Critical Thinking Question(cTQ)
+If both the roots of the quadratic equation x² -(2n + 18)x -n -11 = 0, n ∈ I,
+are rational, thenfind thevalue(s) of n.
+Cm
+
+=== PDF PAGE 22 ===
+
+a
+b
+ChallengerQuestion
+Let a, b, c, d are positive real numbers such that
+人
+-
+then therootsof
++
+b
+d
+the equation
+(a²+b²)x2
+2 + 2x(ac + bd) +
+(c² + d²) = 0 are:
+3
+A
+real and distinct
+α²x+axc+c
+bx²+abxd+d
+三0
+B
+real and equal
+ar+C
+imag. rot
+butd
+0=
+imaginary
+αx+C =0
+bu +d = 0
+nothing can be said
+D
+=
+n.p.
+
+=== PDF PAGE 23 ===
+Question [JEE Mains-2022]
+If for some p, q, r E R, not all have same sign, one of the roots of the
+equation (p² + q²)x2 - 2q(p + r)x + q² + r² = 0 is also a root of the equation
+q2 + r2
+x²+ 2x -8=0,then
+is equal to
+(HEw)
+p2
+
+=== PDF PAGE 24 ===
+DOITBYYOURSELF
+(DIBY)
+
+=== PDF PAGE 25 ===
+#
+DIBY-27
+roots
+oftheequation
++
+(x-α)(x-β) +(x-y)(x-8) =0
+are
+m
+&n
+ lm ( x)( - x) ( -x)( -x)hob e o so  ns
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+a-m,β-n
+m-a+y,n-β+8
+[Ans.: (B)]
+#DIBY-28
+If the roots of theequation ax2+x+b =0 be real and different, then the roots of
+the equation x2 - 4/abx + 1 = 0 will be
+(A)
+Rational
+(B)
+Irrational
+C
+Real
+(a)
+Imaginary
+[Ans.: (D)]
+#DIBY-29
+3α-5-α2
+Let α, β are the roots of the equation x²+ ax + b = 0 such that
+=β, then
+(β-3)
+value of |a²-2b + 3a| is (where,β≠3)
+(A)  0
+(B)
+(c)
+(D)
+3
+5
+7
+[Ans. : (c)]
+
+=== PDF PAGE 26 ===
+#DIBY-30
+If α is a root of the equation 4x2 - 2x + 3 = 0, then its other roots is
+(A)
+2-3
+(B)
+α+1
+x+
+2α-1
+(c)
+3
+(a)
+3α
+2(4α2+3)
+4
+[Ans.: B, C]
+#DIBY-31
+If roots of 2(x - a)(x - b) + c = 0 are α, β then roots (x - α)(x - β) -  = 0 are
+(A)
+lies between a& b
+(B)
+-a,-b
+(c)
+a, b
+(a)
+2a, 2b
+[Ans. : (c)]
+#DIBY-32
+If the equation in x, x2 + 2(1 + A)x + (3入2 + 2) = 0 has imaginary roots, then
+1
+(A)
+(B)
+(c)
+入=1
+入=-
+入=0
+(D)
+=-1
+2
+[Ans.:A,B,C,D]
+
+=== PDF PAGE 27 ===
+#DIBY-33
+x²-bx
+m-1
+Iftheequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:a=-4]
+DIBY-35
+
+If x = 3 + V5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B)  0
+(c)
+(D) 2
+[Ans.(c)]
+
+=== PDF PAGE 28 ===
+Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+
+=== PDF PAGE 29 ===
+在
+eneresult
+Fmogytonu
+tsaluay aboat
+fourney
+Thank
+oHW
+#futurellTians
+

@@ -2,3 +2,657 @@ Quadratic Equations — Lecture 07
 Source: Quadratic Equations 07 Class Notes.pdf
 AUTOMATED OCR — NOT MANUALLY REVIEWED
 
+=== PDF PAGE 1 ===
+ARJUN
+JEE2027
+30
+Lecture-07
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+obecoverey
+A
+Graph of Quadratic
+B
+Range of Quadratic
+
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+LASTCLASSREVISION
+Answer the following Questions:
+#
+If one root of quadratic isp + q
+then other root must bep - q
+①
+(2)
+Quadratic can have a irrational & a rational root. —
+(3)
+Quadratic with rational coefficient can have a irrational & a rational
+root.
+f
+4
+If Quadraticwith real coefficients
+shave a imaginary root p + iq then
+other root is its conjugate p -iq.
+T
+
+=== PDF PAGE 4 ===
+LASTCLASSREVISION
+Sumff
+=3α²-β-αβ-aα²+β²-α²+αβ
+中
+AnswerthefollowingQuestions:
+5.
+For quadratic
+(3α² - β² -αβ)x² - 2α²x + (β² - α² + αβ) = 0 roots are
+B-α²+αB
+1
+3α²-β²-αβ
+6.
+Quadratic with rational coefficient & whose one roots is
+√7 + 3, is
+*米
+=3+
+3+
+
+-3 =√
+SBS
+x²+9-6=#
+π²-(6)+=0
+x²-6+=0
+
+=== PDF PAGE 5 ===
+#DIBY-35
+x=3+v5
+5then the value of x4 - 12x² + 44x² - 48x + 17
+1
+(B)
+(D) 2
+A
+0
+[Ans.(c)]
+2²-6x+4
+Quad. with Rat couHt
+x²-6x+4
+2-12x+442²-48x+14
+y-6x3+4x²
+α-3 =5
+SAS.
+—6x+40x2-48#
+α²-6x+9=5
+8x3+36x²-24x
+3+
++
+²-6x+4=0
+Q
+-2+14
+3-√5
+x²-x4+16
+A=BQ+R
+
+=== PDF PAGE 6 ===
+W
+-12x²+442²-48x+14
+x²6x+4
+(x²-6x+y
++1
+x =3 +,↓5
+
+=== PDF PAGE 7 ===
+Question
+If x = √11 + 4 then value of x5 - 8x4 + 12x² - 8x² + 11x + 5 is
+[Ans.:5]
+QIBY
+#
+A
+
+=== PDF PAGE 8 ===
+Question Practice
+
+=== PDF PAGE 9 ===
+Acidic Question
+2
+od soo inba spy o = (b - d) + x(d - )b + zx(u - b)d 
+一
+6
+p
+人
+a
+M-3
+5
+=
+m=p(q-t)
+) =pa-p
+m
+n
+q(x-p))
+n=(p-q)
+P(q-n
+=p-nq
+福
+E
+gdd
+m=
+b-bd = u+w
+(-(m+m))
+m=C
+pq-pr=ip-q
+-2mn
+(x-d)b
+m+n+amn-4mn=0
+7
+pq+rq=axp
+(m+n)=
+(d-x)
+PaYPeYPqr
+(m-m)=0
+#=
+
+=== PDF PAGE 10 ===
+Question
+If a, b, c e Q, then roots of the equation
+m=b+C-aa
+0=(z-q+)+x(q-+)+zx(z-+q)
+n=a+b-&c
+a+b-ac
+m+n=2b-a-C
+Rational
+f
+A
+-+g
+=-（a+c-2b
+?
+ = pufect square
+m
+n
+B
+Non-real
+c+a-2b
+b+c-a0
+a+b-2c
+Irrational
+(-(m+n))²-4mn
+D
+Equal
+m+n+amn-4mn
+amn
+(b+c-aa-a-b+2c)
+3-3
+3c-3a
+
+=== PDF PAGE 11 ===
+Challenger Question
+Let a, b, c, d are positive real numbers such that = ≠
+then the roots of
+the equation
+(a² + b²)x² + 2x(ac + bd) + (c² + d²)
+=0
+are:
+A
+real and distinct
+Bout
+Pobta
+M
+=-ve
+I
+B
+real and equal
+1)²-4（a²+²)（c²+a²)
+2(ac+ba)
+a℃²+bd²+aachd)-4(a²²+a²d²+b²²+bd²
+imaginary
+99#09
+nothing can be said
+D
+=-4{(@d)²+(bc)²-a(ad)(bc)}
+=(4)
+ad-bc
+-ve
+shrompo
+tve
+
+=== PDF PAGE 12 ===
+Critical Thinking Question (cTQ)
+If both the roots of the quadratic equation x² - (2n + 18)x -n - 11 = 0, n ∈ I,
+are rational, then find the value(s) of n.
+#Re
+#=-8,-11
+
+=== PDF PAGE 13 ===
+(d91)+(dnh-)
++1
+Question[JEEMains-2022]
+
+D
+If for some p, g, r E R, not all have same sign one of the roots of the
+=#
+(p² + q²)x² - 2q(p + r)x + q² + r² = 0is also a root of the equation
+equation
+u+-b
+x² + 2x - 8 = 0, then
+is equal to
+p2
+2²+ a - 8 = 0
+x²q2
+b+2b
+—q+
+(x+4)(x-2) =0
+= 
+
+
+=&g
+1
+o
+samt
+ubis
+αp-9=0
+q-=0
+
+b
+-4b
+bh--人
+D
+9x=-4(-4b)
+=16p
+
+=== PDF PAGE 14 ===
+GRAPHOFQUADRATIC
+Yarabou'c
+pomo uuado
+buiurdo
+pomumm
+T
+个
+(0<0)
+(a<0)
+f(x)
+y =ax²+bx+C
+一
+( o=xmd
+ =C
+Vertex=
+(o,c) uthe point where graph cub y-axis
+米米
+aa
+40
+T
+-
+y-Cord
+
+=== PDF PAGE 15 ===
+f(x)
+=y=ax²+bx+C
+b
+a(x²+a bx
+ca
+一
+b
++
+h
+402
+20
+<
++b
+b-yac
+min. value
+#
+a
+aa
+oh
+40
+Q<0
+=-b
+b
+da
+4a
+max
+4a
+
+=== PDF PAGE 16 ===
+
+Roots
+
+#
+x+x+1
+α=1
+b=1,C=1,=1²-4x1x1
+-3
+α= +ve
+V=(
+(0,1)
+40
+3-4
+Graph never inteuect
+-(-3)
+1
+x-axU
+
+&x1
+4x1
+M
+#No Rear Root
+一
+一
+5
+
+=== PDF PAGE 17 ===
+#
+x²-4α+12
+b=-, c=12,=49-4x1x12
+0=
+?.=1
+2=
+D
+(e'o) #
+#
+aa
+4a
+八
+midpoint of root.
+↓ +21
+(-+)
+-(E)
+&x1
+4xi
+X
+t
+8
+x²-#x+12=0
+
+=== PDF PAGE 18 ===
+#
+Q=-2
+b=1 C=-5
+?
+=- 39
+=-ax²+x-5
+#(0,-5)
+aa
+ya
++(+39)
+2x+2
+4(-2)
+N
+
+3/00
+#No Qea Root
+
+=== PDF PAGE 19 ===
+件
+x²+6x+9
+=
+b=6,c=9,=0
+(
+2=
+(09)
+，
+# equau Root
+4x1
+9
+= (-3, 0)
+
+(-3,0)
+x²+6x+9=0
+-3
+
+=== PDF PAGE 20 ===
+Question
+Draw graph of following quadratic :
+(i)f(x)=x²+x-12
+QIBY
+(ii)f(x)=x-(1+x2)
+B
+#
+(ii) f(x)= x²- 10x + 16
+
+=== PDF PAGE 21 ===
+DISCRIMINANT&GRAPH
+Real  Diutinet Root
+
+。
+u-axis
+<口
+Imag
+(N Roa)
+Root
+aluooys
+qbovt x-axu
+=0 =
+Roota are Real  equal
+qlways below
+x-axw
+
+=== PDF PAGE 22 ===
+Question
+Comment on sign of a, b, c & D for following graphs:
+y
+Buyuadeo
+←— promlmmp
+0 >0
+90
+40
+(o,c)
+>o
+graph cutx-axiyatQ dint.points
+>X
+ue
+m orb
+B
+ +ve
+c>o
+y-axu
++ve
+-b = Sum of Root
++vé
+1
+a
+
++ve← C 
+= Product of Root :
+aa
+-ve
+二
+-sα
+-b>o
+o>-
+b>0
+a-
+b>o
+
+=== PDF PAGE 23 ===
+Question
+Comment on sign of a, b, c & D for following graphs:
+y个
+T
+(00)
+(0,C)
+Ver+ex ka x-cord. = I quad .
+0>0
+-b= O
+# α > U
+C=0
+aa
+# >o
+V
+=O
+# c<
+20
+G+ve
+b=b
+#
+b>0
+α>q-
+S=0
+#S=-b
+-ve
+b>o
+a
+P=0
+#
+ve
+
+=== PDF PAGE 24 ===
+X4
+Q0
+-ve
+(0,c)
+o>q-
+# b>0
+> #
+α>
+#
+# =0
+o#
+S=-b
+#
++ve
+a
+#=
+tve
+a
+
+=== PDF PAGE 25 ===
+
+c >0
+(0,c)
+D<o
+o<9
+=-→
+0
+P=C
+L
++
+a
+>
+0
+-b<0
+0<9
+
+=== PDF PAGE 26 ===
+Acidic Question
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+mt
+y-axis
+A
+ab2c3 < 0
+Given |a| < 2
+B
+0>q
+bc(4a + 2b + c) > 0
+(α,0)
+(β,0)
+(2,0)
+x-axis
+
+=== PDF PAGE 27 ===
+Acidic Question
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+mt
+y-axis
+D
+ab(4a-2b +c) > 0
+Given |a| < 2
+b2 > 4(a2 +ac)
+E
+(d'o) = x A 0 < + xq + zxn
+F
+(α,0)
+(β,0)
+(2,0)
+x-axis
+
+=== PDF PAGE 28 ===
+DOITBYYOURSELF
+(DIBY)
+
+=== PDF PAGE 29 ===
+#DIBY-33
+x²-bx
+m-1
+If theequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:α=-4]
+DIBY-35
+If x = 3 + √5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B) 0
+(c)
+(D) 2
+[Ans.(c)]
+
+=== PDF PAGE 30 ===
+#DIBY-36
+The quadratic equation x² + ax + b + 1 = 0 has both positive integral roots, then
+a² + b² can be equal to
+(A)
+50
+(B)
+37
+(c)
+61
+(D)
+20
+[Ans.:A, D]
+DIBY-37
+The number of real roots of the equation 5 + |2* - 1| = 2*(2* - 2) is
+[JEEMains-2019]
+(A)   4
+(B)3
+(c)
+2
+(D) 1
+[Ans.:(D)]
+七
+#DIBY-38
+Find the product of the real roots of the equation, x² + 18x + 30 = 2√ x² + 18x + 45
+[Ans.:20]
+DIBY-39
+If'α' is an irrational solution of the equation 32x²-7x+3 = 4x²-x-6, then the value of
+2a-1
+3
+α+2
+is
+[Ans.: 4]
+
+=== PDF PAGE 31 ===
+Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+
+=== PDF PAGE 32 ===
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+

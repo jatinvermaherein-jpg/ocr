@@ -1,0 +1,14673 @@
+# Twin 2 — Raw OCR transcripts
+
+**15 PDFs · 536 pages · Automated OCR only · No manual review**
+
+Scope: Permutations & Combinations lectures 05–11 and Quadratic Equations lectures 01–08.
+
+Text is reproduced directly from the OCR engine, without corrections or guessed missing content. Equations, handwriting, diagrams, and reading order are not verified. Source PDFs remain the originals in the repository. All pages, including cover and graphics-only pages, were sent through OCR.
+
+## Contents
+
+- [Permutations & Combinations — Lecture 05](transcripts/pc05.md)
+- [Permutations & Combinations — Lecture 06](transcripts/pc06.md)
+- [Permutations & Combinations — Lecture 07](transcripts/pc07.md)
+- [Permutations & Combinations — Lecture 08](transcripts/pc08.md)
+- [Permutations & Combinations — Lecture 09](transcripts/pc09.md)
+- [Permutations & Combinations — Lecture 10](transcripts/pc10.md)
+- [Permutations & Combinations — Lecture 11](transcripts/pc11.md)
+- [Quadratic Equations — Lecture 01](transcripts/qe01.md)
+- [Quadratic Equations — Lecture 02](transcripts/qe02.md)
+- [Quadratic Equations — Lecture 03](transcripts/qe03.md)
+- [Quadratic Equations — Lecture 04](transcripts/qe04.md)
+- [Quadratic Equations — Lecture 05](transcripts/qe05.md)
+- [Quadratic Equations — Lecture 06](transcripts/qe06.md)
+- [Quadratic Equations — Lecture 07](transcripts/qe07.md)
+- [Quadratic Equations — Lecture 08](transcripts/qe08.md)
+
+---
+
+# Permutations & Combinations — Lecture 05
+
+Source: `Permutations and Combinations 05 Class Notes.pdf`  
+Pages expected: 32  
+OCR pages saved: 32  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+
+JEE2027
+30
+Lecture-05
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobecoverey
+A
+Uses of nCr
+B
+Gap & Tie Method
+
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.127
+Challenger Question[JEE Mains-2022]
+The number of 7-diqits numbers which are multiples of 1l and are formed
+using all the digits 1, 2, 3, 4, 5, 7 and ?
+6
+is
+
+L
+abcde
+米
+一
+*
+Qum =31.
+×
+x
+(a+c+e+g)-(b+d+f)
++
+O
+±11
+± 22, ±33
+a1
+10
+C-I:
+(6'56E)
+2,1)
+41 x31 = 144.
+6't公
+Ⅱ
+5,4,1)
+h1 =
+M
+b't'h
+(g)
+= 144
+10
+α1.
+144
+1
+Ⅳ
+'E/Z1
+(5,4,9)
+9tG
+m
+
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+The number of integers, greater than 7ooo that can be formed, using the
+digits 3, 5, 6, 7, 8without repetition, is.
+5-dligit
+A
+120
+6
+1I1
+B
+168
+×4×3×2
+51 = 120
+48
+220
+D
+48
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2022]
+           s
+where each character is either an alphabet from {A, B, C, D, E} or a number
+from {1, 2, 3, 4, 5}
+with the repetition of characters allowed. If the number
+of passwords in S whose at least one character is a number from 
+{1, 2, 3,
+57
+4, 5} is α x 56, then α is equal to
+0O0QO
+ek bhi no. na use tua ho> 56
+101010
+10
+0
+QQQQC
+6
+tk no.use wwa lw -
+10
+10
+5
+ no. use lwue wo
+Required
+10-5+
+no.use lw uo
+10°- 58
+=10+10²+10-（5+5²+5
+()x@=
+073
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+f=10+10+0-(5+5+5)=@x（5)
+4073
+)—5（+5+5²
+106
+1+10+100
+#
+(1
+-5×31
+K
+一
+56
+64×111-31
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question
+2nP4 = 396 ×
+P2, then the value of n, is
+A
+dn-3 =
+an
+396
+?
+B
+5
+=6
+2n-4)
+n-2)
+6
+2(n-1)
+((an-1). (
+(n-2). (2n-3).(m)!
+d (
+= 396 × x(m1).(n=2)!
+D
+R
+
+(an-1)(an-3) = 11x9
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2019]
+A committee of 11 members is tobe formed from 8 males and 5 females. If
+m is the number of ways the committee is formed with at least 6 males
+and n is the number of ways the committee is formed with at least 3
+females, then
+8m,5f
+A
+m=n =68
+6M5F ,
+m + n= 68
+M4f
+8M3f
+3
+C
+=78
+8
+m =n =78
+8M3F,
++M4f
+6M5F
+n=m-8
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.128
+Example
+A dice is rolled 3 times, top-most face is considered as outcome then find
+the number ofoutcome such that:
+5 appears atleast once.
+(iii)
+ex-
+All 3 outcomes are different.
+225
+ili)
+Exactly 2 outcomes are same.
+141
+eX
+325
+233
+16 4
+616
+6 x5 x4 = 120
+235
+441
+Totol = G
+aHeaust once=
+Total
+Zenotime
+h
+=J1.
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+all di'ferent
+ = 120
+Total
+3
+= x16 -(126)
+6
+exacHy  owt. are same
+all same . = 6 .
+Ob
+OR
+三
+{12,3,4,5,6
+select any
+0叶
+woo
+hEE
+福
+?
+393
+3
+433
+X
+443
+0b
+434
+15
+×6
+344
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Atleast once
+otal
+Xevo
+M
+Times
+one
+A+leas+turo=Total
+Xevo
+(1Time
+Times
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+Question
+(!)
+Number of Straight lines.
+(ii)
+Number of△'s.
+22
+D
++++
+C
+231 - (10 + 6 + a1 + is)
+= 183
+2
+3+C++
+=1441.
+3
+Toto point=4+6+5 +4
+=22.
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+RAR
+PageNo.130
+IMPORTANTRESULTS
+#
+In 'n' sided polygon the triangles are formed by joining the vertices of polygon then:
+(a)
+Number of triangles having one side common with the sides of polygon = n(n-4 )
+
+(b)
+Number of triangles having two side common with the sides of polygon =
+n.
+
+u+(h-u)u
+(c)
+
+Number of triangles having no side common with polygon =
+?
+(d)
+Number of diagonals in 'n' - sided polygon =
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+(n=8
+CONSIDEROCTAGON
+Sides
+4C
+(i) no. of olagonals
+8
+云
+(i)m:g &s 
+hawing
+1 side common wit Octogon = 8x Y
+=32.
+(m)
+?
+m0
+(32 +8
+1川
+2
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Page No.130
+Question[JEE(Adv.)-2014/JEE Mains-2020]
+Let n > 2 be an integer. Suppose that there are in Metro stations in a city
+located along
+g a circular path. Each pair of stations is connected by a
+straight track only. Further, each pair of nearest stations is connected by
+blue line, whereas all remaining pairs of stations are connected by red
+line. If the number of red lines is 99 times the number of blue lines, then
+thevalueofn is
+blue Lliney - sidey
+A
+661
+Red line - chiogona I .
+mi
+100n
+21(m-2)1
+diagomal = 99
+&ids
+
+B
+201
+(1）(
+-n=99n
+-100h
+d
+x
+101
+=100n
+2
+-1=200
+200
+M=a01.
+D
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+#COUNTING POINT OFINTERSECTION
+Example
+d gd nu   i n  s rs   r
+of intersection possible.
+× 1 
+=&1.
+C
+2
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+#COUNTINGPOINT OFINTERSECTION
+Example
+There are 7 straight lines in a plane out of which 4 are concurrent, then
+find maximum number of point of intersection possible.
+passing
+mmy
+fame point
+1-6+1=
+16
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+#COUNTINGPOINT OFINTERSECTION
+Example
+There are 1l straight lines in a plane out of which 4 are concurrent & 3 are
+parallel, then find maximum number of point of intersection possible.
+M=C
++1
+2
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+# COUNTING POINT OF INTERSECTION
+PageNo.131
+Example
+There are 4 straight lines, 3 circles and 2 parabola's are present, then find
+maximum number of point of intersection possible.
+d-C
+
+Total po.i. =
++ x',x'h
+gx5x'5
++
+C-C
+-r
+3
+3
+2
+x&+
+h×)×
+C, x 4
++
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+#COUNTINGRECTANGLES&SQUARES
+Page No.131
+EwerySquoreisaRetargle
+Example
+Count total possible Squares and Rectangles jn given arrangement.
+dimension w-ise
+Squares 
+(1x1)
+ ×6 = 42
+t=nun10.40n·0u
+(2×2)
+= 6 x 5 = 30
+no. of Horix. lines =8
+3×3)
+= 5x 4
+=20
+mo.ogRetongle
+hxh
+= 4x3 = 12
+5x5
+=3x2 = 6
+(yx9
+=ax/. =a
+add
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+#COUNTINGRECTANGLES&SQUARES
+Page No.131
+Every Squore isa Retargle
+Example
+Ss
+12
+16
+# no . of Rectang/e  with (odd - dimensions)
+xC
+(12×16
+一
+bot Q t b are odd
+q
+Horiontal→1unit→6opts
+3unit→4opt
+3unit→5opt
+5unil→2opt
+5unit30b
+unit → 1opt
+Total
+12
+Total = 16
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+A
+4
+no.o lgms=2x
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.131
+Question[1IT-JEE-2005]
+There is a rectangular sheet of dimension (2m - 1) × (2n - 1),
+  n go ns    s li (  u 'o   )
+drawing line perpendicular to the sides. Find the number of rectangles
+having sides of odd unit length.
+2m-1
+
+A
+(m+n+1）2
+2n-1
+B
+mn(m+1) (n +1)
+4m+n-2
+D
+m2n2
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+Page No.129
+Challenger Question
+Total 5 different pair of shoes are there, you need to select only 4 shoes such
+that
+3a3=
+'mp
+No restriction
+Exactly1 pairofshouldbeformed
+Exactly2pairofshouldbeformed
+Nopairshouldform
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+DIBY-11
+Find the number of 4 digit integers in the closed interval [2022, 4482]
+which can
+be formed using the digits
+s {0, 2, 3, 4, 6, 7}.
+[JEE (Adv.)-2022]
+[Ans.: 569]
+Total
+Rep. i allowed .
+216
+40 _
+36 x4
+42 -
+2x_
+=36
+-εh
+23 --
+203
+44-
+24 --
+36x5
+204-
+26 --
+9
+9+t _ -
+207_-6
+202(
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+DIBY-12
+
+The number of 3-digit numbers, formed using the digits 2, 3, 4, 5 and 7, when
+the repetition of digits is not allowed, and which are not divisible by 3, is equal
+[JEEMains-2024]
+div.by 3
+[Ans.:36]
+not div.by 3
+Req:
+×Y3
+60
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+#
+DIBY-13
+Total numbers of 3-digit numbers that are divisible by 6 and can be formed by
+using the digits 1, 2, 3, 4, 5 with repetition, is
+[JEEMains-2023]
+[Ans. : 16]
+2
+2
+2 2
+·2,2,2.
+3
+. 2, 3, 1.
+①0²↓
+2×1
+2
+。 2,4,3
+.33,3x
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-14
+The number ofwords thatcan be formed outofthe lettersof theword ARTicLE
+so that the vowels occupy even places is
+(A)
+36
+(B)
+574
+(c)
+144
+(D)
+754
+[Ans.:(c)]
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+taluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Permutations & Combinations — Lecture 06
+
+Source: `Permutations and Combinations 06 Class Notes.pdf`  
+Pages expected: 43  
+OCR pages saved: 43  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+
+JEE2027
+30
+Lecture -06
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobecoverey
+A
+Gap & Tie Method
+B
+Arrangement of things not all Different
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSRECAP
+#
+ In 'n' sided polygon the triangles are formed by joining the vertices of polygon then:
+Number of triangles having one side common with the sides of polygon = n(m-4)
+(a) N
+(b)
+Number of triangles having two side common with the sides of polygon = n .
+
+(c) Number of triangles having no side common with polygon =
+*Cg-(n²-3n)
+(d)
+Number of diagonals in 'n' - sided polygon =
+-n
+
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Page No.129
+Challenger Question
+Total
+5 different pair
+of shoes are there, you need to select only 4 shoes such
+that
+oi
+No restriction
+= 210
+L,R,
+Exactly l pairofshouldbeformed
+6C
+Exactly 2 pair of should be formed:
+01=
+No pair should form
+R R
+M-目
+司
+L,R,l2l3
+0
+xC,x℃
+L2R2R3l
+ML1
+5(6+6+12)=5×a4=120
+: 5x6x2×2
+OR
+三
+#cx
+(°Ca-
+4
+=5x（28-4)=5x24=120
+M-
+When pair
+useleced
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+(iv)
+No pair
+xrod oN
+M-I-
+ex.1 pair
+M-H:
+ex.α par.
+L,R,
+l2Rl3RlyRyl5Rs
+ft
+hy.
+0/ + 0
+5
+2
+xC,xCxC
+&10 -(130)
+= 80.
+5×16
+80
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+65/。
+Page No.131
+Question[1IT-JEE-2005]
+There is a rectangular sheet of dimension (2m - 1) × (2n - 1),
+ e an yo nbs o pp e sy l (o  u 'o <  erm)
+drawing line perpendicular to the sides. Find the number of rectangles
+having sides of odd unit length.
+2m-1
+'c=w
+n=4
+A
+(m+n+1）2
+Rectaugwarxhut
+5x4
+2n-1
+B
+mn(m+1)(n+1)
+odld olimtnsions
+1unit → 4
+1 umit →5
+4m+n-2
+3unit → 5
+3unit →3
+5 unit → 3
+5unit →1
+16
+C,xC,=16x9
+Funit
+m2n2
+I
+=n.m²
+牛
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+23--
+2n-1
+X
+1unit →
+2n-1
+1unit →
+am-1
+R
+3unit — &n-3
+3unit →
+2m-3
+Sunit -
+2-5
+Sunit →
+9m-5
+m2
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Page No.131
+TIE&GAPMETHOD
+Question
+Arrange a, b, c, d, e & f in a line such that a, b & c are always together.
+Tie Methool
+abc
+abcdef
+d,e,f → 4 unitb 
+ex:-
+dfcbae
+41
+31
+?
+?
+T
+Intrrna/amrawge
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Page No.131
+TIE&GAPMETHOD
+Question
+(ii)
+Arrange
+ (a, b, c, d, e & f) in a line such that no two of a, b & c are together
+Yap
+Metwod
+finko alag -alag
+%akhna hai
+bdaefc
+ex.
+
+3te
+GAP H
+afcdbe
+d-é -f
+31
+x31
+ debf 
+a
+Carofde,f.
+aY.on
+selec?.
+GAP.
+4obfo
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Page No.131
+TIE&GAPMETHOD
+Question
+(iii)
+Arrange (a, b, c, d, e & f) in a line such that a, b & c are not all together
+Bigechion
+abdecf
+adebfc
+Total-
+W together
+aebcaf
+41×31
+D
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+CONSIDERFOLLOWINGCASES
+(Tie MeHhod
+abcd
+All together
+ab-c_d
+a_bc _d
+Allare
+nottogethev
+a_bcd
+Total-(alltogeth
+(Gop Metuod)
+a_b —C_d No twoare together 
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+SACHIN
+all
+Vowels
+vowels are together 
+ore not
+(no two)vowel are togeHher
+4
+S,C,H,N,CA,I
+S,C,H,N
+1'4
+ 61 - (5!x2!)
+0
+s-cH-N -
+51 x21
+0. 51 - 5!x2l
+0
+a
+41 x
+(2)
+x21 =480
+51
+24 × 10 × 2
+4x 120 = 480
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+Page No.131
+Blue TG (KRPNCC)
+(laretogeher)
+uSe:TIE METHOD
+Blue可TGo
+(KRPNCC)
+(ff   可) (No two are together)
+USe:GAP METHOD
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+ex'
+一
+B,B2B3ByB5
+G,G2GgGy
+5 Boys, 4 Girls
+arange in a line
+一
+all boys are together.
+B,B,
+50555
+ 51 × 5l
+
+b
+一
+all girls
+Ss are together
+,B2B3
+555'5
+61 x 41
+girls
+are together
+amou
+no two boys are together
+-B-B-B-B-B-
+5-
+6C
+51x
+(4 x41
+gxxih
+5
+1
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.132
+Bumper Question
+4 boys & 4 girls are to be seated in a line find number of ways:
+If all boys are together & all girls are together
+(ii-a)
+They can be seated so that No two girls are together
+ii-b)
+If not all the girls are together
+OR
+If at least one girl is separated from rest of girls.
+B,BBBy
+G,G293G
+B, B2 B3
+G, G2 G3 G4
+ii)
+b
+(ii)
+Bijection
+B.
+B,-B
+Total-(anlgrnt ortgeter)i
+(1) = 21 x 41 x 4!
+41
+X
+x4l
+51x4!
+18
+?
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+Page No.132
+Bumper Question
+4 boys & 4 girls are to be seated in a line find number of ways:
+Boys and girls are alternate
+(iv)
+S  n     e
+be seated so that each couple is together.
+(iv)
+BGBGBGBG
+B,91
+B2G2
+Bg G3)
+By
+C
+4!x4!
+G B G B C B G B
+一
+41× 41
+41 x 21 x 21 x 21 × 21
+(i) =
+41×41×2
+Q
+D
+9
+D
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Page No.132
+BumperQuestion
+4 boys & 4 girls are to be seated in a line find number of ways
+(v)
+B, & B2 are together, G, & G2 are together but they all should not be
+together.
+B,B2
+B3,By,G3,Gy
+- 5-5-8-9-
+21
+21x21
+K
+0
+Q
+
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+Page No.132
+Bumper Question
+4 boys & 4 girls are to be seated in a line find number of ways
+Vi
+Between B, & G, there are exactly 4 persons.
+(vii)
+Between B, & G, there at least 4 persons.
+BB3 By GG3Gu
+(wit)
+D
+B,G, ke beech ex. 4 persons 
+31×61
+
+1
+3---- G, --
+I2-×6i
+D
+D
+D
+2.21.61
+I2l×6l
+0
+1一
+D
+persons
+WI
+4
+→ 21 × 61
+1
+21×61
+1-
+3. 2/ x61
+
+、
+2!x6l
+-B----
+C
+2×6)
+?
+3/ x61
+D
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Page No.132
+BumperQuestion
+e-attewpt
+4 boys & 4 girls are to be seated in a line find number of ways
+ili
+Boy and girl are alternate
+and aparticulan
+boy & girl
+1
+ are never
+adjacent to each other in any arrangement.
+alreadly fixed 
+B,,G,
+Byechim
+ex:
+h585956529
+B,G, together
+Total
+allernate wale
+Required
+Not together
+cases
+41.41.2
+1
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+M-
+Byechim
+B,G, together
+Total
+alternate wale
+Required
+B,C,
+Not together.
+cases
+41.41.2
+-B-G- B_G_B_G_
+31 x31 x 21
+x1x
+4!.4!.2
+×31x31×2
+1
+=ayxayx2-（≠x6x6x2
+= 12x6
+2x4x2-7
+=#2×9 =648
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+B, B, B3 By G,GG3Gy
+=6
+忙
+?
+B G
+GBGBGBGB
+Y
+B
+个
+216
++
+C,
+×31x31
++
+BG
+BG
+108
+1x℃,x3!x31
+3
+0
+324
+324
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+10wou
+
+=&0
+G dith·
+L
+select any
+3
+0
+10x9x8x=5040.=
+C
+ihxh)
+,6C3
+
+= 20
+fuouakmouo
+C
+5
+x'C2
+ = 60 X
+6c,x
+=6x5×4
+×')
+= 120 X
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+ARRANGEMENTWHENALLTHINGSARENOTDIFFERENT
+PageNo.132
+# Number of arrangements of A,B,C,D,E (taken all at a time) = 51
+3-αlike
+# Number of arrangements ofA,A,A,B,C (taken all at a time) =
+31
+
++
+# Number of arrangements of A,A,A,B,B,C,C (taken all at a time) =
+31212 1
+心
+0
+11!
+
+4 1 41 2 1
+S>4
+D
+0
+I→4
+P→2
+M=1
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+A,B,C
+A,A,A
+AAB
+31
+?
+AAB
+AAA
+3 way
+ABA
+4BC
+BAA
+ACB
+BCA
+BAC
+CAB
+CBA
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+A,A,A,
+,B, C
+1
+hC
+5!
+×x
+×1×2l
+3/X
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+AAABBCC
+BCA
+BACA
+x1
+2
+1t
+女
+31 4
+91 21
+3/2/21
+0
+6
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+Page No.133
+Question
+Number of words with or without meaning that can be formed using all
+thelettersoftheword ASSASSINATIoN
+that:
+4→ s
+Start&endwith'S'.
+3→A
+Total = 13
+endswithvowel
+→I
+[JEEMAINs-2023] Vowels occurs together
+↓z
+1>T
+1→0
+2
+1
+(ii)
+41212/21
+AAAIIO
+SSSS,NN,T
+。
+0
+、
+业
+，）），
+12!
+81
+61
+、
+21312121
+D
+413/21
+X
+D
+41 21
+。Q。。
+3/ 2 1
+D
+b
+0
+0
+413/2121
+D
+V
+06
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.132
+Question[1IT-JEE-2009]
+The number of seven digit integers, with sum of the digits equal to 10 and
+formed by using the digits 1, 2 and 3 only, is
+A
+55
+Sum
+10
+B
+66
+C-I
+3, 2, 1, 1, 1, 1, 1
+7.6 = 42
+51
+C-1= 2,2 ,a ,1, 1, 1, 1
+77
+11
+7.6.5.1
+D
+88
+4131
+三
+D
+= 35 
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+[Ans.:14]
+Question[JEEMains-2025]
+If the number of seven-digit numbers, such that the sum of their digits is
+even, is m · n · 10n; m, n E {1, 2, 3,...., 9}, then m + n is equal to
+°Cm+
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+P
+Question Practice
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+A building has ground floor and 10 more floors. Nine persons enter in a lift
+at the ground floor. The lift goes up to the 1oth floor. The number of ways,
+in which any 4 persons exit at a floor and the remaining 5 persons exit at
+a different floor, if the does not stop at the first and the second floors, is
+equalto
+mt
+A
+2184
+B
+3064
+7056
+力
+11340
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.133
+Question [JEE Mains-2023]
+Some couples participated in mixed double badminton tournament. If
+the number of matches played, so that no couple played in a match, is
+840, then the total
+numbers of persons, who
+participated in the
+tournament, is
+w。
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 35
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+ o sm isso go n r rs e u pi
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.: (A)]
+15
+NENW'
+Pegy
+(c,(2
+31 x51 x41x2]
+```
+
+## PDF page 36
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+ a,    i e go sa  yo  mo
+withavowel and endwitha consonant?
+[Ans.:90720]
+#DIBY-19
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+the Digit 1 appearing somewhere to the left of 2
+3 appearing to the left of 4 and
+5 somewhere to theleft of 6, is
+(e.g.815723946would be one suchpermutation)
+A)
+9.7!
+(B)
+8!
+(c)
+5!.4!
+(D)
+8!.4!
+[Ans.: (A)]
+```
+
+## PDF page 37
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-2O
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans.: 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subjects of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+
+[Ans.: (D)]
+```
+
+## PDF page 38
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans. : (c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such thatat least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+#DIBY-24
+Let S = {1, 2, 3,
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+.....
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]
+```
+
+## PDF page 39
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let pn denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+(D)
+8
+5
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]
+```
+
+## PDF page 40
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]
+```
+
+## PDF page 41
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.:(D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]
+```
+
+## PDF page 42
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 43
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+taluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Permutations & Combinations — Lecture 07
+
+Source: `Permutations and Combinations 07 Class Notes.pdf`  
+Pages expected: 42  
+OCR pages saved: 42  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+
+JEE2027
+30
+Lecture-07
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tohecoverep
+A
+Rank of a Word in Dictionary
+B
+Selection out of things which are not all different
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSRECAP
+Consider four different books of Mathematics, three different books of Physics
+and two different books of chemistry. Number of ways of arranging all nine books
+in a row such that:
+All the books of same subject are together is
+31
+41
+51
+(ii) No two books of Mathematics are together is
+51
+(hNEWW'W
+PP2P)
+YC,C2
+-P---C,-C2-
+。
+51 x
+(4 x 4!
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSRECAP
+Consider four different books of Mathematics, three different books of Physics
+and two different books of chemistry. Number of ways of arranging all nine books
+inarowsuchthat:
+(ii) All books of Mathematics are together while no two books of Physics should
+be together is.
+(iv) All possible arrangements if books of same subject are alike
+M,H2 M3 M
+C,-C2 -
+MMMMPPPCC
+91
+3l x 'C
+× 31 x4l
+0
+2
+?
+4/3/21
+。D
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Page No.133
+Question[JEEMains-2023]
+￥1%
+Some couples participated in mixed double badminton tournament. If
+the number of matches played, so that no couple played in a match, is
+840,then the total
+numbers
+ofpersons,who
+ participated
+d in the
+
+tournament,is
+det n- coupler partiaipaed.
+MMff
+Total persons =,=
+ot
+420
+m-2
+0 =
+x&
+2
+?
+16
+m
+m
+420
+n.n-1)(n-2)（n-3)(
+2
+1(h0ic
+(m-y)
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+n(n-1)(n-2)(n-3)
+420
+xB)xsxt×9=（e-u)(-u)（1-u)
+n²-3n) (n²-3n+2) = 1680
+8x4x6x5
+m²-3n=t;
+=8
+t(t+2) = 1680
+t→Quad·
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+ Mixed
+dowbole
+mf
+Sumit
+Santost
+1 Hotel
+
+mf
+qush.
+Sunita
+yatche
+N1
+H2 
+Sum.. Sunito
+Sum .t Sush .
+Sant ·e Sunita
+Sant ·& Sush
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+A building has ground floor and 10 more floors. Nine persons enter in a lift
+at the ground floor. The lift goes up to the 1oth floor. The number of ways,
+in which any 4 persons exit at a floor and the remaining 5 persons exit at
+a different floor, if the does not stop at the first and the second floors, is
+equal to
+A
+2184
+Bfloors
+B
+3064
+！
+8x 126 x  = 705G
+L
+7056
+D
+11340
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+[Ans.:14]
+Question[JEEMains-2025]
+If the number of seven-digit numbers, such that the sum of their digits is
+even, is m · n · 10n; m, n E {1, 2, 3,...., 9}, then m + n is equal to
+X
+9+5
+14
+10
+?
+1000000
+1000001
+qixb
+g×xb
+1000002
+4
+2
+Total seven digit no . = 9 x 1o
+1000003
+01,2,3,4,5,6,7,8,9
+Lal
+holt
+odd
+even.
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2023]
+The number of seven digits odd numbers, that can be formed using all
+the seven digits 1, 2, 2, 2, 3, 3, 5 is
+11
+= 60
+3/ 21
+_3
+240 ft
+5
+:120
+61
+= 60
+1
+312 1
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+The number of 9 digit numbers that can be formed using all the digits of
+ i    s       s
+°m+
+
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+Page No.133
+AcidicQuestion
+    s     s   
+number of ways in which they can do the same if-
+NoRestriction
+(i)
+Mr. A wants to speech before Mr. B and Mr. B before Mr. C.
+A
+-C_B
+(ini)
+Mr. A wants to speech before Mr. B and Mr. B after Mr C.
+lc-A_6
+(in
+A,B,C,DE,F,G
+A
+B
+A>B C>B
+*
+米
+A>B>C
+米
+)4)
+ADCEBfG
+ABC DEFG
+CDAEBFG
+x 41
+GDAEBFC
+t
+1
+
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+Page No.133
+ChallengerQuestion
+The symbols
+x, × *, ·, are placed in the squares of the adjoining
++.+.
+figure, The number of ways of placing symbols so that no row remains
+empty is k, then the ten's digit of k is
+Selecdrorn d squares
+anang
+3
++
+3
+3
+X
+C
+×C
+?
+3×3x3x3
+X
+2121
+D
+R
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+RANKOFA WORDIN DICTIONARY
+Page No.134
+Alphabetical Order
+UNITA
+#
+Alp.order→A,Z,,,T,
+A--
+51 = 120
+
+61 = +20
+
+→51 = 120
+SUA---
+W
+SuI - -- 3j
+N
+51 = 120.
+SA--
+SUNA --→ 21
+→4! = 24
+$I- :
+SU NIA T → 1 ,
+= 24
+SuNITA→1
+SN--
+4! = 24
+S T - - - - → 41, =24
+Ronk V
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+3
+2
+5
+1
+6
+# &UNITA
+ITA
+$
+Z
+
+d
+1 
+1
+S
+41
+31
+21
+11
+O
+<auk=3.5!+4.4+2.31+1.2)
++1.1/+0+1
+
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+Page No.134
+Question
+WhenAllLettersaredifferent
+WhenAll Lettersarenotdifferent
+Find rank of word GANIT
+Find rank of word MAsooM
+SI
+120
+Total =
+X,X,I,M,T
+?
+A,KM,αO.8
+2121
+A- - - - → 41 = a4
+→--1
+= 30
+2/ 21
+GAI-- →!
+GANIT-1
+MAM---
+MAO---
+H
+24
+9 = 1e
+MASM--→
+2
+2
+MASO M 0→1
+MASOOM→1
+y2
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+TRICK
+Page No.134
+Question
+WhenAllLettersaredifferent
+WhenAll Lettersarenotdifferent
+Find rank ofword GANIT
+Find rank of word MAsooM
+3
+5
+1
+2
+1
+A
+IT
+M
+Z
+A
+S
+1
+51
+41
+31
+21
+11
+21
+3
+D
+2121
+Q
+21
+21
+D
+O
++1×21+0+0
+×41P
+1
+= 30+ 0 + 9 + 1+ 1 + 0 +
+1
+0
+94+2+1=
+= 42 .
+27
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find rankofwordANURADHA
+3
+1
+2
+1
+QiBY
+R
+A
+D
+H
+A
+5
+(oncept
+t
+61
+51
+32
+21
+1
+31
+21
+21
+21
+21
+0+xy+55
+4.41
++ 0+ 2+1 +0 +
++
+21
+2
+21
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2020]
+PageNo.134
+If the letters of the word 'MoTHER' be permuted and all the words so
+formed (with or without meaning)
+)be listed as in a dictionary, then the
+position of the word 'MOTHER' is.
+lnuick
+3
+9
+1
+E
+T
+R
+V
+H
+QIBY
+3
+51
+31
+1
+41
+21
+Comcept
+o
+Kak= 240+ 48+18＋ +0+ 0+ 1
+309
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Page No.134
+ReverseQuestion
+If the letters of the word 'MoTHER' be permuted and all the words so
+formed (with or without meaning) be listed as in a dictionary, then word
+written at 519thposition??
+u
+E,H,M,,R, T
+41 = 24
+RE--
+hS
+51 = 12 0
+E
+Rhe-- .
+一31=
+6
+510.
+51=120
+240.
+RHM---
+QIBY 
+31
+51c
+120
+RhOe - -
+360.
+→2l=
+2
+Word at
+518 
+D
+120
+480
+RHOMET
+453rd ??
+?
+1
+519
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+Question [1IT-JEE-2007,Paper-2]
+The letters of word cocHiN are permuted and all the permutations are
+arranged in an alphabetical order as in a English dictionary. The number
+of words that appear before the word cocHiN is
+A
+360
+3
+B
+192
+41
+31
+96
+96
+13
+OO
+D
+48
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.135
+ReverseQuestion
+If all the letters of the word PUBLic be permuted and all the words so
+formed (with or without meaning) be listed as in a dictionary, then word
+writtenat437thposition??
+MH
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2016]
+Ifall thewords
+ (with or without meaning) having five letters, formed
+using the letters of the word sMALL and arranged as in a dictionary; then
+the position of the word SMALL is
+DIBY
+A
+59th
+B
+52nd
+58th
+D
+46th
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+If the letters of the word MATHs are permuted and all possible words so
+formed are arranged as in a dictionary with serial numbers, then the
+serial number of theword THAMs is
+D1BY -
+Z
+A
+103
+B
+104
+102
+D
+101
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2023]
+Page No.135
+Let S = {1, 2, 3, 5, 7}. The rank of 35773 if all 5 digit number formed by digits
+  r  u  ss 
+digits is allowed.
+Total = 55
+35771
+351--- 5
+3542
+352-- → 5²
+35743
+353-- → 52
+3 1 
+3 55 - - → 52
+32 -
+= 2x625 + 3x125 + 4×25
+5
+n
+351-- 5
++ 4x$+3.
+33 - -
+3
+5
+352-5
+357 3 - → 5
+3 5 7 5 - - 5
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+P
+Question Practice
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+[Ans. : 210]
+Find the number of 7 digit integers whose sum of digits is 59.
+CaseHakig
+H.Wi
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+[Ans.: D]
+Question
+   o    ss    
+repeated is
+'mt
+A
+90,000
+心
+B
+10,000
+30,240
+D
+69,760
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]
+3'o
+V,W,L,S
+Am.=61-3/×u1
+3
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+pair d
+same a 8hou wala sawaal 
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+     e  s    
+with avowel and end with a consonant?
+[Ans.: 90720]
+L#DIBY-19
+Same as polit spech wala sawaal)
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+5
+1木
+C
+2米一
+the Digit 1 appearing somewhere to the left of 2
+3
+?
+K
+≤
++
++
+3 appearing to the left of 4 and
+9!
+M
+5
+5somewheretotheleftof6,is
+×31
+213
+219
+212
+X
+2
+(e.g. 815723946 would be one such permutation)
+，
+A)
+9.7!
+(B)
+(c)
+(D)
+8!
+5!.4!
+8!.4!
+9.8.+_9.7!
+[Ans.: (A)]
+8
+D
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-20
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans. : 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subsets of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+[Ans.: (D)]
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans.:(c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such that at least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+# DIBY-24
+Let S = 1, 2, 3, ..
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]
+```
+
+## PDF page 35
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let Pn
+ denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+8
+5
+(D)
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]
+```
+
+## PDF page 36
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]
+```
+
+## PDF page 37
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.: (D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]
+```
+
+## PDF page 38
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-32
+The number of five digit numbers, greater than 4ooo0 and divisible by 5, which
+can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to
+[JEE Mains-2023]
+(A)
+120
+(B)
+132
+(c)
+72
+(D)
+96
+[Ans.:(A)]
+#DIBY-33
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8, if repetition of digits is allowed, is:
+[JEEMains-2023]
+(A)
+22
+(B)
+18
+(c)
+21
+(D)
+20
+[Ans.: (A)]
+井
+DIBY-34
+ 2n+1Pn-1: 2n-1 Pn = 11:21, then n2 + n + 15 is equal to:
+[JEEMains-2023]
+[Ans.: 45]
+```
+
+## PDF page 39
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-35
+A person forgets his 4-digit ATM pin code. But he remembers that in the code
+all the digits are different, the greatest digit is 7 and the sum of the first two
+digits is equal to the sum of the last two digits. Then the maximum number of
+trials necessary to obtain the correct code is
+[JEEMains-2023]
+[Ans.:72]
+#DIBY-36
+The number of seven digit positive integers formed using the digits 1, 2, 3 and 4
+only and sum of the digits equal to 12 is
+[JEE Mains-2023]
+[Ans.: 413]
+#DIBY-37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language courses. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]
+```
+
+## PDF page 40
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABC. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.: (A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]
+```
+
+## PDF page 41
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 42
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Permutations & Combinations — Lecture 08
+
+Source: `Permutations and Combinations 08 Class Notes.pdf`  
+Pages expected: 45  
+OCR pages saved: 45  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+
+JEE2027
+30
+Lecture-08
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tohecoverey
+Selection out of things
+A
+which are not all different
+B
+Divisor Problems
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+[Ans. : 210]
+Find the number of 7 digit integers whose sum of digits is
+59.
+59
+_+-+—+_+-+_+_
+二
+y
+36
+23
+C-LV
+G-I :
+4999995
+884
+=10S
+G
+27
+32
+9,9,9,9,9, 8,6
+:△-)
+9,9,9 8,8,8,8
+C-:
+七
+42
+ 35
+51
+C-Ⅲ。
+666
+t
+I
+&1.
+5/ 21
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+[Ans.: D]
+Question
+    ss    
+repeated is
+A
+90,000
+好
+Total =
+Nodigitrepeated
+,1
+B
+10,000
+10 10 10 10 10
+01234
+30,240
+#=10-(10x9x8x7x6
+D
+69,760
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+The number of 9 digit numbers that can be formed using all the digits of
+the number 123412341 so that the even digits occupy only even places, is
+1,1,1
+2
+3.3
+o
+= 60 
+2/21
+3 /21
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+Page No.135
+ReverseQuestion
+If all the letters of the word
+PUBLIC
+be permuted and all the words so
+formed (with or without meaning) be listed as in a dictionary, then word
+written at 437thposition??
+B,C,I,,x
+l-----
+2
+432
+LPBC--→&
+B--
+→ 51 = 120
+LPBI-- →2
+11
+ 51 = 120
+436
+240
+434
+:120
+LPBUCI
+T--
+51 -
+36 6
+LB----
+4! = 24
+384
+L C - - - - →4 = 2y
+. 80h
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2016]
+Ifallthewords
+ (with or without meaning) having five letters, formed
+using the letters of the word sMALL and arranged as in a dictionary; then
+the position of the word SMALL is
+[Ans. : (c)]
+A
+59th
+B
+52nd
+58th
+D
+46th
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+If the letters of the word MATHs are permuted and all possible words so
+formed are arranged as in a dictionary with serial numbers, then the
+serial number of theword THAMs is
+[Ans.: (A)]
+103
+B
+104
+102
+D
+101
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Question
+If the letters of the word SACHiN
+N are arranged in all possible ways and
+these words are written out as in dictionary, then the word sAcHIN
+appears at serial number
+[Ans.: (D)]
+A
+602
+A,C,H,I,N, S
+QIBY
+B
+603
+600
+601
+D
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.135
+Challenger Question [JEE Mains-2023]
+If all the six digit numbers
+with
+0 < x, < x2 < x3 < x4 < x5 < x6
+X X2 X3 X4 X5 X6
+1
+are arranged in the increasing order, then the sum of the digits in the 72th
+numberis
+{x33456≠,8,9
+OC的
+x 1.= 56
+XCs
+6
+ex'
+134489
+&3_
+x1=15
+x1
+二&一
+
+2-1
+=
+125689
+a4568
+44
+123456
+么
+123564
+qum=3
+32
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+SELECTIONOUTOFTHINGSWHICHARENOTALLDIFFERENT
+PageNo.135
+Example
+Number of ways of selecting three letters out (A, B, C, D, E.
+6CV
+10woWs
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+SELECTIONOUTOFTHINGSWHICHARENOTALLDIFFERENT
+Page No.135
+Example
+not all different
+Number of ways of selecting three letters out
+AAA, BB, C, D
+3 letters
+A,B,C,D
+lotoal wayy
+Cn
+4+G t1
+(alldi) (
+ABC, B(D,
+A
+1
+11
+alike+1
+QC
+AAB, BBC, ACA
+ABC
+1
+AAB
+AAA ·
+个
+AC D
+aaike 1di长
+AAC
+3alike)
+(AAA)
+ABD
+川
+)
+AAD
+
+BCD
+BBA
+BBC
+BeD .
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+=(6+ 30 + 20+5+12+4
+TNDEPENDENCE
+→ seled any 
+, 5 letters
+C
+EEEE NNN DD T PC
+C-I?
+All ditferent
+C6
+二
+G
+ENDIP,NDIPC,-
+C-T°
+a-alike + 3diterent
+3c,x'C3
+0
+= 30
+EENDI,NNEPC
+3-alike + adit
+5
+C-I
+d
+= 20
+★
+C
+2
+EEEDC,NNNEI
+C-Ⅳ：
+4-alike+1dilk
+5
+1x'℃,
+= 5
+(EEEED-.-)
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+TNDEPENDENCE
+ seled ony 
+5 letters
+0
+EEEE NNN DD I PC
++1
+
+C
+x C,
+= 12
+a-alake +-other
+9
+alike
+EENNI,NNDDC
+C-°
+3-alike + a-otheralike
+=~
+EEENN,NNNDD..
+EEE NN
+EFE DD
+NNNEE
+NNNDD
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+# form a 5 letter word using
+letters o he
+fl=p+q+r+Q+m+n
+Word
+TNDEPENDENCE
+EEEE NNN DD T PC
+Selec'.
+arrang
+X
+YageNo
+1
+1
+0
+135,136
+C-I°
+All ditferent
+4
+51
+C
+ENDIP, NDIPC,-
+5
+C-T°
+α-alike + 3diterent
+3cx'C3
+0
+X
+EENDI,NNEPC
+21
+3-alike + adit
+5
+C-I:
+51
+h
+?
+?
+31
+EEEDC,NNNEI
+A-alike+1dilk
+C-V：
+5
+1x ℃,
+55
+X
+(EEEED-.-)
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+3C
++ 1
+
+x ℃,
+3
+-alke +-other
+&
+alike
+2121
+EENNI,NNDDC
+C-：
+3-alike + a-oHheralike
+u
+EEENN,NNNDD.-
+3/21
+EEE NN
+EFE DD
+NNNEE
+NNN DD
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2020]
+PageNo.136
+The number of 4 letter words (with or without meaning)
+thatcanbe
+formed from the eleven letters of the word EXAMiNATioN is
+CWH
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans. : (D)]
+The number of 4-letter words, with or without meaning, each consisting
+of twovowels and two consonants that canbe formed from theletters of
+the word INcONSEQUENTIAL, without repeating any letter, is
+mmp
+A
+2670
+B
+2840
+2920
+D
+3600
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Page No.136
+ALLPOSSIBLESELECTIONS
+'n'-Different Things
+'n'-Identical Things
+
+number of ways of selecting Zero thing = C,
+number of ways of selecting Zero thing = ↑
+
+number of ways of selecting One thing =
+number of ways of selecting One thing =
+C
+
+number of ways of selecting Two things = C
+number of ways of selecting Two things = 1
+number of ways of selecting All things = C
+number of ways of selecting All things = 1
+add
+add 
+n
+m+1
+C+ C,+
+=a
++.
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+={2345}
+→ 2=32
+Bubset
+bh m440 :20135
+sele? tfour thuig
+selet? of one Haig
+seler? og tuo t
+selet? og zero thng
+Hung
+selet? of five Hhaig
+6C
+GCV
+hCs
+=16
+αl=
+1
+=+++
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+AAAAA
+o1n0f0 2015
+selet? of one Hug
+seler? og tuo t
+selet? of Hou Hhug
+selet? og zero Hung
+Huug
+selet? o five Huing
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+Page No.136
+Bumper Question
+From a library containing 4 different physics book, 5 identical chemistry
+books & 6 identical maths books. Find the number of ways in which we
+can select
+xero boot seleced
+Atleast1book = &.6. -(1
+Atleast l book of each subject
+=(a-1
+5.6
+ccc
+MMM
+i
+Atleast 2 books = Q6. -
+xen buok
+1 b00k
+c c
+MMM
+1
+1+1+
+iv
+Atleast 2 books of each subject
+v
+Exactly 2 books
+All possible
+(vi)
+Exactly 2 books of each subject.
+sele. = ax(5+1)x(6+1)
+)x(1+1+1+1)x(1+1+1+1+1
+C2 + C
+(x(h)x(-)
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+Page No.136
+Bumper Question
+From a library containing 4 different physics book, 5 identical chemistry
+books & 6 identical maths books. Find the number of ways in which we
+can select
+xero boot seleced
+gcsaae
+Atleast1book = &. 6. -( 1
+Atleast lbook of each subject
+=(2-1). 5.6
+ccc
+MMM
+Atleast 2 books = &6.4 -
+Kern buok
+1 b0ok
+c c
+MMM
+1
+1+1+
+Atleast 2 books of each subject
+Exactly 2 books
+OR
+atleast three
++
+Exactly 2 books of each subject.
+book
+book
+PP
++
+(C C)
++,MM 
+M
+CM
+VI
+4c2x1x1=
+9
+
+tl
+×1
+C,x1+1x1
+1+
+ways
+
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+atmost two
+atmost one
+selectron
+selecton
+selectron
+otal
+selection
+ex.hree Huiny
+ex.one Hwwy
+ex.two Hwiy
+Keno Huiy
+Ateast one = Total -(xero)
+atleast one
+aHeast two
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+#=24=3
+2
+2
+3
+2
+Q3
+Y8112)64
+→Ttal = 8 oliv
+all possible
+=(3+1).(1+1)
+Selee?.
+46
+ 4×2
+二
+N=@3.5
+8
+(Nogdiv(+1)（(+)(4+1)
+=8x7x5
+= 280
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+#= 8y=&31
+24
+HCf
+1
+1x24
+Q
+2×12
+→Tota人 =8oliv
+3×8
+12
+Q9
+1
+9
+ways
+x6
+9
+Qum oall aivisors
+1+2+3+4+6+8+12+24
+30
+T. Qiv.
++a++
+(1+3')
+2
+= 1+3+a+6+4+12+8+2y
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+6
+N=a·3.5
+(Nogdiv(+1)(+)(+1)
+8x#x5
+280
+(++++.+)(+++.+3
+5+5+..-+5
+Cum 时 div. =
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+
+N=36=
+8
+36 
+」
+1 x36
+1=3
+2x18
+,2 3, 4,6, 9,12, 18, 36 . → 9dv
+3 x 12
+bxh
+So
+1G
+6x G
+
+T.odv.+ 1
+2-
+&
+2
+9
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.137
+DIVISORPROBLEMS
+N = 2α .3β.5.78
+Total number of divisors = (α + 1).(β + 1). (y + 1).(8 + 1)
+心8
+Total number of proper divisors = (α + 1).(β + 1). (y + 1 ).(6 + 1).... -2
+Sum of all the divisors = (20+21 + 22 +..+2α). (30 + 31 +...+3B).(50 + 51 +..+5)
+..
+An
+Number of ways in which 'N' can be resolved as product of two factors
+total divisors
+'N'= "is not a perfect square"
+2
+total divisors + 1
+'N' = "is a perfect square" (Hint: α, β, y, 8... → all are even)
+2
+(W)
+Number of ways in which 'N' can be resolved in product of two co-prime
+factors = 2k-i, (where k = total no. of prime factors)
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.137
+Bumper Question
+mt
+If N = 24.33.52.63
+D
+?
+Total number of divisors
+i
+total number of divisors which are perfect square
+m
+Total number of divisors which are perfect cube.
+00
+Total number of divisors divisible by 3.
+2.
+Total number of divisors divisible by 15
+()
+Total number of divisors divisible by 12
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find the number of arrangements of letters of the word EQuATioN such
+that vowels occur in alphabetical order.
+°mp
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans.:126]
+Two players A and B play a series of games of badminton, The player,
+who wins 5 games first, wins the series. Assuming that no game ends in a
+draw, the number of ways, in which player A wins the series is
+HUw。
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans.:660]
+Let ABC be a triangle. Consider four points p1, P2, P3, p4 on the side AB, five
+points p5, P6, P7, P8, Pg on the side BC, and four points P10, P11, P12, P13
+3onthe
+side Ac. None of these points is a vertex of the triangle ABc. Then the
+total number of pentagons, that can be formed by taking all the vertices
+from the points p1 P2, ,P13, is
+mp
+```
+
+## PDF page 35
+
+OCR status: `ocr_complete`
+
+```text
+Question
+When repetition is allowed find the number of 7 digits numbers 0 to 9
+()
+such that sum of digits is even
+(i)
+which are palindrome.
+(w)。
+```
+
+## PDF page 36
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 37
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABc. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.:(A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]
+```
+
+## PDF page 38
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-40
+There are 15 players in a cricket team, out of which 6 are bowlers, 7 are batsmen
+and 2 are wicketkeepers. The number of ways, a team of 1l players be selected
+from them so as to include at least 4 bowlers, 5 batsmen, and 1wicketkeeper, is
+[Ans. :777]
+#DIBY-41
+Suppose that 20 pillars of the same height have been erected-along the
+boundary of a circular stadium. If the top of each pillar has been connected by
+beams with the top of all its nonadjacent pillars, then the total number of
+beams is:
+(A)
+190
+(B)
+170
+(c)
+180
+(D)
+210
+[Ans.: (B)]
+#DIBY-42
+Let A = {1, 2,3, 4, 5, 6, 7} and B = {3, 6, 7, 9}. Then the number of elements in the set
+[C = A: C n B ≠ P}is
+[JEEMains-2022]
+```
+
+## PDF page 39
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-43
+If 2nC3: nC3 = 10 : 1, then the ratio (n² + 3n):(n² - 3n + 4)
+[JEE Mains-2023]
+is
+(A)
+(B)
+2:1
+(c)
+36 :16
+(D)
+65:37
+27 :11
+[Ans.: (B)]
+#DIBY-44
+If mp, = nP r+i and nC, = nC,-, then the value of r is equal to
+[JEEE Mains-2021]
+(A) 
+(B)
+(c)
+(D)
+4
+2
+
+3
+[Ans.: (c)]
+#DIBY-45or37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language course. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]
+```
+
+## PDF page 40
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-46
+Consider a rectangle ABcD having 5, 7, 6, 9 points in the interior of the line
+segments AB, CD, BC, DA respectively. Let α be the number of triangles having
+these points from all 4 different sides as vertices and β be the number of
+quadrilaterals having these points from all 4 different sides as vertices. Then
+β-α) isequalto
+[JEEMains-2021]
+(A)
+795
+(B)
+(c)
+1173
+1890
+(D)
+717
+[Ans.:(D)]
+#DIBY-47
+There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If
+4 persons are selected from each group, then the number of ways of selecting 4
+menand 4women is
+[JEEMains-2024]
+[Ans.:5626]
+```
+
+## PDF page 41
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-48
+The letters of the word ouGHT are written in all possible ways and these words
+are arranged as in a dictionary, in a series. Then the serial number of the word
+TOUCHis
+[JEE Mains-2023]
+(A)
+89
+(B)
+84
+(c)
+86
+(D)
+79
+[Ans.:(A)]
+#DIBY-49
+All words, with or without meaning, are made using all the letters of the word
+MoNDAY. These words are written as in a dictionary with serial numbers. The
+serial number of the word MoNDAY is
+[JEE Mains-2023]
+(A)
+327
+(B)
+328
+(c)
+324
+(D)
+326
+[Ans. : (A)]
+```
+
+## PDF page 42
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word "GTWENTY" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword"GTwENTy"is
+[JEEMains-2024]
+[Ans.:553]
+```
+
+## PDF page 43
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-53
+60 words can be made using all the letters of the word BHBJO, with or without
+meaning. If these words are written as in a dictionary, then the 5oth word is:
+[JEEMains-2024]
+(A)
+JBBOH
+(B)
+OBBJH
+(c)
+OBBHJ
+(D)
+HBBJO
+[Ans.: (B)]
+#DIBY-54
+If all the words with or without meaning made using all the letters of the word
+"NAGPUR" are arranged as in a dictionary, then the word at 315th 
+ position in this
+[JEEMains-2024]
+(A)
+(B)
+(c)
+NRAGUP
+(D)
+NRAPUG
+NRAPGU
+NRAGPU
+[Ans.: (c)]
+```
+
+## PDF page 44
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 45
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Permutations & Combinations — Lecture 09
+
+Source: `Permutations and Combinations 09 Class Notes.pdf`  
+Pages expected: 34  
+OCR pages saved: 34  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+
+JEE2027
+30
+Lecture-09
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tohecouerep
+A
+Division & Distribution
+B
+Question Practice
+
+C
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans.:126]
+Two players A and B play a series of games of badminton, The player,
+who wins 5 games first, wins the series. Assuming that no game ends in a
+draw, the number of ways, in which player A wins the series is
+euO
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans.:660]
+Let ABC be a triangle. Consider four points p1, P2, P3, p4 on the side AB, five
+points p5, P6, P7, P8, Pg on the side BC, and four points P10, P11, P12, P13
+3onthe
+side Ac. None of these points is a vertex of the triangle ABc. Then the
+total number of pentagons, that can be formed by taking all the vertices
+from the points p1 P2, ,P13, is
+VH
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find the number of arrangements of letters of the word EQuATioN such
+that vowels occur in alphabetical order.
+VW
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+Question
+When repetition is allowed find the number of 7 digits numbers 0 to 9
+(?)
+such that sum of digits is even
+(ii)
+which are palindrome.
+w
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2020]
+PageNo.136
+The number of 4 letter words (with or without meaning)
+thatcanbe
+formed from the eleven letters of the word EXAMiNATioN is
+VeeO
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans. : (D)]
+The number of 4-letter words, with or without meaning, each consisting
+of twovowels and two consonants that canbe formed from theletters of
+the word INcONSEQUENTIAL, without repeating any letter, is
+A
+2670
+et
+B
+2840
+2920
+D
+3600
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Page No.137
+DIVISORPROBLEMS
+N = 2α .3β.5 .78
+D
+Total number of divisors = (α + 1).(β + 1). (y + 1).(8 + 1)
+营卖心出
+I
+Total number of proper divisors = (α + 1).(β + 1). (y + 1).(6 + 1).... -2
+川
+Sum of all the divisors = (20+21 + 22 +..+2α). (30 + 31 +...+3B).(50 + 51 +..+5)
+..
+(Iv)
+Number of ways in which 'N' can be resolved as product of two factors
+total divisors
+'N'= "is not a perfect square"
+2
+total divisors + 1
+'N' = "is a perfect square" (Hint: α, β, , 8. →> all are even)
+2
+(v)
+Number of ways in which 'N' can be resolved in product of two co-prime
+factors = 2k-1, (where k = total no. of prime factors)
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Page No.137
+Bumper Question
+N=a3.5
+If N = 24.33.52.63
+Total number of divisors
+= (4+1). (6+1).(2+1)
+total number of divisors which are perfect square
+=(3+1) (3+1).(1+1)
+Total number of divisors which are perfect cube. :
+=(a+1).(α+1) =(
+9
+(i)
+Total number of divisors divisible by 3.
+2
+(ii)
+Total number of divisors divisible by 15
+2
+) ii) N=&84
+()
+)Total number of divisors divisible by 12
+N=&
+95
+atleast  one  3  iu  selected
+(! (
+aHeast One 3  ome 5
+a()
+(±+1).6. k+1)
+is selecded
+a(ii)
+(1+t)
+6.2
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+N=a:3.5²
++
+6
+(i)
+#1=3
+N=43.5
+3
+(1+1) . 3.6.(2+1) = 108 
+OR
+3.6.(2+1) = 54 X
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+N = at36.52
+Page No.137
+Bumper Question
+开
+3. Sum of all divisors = (<+&' +. .. + &) . (
+(3+3'+.-..+3).(5°+s'+5²
+Sum of alleven divisors = (2'+&²+ . . + at ). (3+ 3'+. -+3)
+$+$+5)
+Sum of all proper odd divisors = &° (3+3'+. --+3) (s+s'+52)
+Sum of all divisors divisible by 10
+=(a+2+...+a).(3°+3+ -  +3)
+5'+52
+&5'
+Number of ways in which 'N'
+can be resolved as product of two
+number's
+mot a P.s.
+Totoldiv
+2
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+N=5
+Page No.137
+Bumper Question
+5.
+Number of ways in which'N' can be resolved as product of two co-
+primenumber's
+k=3
+yways
+3-
+9
+9.35
+Number of divisors of the form (4n) =
+6
+D
+ii
+Number of divisors of the form (4n + 2) = 1 .(6 +1) (2+)
+y
+3 5
+= al.
+2452
+4n+2 =a.(
+(2n+1)
+div.by
+2'3
+5~
+fimein ek te & preent atf
+(1+1)3.(6+1) (2+)
+nt
+ =&.3. 5' = 90 = 4x22 +2 .
+=α:3.5²= 150
+D =&'5' =10.
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.137
+Bumper Question
+6.  (
+(!!)
+Number of divisors of the form (4n + 1) =
+kikuchpower
+N=352
+4n+1)
+4nt1
+4nt1 
+1+uh
+d
+?
+2
+4m
+1
+X
+h
+x3
+12
+4n+1
+4n+2
+4n
+3
+4n+1
+4n+3.
+4n+3
+十
+3
+G4n+3
+4nt
+94n+3
+4ntl
+4n+1
+4n+3
+4ntl
+5
+4n+1
+4nt1
+4ntI
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+4n
+6()
+Total
+4n+1
+— 6(i)
+Dvisors
+→ 6(6)
+4n+2
+Total -
+Byectim
+4n+3
+OR
+Count in some meHuad a of(4n+1)
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+Page No.138
+Let n be a non-negative integer. Then the number of divisors of the form
+4n + 1of the number
+(10)10.(11)1. (13)13
+is equal to
+HuW。
+D
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Page No.139
+DIVISIONINTOGROUPS
+Case-l: When group size is different
+厂
+6!
+6Different
+=No.of ways =
+?
+Objects
+3!&111
+0
+D
+D
+5
+14!
+14Different
+=No.ofways =
+Objects
+51413121
+3
+0
+。。
+2
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+Page No.140
+DIVISIONINTOGROUPS
+Case-ll: When group size is same
+6
+6Different
+>No.of ways =
+21212131
+Objects
+00
+D
+D
+7 Different
+?!
+=No.of ways =
+D
+Objects
+2121111131
+D
+000
+0
+囍
+3
+10Different
+3
+10
+=No.of ways =
+Objects
+3/3/2/2/2/21
+2
+199000
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+3
+4
+27!
+Tubs
+31313131
+212121 .31
+4141Q1
+11
+o。。a
+aea
+O
+。。
+D
+2
+？
+1
+9
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Example
+Number of ways in which 52 playing cards equally divided into:
+Four heaps
+(ii)
+FourPersons
+diuide
+distibutiom
+521
+senolonm
+L
+、
+13113113113141
+0
+1
+52!
+4
+13113113113141
+0
+6
+品
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.140
+Example
+In how many ways six different books can be distributed between four
+persons, so that each person gets atleast one book.
+G dit Heurgy
+div.wt
+dat
+groups
+dnoeb
+61
+1h
+Oixe.
+C-1:
+3/11111/31
+=
+..。
++9
+cI:
+2,2,!!
+5
+a1211111
+21
+°
+4, 1,1
+QQ0Q
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+disnbute
+6 dliy botk.
+children
+
+
+B, B,
+B2
+Bu B
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.140
+Example
+Number of ways of distributing
+seven different chocolates to four
+children such that each gets atleast one chocolate.
+m+
+Bomt-Ho t
+wooe
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE (Adv.)-2020, Paper-2]
+PageNo.140
+In a hotel, four rooms are available. Six persons are to be accommodated
+in these four rooms in such a way that each of these rooms contains at
+least one person and at most two persons. Then the number of all
+possible ways in which this can be done is.
+162
+10r2
+ln2
+1πr2
+R
+R3
+ persons
+电
+G
+&,a,1,1
+2/21111/×2121
+00
+3，'!,1）
+X
+2,2,2,0X
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+Number of ways in which 8 persons can be seated in three different
+taxies each having 3 seats for passengers and duly numbered is
+(a)
+If internal arrangement of persons inside the taxi is immaterial.
+(b)
+If internal arrangement also matters.
+TAKI-1
+3
+persons
+8!
+3
+= 9x81
+3
+31312/21
+bR
+91
+Same 
+C
+81
+8x&
+D
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-46
+Consider a rectangle ABcD having 5, 7, 6, 9 points in the interior of the line
+segments AB, CD, BC, DA respectively. Let α be the number of triangles having
+these points from all 4 different sides as vertices and β be the number of
+quadrilaterals having these points from all 4 different sides as vertices. Then
+β-α) isequalto
+[JEEMains-2021]
+(A)
+795
+(B)
+(c)
+1173
+1890
+(D)
+717
+[Ans.:(D)]
+#DIBY-47
+There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If
+4 persons are selected from each group, then the number of ways of selecting 4
+menand 4women is
+[JEEMains-2024]
+[Ans.:5626]
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-48
+The letters of the word ouGHT are written in all possible ways and these words
+are arranged as in a dictionary, in a series. Then the serial number of the word
+TOUGHis
+[JEE Mains-2023]
+(A)
+89
+(B)
+84
+(c)
+86
+(D)
+79
+[Ans.:(A)]
+#DIBY-49
+All words, with or without meaning, are made using all the letters of the word
+MoNDAY. These words are written as in a dictionary with serial numbers. The
+serial number of the word MoNDAY is
+[JEEMains-2023]
+(A)
+327
+(B)
+328
+(c)
+324
+(D)
+326
+[Ans. : (A)]
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word "GTWENTY" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword"GTwENTy"is
+[JEEMains-2024]
+[Ans.:553]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-53
+60 words can be made using all the letters of the word BHBJO, with or without
+meaning. If these words are written as in a dictionary, then the 5oth word is:
+[JEEMains-2024]
+(A)
+JBBOH
+(B)
+OBBJH
+(c)
+OBBHJ
+(D)
+HBBJO
+[Ans.: (B)]
+#DIBY-54
+If all the words with or without meaning made using all the letters of the word
+"NAGPUR" are arranged as in a dictionary, then the word at 315th 
+ position in this
+[JEEMains-2024]
+(A)
+(B)
+(c)
+NRAGUP
+(D)
+NRAPUG
+NRAPGU
+NRAGPU
+[Ans.: (c)]
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-55
+Find the total number of ways of selecting five letters from the work
+"INDEPENDENT'
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Permutations & Combinations — Lecture 10
+
+Source: `Permutations and Combinations 10 Class Notes.pdf`  
+Pages expected: 37  
+OCR pages saved: 37  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+1
+JEE2027
+30
+Lecture-10
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobecoverey
+A
+Distribution of ldentical objects
+B
+Circular Permutation
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans.:126]
+Two players A and B play a series of games of badminton, The player,
+who wins 5 games first, wins the series. Assuming that no game ends in a
+draw, the number of ways, in which player A wins the series is
+#
+(A), B
+cr
+5Matcwes
+GMatches
+#=（(+5+15+35+40)
+Awins
+#Matches
+P
+= 126
+OK
+长
+= 35
+8 Matches
+= 12 G
+wins
+,Cy=40
+A
+Matches
+10 Matches
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2026]
+[Ans.:660]
+Let ABC be a triangle. Consider four points p1, p2, P3, p4 on the side AB, five
+points p5, P6, P7, P8, Pg on the side BC, and four points p10, P11 P12, P13 on the
+side Ac. None of these points is a vertex of the triangle ABc. Then the
+total number of pentagons, that can be formed by taking all the vertices
+from the points p1, P2, ..,P13, is
+selcf ay
+A
+md s
+CA
+AB
+BC
+SI:
+2
+Q
+C2
+SC2
+X
+C:
+9
+-e
+add
+C-m:
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find the number of arrangements of letters of the word EQuATioN such
+that vowels occur in alphabetical order.
+一
+
+(A,ET,0,U)(9,T.N)
+S
+X31
+336
+产
+5
+Alph.ordey
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+Question
+When repetition is allowed find the number of 7 digits numbers 0 to 9
+(!)
+such that sum of digits is even
+(ii)
+which are palindrome.
+using
+digyt
+ii---
+—9 10 10 
+.11
+1
+7
+C
+Total = 9x10°
+bol ung 
+01xb
+1010
+10
+1333
+(900)
+mt
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2020]
+Page No.136
+The number of 4 letter words
+s (with or without meaning)
+that can be
+formed from the eleven letters of the word EXAMiNATioN is
+Ans:2454
+AA ,N N,II, E, X, T, O, M
+大
+GI:
+dalike+ oliHt
+-
+Qalike+-otheralike
+CT
+
+AA
+X
+AE
+Z
+NI
+A
+II
+IE
+TOM
+NIO
+NNA
+AA
+7
+3
+4!
+8
+x
+X
+41
+21
+2
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2026]
+[Ans.: (D)]
+The number of 4-letter words, with or without meaning, each consisting
+of twovowels and two consonants that can be formed from the letters of
+s
+A
+2670
+~owels
+nuouosw
+ex-
+(A,E,I,0,U 
+B
+2840
+N,C,S,α,T,L
+ENNE
+2920
+6
+X
+X
+D
+3600
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+Page No.138
+Let n be a non-negative integer. Then the number of divisors of the form
+4n + 1of the number (10)i0.(11)u. (13)'3 is equal to
+81%
+13
+N = 2° 50 11'. 13
+&
+5
+U
+13
+4n+1
+(4n+1).(4n+1).(4n+1)(4n+1
+13
+Q
+dL
+3 3
+&
+d
+13~.
+13
+(））)
+Y
+4n+i 4r+i 4ntl. -
+4nt
+4n
+4n+2
+1x11×6x14
+5
+924
+4m+1
+"月
+4n+1 4n+3 4n+! 4nt3.
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSRECAP
+Number of ways of distributing 5 different chocolates to 5 children such that
+each can get any amount is__5. 5.5_55.=
+  s s
+each get one, is.
+5!
+3.N
+Number of ways of distributing 5 different chocolates to 3 children such that
+each get at-least one, is,
+Q9
+S, R, P 
+q0
+n=5
+(2)+()
+—30
+221
+5!
+5!
+x31
+=3
+311
+x3/
+2/2/1/ 21
+31111/21
+a43 - 3x32 + 3 = 246 -96 =(150
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Page No.140
+Example
+Number of ways of distributing
+ seven different chocolates to four
+children such that each gets atleast one chocolate.
+七
+?
+1t
+m
+(i)ih
+zi) ie/e
+?
+１１
+3/
+=/ 31
+0
+3211
+b
+aa1
+T
+8400
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.140
+DISTRIBUTION
+
+安
+Persons
+(such that each get atleast one)
+E
+direct
+formula
+?
+7
+n
+尼
+h
+m
+(n-3)
+-
+-2)
+C
+C
+?
+nu
+m
+Hchildrer
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.14o
+Example
+Number of ways of distributing seven different chocolates to four
+children such that each gets atleast one chocolate.
+t=u
+-℃, 3
+C
+=4
+= 8400
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+RAPIDFIREDIBY'S
+# DIBY-01
+Number of ways in which 8 computers of different make can be distributed
+among 5 schools such that each school gets at least one computer is:
+(A)
+63,000
+(B)
+126,000
+(c)
+151,200
+(D)
+189,000
+[Ans.:(B)]
+#DIBY-O2
+In how many ways can a selection of 5 letters be made from the word
+MISSISSIPPI?
+(A) 
+15
+(B)
+25
+(c) 
+42
+(D)
+60
+
+[Ans.: (B)]
+# DIBY-03
+In how many different ways the number N = 24.32 .53 . 72 .114 .132 be resolved as
+a product of two divisors which are relatively prime ?
+(A)
+32
+(B)
+64
+(c) 16
+(D)
+128
+
+[Ans.:(A)]
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+n-id.twig
+E
+1-人+U
+L
+Totol ways
++u
+S+ick - Par+ition 
+Metwod
+-Cwildren
+(-)
+4cuildren
+Iwngy
+Total
+1
+amaugement
+?
+SHicks
+?
+11
+7
+A
+1e 18
+8
+D
+&
+a
+m
+86
+1
+4
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+n-id tuing
+n-1
+pachgets
+A aHeayt ome
+C
+%-1
+S+ick - PartiHion 
+Metwod
+-Cwild
+4eildren
+atleast one
+1
+Shicks
+5
+×
+×1 
+-x
+x1
+3
+×一
+X
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+DISTRIBUTIONOFIDENTICALOBJECTS
+PageNo.141
+Question
+n= 13, % = 5
+s  s
+!
+No restriction (fff 可 baff ff )
+T
+each gets at least one.
+1-+
+13+ 5-1
+14
+C
+
+5-1
+13-1
+n-l
+12
+-1
+5-1
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+NUMBER OF INTEGRAL SOLUTIONS (BEGGAR'S METHOD)
+-chldren
+Page No.141
+n0.
+identical Hunps
+Equation:
+x1 + x2 + x3 + .··+ xr
+0
+n
+Case-l:
+(x1, x2, x3,., xr) E N  12,3,4.. -
+aHeaut one given to each child
+Number of integral solutions
+n-1
+Cr-1
+Case-1l:
+(x1, x2, x3,..,x) ∈ Wo, 1,2,3.
+all possible dit 
+Number of integral solutions
+n+r-1
+一
+r-1
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+n = 18
++
+++t = 18
+h = 4
+n
+17
+N
+-1
+M'
+-+u
+21
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+?
+(0'z'x)yy0s91 = 1+ z +  + x
+α-1
+<(
+-2
+-3≥0, t>0
+<x
+Y>o
+Z>0
+inita cond?
++
++y+  +t =10
+all possible dit · =
+y-2)+(α-3/+ t = 10
++t=10、,(x,Yz,teW
+X+
+Y+
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+x + y + z + t = 16,such that(x≥4,y≥-2,z≥-3,t≥-1)
+α-4≥0
+'0<ε+0<B+K
+<++
+)+(<+3)+(t+1)= 16-4+2+3 + 1
+x-4
+-+t+
+x≥o, Y≥o, ≥o, T>O
+X + Y + + T = 18
+1-x+li
+18+4-1
+21
+C3
+树
+F
+4-1
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(ii)
+x + y + z + t = 16, such that (x, y,z,t ∈ odd +ve integers)
+p+1)
++68
+&m+ 1)
++1)=16
+=C
+6+4-1
++w+b+
+I-+u
+all possible =
+%
+X
++
+2 
+3
+一
+13
+t
+3
+5
+h
+1
+5
+1
+11
+4 
+ 2
+2
+
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(iv) x + y + z + 40 = 20, such that (x, y,z, @ ∈ positive integers)
+Natural No.
+16 -1
+SC
+C3-1
++y+ = 16
+C-L:
+8=1
+一
+/2-1
+x+y+ = 12
+add = ft
+=°
+一
+3-
+α+y+ = 8
+
+C-Ⅲ。
+w=3
+：
+C3-1
+C-°
+=3
+h = 去++
+?
+一
+c-°
+w=5
++y+= O·= not possible
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+MahaBumper Question
+Find number of integral solutions of following equation with given conditions:
+(iv)_ x + y + z + 4@ = 20, such that (x,y,z, @ e whole n0 .
+16 -1+3
+C3-1
+C-I:
+x+y+ = 16
+8=1
+一
+12-1+3
+x+y+ = 12
+add =ft
+C
+=’
+3-1
+8-1+3
+C-1
+8 = ++x
+C-。
+w=3
+4-1+3
+6
+C3-1
+=3
++4+ = 4
+=
+C-°
+=
+22
+c°=O
++y+=20. = 20+3-1
+C3-1
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+MahaBumper Question
+Find number of integral solutions of following equation with given conditions:
+x + y + z≤20, such that (x, y,z ∈ non-negative integers)
+
+ex:
+10+0+10
+False beggar
+J
+0+9+
+x+y
+=&0
+1  +  1  +  1 
++
+l-+u
+all possible 
+(~-/
+0+0+0
+1004
+3
+20+4-1
+5
+1
+10
+23
+20
+0
+T
+2
+?
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+x + y + z ≤20, such that (x, y,z ∈ Natural No
+False beggar
+= a0
+t
+25
++++
+七
+=a0
+x+y +&
+I-h+tl
+x,y,≥1,t≥0
+all possible 
+
+20
++y++
+)=1+
+一
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(vi)
+35 < x + y + z≤52, such that (x,y,z ∈ positive integers)
+°M+
+。
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.133
+AcidicQuestion
+How many words of seven letters can be formed by using the letters of
+S
+°m
+A
+96
+D
+B
+41
+264
+D
+40
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+RAPIDFIREDIBY'S
+#DIBY-O1
+In how many ways can 30 marks be allotted to 8 questions if at least 2 marks are to be
+given to each question, assuming the marks are allotted in non negative integral
+values?
+(A)
+21C7
+(B)
+22C
+(c)
+29 C7
+(D)
+21C8
+[Ans.: (A)]
+#DIBY-O2
+There are an unlimited number of Red, White, Black, and Green balls (balls are all alike
+except for the color). Find the number of ways in which a selection of 1o balls can be
+made:
+(A)
+13C4
+(B)
+10C3
+(c)
+13C3
+(D)
+14C3
+[Ans.:(c)]
+#DIBY-03
+A supermarket offers ice creams in 10 different varieties. Ice creams of each variety are
+identical. In how many ways can 4 ice creams be selected without any restriction?
+13C6
+(A)
+10C4
+(c)
+13C5
+(D)
+13C4
+(B)
+[Ans.: (D)]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-55
+Find the total number of ways of selecting five letters from the work
+"INDEPENDENT'.
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans......
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+"cURRIcULUM" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans. : (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+among 3 persons so that each person gets at least one ball is
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]
+```
+
+## PDF page 35
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+#DIBY-65
+Let the set S = {2, 4, 8, 16, ..
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A u B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.: (D)]
+```
+
+## PDF page 36
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 37
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Permutations & Combinations — Lecture 11
+
+Source: `Permutations and Combinations 11 Class Notes.pdf`  
+Pages expected: 45  
+OCR pages saved: 45  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+1
+JEE2027
+30
+Lecture-1l
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobe coverey
+A
+Circular Permutation
+B
+Derangement
+
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+H.W. Discussion
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Page No.133
+AcidicQuestion
+How many words of seven letters can be formed by using the letters of
+the word 'succEss' so that neither the two C nor any two S are together.
+96
+S,s,S
+(S,S,S
+CS, U, E
+B
+41
+c-u-∈_~
+x1x31
+_c-c-_ε
+O
+C
+×
+1
+264
+文
+21
+-c-c-U-e .
+Requred.
+SCsCUSE
+D
+40
+12
+x10-4x6
+Cscuses
+
+sccsuse x
+对
+=120-24=
+6
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+MahaBumper Question
+Find number of integral solutions of following equation with given conditions:
+(iv)
+x + y + z + 4@= 20, such that (x,y,z,@ ∈ whole n0 .
+16-1+3
+C-I:
+x+y+=16
+8=1
+3
+3-1
+一
+12-1+3
+x+4+=12
+三
+3-1
+add:
+C-=
+8-1+3
+8=++x
+C3-1
+=-
+4-1+3
+C3-1
+=m
+7+4+4=4
+=
+C-位。
+=
+C-。
+0=3
++y+=20.=)20+3-1
+1
+C-VI：
+W=5
++y+=0
+S
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.141
+MahaBumperQuestion
+Find number of integral solutions of following equation with given conditions:
+x+y +z≤20,such that（x,y,z ∈non-negative integers)
+
+PX
+10+0+10
+False beggar
++9+9
+=20
+1+1+1
+x+y
++去
+l-+u
+allpossible=
+0+0+0
+1004
+3
+1-h0
+51 
+10
+23
+20
+心
+Q
+2
+?
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(vi)
+35 < x + y + z ≤ 52, such that (x, y,z ∈ positive integers)
+OR
+35
+52
+36<+y+<52
+福
+α+y+<52
+also cuntd cals
+++
+= 52
+人
+um
+α+y+ <35
++y'+'+=49
++x+,b+x
+ = 32
+1-h+6h
+ all possible =
+32+4-1
+4-
+35
+Cyl
+C3
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+?
+Page No.141
+Maha Bumper Question
+&d—3cld→
+p+9+r=2
++3-
+C3-1=
+2
+0
+Find number of integral solutions of following equation with given conditions:
+(vii)
+xyz =(
+24)
+(33)
+(52)
+(x, y,z ∈ N)
+1-+++4Pm
+3-1
+111
+SC
+55
+2222
+333
+?
+2
+3cild.
+0
+2
+4id.Hg dit.tox，y
+ex
+2
+只
+4+3-1
+=x+b+d
+all possible so' =
+C
+35
+&3
+82235
+3-1
+1
+3
+2255
+&33
+&3
+1
+xC2
+3×1
+1
+5533
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+W
+DIBY
+45
+4
+#xy=a3.10
+(x,y,eN)
+
+OR
+8.5
+xy=.3.54
+#
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Notes!!
+Question
+0
+Number of points with integral co-ordinates
+that lie strictly inside the
+triangle whose vertices are
+ (0, 0), (0, 102)
+) and (102, 0) is.
+H-1
+5050
+(0,102)
+h+x
+<102
+开
+<0<x
+B
+5151
+≤101
+X
+=102
+EN
+9
+4950
++x
+=10 1
+10lx100
+5050
+2
+= 99
++4+七
+D
+5253
+(0,0)↓
+(102,0)
+(0'z) (01)
+1-+6b
+101
+(%'10)
+3-
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+0,102)
++y = 102
+(1011)
+101
+(2,100)
+H-2
+100
+(1,10%)
+1otal= 100 + 99+ 98+--- - -+ 1
+(99,3)
+10-×00)
+(98,3)
+(99,2)
+(100, 2)
+a
+K
+(101,1)
+X
+50 x101
+100, 1)
+5050
+(0,0)
+102,0
+(0'z) (01)
+101,0
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Point (x,g)
+boh integer
+Hen point u Called 
+dattice point
+where xt y
+(3,4)
+ex
+二
+383
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+[Ans. : (D)]
+Question[JEE Mains-2023]
+The number of triplets
+(x,y,z)
+where x, y, z are
+distinct
+non negative
+integers satisfying x + y + z = 15, is
+mt
+D
+A
+136
+B
+80
+92
+D
+114
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.143
+NON-CONSECUTIVESELECTION
+Question
+Consider set S = {1, 2, 3, 4, 5, 6, 7, 8, 9},
+, number of ways of selecting 4
+numbers such that no two are consecutive.
+: 1,5,4,9 
+00.0.00
+GCu
+T
+2,4,8,1
+?
+123456489
+2,5,4,9
+6'9h'
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+Page No.143
+NON-CONSECUTIVESELECTION
+n=9
+q-4+1
+=4
+Question
+Consider set S = {1, 2, 3, 4, 5, 6, 7, 8, 9},
+,number of ways of selecting
+1
+numbers such that no two are consecutive.
+ex-
+1,3,C,9
+x, + N2 + 3 +x4 + Ns = 5
+一
+vo
+六
+vo
+2,5, 4,9
+',3, 5, 8
+α,+x+x3+a4+=
+α+5-1
+b'9'h't
+5-
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+123 
+% select 
+T
+no twso are cmsecwitive
+-Y+1
+OR
+#
++(
+
+(fitniseled)
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.143
+Question
+A train having 12 stations enroute has to be stopped at 4 stations.
+Number of ways it can be stopped if no two of the stopping stations are
+consecutive.
+12
+X
+X
+m=12
+）
+12 - 4 + 1
+7= 4
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEE(Adv.)-2020, Paper-2]
+Page No.143
+  s         
+first 15 days of every month and it is mandatory that no two visits take
+place on consecutive days. Then the number of all possible ways
+in
+which such visits to the factory can be made by the engineer during 1-15
+June 2021is
+une →1234 ..---15
+15 -4 +1
+?
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.143
+NON-CONSECUTIVESELECTION
+Question
+If these nine numbers are placed on a circle (as shown), number of ways
+of selecting 4 numbers such that no two are consecutive.
+H1
+ex
+6't's'
+dine F assume
+whenendpoint
+9
+,3, 5,7
+149seleced
+Krke ans.
+8
+3
+4. G,8,2
+T
+9-4+1
+5-2+1
+7
+5
+?
+6C
+= 15 -6 
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.143
+NON-CONSECUTIVESELECTION
+Question
+If these nine numbers are placed on a circle (as shown), number of ways
+of selecting 4 numbers such that no two are consecutive.
+H-2
+G-3 +1
+ex
+6't's'
+C
+9
+2
+3
+4. 3, 5, 7
+8
+3
+4. 6 ,8, 2
+4
+5
+6
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Page No.143
+NON-CONSECUTIVESELECTION
+Number of ways of selecting 'r' - things out of 'n' - consecutive things
+#
+s are consecutive = n-r+ic,
+Placed in a line such that no two things
+re ansuoe - u, yo no sauire - ,, buois fo som go segnn
+Placed on a circle such that no two things are consecutive
+nC
+n-r-1
+Cr-1
+n-r+1
+C
+n-r-1
+or
+?
+r-2
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+Challenger Question
+Page No.143
+Number of octagons
+sided polygon)
+that can be formed by joining
+(8
+vertices of Icosagon
+(20 sided polygon)
+such that no side of octagon is
+common with polygon.
+n= 20
+20
+select any
+8
+no two are consecutive
+μ
+20
+20-8-1
+Cα-1
+Cx
+1+-u
+1--u
+8
+7
+20-8+1
+20-8-1
+3
+Cq-2
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+abc
+ca b
+bca
+CIRCULAR
+all same.
+abc
+ac b
+bca
+bac
+6
+:31
+5
+all same.
+cab
+cba
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+Page No.138
+CIRCULARPERMUTATION
+we arrange 
+things on Closed curve then it is called as CIRcULAR
+PERMUTATTION.
+NOTE:
+1. 
+Closed curve has no starting & ending point.
+'u, n io uo saurn ,u, buoin sdbe yo lqnn
+2
+_A-B_C_D_
+Gop=4 
+Gap=5
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.138
+TWOFORMULA'S
+(m-)!
+Number of ways in which n-different things can be arranged on Circle =
+Number of ways in which n-different things can be arranged on Circle
+=
+(m-I))
+**米
+when Clockwise & Anticlockwise arrangements are considered as same
+&
+A
+#InCaSeOfNECKLACE&GARLAND
+#In case when allhave different NEiGHBOURS
+in every arrangement.
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+abcd
+bcda
+Cirde
+丝=4!
+cdab
+(4-)} = 3}
+dabc
+Same.
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+Question
+In how many ways 5 boys can be seated around a circular table such
+( sr  
+ =(-)!
+4!
+12
+2
+5-1)!
+= 4!
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+Question
+How many garlands can be made using 6 different flowers out of 10
+different available flowers.
+01
+(6-)!
+x
+6
+2
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+Page No.138
+Example
+Find number of ways in which 5B and 5G can be seated on a circle
+alternately.
+x(5-1)!
+5-1)1
+A
+
+(5-1)!
+x 5l
+B
+B
+0
+D
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.138
+Example
+Find number of ways in which 5B and 5G can be seated on a circle
+Buch hat au boysare
+together.
+1B, B2Bg B4 B5
+..9
+5"'
+(6-1)! x 5!
+?
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.138
+Example
+Find number of ways in which 5B and 5G can be seated on a circle
+alternately if a particular B, and G, are never adjacent to each other in
+any arrangement.
+3
+(5-10!
+XC,×1 x
+41
+mt
+B2
+B3
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+PageNo.138
+The number of ways, in which 5 girls and 7 boys can be seated at a round
+table so that no two girls sit together, is
+Huw
+D
+720
+A
+126(5!)2
+B
+7(360)2
+7(720)2
+D
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+PageNo.139
+Example
+The 10 students of batch B feel they have some conceptual doubt on
+"Circular permutation". Mr. Mathew called them in discussion room and
+asked them to sit down around a circular table which is surrounded by 13
+chairs. Mr Mathew told that his adjacent seat should not remain empty.
+The number of ways, in which the students can sit around a round table if
+Mr. Mathew also sit around a chair.
+O
+x 81
+21
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+P
+?
+DO IT BY YOURSELF (DIBY)
+```
+
+## PDF page 35
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans.. .....
+```
+
+## PDF page 36
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+"cURRIcULUM" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans.: (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+   sas  s ss s
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]
+```
+
+## PDF page 37
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+# DIBY-65
+Let the set S = {2, 4, 8, 16, ..5
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A U B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.:(D)]
+```
+
+## PDF page 38
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-66
+A natura number has prime factorization given by n = 2x3y5", where y and z are
+such that y + z = 5 and y-1 + z-1
+ y > z. Then the number of odd divisors of 
+5
+二
+n, including 1, is
+[JEE Mains-2021]
+(A) 11
+(B)
+6x
+(c)
+12
+(D)
+6
+[Ans.:(c)]
+#DIBY-67
+Number of integral solutions to the equation x + y + z = 21, where x ≥1, y ≥3, z
+≥ 4, is equal to
+[JEE Mains-2023]
+[Ans.:105]
+#DIBY-68
+There are 
+ infinite number of Identical BLUE, RED, GREEN and YELLOW balls
+available for selections. In how many ways can we select 1o balls.
+14C3
+(B)
+13C10
+(c)
+12C10
+(D)
+14C4
+(A)
+[Ans.: (B)]
+```
+
+## PDF page 39
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-69
+The number of triangles whose vertices are at the vertices of a regular octagon
+but none of whose sides is a side of the octagon is
+[JEE Mains-2024]
+(A)
+56
+(B)
+16
+(c)
+24
+(D)
+48
+[Ans.:(B)]
+#DIBY-70
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can be placed in row so that between any two red cubes, there should be at
+least 2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+# DIBY-71
+Number of ways of arranging 8 identical books into 4 identical shelves where
+any number of shelves may remain empty is equal to
+[JEEMains-2024]
+(A) 
+18
+(B)
+16
+(c)
+12
+(D)
+15
+[Ans.:(D)]
+```
+
+## PDF page 40
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-72
+The total number of positive integral solutions (x, y, z) such that xyz = 24 is
+[JEE Mains-2021]
+(A)
+(B)
+(c)
+(D) 30
+36
+45
+24
+[Ans.: (D)]
+#DIBY-73
+(4!)!
+(5!)!
+Let α =
+and β =
+then
+[JEEMains-2024]
+(4!)3!
+(5!)4!"
+(A)
+(B)
+αeNandβeN
+αeNandβeN
+(c)
+()
+α Nandβ ∈ N
+α N andβ ε N
+[Ans.: (A)]
+```
+
+## PDF page 41
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-74
+From a group of 7 batsmen and 6 bowlers, 10 players are to be chosen for a
+team, which should include atleast 4 batsmen and atleast 4 bowlers. One
+batsmen and one bowler who are captain and vice-captain respectively of the
+team should be included. Then the total number of ways such a selection can
+be made, is
+[JEE Mains-2025]
+(A)
+165
+(B)
+155
+(c)
+145
+(D)
+135
+[Ans.: (B)]
+#DIBY-75
+The number of ways, in which the letters A, B, C, D, E can be placed in the 8
+boxes of the figure below so that no row remains empty and at most one letter
+can be placed in a box, is
+[JEE Mains-2025]
+(A)
+5880
+(B)
+960
+(c)
+840
+(D)
+5760
+[Ans.:(D)]
+```
+
+## PDF page 42
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-76
+The number of functions f from [1, 2, 3, .., 20} only {1, 2, 3, ., 2
+20}
+such that f(k)
+is a multiple of 3, whenever k is a multiple of 4, is
+[JEE Mains-2019]
+(A)
+65 × (15)!
+(B)
+5!×6!
+(c)
+(15)! x 6!
+(D)
+56 × 15
+[Ans.: (c)]
+#DIBY-77
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can placed in a row so that between any two red cubes there should be at least
+2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+#DIBY-78
+For n ≥ 2, let S, denote the set of all subsets of {l, 2,
+n}
+with no two
+1
+consecutive numbers. For example {1, 3, 5} e S, but {1, 2, 4}  S. Then n(S5) is
+equal to
+[JEE Mains-2025]
+[Ans. : 13]
+```
+
+## PDF page 43
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-79
+The largest n ∈ N such that 3n divides 5o! is
+[JEEMains-2025]
+(A)
+21
+(B)
+22
+(c)
+20
+(D) 23
+[Ans.: (B)]
+DIBY-80
+
+In an examination 5 students have been allotted their seats as per their roll
+numbers. The number of ways, in which none of the students sits on the allotted
+seat, is
+[JEEMains-2023]
+[Ans.: 44]
+```
+
+## PDF page 44
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+```
+
+## PDF page 45
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 01
+
+Source: `Quadratic Equations 01 Class Notes.pdf`  
+Pages expected: 34  
+OCR pages saved: 34  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture-01
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobecoverey
+A
+Irrational Inequalities
+B
+Ratio's
+Introduction to Quadratic Equation
+D
+Question Practice
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+Subjects
+Resources
+Ph
+Physics By Rajwant...
+4%
+PhPhysical Chemistry By...
+1%
+In
+Inorganic Chemistry...
+0%
+Ma
+MathsBySachinJakh...
+12%
+In
+Inorganic Chemistry...
+0%
+Or
+Organic Chemistry by...
+0%
+Ma Maths byAmarnath...
+13%
+Ph
+Physical Chemistry b... 0%
+PhPhysics by Varun...
+2%
+Or
+Organic Chemistry By..o%
+PhPhysicsBy Saleem...
+0%
+Chapters
+StudyMaterial
+Digital Books
+CH-01
+CH-02
+Set Theory
+BasicMathematics
+Lecture:2/8·DPP:1/7
+Lecture:1/21·DPP:0/18
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Chapters
+StudyMaterial
+Digital Books
+Lecture8Jun2026
+SM-01
+SM-02
+SM-03
+DIBYDiscussion 01:BasicMathematicsExtraLecture|Recorded
+PYQPracticeSheetI|OnlyPDF
+Short NotesIOnlyPDF
+MindMapsIIOnlyPDF
+1h:
+11
+34Notes
+25 Notes
+16Notes
+Resume
+Notes&more
+SM-04
+SM-05
+SM-06
+PYQ'sBlueprintIOnlyPDF
+Bridge CourseLectures
+ConciseSummaryNotes|On...
+Notes8Jun
+17Notes
+1Lectures·tNotes
+28Notes
+DIBYDiscussion O1:BlankNotesMathsBySachin Sir
+SM-08
+SM-09
+ViewNote
+DIBYBySachinSirIlOnlyPDF
+PYQPracticeSheet
+Mission11thComeback
+Notes
+2DPP.2Notes
+1Lectures-1Notes
+Notes8Jun
+SM-10
+SM-11
+SM-12
+DIBYDiscussio
+01:ClassNoteslMathsBySachinSir
+DIBYDiscussion BySachin Sir
+HandwrittenNotes|OnlyPDF
+JEEReplicaSheet
+1Lectures
+2Notes
+2 Notes
+2DPP·2Notes
+ViewNote
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSRECAP
+井
+Answer the following Questions:
+Square Root is only defined for non-negative numbers or expressions.→
+2.
+Squaring may leads to extra solutions, so always check your answer.
+3.Value of square root is non-negative. →
+Squaring in an inequality is only allowed when both sides are
+non-neaative
+1
+5. Values of x forwhich f(x) = Vx-2 + √5 - xis defined are xe[,5]
+α~α&≥0
+5- ≥0
+?
+
+5≥
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+QUESTION PRACTICE
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+x=22
+dHS=
+#RHS=
+Acidic Question
+x=6→
+6
+RHS =&
+Q
+ds=y
+>
+3
+Solve following equation:
+3x+30 = 16 
+x+3
+Vx+3-1=Vx-Vx-2
+SBS
+# SBS
+9x²+900+180x=256x+256×3
+(x+3)+-a√x+3
+=x
+√x-a
+9x²-76π+44x3=0
+4-x+3
+9x²-54x-a2x+44x3=0
+-
+-2
+#SBS
+qx（-6）-22（α-6）=0
+16 +4(x+3) -16↓√∞+3=α-
+X-6
+(9α-22)=0
+4x+x8-16√x+3=-
+x=6,22
+9
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question
+WCM
+mwm
+2x
+α+4≥0
+Complete solution set df Inequality :
+2-
+≥<x+4
+α>-y
+3
+eq?→ Root
+M-a
+#
+A
+x E (-0∞,0]
+-
+-ax
++4
+?
++y
+3
+3
+33
+dmam
+SBS
+B
+4+4x²-8x
+x E [-4, 0) U
+4,8
+M+
+6
+3
+4~²-11x=0
+x E [-4,0]
+4²-33n=0
+D
+(∞'0]  x
+J
+=0
+33
+4
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+uun
+#
+Question
+3-x>0
+68%
+4x-5
+3=x
+/3 -x
+Complete solution set of Inequality
+3
+A
+x ∈ (-∞,3]
+WCM
+Root
+x-5
+3-x
+B
+x E (2,3)
+qα-5
+3-
+2
+SBS
+x ∈ (2,3]
+16xt+ 25-40× = 9(3-x)
+= a7 -9#
+(-∞,-1)u(2,3]
+3x
+(2,3]
+D
+16x²-3/x-2=0
+(6x+1)(x-2)=0
+162 -32n+n-2 =0
+x=2
+16α(x-2)+1(x-2) =0
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+QX'
+7
+牛
+1
+
+h1
+&2
+RATiO
+--+++-
+a;b ::c:d
+qiven
+10
+&
+2 + 14+22
+38
+R
+#
++0
+=
+生
+(1±
+++
+d
+p+q
+a
+22E
+144
++h1+e
+ax
+ax +cy
+bn
+d
+bx+dy
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+RATiO
+qiven:
+a;b :: c:d
++1
+R
++1=+1
+a
+α+ b
+Q
+C
+p+ =
+#
+d
+d
+C
+-1.
+Reciprocal
+a-b
+d
+Comp. Qivid
+atb
+atb
+C+d
+Ctd
+b(a-bh)
+
+a-b
+c-d
+Alternando
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+卫
+祥
+#WhenN
+中
+C4d
+haue common
++=h+x
+Terms
+h-K
+b-d
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+RATIOS
+a
+C
+Ifa:b=c: d
+Note:01
+
+一
+b
+d
+Componendo & Dividendo (C & D)
+Note: 02
+a+c+e+...
+n
+?
+e
+n
+C
+Note: 03
+then-
+p
+b+d+f+...
+，
+h
+DX
+=
+D
+""+z+o+px
+Note: 04
+then-
+xb
+ph
+#
+xb+yd+zf+....
+?
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+3
+c4d
+X
+F+N
+3+a
+RAPID FIRE ROUND
+5- 5
+9
+h-K
+3-2
+x
+x+y
+=
+一
+then
+-
+5
+3
+2
+x-y
+(ii)
+(4x-3y) : (2x + 5y):: 12: 19
+then x : y is
+x小
+x+y
+- y+z
+
+z+x
+(iii)
+ then x : y : zis
+2
+3
+4
+K=I1
+80Y
+孔
+4x-3y
+52
+
+X
+E
+4k-3
+dx+5y
+19
+=12
+(+5)
+Qk+5
+61
+4x19k-3x19=12x2k+12x5
+52K=11#
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+RAPIDFIREROUND
+X1
+x+y
+y
+then
+一
+3
+2
+x-y
+(ii) If (4x - 3y) : (2x + 5y):: 12: 19, then x : y is
+X
+2K
+x+y
+y+z
+z+x
+im
+thenx : y : zis 3k : k:5k
+3: 1: 5
+2
+3
+4
+22
+2
++y=y+-+
+=K-2K=5K
+&
+3
+2
+2
+H
++y=2k
+add
+y=9K-3k
+(a+y+)=9K
+=3K
+2
+2
++=3K
+9
+k-k =
+K/2
+2+=4k
+2
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Module Question
+3x4 + x² -2x-3
+5x4+2x²-7x+3
+Solve the equation
+3x4 -x2+ 2x+ 3
+5x4-2x2+7x-3
+x=5,2
+A
+mt
+C4d
+B
+x = 4,1
+x =3,8
+D
+x=1, 5
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+eaw
+QUADRATIC EQUATIONS
+#Maiw→1Que
+#Adv.→1 Ques?
+#Usediualuot
+ehonmm
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+POLYNOMIALEQUATIONS
+# Linear Equation:
+degree = 1
+p(x) =a+a,x+a²+a3
+ax'+ b=0, a≠
+Highest power of α preveut = degree
+# Quadratic Equation:
+=
+ax² + bx + c =0,a≠
+# Comstont pblynomial 
+degree = 3)
+# Cubic Equation:
+p(x)=K,
+degree=0
+ax3 + bx2 + cx + d =0,a≠ 0
+# Quartic Equation:
+degree=4)
+0≠'o=+ xp+ zx+exq+x
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+QUADRATICEQUATION
+于(x) = α²+3x-# →Quod. expression
+x²+3x-#
+b。 ponO
+一
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+QUADRATICEQUATION
+αx²+bx+C=0，(a#0)
++#
+米
+a
+C
+二
+Q0
+0
+x²+ 2
++
+c-α
+0T
+b
+=0
+20
+402
+α+b
+b
+_c
+&a
+4a²
+a
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+α+b
+b
+- c
+aa
+4α²
+a
+6²- yac
+α+b
+&a
+4a2
+b²-4ac
+α+
+&0
+4a2
+α=-b
+b-4ac
+士
+aa
+aa
+-b±↓
+b-4ac
+X=
+&a
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+-b±↓
+b-yac
+=
+&a
+-b+
+16²-4ac
+Sumof Root.
+#
+又=
+#
+ax²+bx+c =O
+&a
+α+β
+b-
+b-4ac
+&a
+#
+Yruduct
+叶Root
+degree = =no.0f xolutins
+咖
+αβ
+=+C
+#Q= b²-4ac
+a
+#Qiference
+Roots
+恒向
+α-β
+
+lal
+[al
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+ues'
+V
+一&
+3x²+-=0
+4
++1x
+o=
+α=3
+t-=
+b=1
+α+β==
+αβ
+Q = b²-yac
+=+c
+=+(-#)
+a
+m
+-l==∣
+= 1²-4(3)(-+)
+⑧
+
+= 85
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+Question
+If α& β are roots of the equation ax2 + bx + c = 0 and β = 2α then
+correct relation between a, b & c is:
+9b2=2ac
+*+
+A
+口W
+α+ aα=-b
+B
+9b²=4ac
+x(Qx)=
+Q
+3α=-b
+α=
+b² = 4ac
+a
+a
+α=-b
+α²=
+C
+30
+2b2=9ac
+&α
+
+<==
+=)(6²=9ac
+3a
+aa
+福
+ga
+
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+1x/=|1x1l
+59%
+#
+Question
+If the equation (k - 2)x2 - (k - 4)x -2 = 0 has difference of roots as 3,
+then thevalueofk is
+α=K-2
+A
+1, 3
+#ditRoot=
+b =-(k-4)
+C=-&
+3
+B
+3
+-2
+=(-(K-4)-4(k-2)(-2)
+3-2
+K-2
+2
+k²+16 -8k + 8(K-2 )
+[k/=3|k-2
+lk1l
+3
+2
+D
+= k²+16-8k +8k-16
+[k-2]
+2
+k-2
+K=3(k-2)-K=3(k-2)
+K=3K-G
+-k=3k-6
+6=2K
+G=4K
+3=K
+##
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+QUESTIONS ONGRAPH
+#DIBY-107
+If|x -2|+ 2|x + 2|= P, then find P is given equation has
+00m
+no solution
+Ans.:
+1solution
+0
+No solution
+P<4
+2 solutions
+1solution
+P=4
+(iv)
+more than 2 solutions
+2 solutions
+P>4
+More then2 solution P eΦ
+#DIBY-108
+Find thevalueofkifequation|x+2|-2|x-7|+3|x-4|=khas
+0
+one solution
+i
+two solutions
+Ans.:
+(i!)
+3 solutions
+(iv)
+4 solutions
+D
+one solution
+k∈Φ
+(vi)
+2 solutions
+k>0
+no solution
+o solutions
+3 solutions
+keΦ
+4 solution
+keΦ
+no solution
+k<0
+o solutions
+k= 0
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+QUESTIONSONGRAPH
+#DIBY-109
+Draw graph of y = ||x - 2| - 3| and answer following questions:
+n
+Minimum value of y is
+3313
+If y = k has 2 solutions then k is
+If y = k has 3 solutions then k is
+If y = k has 4 solutions then k is
+If y = k has no solution then k is
+(vi)
+2x+10
+Number of solutions of: ||x - 2|- 3| =
+is(are)
+15
+Ans.:
+酒
+k ∈ (3, ∞) U {0}
+k=3
+k ∈ (0,3)
+k ∈ (-∞, 0)
+4
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+QUESTIONSONIRRATIONALEQUATIONS&INEQUALITY
+#DIBY-110
+It x is a real number, find the number of integral values of x for which the
+expression / Ix - 2| -- 3 +  5 - Ix + 1| is defined.
+[Ans.: 6]
+#DIBY-111
+If the complete solution set of the inequality 1 - /1 - 4x2 < 3x is (a, b], find the
+value of 10a + 2b.
+[Ans. :1]
+#DIBY-112
+Solve:Vx - 2 ≥ V5 - x
+[Ans.:x E
+.51
+# DIBY-113 (challenger)
+solve:Vx - 6 - V10 - x ≥ 1
+,10
+[Ans.:x E8+
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+MISCELLANEOUSQUESTIONS
+#DIBY-114
+Which of the following is true?
+A间
+(log10 2)² + 1 > log10 4
+log10 90 > log5 50
+C
+log4 log3 log2 16 > log16 4
+2(log10 3)² - 3(log10 2)² > (log10 2) × (log10 3)
+[Ans.:A, D]
+# DIBY-115 (Challenger)
+Positive numbers x, y and z satisfy xyz = 1081
+ and
+(log1o x)(log1o yz) + (log1o y)(log1o z) = 468.
+Find the value of (log1o x)² + (log1o y)2 + (log1o z)2
+[Ans.:5625]
+# DIBY-116
+Consider the system of equations log1o(2000xy) - log1o x · log1o y = 4,
+log1o(2yz) - log1o y · log1o z = 1 and log1o(zx) - log10 z · log1o x = 0, x,y,z ≤ 90
+then x + y + z =
+[Ans.: 7]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+MISCELLANEOUSQUESTIONS
+#DIBY-117
+{x∈R:(v3+√2)*+(v3-√2)=10}.
+Let S =
+.Then the number of elements in S
+is
+[JEEMains-2024]
+(A)
+(B)
+(c)
+(D) 1
+4
+0
+2
+[Ans.:(c)]
+#DIBY-118
+The number ofelements in the set {n E Z: |n2 - 10n + 19| < 6} is
+[JEE Mains-2023]
+[Ans.: 6]
+#DIBY-119
+|x+3|-1
+Let S={x∈[-6,3]-{-2,2}
+v~
+{06+|x|-x:Zx}=pup
+. Then
+|x|-2
+the number of elements of S  T is
+[JEE Mains-2022]
+(A) 7
+(B)
+5
+(c)
+(D)  3
+4
+[Ans.: (D)]
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+MISCELLANEOUSQUESTIONS
+# DIBY-120
+Let A = {x: x² - 10| ≤ 6} and B = {x: |x - 2| > 1}. Then
+[JEEMains-2026]
+(A)
+A -B = [2,3)
+(B)
+A U B = (-0o, 1] U (2,)
+(c)
+(可)
+B-A=（-00,-4) U （-2,1) U(4,0)
+A n B = [-4, -2] U [3,4]
+[Ans.: (c)]
+# DIBY-121
+IfA={x∈R:|x-2|>1},B={x∈R:Vx²-3>1},C={x∈R:|x-4|≥2}and Z
+is the set of all integers, then the number of subsets of the set (A n B n C)° n Z is
+[JEE Mains-2021]
+[Ans.:256]
+#DIBY-122
+ nba s e =  + xi( - (x) y  x s e u sie o n r
+[JEE Mains-2021]
+(A)  3
+(B) 2
+(c)
+(D)
+4
+[Ans.: (B)]
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+DPP&DIBY
+#Module: Basic Maths
+4 Sittings Each of1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+4HR
+Exercise-04(JEE ADV.LEVEL):COMPLETE
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 02
+
+Source: `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf`  
+Pages expected: 38  
+OCR pages saved: 38  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture -02
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tohecoverey
+A
+RelationbetweenRoots&Coefficients
+B
+Important Points about Quadratic
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSRECAP
+α
+ax2
++ bx + c = 0
+(a#0)
+P
+coefficient of x
+Sum of Roots =
+α+β
+coefficient of x²
+a
+constant term
+ii
+Product of Roots =
+αβ=+C
+coefficient of x2
+a
+(iii)
+Difference of Roots
+α-β1
+D
+1
+# Note :1
+To find sum, product & difference of roots, roots calculate krne
+ki jarurat nhi hai.
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+(α+B)²=(α-B)
+²+4αβ
+Ldentity
+开
+(α-B)²=(α+B)²-
+Yαβ
+(ii)
+(-P)²=
+
+C
+a
+%%
+b
+
+(α-β)²
+b-4ac
+α-βl=
+2D
+ar
+1a
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+QUESTION PRACTICE
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+83%
+α=0,8,3
+Module Question
+?
+3x4 + x2 -2x -3
+5x4 +2x²-7x+3
+Solve the equation
+3x4 -x2 + 2x + 3
+5x4-2x2+7x-3
+# cd
+A
+x=5,2
+Ctd
+X+ye+-+x--x+x
+5x+22-+3+5x-2x2+-3
+x+4=p+9
+B
+x = 4,1
+3x+x²-ax-3-{2x-x²+2x+3}
+5+ax-x+3-(5-2x+x-3
+R-
+p-q
+6x
+x =3, 8
+hx 01
+&x²-4n-G
+4x2-14x+ 6
+D
+x=1, 5
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+6xy
+10x
+dx²-4n-G
+4x2-14α+6
+米**
+6x
+I0x!
+&x²-4x-G
+4x2-14α+6
+1x-42x+18-10x²+20x+30
+3(4x-14x+6)-5(ax-4n-G)
+x
+axax(x²-11x+24)=0
+x-4-G
+4x-14α+ 6
+>/
+4 x4(x-8)(x-3) =0
+x
+x-+48
+0
+x(x²-11α+24）=0
+=8
+=3
+=0
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+QUADRATIC EQUATIONS
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+607.
+Question
+ the roots of the
+ x2 - bx + c = 0 be two consecutive
+f
+equation
+
+integers, then b2 - 4c equals
+A
+-2
+n
+m+1
+diffo Root
+ =1
+OR
+#
+di4h
+B
+m-1,
+
+n
+b-4x1xc
+1
+6-4c = 1
+6-4c=1
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2022]
+The minimum value of the sum of the squares of the roots
+of
+x² + (3 -a)x + 1 = 2a is
+>
+α+β
+X
+A
+X~+(
+(3-a)x+(1-aa
+0=
+α+B)
+α²+B²+aαB
+B
+5
+?!
+3 =-(3-a)=a-3
+α+β
+α²+β²+a-4a
+
+6
+I
+αβ=1-2a=1-aa
+a²+9-6a+4a-2=&²+β2
+1
+D
+8
+a²-aa+2+6=α²+β²
+(a-1)+6=α²+β²
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+M
+α²+β²=6+(a-1)
+J
+=6+0
+0
+
+T
+53
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Note
+eum og turo prime no. uodd)
+Hhen one prime no. &hould be &
+2,3,5,4,11,13,
+a+
+= odd
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+Let f (x) = x² - ax + b where 'a' is odd positive integer and roots of
+equation f (x) = 0 are two distinct prime numbers. If a + b = 35, then value
+of f(10)
+dulferent
+P=&
+odd
+f(x)=x²-ax+b
+P=a
+# α=2u aroot
+²-ax+b=0
+4-αa+b=0
+P2= 1l -
+f(αx)=x²-13x+aa
+h-=g+og-
+P+P2=-(-a)
+=10
+α±b=35
+=a
+f(10) = 1o²-13x10 +22 =-30+22 
+-3a =-39
+=-8
+a = 13 , b = 35-13 = 22
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+x=1→HS=1=1
+&olve
+=1→dHS=(1)²=1
+ex:
+1
+dHS=O°=nd
+g
+#
+10
+x²-x
+8
+&
+X
+(1
+d10 (
+ol
+0 = 1xl
+x-x
+deg
+X
+10
+1α/ =10=1
+=not def
+=±l
+x(x-1)
+dog
+901x1
+110
+91=0
+x=1.=±1
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+Critical Thinking Question (cTQ) [JEE Mains-2016]
+x²+4x-60
+The sum of all real values of x satisfying (x² - 5x + 5)
+= 1is
+eo
+#
+#x²-5x+4=0
+A
+5
+(x-1)(x-y) =0
+x²+4x -60
+Ly
+α²-5x+5
+og
+B
+3
+#x²-5+6=6
+(x-2)(x-3)=0
+x²+4α-60
+g
+x²-5x+5
+-4
+110
+1
+(α+10)(α-6)
+[x²-5x+5| = 1
+D
+6
+x²-5α+5=1 =x-5μ+4=0
+n²-5α+5 =-1 ≥n-5μ+6 =0
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Critical Thinking Question (cTQ) [JEE Mains-2016]
+38%.
+x²+4x-60
+The sum of all real values of x satisfying (x² - 5x + 5)
+= 1is
+Check-
+A
+5
+#
+(x-1)(α-y)=0
+X=1
+55
+=1 → HS =(1)
+=4
+↓&
+1
+=2 →s=
+x-2)（x-3）=0
+1
+-4
+Xx→s=()
+-39
+=2
+3
+(α+10)(α-6)=0
+6
+=6 →
+α1-g=
+dHs= II=1 .
+=-10 → dHs= 155°=1 .
+Qum = 6
+Sum=3
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+TRICK
+#
+#
+V=1
+V2 =0
+V=
+Noneed
+Check!
+y
+Check
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Identity
+Equation
+True for
+ewwy vaue
+a+b)
+a²+ab+6
+-5x+6=0
+一
+x+cox=1
+-a
+= x²-4x+4
+degree = 2
+sec²θ - tauθ = 1
+x²-4x+4-x²+4x-4=0
+Ot²+0x+ 0 =0
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+EQUATION&IDENTITIES
+#
+Which is true for every value of 'x'(wherever defined)
+OR
+ Which has more roots then its degree.
+#
+OR
+Ffor plyomio deutitis 
+# In which coefficient of each term is zero.
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Question [AlEEE-2011]
+The values of Λ for which
+(x² - 3 + 2)x² + (x² -5+ 6)x+ ²-4 = 0
+S
+an identity in x is
+lo
+O
+电
+A
+(x-1)(x-2) =0
+a-2)(a-3) =0
+(-2)(+2) =0
+=
+2
+2:
+2
+:
+二
+二
+-2
+D
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find the value of m such that
+(m² - 3m + 2)x² + (m² - 5m + 4)x + (m² - 7m + 6) = 0 is an identify.
+A
+1 B Y 
+1
+B
+2
+Chat !!
+一
+-2
+D
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+IMPORTANTNOTES
+# Note-01
+-α-β
+1
+Q
+Factorisation of Quadratic:
+C
+αβ
+91
+αx²+bx+C =a(x-α)(x-β)
+identity
+αHS = a
+?
+O
+=a
+x+
+(-α-B)+αβ
+以-B+B
+(a（）-B(-×)
+=a
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+RAPIDFIREROUND
+Factorise following Quadratic and convert into Identity:
+x-≠)(x-4)
+i
+x² -11x + 28 =
+(ax-1)(3x-1)
+6x2 - 5x + 1 =
+6
+α-L
+-。
+9
+3
+3x²-2x-7= 3
+(x-()
+m
+(
+3
+
+3
+x=a±√4-4x3x(-+)
+±√22
+1±√22
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+uu.
+α
+αla=4b
+(=x)(+-) =4
+x²-3a+4b=0
+and
+β
+M-2
+
+(identity)
+α²-3ax+4b=1(x-α)(x-β)
+49-α-+αβ
+x=
+4g-ad+y6=(4-α)(+-β)
+49 -4(
+(a)
++αβ
+49-7
+(
++4b
+4
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+IMPORTANTNOTES
+#Note-02
+Forming Quadratic Equation & Expressionif Roots are given:
+Sum
+P.D.R
+(x²-(α+B)x+(《β)
+x-(
+α+β)x+
+αβ)=O
+non-xero constawt 
+OR
+²-(Sum）x+(PRrod.)=0
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+RAPID FIRE ROUND
+Form Quadratic equation & expression whose roots are:
+2
+(i)
+βum= -3+8 =5
+Sum=4-13+4+N3
+-3&8
+Prod - = -3x8 =-24
+=8
+ii
+4 -V3 &4 +V3
+oq.=（(y-3）x（4+3)
+²-(5)x+(a) =0
+(ii)
+V2+1&3
+= 16-3 = 13
+x²-5α-α4=0
+8
+)x+(13)=0
+2?
+4+,√2)+(3+3.
+1
+= 0
+=k（x²-8x+13
+=t(x²-5x-24
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+(a-b) (a+b)
+#
+
+aan+（a²-b
+x
+一
+a-b
+(@-b)+(a+5)
+x +(a-b)(a+b)
+0=
+
+a+b
+aa
+x²- 8
+a+a²b
+0=
+(x-α)-(b)
+=a+b
+(a-a+b)(x-a-b)=0
+C
+r=0-b
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+IMPORTANTNOTES
+Note-03
+If α & β are roots of any quadratic then they will satisfy that
+quadratic.
+T
+(  s     
+can be reduces to linear or constant.
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+RAPIDFIREROUND
+If α and β are roots of x2 - 5x - 11 = 0 then:
+α²-5α-11=0
+equation in α is
+α²=5α+11
+(i)
+equation in β is
+- 5β-11=0
+3
+ax
+2
+5α²+11a
+(iii)
+91
+d
+value of m + n =
+二
+=mα+n
+43
+(iv)
+β4 = mβ + n, value of m + n =
+5α+1l
++1lα
+= 5β+1l
+2
+=36β+55
+P
+B
+=a5α+55+11α
+= 36(B+55β
+α=(
+36x+55
+=5（5B+11)+11β
+w
+(5p+11)+55β
+n
+= 36 
+= 36β+55
+=180β+55β +39G .
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+If roots of x2 - 2x + 5 = 0 are α and β then form a quadratic whose roots
+are: (i)
+α²+5&β²+5
+CmP
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+If roots of x² - 2x + 5 = 0 are α and β then form a quadratic whose roots
+are: (ii)
+5
+5
+&
+mt
+2-α2-β
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+If roots of x² - 2x + 5 = 0 are α and β then form a quadratic whose roots
+are: (iii)
+α²+α²-α+ 22 &β3+ 4β²-7β+ 35
+dew
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE (Adv.)-2015, Paper-2]
+Let S be the set of all non-zero real numbers α such that the quadratic
+equation ax² - x + α = 0 has two distinct real roots x, and x2 satisfying the
+inequality Ix, - x2l < 1. Which of the following intervals is (are) a subset(s)
+ofs?
+CmP
+(—#)
+?
+A
+()
+B
+?
+#
+D
+```
+
+## PDF page 34
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 35
+
+OCR status: `ocr_complete`
+
+```text
+# DIBY-01
+The quadratic equation whose roots are 1 + √2, 1 - V2 is
+(A)
+(B)
+x²+2x-1=0
+x²-2x-1= 0
+(c)
+x²-2x+1=0
+(D)
+x²+2x+1=0
+[Ans.: (B)]
+#DIBY-02
+If α, β are roots of the equation ax2 - bx - c = 0, then α² - αβ + β² is equal to
+b²+3ac
+b2-3ac
+b2+2ac
+b2-2ac
+(A)
+(B)
+(c)
+(D)
+a2
+a2
+a2
+a2
+[Ans.: (A)]
+#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2+βis
+(A)
+ax²+ (b -4a)x+ (4a -2b+c) =0 (B)
+ax²-(b-4a)x+(4a-2b+c) = 0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0 (D)
+ax²-(b-4a)x-(4a-2b+c) =0
+[Ans.: (A)]
+```
+
+## PDF page 36
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-04
+If α and β are roots of the equation x² + px +  = 0, such that lα -β| = 10,then
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+#DIBY-O5
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+ac
+ac
+a2c2
+[Ans.: (c)]
+#DIBY-06
+Let a andβbe the roots of the quadratic equation
+(x-2)(x-3) +（x-3)(x +1) +（x + 1)(x-2)=0.Find the value of
+1
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+Ans.:0]
+```
+
+## PDF page 37
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+井
+DPP&DIBY
+# Module: Basic Maths
+(多sittings Each of 1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+ExerciSe-04(JEE ADV.LEVEL):COMPLETE
+```
+
+## PDF page 38
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 03
+
+Source: `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf`  
+Pages expected: 29  
+OCR pages saved: 29  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture-03
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tohecoverer
+A
+Symmetric Functions of Roots
+B
+Newton'sFormula
+Question Practice
+D
+Note: Basic Mathematics DIBY PDF is uploaded
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+dHS=（b-a)(c-a)
+0-=x
+
+0+o+
+LASTCLASSRECAP
+(b-a)(c-a)
+=1
+α=-b
+D-=x
+mroom
+Answer the following Questions:
+厦
+degree
+e
+一
+(x+b)(x+c)
+(x+c)(x+a)
+(x+a)(x+b)
+= 1is an identify.
+go0%0.0u
+十
+(b-a)(c-a)
+(c-b)(a-b)
+(a-c)(b-c)
+L
+(dlegptee=2)
+3
+N
+α²-3α- 5 = 0
+β² - 3β - 5 = 0then quadratic whose roots are
+2.
+and
+*米
+x²-3x-5=0
+α&βis
+&value of aβ is
+C
+一
+5
+αx²-3α-5=0
+α
+a
+1
+x²-3x-5=0
+β²-3β-5=0
+also value of α²β + αβ2 + 7α + 7β + 2
+β
+α+β=-(-3)= 3
+B+(d+t+(df)
+(5)(3)+4x+=-15+a1+2
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Question Practice
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find the value of m such that
+(m² - 3m + 2)x² + (m² - 5m + 4)x + (m² - 7m + 6) = 0 is an identify.
+Ans: A
+B
+2
+-2
+D
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+If roots of x² - 2x + 5 = 0 are α and β then form a quadratic whose roots
+are: (i)
+α²+5&β²+5
+&um)x+
+Prod
+=0
+Qunita:
+#
+x²-ax+5=0.
+α
+Sum=α²+5+β²+5
+x²(4)+0=0
+α²+β²+10.=-6+10 =4
+α+β=-(-2)
+=2
+Pnouc+=(²+5)(β²+5)
+αβ=5=5
+x²+β
+D
+1
+²p²+5p²+5x²+25
+SBS
+x²+β²+aB=4
+?
+(β)²+5（p²+α²)+25
+α²+p²=4-10=-6
+5²+5(-6)+25=20
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+α
+x²-ax+5=0
+Oush:
+#
+α+5
+，
+β'+ 5
+&um
+以+
+Yrod
+o=
+-+5=0
+²-a（a+B)x+4αB=0
++5=&α
+#
+5
+p²+5=2β
+x²-4x+20=0
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+If roots of x2 - 2x + 5 = 0'are α and β then form a quadratic whose roots
+5
+are: (ii)
+X
+2-α
+2-β
+Ans:
+x²- &x + 5 =O
+Bush:
+α²-2α+5=0
+α(α-2)=-5
+α(2 -α)=+5
+5
+α=
+2-α
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+福
+Acidic Question
+α
+If roots of x2 - 2x + 5 = 0 are α and β/then form a quadratic whose roots
+are: (ii)
++α²-α+ 22
+β²+ 4β²-7β+ 35
+X
+&
+3²-aβ+5=0
+七
+(-β-10)+4(2β-5)-≠β+35
+#
+α²-α+5=0
+β-10 +-20β+35 =5.v
+-10+x-5-+22=.#H-2
+α²=2α-5
+αx
+β+6
+@-5
+α'
+2
++4β²-4β+35
+=（xα-5)-5α
+B
++5β
+4α-10-5α
+2²-(++5)x+(#x5)=0
+0
+-12B+35
+=-α-10
+5
+-12β+30
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+β²-aβ+5=0
+Q
+B+6
+B-2B+5
+²-4β+35
+4
+&β
+dG+
+Q
+β+4β²-B+35
+(β²-3β+5)(β+C)
+ + 5
+A
+6β-12+35
+B²-12β+30
+R
+A=BQ+R
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE (Adv.)-2015, Paper-2]
+α#0
+Let S be the set of all non-zero realnumbers@)
+such thatthe quadratic
+equationax² - x + α = 0
+has two distinct real roots x, and x, satisfying the
+(s e () s sig bmol e fo m 't > x  x n
+of s?
+θ~∞
+αx-+=0
+
+[x,-x21
+?
+L
+
+D.0.R =x-21 =D
+(-)²yαα
+1-4α
+Solve
+1
+lal
+/αl
+-αl
+()(
+0
+E
+#
+
+12
+5
+D
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+6
+Q1
++
+(1-4α²
+Solve
+mod
+（1
+|αl
++ve
+u
+{αl²=1α²1=α²
+clomaw
+1-4α3
+#
+[α
+1-4α²>0
+SBS
+(5α)-(1
+5α²-1 =
+4α?-1<0
+1-4α²<αl
+aα-1)(2α+1)<0
+1-4α²<α²
+O
+()()
+0<5α²-1
+α
+2
+病
+
+12
+D
+0<(N5α-1)(15α+1)
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2 + βis
+ax²+(b-4a)x+(4a-2b+c)=0(
+(B)
+ax²-(b-4a)x+(4a-2b+c) =0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0(D)
+ax²-(b-4a)x-（4a-2b+c)=0
+[Ans. :(A)] 
+α
+αx+bx+ =0
+(a+α)(2+β)
+2+α+2+β
+×+
+X
+=0
+2td
++α+B)
+α+β=-b
++4+2(α+β)+αβ
+= 0
+β
+Q
+αβ =
+C
+6
++4+2
+-b
+=0
+C
++
+a
+Q
+ax²+
+(b-4a)μ + 4α -2b + C = 0
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-05
+1
+1
+If α,β are the roots of ax²+bx+ c =0and c ≠0 then the value of
+(aα+b)2
+(aβ+b)2
+interms of a,b,c is
+b2-2ac
+2ac-b2
+b2-2ac
+26-2
+(A)
+(B)
+(可)
+a2c2
+ac
+ac
+[Ans. : (c)]
+aα+b
+α
+aα²+b+c=0
+α
+d
+R
++
+C2
+aα+b)
+X+
+αα~+ bα + C = O
+?
+02
+αβ=
+c-a
+α(aα+b) =-C
+SBS
+b²-&ac
+α²+1B²+
+αα+b
+a²c?
+X
+α²+β²=
+?
+-20
+a
+a
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+Question [1IT-JEE-2010, Paper-1]
+Let p and q be real numbers such that p ≠ 0, p3 ≠ q and p3 ≠ -q. If α and β
+are non-zero complex numbers satisfying α + β = - p and α3 + β3 = q, then
+α1
+β-
+a quadratic equation having
+and
+ds its roots is
+β
+α
+#youtube methad
+(p²+q)x²-(p²+2q)x+(p²+q) =0
+α=1,β=2
+-18x²+9-18=0→ 2x²-+2=0
+p3
++q)x²-(p²-2q)x+(p²+q) =0
+3=-P,
+13+ 23=9.
+-18x²+45x-18=0ax²-5x+2=0
+12
+P=-3
+b=b
+(p²-q)x²-(5p²-2q)x+(p²-q)=0
+p²=-27 2
+p²+q =-18
+C b =b
+0=(b-εd)+x(bz+εds)-zx(b-εd)
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Question[1IT-JEE-2010, Paper-1]
+Let p and q be real numbers such that p ≠ 0, p3 ≠ q and p3 # -q. If α and β
+are non-zero complex numbers satisfying
+gα+β=-pandα3+β3=q,
+then
+α
+a quadratic equation having
+一
+ ds its roots is
+β
+α
+α+β=-P
+以
+一
+x+
+3
+B
+SBS
+α²+β²+2αβ=p
+X
+(α+B)
+(²-aβ)=q
+1α²+β
+X
++
+一
+αB
+α+β²=p²-aαβ
+B
+(p²2αβ-αβ)=q
+p²-3αβ=-g
+α+B
+邹
+(p²+9
+p²+=3αβ
+6-d-
+30
+dB
+3 P
+P
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+α²+β
+α+1=0
+αβ
+p-2q
+#
+()
++1=0
+邹()
+3中
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Question [1IT-JEE-2007, Paper-1]
+08
+Let α, β be the roots of the equation x² - px + r = 0 and
+,2β be the roots of
+一
+2
+the equation x² - qx + r = 0. Then the value of r is
+3t
+2-9
+A
+(p-q)(2q-p)
+2-9
+B
+(q-p)(2p-q)
+2
+C
+(q-2p)(2q-p)
+9
+21
+D
+(2p-q)(2q-p)
+9
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+SYMMETRICFUNCTIONOFROOTS
+Note-01
+If we interchange position of α & β and expression remains same, then
+expression is called symmetric function of roots.
+Ex.:α2 + β²,
+一
+β
+二
+α²β+β²αetc.
++
+B
+α
+α-4
+B-4
+Note-02
+To find value of symmetric expression of roots, no need to find α & β
+separately.Just find α +β
+and
+αβ
+and enjoy!!
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+α+β
+Bumper Question
+32
+α²B²
+64
+If α & β are roots of equation x² - 4x - 8 = O'then find value of following
+1/3
+1/3
+a
+β
+α2
+β2
+1
+(ir)
+1
+α2 + β2
++
++
+β
+(α-4)2
+(β-4)2
+X
+3
+α4 + β4
+α5 +β5
+2
+(vi)
+[α5 - β51
+αβ
+=8
+β
+(vii)
+α
+(v!!i)
+1
+L
+6-=
+α2-8
+β2-8
+Hw.
+tw
+(α+1)(β+1)
+(α-2)(β-2)
+23
+23
+23
+13
+13
+α²+β²=(α+p)²-aαβ
+B
+a
+3
+3
+3
+1.
+2
++
+α+β
+x²-4α-&=0
+→9
+1
+B
+3
+
+4²-2(-8)
+?
+3
+X1
+p
+(xβ)
+#α+β=4
+= 16 +16
+2
+=32.
+#αβ=-8
+α²-4α-8=0
+3
+8 = (h-y)
++B_32
+
+1
+69
+64
+8
+
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+²-4x-8=0
+-4
+αB=-8
+井
+α+β=4
+#
+#
+α+
+β
+= 32
+#α+β
+Qumit
+α+β
+=(α+p)(a²+β²)
+Bα²+αβ
+#SBS
+α+β+a²²=(3）
+#forceal aoruaotin
+a+B²=（(32）²=（-8）²
+=32×32-2x8×8
+= 64x14.
+= 896
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+²-4x-8=0
+α²+β²=(α+)(α²+β²-αp
+→4
+αB=-8
+α+β=4
+井
+#
+=4×(32-(-8))
+#
+α+
+β
+=32
+: 4x 40
+= 160
+23
+(a²B²)(a+p²
+2
+5
+5
+#α+β²：
+βα
++αβ
+#+B=(a+B)(+)-
+(Ba'+ap)
+
+α+β
+(a+B²)
+()
+(x+β)(a+B）)-αβ(α²+β²)
+α+β= 32 x 160 -(-8)²(4)
+?
+3
+#
+#+B=(+)(+)-(+)
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE (Adv.-2020), Paper-1]
+Suppose a, b denote the distinct real roots of the quadratic polynomial
+x2 + 20x - 2020 and suppose c, d denote the distinct complex roots of the
+quadratic polynomial x2 - 20x + 2020.
+( - a)q + (-a)q + (p -p)pp + (-)p oni yuy
+.
+A
+9 0%。 Q1BY
+B
+8000
+8080
+D
+16000
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+0 =p-3p
+个言
+p²-Yx1<3P
+白
+白
+I
+#DIBY-O4
+Y
+SBS
+a
+If α and β are roots of the equation x2 + px + 3 = 0, such that lα-β= √10, then 
+4
+pbelongs to the set
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+a2c2
+ac
+ac
+[Ans.: (c)]
+( Root a backet)
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+(x-2)(x-3) +(x-3)(x +1) +(x + 1)(x-2) =0.Find the value of
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation,whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 =0
+[Ans.:(A)]
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+井
+DPP&DIBY
+# Module: Basic Maths
+(4 Sittings Each of 1 Hr.
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 04
+
+Source: `Quadratic Equations 04 Class Notes.pdf`  
+Pages expected: 33  
+OCR pages saved: 33  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture-04
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobecoverey
+A
+Newton's Formula
+B
+Nature of Roots
+
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+P
+Question Practice
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+6s
+Question [1IT-JEE-2007, Paper-1]
+8
+Let α, β be the roots of the equation x2 - px + r = 0 and
+,2β be the roots of
+一
+2
+the equation x2 - qx + r = 0. Then the value of r is
+2-9
+x-2
+α
+A
+(p-q)(2q-p)
+²-qx+=0
+x²-px+=0
+2β
+2-9
+B
+(q-p)(2p -q)
+α+β=p
+α
++β
+b= 8
+?
+αβ=
+2
+(2q-P
+=αβ=
+(q-2p)(2q-p)
+2(ap-q)
+9
+3
+3
+α+β=P
+
+α=p-β
+2
+3p-29+P
+(2p-q)(2q -p)
+α+4β =ag
+9
+d=4p-2q
+-3β =p-ag
+29.-
+
+3
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+BumperQuestion
+If α & β are roots of equation x2 - 4x - 8 = 0 then find value of following
+1/3
+1/3
+αx2
+β2
+1
+α2 +β2
+(!!)
+1
+β
+(α-4)2
+(β-4)2
+(iv)
+α4 + β4
+M
+sd + go
+v
+α5 - β51
+β
+α
+(vii)
+1
+(vi)
+α2-8
+β2-8
+(α+1)(β+1)
+(α-2)(β-2)
+α²-yα-& =0
+c+β²=
+5
+=(+)(#+3）—(a+)
+4
+α~-8=4α
+=長
+)
+3-8
+α-8
+4α
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+()(
+(a3+)
+2.3
+(）
+.5
+B²α²-α²β
+6
++
+)+α²p²(α
+(-B)(x+)(a+p²)
+[({(<)()}
+“
+lih·fRoot
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+Bumper Question
+If α & β are roots of equation x2 - 4x - 8 = 0 then find value of following
+1/3
+1/3
+α2
+β2
+1
+(ii)
+1
+?
+α2 +β2
+()
++
++
+β
+(α-4)2
+(β-4)2
+(iv)
+α4 +β4
+M
+α5+β5
+(vi)
+lα5 -β51
+(vii)
+β
+α
+(vii)
+1
+(()=（)
+5
+α2-8
+β2-8
+(α+1)(β+1)
+(α-2)(β-2)
+12
+1x-4x-8=1（-α)(x-β)
+Rtump!
+5
+=(c+)(+3)
+8
+C+β
+)-（p²a²+α²
+7=2
+4-8-8=(
+(-α)(2-β)
++)（β+）=αβB+β+α+
+-12 =
+(α-2)(B-2)
+=-1
+1+4-8=（
+(-1-)（-1)
+-3=(+α)（1+β)
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE (Adv.-2020), Paper-1]
+Suppose a, b denote the distinct real roots of the quadratic polynomial
+x2 + 20x - 2020 and suppose c, d denote the distinct complex roots of the
+quadratic polynomial x2 - 20x + 2020.
+(p - a)pq + ( - a)q + (p - p)pp + ( - )p onipA yuy
+4&%
+A
+ +P-pO+-0
+b²c - bc² + bd - bd²
+米
+米
+α²(c+d) -a(c²+α²) +b(c+d) -b(c²+d²
+B
+8000
+#
+米
+#
+米
+(c+dXa²)-(C+²)(a±b)
+2+20x - &020 = 0
+8080
+SBS
+αtb =-2b
+D
+16000
+a+6+aab =400 
+αb=-2020
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+NEWTON'SFORMULA
+100'/. Ques
+3RTT
+ax²+bx+c=0
+#
+
+²-5x+6=0
+又
+n
+α±
+D
+n
+m
+n
+6
+
+=p
+=4.2-8.3
+#NF
+(Sn-I)
++ 6 Sn-2 
+N.f
+Sn)
+-5
+o=
+#
+α(sn) + b(Sn-1) +c(sn-2)=0
+n=71
+S41 - 5 S40+ 6 S9
+OR
+=0
+aSn+1 +bS+cSn- =0
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+α
+P
+ax²+bx+c=0
+#
+(b)
++(
+HS=a(px±)
+b4=us
+n
+n
+6-u
+(aap”+bp”"+c²
+=apα²+bpa-+cp
+n-2
+J2#
+Q(sn)+b(Sn-1)+c(sn-2)=0
+=βa
+{aα²+ba+cf±qβ
+3-2
+{ap+b+C?
+
+=0
+RHS
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+RAPIDFIREROUND
+Roots of Quadratic
+x² - 5x - 7 = 0
+areα &β and
+Sn = αn + βn
+then
+S10-7S8
+S
+S9
+NF:
+1(Sn)-5(Sn-)-#(Sn-2)
+=0
+Roots of Quadratic 3x2 - x - 11 = 0 are p &/q and
+2.
+(an=7pn-6qn
+then
+a20+11a19
+3
+a21
+NF
+α/=l
+3Qn -Qn-,- 11Qn-2=0
+S-5 Sg -S =0
+3=
+So-7Sg =5
+3Q2 - 920 -11αq =0
+392 = O20 + 11a1q
+Sg
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2021
+Let α and β be two real numbers such that α + β = 1andαβ = -1
+Letpn= (α)n + (β)n
+Pn-1 = 1ll and Pn+1 = 29 for some integer n ≥1. Then the
+value of p? is
+x²-(1)x+(-1)=0
+α
+x²-x-1=0
+18
+0
+1
++U
+: 324
+-11
+P
+18 =p
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+P
+w
+Mote
+3²+11=0~
+>
+Sn=a+p”
+S
+S-I: 3Sn+11Sn-,=6·X
+录
+3x²+0x+1/ =U
+3Sn +0Sn-1 +11Sn-2 =0 ·
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+687.
+Question [JEE Mains-2025]
+Let α and β be the roots of x2 + V3x - 16 = 0, and y and 8 be the roots of
+P25 +<
+3P24
+x² + 3x - 1 = 0.If Pn = αn + βn and Qn =yn + 8n,then
+Q25-Q23
+IS
+2P23
+Q24
+equal to
+8+
+t3α -16 =0
+x²+3× -1 = 0
+A
+3
+Qn = Y"+8
+m
+了
+#
+
+B
+('+β
+NF
+Pn + 3 Pn--16 Pn-2 
+NF:
+Qn t3 Qn-1 - Qn-2 =0 
+=
+5
+n-1
+n=25
+1=25
+Q25 + 3Q2y - Q23 =0
+25 +32y =x
+Oas -023 =-3
+23
+y
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2021]
+If α, β are roots of the equation x2 + 5(v2)x + 10 = 0, α >β and P, = αn - βn
+P17P20+5√2P17P19
+each positive integer n, then the value of
+is equal to
+P18P19+5/2P28
+HW
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2022]
+31αg-α10
+For a natural number n, let a, = 19n - 12n
+Then, the value of
+5tα8
+NF
+一
+αn-31 αm-1+ 19x12αn-2=0
+Quad.
+#
+Roots → 19, 12 
+α/=u
+do
+31αg+19x12α=0
+n²-(19+12)x+ 19×12 =0
+12
+19x3x4=310g-α10
+# 0n = 19-1a
+n
+52
+5α
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+αβ=-l
+Question [JEE Mains-2020]
+Let α and β be the roots of the equation
+x²-x-1 =
+：0
+Pk = (α)k +(β)k
+k ≥ 1, then which of the following statements is not
+true?
+k=2
+α²+p²
+三
+#
+仅
+ +β
+=α'+p'= Sumoy Qoot
+=(α+β)²-aαβ
+P5 = P2·P3
+9
+NF
+=-(-1)
+Q= 1 -2(-1) =3
+0=
+K-2
+B
+(P1 +p2+p3+p4+p5)=26
+P=1
+k=5
+#
+RC
+--=0
+=α²+β3
+#P=3
+P3 = P5 - P4
+=α+β
+=(α+β)(k²+β²-αβ)
+1×(3-(-))
+D
+P5 =11
+3 . = 4 
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+NF
+P
+4
+Pk-2 = 0
+=α'+p'=1
+k=5
+=α²+p²=3
+=
+P-2-P3=0
+=α²+β²=4
+P4-P3-2 =0
+P=α+βy
+P=g+2
+=+
+=#
+5=+p=11
+P=α+B=18
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2025]
+V
+Ceverse
+Let Pn = α + βn,n E N. If P10 = 123, Pg = 76, Pg = 47 and P1 = 1, then the
+quadratic equation having roots  and  is:
+1
+α
+B
+-x-1=0
+x²-x+1=0
+A
+P0 =Pq+ 
+#
+α+β=1，αβ=-1
+x²+x-1=0
+α+β
+Pq-P =b
+αB
+m=10
+以+
+x²-x-1=0
+α
+P
+αB
+-2
+1
++-1=0
+X
+x²+x+1=0
+D
+--1=0
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+If a and b are the roots of equation x² - 7x - 1 = 0, then the value of
+a21 + b21 + a17 + b17
+isequalto
+HW。
+a19+ b19
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Question[JEEMains-2023]
+Let α, β be the roots of the equation x² - V2x + 2 = 0. Then α14 + β14 is
+equalto
+CHw.
+A
+-64√2
+B
+-128√2
+-64
+-128
+D
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2023]
+Let α, β be the roots of the quadratic equation x² + √6x + 3 = 0. Then
+α23 + β23 + α14 + β14
+is equal to
+α15 + β15 +α10 +β10
+hu。
+D
+A
+729
+B
+72
+81
+D
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2024]
+Let α,β be the distinct roots of the equation x² - (t² - 5t + 6)x + 1 = 0, t E R
+a2023 + a2025
+and an = α" + βn. Then the minimum value of
+is
+a2024
+1
+元
+A
+4
+Min.valw
+-5t+6
+Qn-(t²5t+6) αm-1 + 
+Cn-2
+= 0
+B
+=x025
+= 2t- 5 = 0
+d
+t=5
++ Q2023
+t-5t+6
+2
+2025
+t-5t+6
+5x 5 + 6
+O202y
+5
+&
+1-2
+min:
+D
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+NATUREOFROOTS
+D =b24ac
+CHAUDHARY
+kaun hai ??
+dlferent
+α
+(a,b,c∈R)
+ax²+b+c=0
+Real + Qistinct
+D>0 = Root are 
+a≠0
+-b ±vG-ac
+Rootare
+Qeaequal
+=0 =
+2=
+aa
+OR
+Quad.be(ome
+Prfect Sqyare
+D =6-4ac
+Roots are non- Real
+(o>α
+OR
+Root areLmaginaruy
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+P
+W
+Qx²+bx+C=0
+=b²-4ac= 0
+b²=4acv
+#
+6
+=C
+4a
+ax²+b+
+b
+
+4a
+4a²x²+4aba+b²=0
+(2ax+b)²=0
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+# DIBY-04
+3 = 0, such that lα -βl = √10, then
+If α and β are roots of the equation x + px +
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2, 5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(a)
+ac
+a2c2
+ac
+[Ans.: (c)]
+x²5+G+x²-2x-3+x²-x-=0—
+以
+3x²-8n+1=0
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+yuo=(-x)（+x) +(+x)(-x) +(e-x)(-x)
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+ditt
+α+8
+-x)=(s+)-
+#
+#
+DIFY-07
+If α, β are the roots of ax2 + bx + c = 0, (a ≠0) and α + 8, β + & are the roots of
+b2-4ac
+B2-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then proye that,
+a2
+A2
+VD
+飞
+[JEE-2000]
+ditf
+#
+# DIBY-08
+al
+|AI
+If α and β be two roots of the equation x² - 64x + 256 = 0. Then the value of
+1-8
+1-8
+乡
+%8
+5
+α
+β
+b-yac
+B2-4AC
+B3
+iS
+1
+?
+S/
+α5
+α
+0
+A2
+(B)
+(c)
+(D)
+A
+3
+2
+X
+[Ans.: (D)]
+#DIBY-09
+αβ
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+whose roots are α4 + β4 and
+(α6 + β6),is:
+[JEE Mains-2024]
+10
+(A)
+x²-190x+ 9466 = 0
+(B)
+x²-195x+ 9466=0
+C
+x²-195x+9506=0
+(0)
+x²-180x+9506=0
+[Ans.: (c)]
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+Newton's formula
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(C)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 = 0
+[Ans.: (c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 =S11 + S10
+(B)
+S12 = S11 + S10
+（C)
+(0)
+2S11 =S12 + S10
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11V3 - 10√2)P10 + (11√2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+1
+[Ans.: (B)]
+#DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3a9
+(A)  2
+(B)
+(c)
+(d)
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α" -
+Pi5P16-P14P16-Pis+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.: 16]
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+开
+DPP&DIBY
+# Module: Basic Maths (4 Sittings Each of 1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE
+```
+
+## PDF page 33
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 05
+
+Source: `Quadratic Equations 05 Class Notes.pdf`  
+Pages expected: 32  
+OCR pages saved: 32  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture -05
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobe coverey
+A
+NatureofRoots
+B
+Types of Roots
+
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASS REVISION
+土
+Newton'sFormula:
+Quadratic:
+3x² - 5x - 32 = 0
+with roots α &β
+Sn =3αn-4βn,n ≥ 1
+Then:
+3Sn+2-5Sn+1
+-5 S
+8Sn
+nt2
+n+1
+8Sn
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Question Practice
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+64%。
+Question [JEEMains-2021]
+If α, β are roots of the equation x2 + 5(v2)x + 10 = 0, α >β and P, = αn - βn
+P17P20+5√2P17P19
+each positive integer n, then the value of
+is equal to
+P18P19+5√2P2
+18
+X
++S2+10=0
+s+
+(
+19
+牛
+Pq +5kPg)
+ (地路)
+Pn+52Pn-#+10 m2
+8
+计
+=0
+, +S2 1
+2
+=20 
+=
+91
+20
+18
+二
+19
+9 =19 =)
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+44%
+Question [JEEMains-2023]
+If a and b are the roots of equation x² - 7x - 1 = 0
+thenthevalueof
+a21 + b21 + a17 + b17
+is equal to
+n
+m
+a19 + b19
+#
+α
++b
+Sn-Sn- - Sn-2
+0=
++S14
+5
+(7S20+S
+19
+=21
+S19
+Sa1-+S-S1q=0
+S19
+bl=u
+Sq-S-S
+#S1g+S18
+C
+十
+m=20
+4Sg-S18
+Sig
+S26
+=6
+49q+（S+
+q+S1
+50Sg +S-S+
+51S19
+S19
+51
+S19
+S9
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+M-a
+14
+1
+C
++
+a
++
+心
+x²-x-1=0
+ 6+1
+α+1
+b
+↑
+α²-7a-1=0
+
+(51a²)
++
+(516
+α²-1 =a
+a
+SBS
+α+1-αa²=49a²
+51(a+b
+51
+Q459
+a19 + 69
+a′+1 =51a²
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+4
++β）-(α²B+Bxy
+Question [JEE Mains-2023]
+#
+凶+β
++8
+Let α, β be the roots of the equation x2 - 2x + 2 = 0. Thenα14 + β14
+is
+equal to
+α'+B'=√
+A
+-64√2
+SBS
+邓=
+α²+β²+
+=2
+B
+-128√2
+α+β=-&=-2
+α+β²=-2
++p=-4=-²
+(x+)
+1% -2
+-64
+16 -2
+α+β
+)(<²+²)-
+βα+αβ
+Cube.
++p=-16=-
+-128
+9
+、
+)(+)-（+B
+风+
+α+B
+B
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Sn=αa”+B
+x²-√ax+=0
+Sn-vaSn-1 +&Sm-2 
+=0
+S4-S+S=0
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+
+uad = 0
+Imaginauy
+Roots
+D
+
+U
++p
+n
+#
+下
+Complex
+米
+米
+Numbey
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2023]
+Let α, β be the roots of the quadratic equation x2 + V6x + 3 = 0. Then
+α23 + β23 + α14 + β14
+is equal to
+α15 + β15 +α10 + β10
+tew
+D
+A
+729
+B
+72
+81
+D
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+NATUREOFROOTS
+= b²-4ac
+CHAUDHARY kaun hai:
+井
+Quadratic:ax² + bx + c =
+(a, b, c E R), a ≠ 0
+For Roots to be Real and distinct.
+0<C
+2
+For Roots to be Real and Equal. =>
+二
+3.
+For Imaginary (or Non-Real) Roots. =
+<0
+For Real Roots. =)
+≤C
+4
+5.
+For Quadratic to become perfect square. =
+
+=0
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+Example
+Find all values of the parametera for which the quadratic equation
+0 =Z-D+x(L+D)z+zx( + D
+has
+Co0
+a)
+two distinct roots,
+=(t(a+1))²-4(a+1)(a-a)
+a+l #0
+(b)
+no real roots
+(c)
+1-#0
+twoequalroots.
+4(a+1)²-4(a+1)(a-2)
+=4(+1)(e+1)-(x-2)
+>
+C)
+D=0
+(a)
+0<@
+12(a+1)<0
+Q=1a(a+1)
+12(a+1) >0
+12(a+1) = 0
+α<-1
+1<
+1-=0
+np
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2020]
+The least positive value of 'a' for which the question,
+33
+2x² +(a-10)x+
+= 2a has real roots is
+2
+t
+<C
+80/. DiBY
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+Module Question
+Letp, q E {1, 2, 3, 4}
+The number of equations of the form px² + qx + 1 = 0
+having real roots is
+1
+1 α~+ &u+1 =0
+
+A
+15
+1x²+3x+1=0
+#
+<h-b
+1x² + 4x + 1 = 0
+B
+9
+ax²+3x+1=0
+#
+x²+4x+1=0
+'s'=b
+=8
+4. =3,4
+D
+?
+
+=
+Total
+7
+#916
+9
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Pg∈{0,12,3,4
+q+1=0
++
+
+#
+dh-b
+#
+0=6
+h<2
+q =2,3,4
+9²=8
+=3,4
+h'''0=6
+二
+
+#
+(91
+9
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+Question
+to
+Let 入 and 入2 be two values of 入 for which the expression
+x²+(2-a)x+-31
+becomes aperfect square
+The value of (入² + 入²)
+)equals
+4
+49 + 1 = 50
+A
+8
+Q=0
+B
+25
+(a-a)-
+50
+²+4-4-4a+3=0
++=0=
+=
+D
+100
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Question
+For what value of p, (4 - p)x² + (2p + 4)x + (8p + 1) = 0 is a perfect square.
+#iBY
+#
+Ams
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+Root
+2=1
+If p & q are real numbers such that quadratic px2 + qx + 2 = 0
+vanishes for
+x = 1then roots of quadratic:3px2 + 5qx + 14 = 0
+are
+become Zero
+A
+Positive
+Q =(5q)
+)-4x(3p)(14)
+x=1
+Q= x5g²-168p
+P+9+2=0
+B
+Negative
+85q-168
+#
+
+Real & distinct
+25q2+ 168q. + ax168
+Wcμ
+d5 α~+ 168 α + 2x168 > 0
+Imaginary
+3g
+# D>0
+8
+lways tve
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Challenger Question
+Let a, b ∈ R, a ≠ 0 be such that the equation, ax² - 2bx + 5 = 0 has a
+repeated root α, which is also a root of the equation, x2 - 2bx - 10 = 0. If β
+is the other root of this equation, then α? + β? is equal to:
+Hw。
+A
+25
+D
+both root are α
+B
+28
+26
+24
+D
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+# Sachin Sir Special summary (s4):
+ax2 + bx + c = 0
+a, b, c e R
+(a#0)
+D=0
+D>0
+o>a
+(Roots are real
+(Roots are real
+(Roots imaginary)
+&equal
+&distinct)
+p+iq.p-iq
+# 3+2i,3-2i
+Pair 
+exist ohxd
+T
+N
+a, b, c e Q
+a, b, c ∈ Q
+1
+D=Perfect square
+D = Not a perfect square
+(Roots are Rational)
+(Roots are Irrational)
+p+√qp-√q
+a=1,b&c∈I
+D =Perfect square
+Pair TOT
+(Roots are Integral)
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+ONNN
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(c)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 =0
+[Ans.:(c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 = S11 + S10
+(B)
+S12 = S11 + S10
+C
+2S11 =S12 + S10
+(0)
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+OONNN
+#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11√3 - 10√2)P10 + (11V2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+[Ans.:(B)]
+# DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3ag
+(A)  2
+(B)
+(c)
+(d)
+
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α" -
+ Pis5P16-P14P16-Pi5+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.:16]
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+culreadly done  B. Mm.
+QUADRATICINVOLVINGMODULUS
+#
+DIBY-19
+The number of real solutions of the equation, x² - |x| - 12 = 0 is:
+[JEE Mains-2021]
+(A)   1
+(B)
+(c)
+(D)  2
+4
+3
+[Ans.: (D)]
+# DIBY-20
+The sum, of the squares of all the roots of the equation x^ + |2x - 3| -4 = 0, is
+[JEEMains-2025]
+(A)
+6(2 -√2)
+(B)
+3(3-√2)
+(c)
+6(3 -√2)
+(D) 3(2 -v2)
+[Ans.: (A)]
+#DIBY-21
+The product of the roots of the equation 9x2 - 18|x| + 5 = 0, is:
+[JEE Mains-2020]
+25一9
+1812
+(A)
+(B)
+(c)
+5-9
+(d)
+5
+
+27
+[Ans.: (B)]
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+QUADRATICINVOLVINGMODULUS
+中
+DIBY-22
+The sum of the squares of the roots of |x + 2|² + |x - 2| - 2 = 0 and the squares
+of the roots of x2 - 2|x - 3| - 5 = 0, is
+[JEEMains-2025]
+(A)
+26
+(B)
+36
+(c)
+30
+(d)
+24
+[Ans.: (B)]
+#DIBY-23
+The number of real roots of the equation x|xl - 5|x + 2| + 6 = 0
+[JEEMains-2023]
+(A)  5
+(B)3
+(c)
+6
+(D) 
+
+4
+[Ans.: (B)]
+#DIBY-24
+The sum of all the roots of the equation |x2 - 8x + 15 - 2x + 7 = 0 is:
+[JEE Mains-2023]
+(A)   9+√3
+(B)
+11+√3
+(c)
+9 -√3
+(D)
+11-√3
+[Ans.: (A)]
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-25
+ = a -  + xh + a + xx o  o soos  o  r
+[JEE Mains-2024]
+[Ans.:3]
+#DIBY-26
+nb e ue 'b = go 'd- = ed + eo pu seqnu i oz-uou  b pun d 
+equationwhoseroots are
+is
+3
+α
+(A)
+(B)
+qx²+ px+ q² = 0
+px² + qx + p² = 0
+(c)
+qx² -px+ q² = 0
+(口)
+px² -qx + p² = 0
+[Ans.: (A)]
+#DiBY-27(Challenger)
+Let f(x) = ax² + bx + c,a,b,c ∈ 1 & f(1) = 0,50 < f(7) < 60 & 70 < f(8) < 80,
+then f(- 1) is equal to
+[Ans.:14]
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+井
+DIBY-28
+rootsoftheequation
+(x-α)(x-β) +(x-y)(x-8) =0
+are m
+&n
+respectively, then roots of the equation 2(x - m)(x - n) - (x - α)(x - β) will be
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+α-m,β-n
+m-α+y,n-β+8
+[Ans.: (B)]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+开
+DPP&DIBY
+# Module: Basic Maths (4 Sittings Each of 1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 06
+
+Source: `Quadratic Equations 06 Class Notes.pdf`  
+Pages expected: 29  
+OCR pages saved: 29  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+80
+Lecture-06
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+to be coverey
+A
+Types of Roots
+B
+Graph of Quadratic
+Range of Quadratic
+D
+Question Practice
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+Question Practice
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+#
+α+β=-√6
+α+β
+α+B
+=
+Question [JEE Mains-2023]
+#αβ=3
+=x（²+B²)
+0=
+Let α, β be the roots of the quadratic equation x² + √6x + 3 = 0. Then
+α23 + β23
+SBS
+gmplex
++
+a14
++B14
+81（a+p
+ISIS
+is equal to
+No.
+α15 +β15
++α10
+α²+β²+
+B10
+81.
+文aB
+= 6
+αs+B5
+14
+A
+729
+α+
+SBS
+α
+4
+B
+72
+α=-β²
+α+β+aa²=0
+10
+10
+·α+β
+d：
+
+α+B²=-()
+SBS
+81
+23
+=2
+P
++α=-18
+α+β
+23
+B
+81(α)
+8
+81-=
+D
+TS
+X
+α
++β
+X
+二
+5
+α=81 
+α=-9
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+8
+Question [JEE Mains-2020]
+49%
+The least positive value of 'a' for which the question,
+33
+2x² + (a-10)x+
+= 2a has real roots is
+2
+α-8)(a+4）≥0
+x²+（a-10)+-a=0
+a
+
+(a-10)²-4xx
+33-2a
+Q∈(∞,-4][8,∞)
+O
+?
+a²+100-a0a-4(33-4a
+a²-4a-32=0
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Question
+For what value of p, (4 - p)x² + (2p + 4)x + (8p + 1) = 0 is a perfect square.
+Ans:0,3
+二O
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+ChallengerQuestion
+Let a, b ∈ R,a ≠ 0 be such that the equation, ax2 - 2bx + 5 = 0 has a
+repeated root α, which is also a root of the equation, x2 - 2bx - 10 = 0. If β
+is the other root of this equation, then α² + β² is equal to:
+620 +5
+X
+lK
+25
+ax²-bx+5=0
+x²- & bx -10 =0
+1
+C
+B
+α+α=2b
+28
+α+B=2b
+=ab
+a
+a
+αβ=-10
+α/-=
+α=5
+26
+a
+Q
+#β=-loa
+_109-2b
+θ=0
+α²=5
+-20
+SBS
+24
+1/4
+46²-4xax5-0
+50 -10q²=10a²
+D
+α²β²=100.
+6²-10a²=aab²
+50=a0a
+x0 β~= 100
+b=5a
+5a-10a²=2a(5a)
+I
+β²=5
+a=0
+X
+4
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Types of Roots: Sachin Sir Special Summary (s4):
+#
+(a, b, c e R),
+, (a#0)
+ax² + bx + c = 0
+D=0
+D>0
+0>a
+(Roots are real
+(Roots are real
+(Roots imaginary)
+&equal)
+& distinct)
+p+iq.p -iq
+Coniugate air
+a,b, c ∈ Q
+a, b, c ∈ Q
+D=Perfect square
+D = Not a perfect square
+(Roots are Rational)
+(Roots are Irrational)
+p+vqp-√q
+a=1,b&c∈l
+D=Perfect square
+pair
+(Roots are Integral)
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+#x²- 5x+6=0
+=-b±
+-b+
+b-4qc
+a=
+b=-5,c=6
+QO
+a=1
+a5-4x6
+oh
+L
+odd
+odd-even=
+odd)— P.s.
+#x²+ax-15=0
+x=- odd ± odd
+/3
+even
+=Int
+%
+0
+a：
+=2,C=-15
+二
+=4-4×1x(-15）=64
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+PLEASECHECKTHEFOLLOWING
+Ex.: x2-(2 +√3)x +√12 =0
+$
+√3
+Ir.
+#
+Ex.:x2-（2+i)x+2i=0
+6
+Ex. : Form Quadratic whose one roots is 2 + v3
+Tncomplete intfo
+Ex. : Form Quadratic with rational coefficient having one root is 2 + /3 .
+&一√.
+x²-4x+1=0
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2021]
+is a root of equation
+√5-1
+5+ 1
+(1+S%)
+女(5+1)
+1+5
+√5-1
++1
+(5)²-(1)²
+A
+x² + 2x- 4 = 0
+4
+1-√5
+B
+x²-2x+4=0
+1+√5
+²-()x+(-4)=0
+
+4x²+2x-1=0
+x²-2x-4=0
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+IMPORTANTOBSERVATION
+Quadratic;
+ax²+bx+c = 0
+fa+b+c=0
+Roots of quadratic are —→
++
+1
+C
+a
+Sumofcouh)
+a-b+c=0
+Roots of quadratic are
+1
+?
+a
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+#
+#
+x²-8x+1=0
+x²(8+1
+x²-x-x+1=0
+x(x-1)-1（x-1)
+#
+二（
+3x²
+11x(-12)=0
+>1
+(α-1)(4x-1)=6
+#
+X=1. !
+去
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+ax²+bx+C=O
+a+b+c= 0
+÷a
+1xβ=
+C
+a
++
+?
+久
+C
+1+β=-b
+O
+a
+b-1
+a
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+2
++
+p(q -r)x² + q(r -p)x + r(p -q) = 0has equal roots prove
+1
+6
+0
+?=0
+α=@
+H-
+q(x-p)²-4 p(a-n)(p-q) =0
+Gtw.
+q²(π-p)²=4pr(a-r)(p-q)
+lask
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+2
+1
+p(q -r)x² + q(r -p)x + r(p - q) = 0has equal roots prove =
+十
+a
+p
+r(p-q)
+c-a
+(M-2
+p(q-r)
+8umgco=p(q-)+q(r-p)+x(p-q
+n(p-q)
+从比水时
+P(q-)
+0
+p-q=pq-p
+HHI
+ap=pa+q
+PAY
+
+#
+敬+
+b
+PYLY
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+Question
+y
+If a, b, c e Q, then roots of the equation
+0=(-q+)+x(q-+)+x(-+q)
+-
+Rational
+b+c-aa
+W-L:
+M-T:
+B
+Non-real
+&umycol =b+c-aa+C+a-2b+a+b-2c
+Calcwate
+Irrational
+C
+perlet square
+D
+Equal
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+Challenger Question[JEEMains-2025]
+Consider the equation x² + 4x -n = 0, where n ∈ [20,100] is a natural
+number. Then the number of all distinct values of n)
+for which the given
+equationhasintegralroots
+ is equal to
+M-a
+x²+4x=n
+H-1
+<100
+A
+perfect square
+x²+4x+4=n+4
+V
+一
+24
+nt4
+104
+(x+2)²
+(4)-yx1x(-n)
+= n+4
+B
+α+α=±
+n+y
+: 16 + 4n
+m+4 = &5, 36 ,49,64,81, 100
+#=-2+
+h+u
+6
+(4+n
+n+4= P.S
+= 21,32,45,60,44,96
+P.S. P.S.
+D
+5
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+CRITICAL THINKING QUESTION(CTQ)
+a=12,8
+Find all the integral values of a for which the quadratic equation
+(x - a)(x - 10) + 1 = 0 has integral roots
+(a-10)-4. = 0,1,4,9,16,25,
+&
+x²=a-10+ loa +1 =0
+(a-10)-4 =0 = (a-10)²=(→ a-10 = ±2
+0
+x²-(a+10)x+(0a+1)
+0=
+(a-10)- 4=1
+a=12,
+α=8
+(m
+(a-10)=
+=(-（a+10))
+)-4×1x（10a+1)
+(a-10)²-4=4
+K
+(i)
+P.S
+α-10 = ±√5
+a²+100 +20a-40a -4.
+(iu)
+(a-10)-4=g
+α=10 ±√5 x
+α²-a0a+96
+(a-0)=⑧
+α²-80a+ 100
+0-10=a2x
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+CRITICAL THINKING QUESTION(CTQ)
+a=12,8
+Find all the integral values of a for which the quadratic equation
+(x - a)(x - 10) + 1 = 0 has integral roots
+H-2
+0-
+α-10
+xta botw are integer
+T
+#
+X
+
+α-a =1
+1- = 0)-x
+=9
+1 =o-b
+1
+8= a
+1=0-/-=0-
+"==
+-α=-)
+la=α
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+Critical Thinking Question(cTQ)
+If both the roots of the quadratic equation x² -(2n + 18)x -n -11 = 0, n ∈ I,
+are rational, thenfind thevalue(s) of n.
+Cm
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+
+a
+b
+ChallengerQuestion
+Let a, b, c, d are positive real numbers such that
+人
+-
+then therootsof
++
+b
+d
+the equation
+(a²+b²)x2
+2 + 2x(ac + bd) +
+(c² + d²) = 0 are:
+3
+A
+real and distinct
+α²x+axc+c
+bx²+abxd+d
+三0
+B
+real and equal
+ar+C
+imag. rot
+butd
+0=
+imaginary
+αx+C =0
+bu +d = 0
+nothing can be said
+D
+=
+n.p.
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2022]
+If for some p, q, r E R, not all have same sign, one of the roots of the
+equation (p² + q²)x2 - 2q(p + r)x + q² + r² = 0 is also a root of the equation
+q2 + r2
+x²+ 2x -8=0,then
+is equal to
+(HEw)
+p2
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+#
+DIBY-27
+roots
+oftheequation
++
+(x-α)(x-β) +(x-y)(x-8) =0
+are
+m
+&n
+ lm ( x)( - x) ( -x)( -x)hob e o so  ns
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+a-m,β-n
+m-a+y,n-β+8
+[Ans.: (B)]
+#DIBY-28
+If the roots of theequation ax2+x+b =0 be real and different, then the roots of
+the equation x2 - 4/abx + 1 = 0 will be
+(A)
+Rational
+(B)
+Irrational
+C
+Real
+(a)
+Imaginary
+[Ans.: (D)]
+#DIBY-29
+3α-5-α2
+Let α, β are the roots of the equation x²+ ax + b = 0 such that
+=β, then
+(β-3)
+value of |a²-2b + 3a| is (where,β≠3)
+(A)  0
+(B)
+(c)
+(D)
+3
+5
+7
+[Ans. : (c)]
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-30
+If α is a root of the equation 4x2 - 2x + 3 = 0, then its other roots is
+(A)
+2-3
+(B)
+α+1
+x+
+2α-1
+(c)
+3
+(a)
+3α
+2(4α2+3)
+4
+[Ans.: B, C]
+#DIBY-31
+If roots of 2(x - a)(x - b) + c = 0 are α, β then roots (x - α)(x - β) -  = 0 are
+(A)
+lies between a& b
+(B)
+-a,-b
+(c)
+a, b
+(a)
+2a, 2b
+[Ans. : (c)]
+#DIBY-32
+If the equation in x, x2 + 2(1 + A)x + (3入2 + 2) = 0 has imaginary roots, then
+1
+(A)
+(B)
+(c)
+入=1
+入=-
+入=0
+(D)
+=-1
+2
+[Ans.:A,B,C,D]
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-33
+x²-bx
+m-1
+Iftheequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:a=-4]
+DIBY-35
+
+If x = 3 + V5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B)  0
+(c)
+(D) 2
+[Ans.(c)]
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+在
+eneresult
+Fmogytonu
+tsaluay aboat
+fourney
+Thank
+oHW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 07
+
+Source: `Quadratic Equations 07 Class Notes.pdf`  
+Pages expected: 32  
+OCR pages saved: 32  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture-07
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+obecoverey
+A
+Graph of Quadratic
+B
+Range of Quadratic
+
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSREVISION
+Answer the following Questions:
+#
+If one root of quadratic isp + q
+then other root must bep - q
+①
+(2)
+Quadratic can have a irrational & a rational root. —
+(3)
+Quadratic with rational coefficient can have a irrational & a rational
+root.
+f
+4
+If Quadraticwith real coefficients
+shave a imaginary root p + iq then
+other root is its conjugate p -iq.
+T
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSREVISION
+Sumff
+=3α²-β-αβ-aα²+β²-α²+αβ
+中
+AnswerthefollowingQuestions:
+5.
+For quadratic
+(3α² - β² -αβ)x² - 2α²x + (β² - α² + αβ) = 0 roots are
+B-α²+αB
+1
+3α²-β²-αβ
+6.
+Quadratic with rational coefficient & whose one roots is
+√7 + 3, is
+*米
+=3+
+3+
+
+-3 =√
+SBS
+x²+9-6=#
+π²-(6)+=0
+x²-6+=0
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-35
+x=3+v5
+5then the value of x4 - 12x² + 44x² - 48x + 17
+1
+(B)
+(D) 2
+A
+0
+[Ans.(c)]
+2²-6x+4
+Quad. with Rat couHt
+x²-6x+4
+2-12x+442²-48x+14
+y-6x3+4x²
+α-3 =5
+SAS.
+—6x+40x2-48#
+α²-6x+9=5
+8x3+36x²-24x
+3+
++
+²-6x+4=0
+Q
+-2+14
+3-√5
+x²-x4+16
+A=BQ+R
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+W
+-12x²+442²-48x+14
+x²6x+4
+(x²-6x+y
++1
+x =3 +,↓5
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+Question
+If x = √11 + 4 then value of x5 - 8x4 + 12x² - 8x² + 11x + 5 is
+[Ans.:5]
+QIBY
+#
+A
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question Practice
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+2
+od soo inba spy o = (b - d) + x(d - )b + zx(u - b)d 
+一
+6
+p
+人
+a
+M-3
+5
+=
+m=p(q-t)
+) =pa-p
+m
+n
+q(x-p))
+n=(p-q)
+P(q-n
+=p-nq
+福
+E
+gdd
+m=
+b-bd = u+w
+(-(m+m))
+m=C
+pq-pr=ip-q
+-2mn
+(x-d)b
+m+n+amn-4mn=0
+7
+pq+rq=axp
+(m+n)=
+(d-x)
+PaYPeYPqr
+(m-m)=0
+#=
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Question
+If a, b, c e Q, then roots of the equation
+m=b+C-aa
+0=(z-q+)+x(q-+)+zx(z-+q)
+n=a+b-&c
+a+b-ac
+m+n=2b-a-C
+Rational
+f
+A
+-+g
+=-（a+c-2b
+?
+ = pufect square
+m
+n
+B
+Non-real
+c+a-2b
+b+c-a0
+a+b-2c
+Irrational
+(-(m+n))²-4mn
+D
+Equal
+m+n+amn-4mn
+amn
+(b+c-aa-a-b+2c)
+3-3
+3c-3a
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+Challenger Question
+Let a, b, c, d are positive real numbers such that = ≠
+then the roots of
+the equation
+(a² + b²)x² + 2x(ac + bd) + (c² + d²)
+=0
+are:
+A
+real and distinct
+Bout
+Pobta
+M
+=-ve
+I
+B
+real and equal
+1)²-4（a²+²)（c²+a²)
+2(ac+ba)
+a℃²+bd²+aachd)-4(a²²+a²d²+b²²+bd²
+imaginary
+99#09
+nothing can be said
+D
+=-4{(@d)²+(bc)²-a(ad)(bc)}
+=(4)
+ad-bc
+-ve
+shrompo
+tve
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+Critical Thinking Question (cTQ)
+If both the roots of the quadratic equation x² - (2n + 18)x -n - 11 = 0, n ∈ I,
+are rational, then find the value(s) of n.
+#Re
+#=-8,-11
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+(d91)+(dnh-)
++1
+Question[JEEMains-2022]
+
+D
+If for some p, g, r E R, not all have same sign one of the roots of the
+=#
+(p² + q²)x² - 2q(p + r)x + q² + r² = 0is also a root of the equation
+equation
+u+-b
+x² + 2x - 8 = 0, then
+is equal to
+p2
+2²+ a - 8 = 0
+x²q2
+b+2b
+—q+
+(x+4)(x-2) =0
+= 
+
+
+=&g
+1
+o
+samt
+ubis
+αp-9=0
+q-=0
+
+b
+-4b
+bh--人
+D
+9x=-4(-4b)
+=16p
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+GRAPHOFQUADRATIC
+Yarabou'c
+pomo uuado
+buiurdo
+pomumm
+T
+个
+(0<0)
+(a<0)
+f(x)
+y =ax²+bx+C
+一
+( o=xmd
+ =C
+Vertex=
+(o,c) uthe point where graph cub y-axis
+米米
+aa
+40
+T
+-
+y-Cord
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+f(x)
+=y=ax²+bx+C
+b
+a(x²+a bx
+ca
+一
+b
++
+h
+402
+20
+<
++b
+b-yac
+min. value
+#
+a
+aa
+oh
+40
+Q<0
+=-b
+b
+da
+4a
+max
+4a
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+
+Roots
+
+#
+x+x+1
+α=1
+b=1,C=1,=1²-4x1x1
+-3
+α= +ve
+V=(
+(0,1)
+40
+3-4
+Graph never inteuect
+-(-3)
+1
+x-axU
+
+&x1
+4x1
+M
+#No Rear Root
+一
+一
+5
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+#
+x²-4α+12
+b=-, c=12,=49-4x1x12
+0=
+?.=1
+2=
+D
+(e'o) #
+#
+aa
+4a
+八
+midpoint of root.
+↓ +21
+(-+)
+-(E)
+&x1
+4xi
+X
+t
+8
+x²-#x+12=0
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+#
+Q=-2
+b=1 C=-5
+?
+=- 39
+=-ax²+x-5
+#(0,-5)
+aa
+ya
++(+39)
+2x+2
+4(-2)
+N
+
+3/00
+#No Qea Root
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+件
+x²+6x+9
+=
+b=6,c=9,=0
+(
+2=
+(09)
+，
+# equau Root
+4x1
+9
+= (-3, 0)
+
+(-3,0)
+x²+6x+9=0
+-3
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Draw graph of following quadratic :
+(i)f(x)=x²+x-12
+QIBY
+(ii)f(x)=x-(1+x2)
+B
+#
+(ii) f(x)= x²- 10x + 16
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+DISCRIMINANT&GRAPH
+Real  Diutinet Root
+
+。
+u-axis
+<口
+Imag
+(N Roa)
+Root
+aluooys
+qbovt x-axu
+=0 =
+Roota are Real  equal
+qlways below
+x-axw
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Comment on sign of a, b, c & D for following graphs:
+y
+Buyuadeo
+←— promlmmp
+0 >0
+90
+40
+(o,c)
+>o
+graph cutx-axiyatQ dint.points
+>X
+ue
+m orb
+B
+ +ve
+c>o
+y-axu
++ve
+-b = Sum of Root
++vé
+1
+a
+
++ve← C 
+= Product of Root :
+aa
+-ve
+二
+-sα
+-b>o
+o>-
+b>0
+a-
+b>o
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Comment on sign of a, b, c & D for following graphs:
+y个
+T
+(00)
+(0,C)
+Ver+ex ka x-cord. = I quad .
+0>0
+-b= O
+# α > U
+C=0
+aa
+# >o
+V
+=O
+# c<
+20
+G+ve
+b=b
+#
+b>0
+α>q-
+S=0
+#S=-b
+-ve
+b>o
+a
+P=0
+#
+ve
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+X4
+Q0
+-ve
+(0,c)
+o>q-
+# b>0
+> #
+α>
+#
+# =0
+o#
+S=-b
+#
++ve
+a
+#=
+tve
+a
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+
+c >0
+(0,c)
+D<o
+o<9
+=-→
+0
+P=C
+L
++
+a
+>
+0
+-b<0
+0<9
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+mt
+y-axis
+A
+ab2c3 < 0
+Given |a| < 2
+B
+0>q
+bc(4a + 2b + c) > 0
+(α,0)
+(β,0)
+(2,0)
+x-axis
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+mt
+y-axis
+D
+ab(4a-2b +c) > 0
+Given |a| < 2
+b2 > 4(a2 +ac)
+E
+(d'o) = x A 0 < + xq + zxn
+F
+(α,0)
+(β,0)
+(2,0)
+x-axis
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-33
+x²-bx
+m-1
+If theequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:α=-4]
+DIBY-35
+If x = 3 + √5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B) 0
+(c)
+(D) 2
+[Ans.(c)]
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+#DIBY-36
+The quadratic equation x² + ax + b + 1 = 0 has both positive integral roots, then
+a² + b² can be equal to
+(A)
+50
+(B)
+37
+(c)
+61
+(D)
+20
+[Ans.:A, D]
+DIBY-37
+The number of real roots of the equation 5 + |2* - 1| = 2*(2* - 2) is
+[JEEMains-2019]
+(A)   4
+(B)3
+(c)
+2
+(D) 1
+[Ans.:(D)]
+七
+#DIBY-38
+Find the product of the real roots of the equation, x² + 18x + 30 = 2√ x² + 18x + 45
+[Ans.:20]
+DIBY-39
+If'α' is an irrational solution of the equation 32x²-7x+3 = 4x²-x-6, then the value of
+2a-1
+3
+α+2
+is
+[Ans.: 4]
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+```
+
+## PDF page 32
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+
+# Quadratic Equations — Lecture 08
+
+Source: `Quadratic Equations 08 Class Notes.pdf`  
+Pages expected: 31  
+OCR pages saved: 31  
+Status: **Automated OCR only — not manually reviewed.**
+
+Raw machine text follows without mathematical corrections. Reading order, handwriting, equations, fractions, and diagram labels may be inaccurate or missing. A page with no detected text is not certified blank.
+
+## PDF page 1
+
+OCR status: `ocr_complete`
+
+```text
+ARJUN
+JEE2027
+30
+Lecture - 08
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+```
+
+## PDF page 2
+
+OCR status: `ocr_complete`
+
+```text
+Topics
+tobe coverey
+A
+Graph of Quadratic
+B
+Range of Quadratic
+
+Question Practice
+D
+```
+
+## PDF page 3
+
+OCR status: `ocr_complete`
+
+```text
+LASTCLASSREVISION
+# Answer the following Questions:
+y = ax² + bx + c
+If a > 0 then graph is opening
+pomdm
+ii
+If a < 0 then graph is opening
+puomump
+(ii)
+Coordinates of vertex is
+V=
+XO
+(iv)
+Point where graph cuts y-axis
+0,C
+Root
+(v)
+Point where graph cuts x-axis are.
+of quadratic.
+(vi)
+=-b
+Graph of quadratic is symmetric about
+aa
+```
+
+## PDF page 4
+
+OCR status: `ocr_complete`
+
+```text
+Question Practice
+```
+
+## PDF page 5
+
+OCR status: `ocr_complete`
+
+```text
+Question
+x = √11 + 4 then value of x5 - 8x4 + 12x3 - 8x² + 11x + 5 is
+Remainder = 360x-235
+= h-&
+Ans.:360√11 + 1205
+SBS
+α²-8α+16 = 11
+x²- 8α + 5 = 0
+```
+
+## PDF page 6
+
+OCR status: `ocr_complete`
+
+```text
+Re-atteupt
+Critical Thinking Question (cTQ)
+If both the roots of the quadratic equation x2 - (2n + 18)x -n - 11 = 0, n ∈ I,
+are rational, then find the value(s) of n.
+y
+# n+9=I,
+(<m+18)
+-4×1x(-n-1)
+))=
++ll = I,+2
+C
+²++
+(a(n+9))+ 4(n+11)
+= 0, 1, 4, 9,16
+P.S .
+P.S.
+4(n+9)²+4 (n+11
+1, =1
+=+9=1
+/n=-8
+{(m+9)²+(m+u)}
+I,=-2 = +9=-=
+n=-i
+auonbsnoyogk
++ve/o
+nt
+```
+
+## PDF page 7
+
+OCR status: `ocr_complete`
+
+```text
+++
+#
+I,=0 >
+&
+X
+=-l =-1+= x
+1-a+a=
+I=-²
+个\
+I =1/=
+I+l+。=
+I,=3=9+3+=14
+X
+```
+
+## PDF page 8
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Draw graph of following quadratic :
+(i)
+f(x)=x²+x-12
+(ii)
+)f(x)=x-(1+x2)
+x+-1
+&4
+(3,0)
+(ii) f(x)= x²- 10x + 16
+(0-12)
+16
+()
+24
+3
+4
+[(0,-1)
+```
+
+## PDF page 9
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+十
+y-axis
+?
+=&
+ab2(3
+ΛO
+Given |a| < 2
+4at2b+C
+B
+ab < 0
+(Cc)
+bc(4a + 2b + c) >0
+(α,0)
+(β,0)
+=×m
+米**
+(2,0)
+x-axis
+>
+<
+aa
+b>b
+```
+
+## PDF page 10
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+The graph of y = ax2 + bx + c is shown in the figure, then which of the
+following is(are) correct?
+?
+Valw at x =-2
+一
+y-axis
+=-2
+ab(4a - 2b + c) > 0
+4a -2b +C
+#
+Given ↓α| < 2
+o
+b2 > 4(a2 + ac)
+0(vx e (0, β)
+ax2+bx +g
+八
+(α,0)
+(β,0)
+辛米
+<
+?
+6²>4a²+4ac
+(2,0)
+x-axis
+for all.
+[α-β1
+√D
+b-4ac>
+(α-β1 =
+40
+[a]
+[α-β/ >2
+b-4ac
+#
+
+α-β1
+D
+2
+#|α-βl>4
+a
+al
+a
+```
+
+## PDF page 11
+
+OCR status: `ocr_complete`
+
+```text
+AcidicQuestion
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+y-axis
+ab(4a -2b + c) > 0
+Given |α| < 2
+b²>4a2+4ac
+b²> 4(a² + ac)
+E
+
+b-4ac>4a²
+F
+(d'o) = x A 0 <  + xq + zxn
+(α,0)
+(β,0)
+2_yac
+#
+(2,0)
+x-axis
+1
+[α-β]
+SBS
+#1α-β1>2
+#1α-pl>4
+```
+
+## PDF page 12
+
+OCR status: `ocr_complete`
+
+```text
+W
+lαl<a
+tve
++ve
+tve
+α
+P
+ve
+```
+
+## PDF page 13
+
+OCR status: `ocr_complete`
+
+```text
+HOW TOREADGRAPH
+# Answer the following True/False:
+y =f(x) = ax² + bx + c
+Graph is symmetric about x = 4.
+15
+Roots of Quadratic are x = 3, 5.
+3+5
+(i)
+f(6) > 0. →
+5
+(iv)
+) f(2) < 0. →
+(v)
+f(0) = 15
+
+```
+
+## PDF page 14
+
+OCR status: `ocr_complete`
+
+```text
+HOWTOREADGRAPH
+# Answer the following True/False:
+y = f(x) = ax² + bx + c
+(vi)
+f(x) > 0 x ∈ (-,3) U (5, ∞)
+(vii)
+15
+f(x) < 0 x ∈ [3, 5]
++
+tve
+(vii)
+) f(1) = f(7)
+X
+(x!)
+f(3. 25). f(5. 28) > 0
+f
+f(x)<0 ≥x∈(3,5)
+-ve
++ve
+```
+
+## PDF page 15
+
+OCR status: `ocr_complete`
+
+```text
+f(x)>
+f(x)=0
+Cases
+f(x)
+xe(∞,2]U[，∞)
+=-2,4
+XE
+X
+LFB
+#f
+x∈ R
+x=&
+```
+
+## PDF page 16
+
+OCR status: `ocr_complete`
+
+```text
+THINK!!
+What should be the condition such that graph of Quadratic remains
+always above x-axis??
+-OXU
+comditim
+α>e
+α>
+xaxio
+Buruadg
+upwgrd
+片
+```
+
+## PDF page 17
+
+OCR status: `ocr_complete`
+
+```text
+MOSTIMPORTANTNOTE
+Conditon
+ax² + bx + c > 0x E R
+=>Hw
+Graph lus
+一
+α>o
+α>C 
++ve 3Ref
+?
+completely
+above x-axu
+ax² +bx+c<0 x∈ R =
+>
+D°
+-vt
+m9
+$
+ax²+bx+c≥0 x∈R =
+Graph either
+B
+>C
+Lehe anobu-wou
+x0ix5ne
+<
+r compleely above
+ax²+ bx+c≤0 x∈R =
+x-axu
+D<O
+=
+non-positive 
+αo  D
+mgm
+```
+
+## PDF page 18
+
+OCR status: `ocr_complete`
+
+```text
+alnay tve
+-ve
+#
+x+x+1
+α=1,
+Ix)xh-1= @ 
+Xolve
+=-3
+ex
+tve
+α-3) (α-4)
+#
+x+x+1
+-αx²+-3
+No Real Root
+Q=1-4(-2)(-3)
+-=D
+x-3)(α-4) ≥0
+-ve
+= 1-24
+Hhomgo
+-ve
+D=-Q3
+-ve
+```
+
+## PDF page 19
+
+OCR status: `ocr_complete`
+
+```text
+Question
+Find the set of values of a for which the quadratic polynomial
+()
+(a + 4)x²-2ax+ 2a - 6≤0
+XAA
+
+
+(a - 1)x²-(a + 1)x +(a +1) >0 x ∈ R
+<
+α>
+ DIBY-
+>
+Λ○
+CChat!
+3
+?
+二
+α>+o
+(-aa)²-4(a+4)(xa-6) ≤ 0
+(a+6)（a-4) ≥0
+h->0
+Ha²-Y(aa²+8a-6a-24) ≤0
+a²-aa²-aa+ay<0
+—a²-aa+ay<0
+α(-∞,-6]
+a+aa-a4≥0
+```
+
+## PDF page 20
+
+OCR status: `ocr_complete`
+
+```text
+Acidic Question
+Find the set of real values of 'a' for which the graph of the function
+ax² + 2(a + 1)x + 9a + 4
+f(x)
+is always below the x-axis.
+一
+x2 - 8x + 32
+-ve
+αx²+ a(a+1)x + 9a+4
+αE R
+αx²+2(a+1)x+9a+y
+MER
+书
+1x²- 8x+32
+>C
+
+ (a(a+1)²-ya(qa+y) (0 
+a=1,=(8)-4x1x32
+o>
+α>0,D<0
+=64-128
+A(a²+2a+1)-y(%a²+4a)<0
+#
+D=-64
+4a-1 )(&a+1)>0
+-8a²-2a+1<0
+alwoys +ve
+xθ
+∈(∞)
+411
+8²+2-1>0
+8²+4a-2a-1 >0
+4a(2a+1)-1(2a+1) >0
+```
+
+## PDF page 21
+
+OCR status: `ocr_complete`
+
+```text
+S
+
+Bolutin
+#
+oA
+2uad.>0
+xeR
+Quad.=0 aeR
+
+quad. =y = f(x)
+Quad.(oxeR
+o>>
+=
+α
+Quad.<0xeR
+一
+```
+
+## PDF page 22
+
+OCR status: `ocr_complete`
+
+```text
+Question
+If quadratic function f (x)touches x-axis at x = 3 and crosses y-axis at
+(0, -2), then find f(7).
+f(x) = -2 x² +μx -α 
+6
+f(x) =@x²+bx+@
+3
+=x
+C=-2
+f(+) =-2 x49 + μx4 -2
+α=3
+X
+@=o
+>
+9
+3
+>-b=3
+-98 +84 - 18
+/&a
+L5
+-b=6a oR
+b =-6a
+=-14-18
+2-4ac = D
+32
+9
+J
+X
+36α²-4a(-2)=0
+'o=D
+36a²+8a = 0
+b=-6x-2 :
+4a(9a+2)=0
+933
+```
+
+## PDF page 23
+
+OCR status: `ocr_complete`
+
+```text
+&umit-
+mom
+f(x)=(x-3)(x-3)
+=k（x²-6x+9)
+R
+α=3
+=0,
+=-2
+f(x) =
+x²-(6)+ 9
+-=k(9)
+R
+(0 -2)
+?
+0=
+K=-
+6+x-=(t)f
+equal
+(2-6x+9)
+root
+= 4+9
+x=3,3
+6
+²+一
+！
+```
+
+## PDF page 24
+
+OCR status: `ocr_complete`
+
+```text
+Question [JEE Mains-2020]
+Let f(x) be a quadratic polynomial such that f(-1) + f(2) = 0. If one of the
+roots of f(x) = 0 is 3, then its other root lies in:
+3x
+0
+A
+(-1, 0)
+B
+(—3,-1)
+(0, 1)
+D
+(1,3)
+```
+
+## PDF page 25
+
+OCR status: `ocr_complete`
+
+```text
+DOITBYYOURSELF
+(DIBY)
+```
+
+## PDF page 26
+
+OCR status: `ocr_complete`
+
+```text
+GRAPHOFQUADRATIC
+#DIBY-40
+Consider the graph f (x) = ax2 + bx + c and comment on sign of following parts:
+?
+(abc) is
+331=
+(4a + 2b + c) is
+for all x > 3, f(x) is
+For all - 2 <x < 3, f(x) is
+X
+Dis
+(vi)
+(a - b + c)·(9a - 3b + c) is
+Ans.:
+(i) +ve, (ii) -ve, (ili) +ve, (iv) -ve, (v) +ve, (vi) -ve
+```
+
+## PDF page 27
+
+OCR status: `ocr_complete`
+
+```text
+GRAPH OFQUADRATIC
+# DIBY-41(challenger)
+Draw the graph of quadratic
+(y =ax²+bc+c)
+ each part with given
+conditions:
+Roots are 3 & 7 and crosses y-axis at (0, -2)
+()
+Imaginary roots with vertex at
+anda -b + c = 2.
+Touches x-axis at x =- 3 and value at x = 2 is -8.
+Also find value of a, b & c in each case.
+```
+
+## PDF page 28
+
+OCR status: `ocr_complete`
+
+```text
+GRAPHOFQUADRATIC
+#DIBY-41(AnsWer)
+2
+20
+3
+a=
+b=
+X
+,C =-2
+21
+21
+(0,-2)
+a = 24, b = 36, c = 14
+(!!!)
+-8
+-48
+-72
+=D
+,b=
+C=
+25
+25
+25
+```
+
+## PDF page 29
+
+OCR status: `ocr_complete`
+
+```text
+GRAPHOFQUADRATIC
+#DIBY-42
+If the equation ax² + bc + c = 0,(a > 0) has two real roots α and β such that α < -2
+and β > 2, then which of the following statements is/are true?
+(A)
+(B)
+a-|b| +c< 0
+c< 0, b² - 4ac > 0
+(c)
+(D)
+4a-2|b|+c<0
+9a-3|b| + c< 0
+[Ans.:A, B, C]
+#DIBY-43
+The adjoining figure shows the graph of y = ax² + bx + c. Then
+(A)
+0>n
+Y
+(B)
+b2 < 4ax
+(c)
+c> 0
+()
+a and b are of opposite sign
+X
+x1
+X2
+[Ans.:A, D]
+```
+
+## PDF page 30
+
+OCR status: `ocr_complete`
+
+```text
+Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+```
+
+## PDF page 31
+
+OCR status: `ocr_complete`
+
+```text
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+```
+
+
+---
+

@@ -2,3 +2,622 @@ Quadratic Equations — Lecture 08
 Source: Quadratic Equations 08 Class Notes.pdf
 AUTOMATED OCR — NOT MANUALLY REVIEWED
 
+=== PDF PAGE 1 ===
+ARJUN
+JEE2027
+30
+Lecture - 08
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tobe coverey
+A
+Graph of Quadratic
+B
+Range of Quadratic
+
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+LASTCLASSREVISION
+# Answer the following Questions:
+y = ax² + bx + c
+If a > 0 then graph is opening
+pomdm
+ii
+If a < 0 then graph is opening
+puomump
+(ii)
+Coordinates of vertex is
+V=
+XO
+(iv)
+Point where graph cuts y-axis
+0,C
+Root
+(v)
+Point where graph cuts x-axis are.
+of quadratic.
+(vi)
+=-b
+Graph of quadratic is symmetric about
+aa
+
+=== PDF PAGE 4 ===
+Question Practice
+
+=== PDF PAGE 5 ===
+Question
+x = √11 + 4 then value of x5 - 8x4 + 12x3 - 8x² + 11x + 5 is
+Remainder = 360x-235
+= h-&
+Ans.:360√11 + 1205
+SBS
+α²-8α+16 = 11
+x²- 8α + 5 = 0
+
+=== PDF PAGE 6 ===
+Re-atteupt
+Critical Thinking Question (cTQ)
+If both the roots of the quadratic equation x2 - (2n + 18)x -n - 11 = 0, n ∈ I,
+are rational, then find the value(s) of n.
+y
+# n+9=I,
+(<m+18)
+-4×1x(-n-1)
+))=
++ll = I,+2
+C
+²++
+(a(n+9))+ 4(n+11)
+= 0, 1, 4, 9,16
+P.S .
+P.S.
+4(n+9)²+4 (n+11
+1, =1
+=+9=1
+/n=-8
+{(m+9)²+(m+u)}
+I,=-2 = +9=-=
+n=-i
+auonbsnoyogk
++ve/o
+nt
+
+=== PDF PAGE 7 ===
+++
+#
+I,=0 >
+&
+X
+=-l =-1+= x
+1-a+a=
+I=-²
+个\
+I =1/=
+I+l+。=
+I,=3=9+3+=14
+X
+
+=== PDF PAGE 8 ===
+Question
+Draw graph of following quadratic :
+(i)
+f(x)=x²+x-12
+(ii)
+)f(x)=x-(1+x2)
+x+-1
+&4
+(3,0)
+(ii) f(x)= x²- 10x + 16
+(0-12)
+16
+()
+24
+3
+4
+[(0,-1)
+
+=== PDF PAGE 9 ===
+Acidic Question
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+十
+y-axis
+?
+=&
+ab2(3
+ΛO
+Given |a| < 2
+4at2b+C
+B
+ab < 0
+(Cc)
+bc(4a + 2b + c) >0
+(α,0)
+(β,0)
+=×m
+米**
+(2,0)
+x-axis
+>
+<
+aa
+b>b
+
+=== PDF PAGE 10 ===
+Acidic Question
+The graph of y = ax2 + bx + c is shown in the figure, then which of the
+following is(are) correct?
+?
+Valw at x =-2
+一
+y-axis
+=-2
+ab(4a - 2b + c) > 0
+4a -2b +C
+#
+Given ↓α| < 2
+o
+b2 > 4(a2 + ac)
+0(vx e (0, β)
+ax2+bx +g
+八
+(α,0)
+(β,0)
+辛米
+<
+?
+6²>4a²+4ac
+(2,0)
+x-axis
+for all.
+[α-β1
+√D
+b-4ac>
+(α-β1 =
+40
+[a]
+[α-β/ >2
+b-4ac
+#
+
+α-β1
+D
+2
+#|α-βl>4
+a
+al
+a
+
+=== PDF PAGE 11 ===
+AcidicQuestion
+The graph of y = ax² + bx + c is shown in the figure, then which of the
+following is(are) correct?
+y-axis
+ab(4a -2b + c) > 0
+Given |α| < 2
+b²>4a2+4ac
+b²> 4(a² + ac)
+E
+
+b-4ac>4a²
+F
+(d'o) = x A 0 <  + xq + zxn
+(α,0)
+(β,0)
+2_yac
+#
+(2,0)
+x-axis
+1
+[α-β]
+SBS
+#1α-β1>2
+#1α-pl>4
+
+=== PDF PAGE 12 ===
+W
+lαl<a
+tve
++ve
+tve
+α
+P
+ve
+
+=== PDF PAGE 13 ===
+HOW TOREADGRAPH
+# Answer the following True/False:
+y =f(x) = ax² + bx + c
+Graph is symmetric about x = 4.
+15
+Roots of Quadratic are x = 3, 5.
+3+5
+(i)
+f(6) > 0. →
+5
+(iv)
+) f(2) < 0. →
+(v)
+f(0) = 15
+
+
+=== PDF PAGE 14 ===
+HOWTOREADGRAPH
+# Answer the following True/False:
+y = f(x) = ax² + bx + c
+(vi)
+f(x) > 0 x ∈ (-,3) U (5, ∞)
+(vii)
+15
+f(x) < 0 x ∈ [3, 5]
++
+tve
+(vii)
+) f(1) = f(7)
+X
+(x!)
+f(3. 25). f(5. 28) > 0
+f
+f(x)<0 ≥x∈(3,5)
+-ve
++ve
+
+=== PDF PAGE 15 ===
+f(x)>
+f(x)=0
+Cases
+f(x)
+xe(∞,2]U[，∞)
+=-2,4
+XE
+X
+LFB
+#f
+x∈ R
+x=&
+
+=== PDF PAGE 16 ===
+THINK!!
+What should be the condition such that graph of Quadratic remains
+always above x-axis??
+-OXU
+comditim
+α>e
+α>
+xaxio
+Buruadg
+upwgrd
+片
+
+=== PDF PAGE 17 ===
+MOSTIMPORTANTNOTE
+Conditon
+ax² + bx + c > 0x E R
+=>Hw
+Graph lus
+一
+α>o
+α>C 
++ve 3Ref
+?
+completely
+above x-axu
+ax² +bx+c<0 x∈ R =
+>
+D°
+-vt
+m9
+$
+ax²+bx+c≥0 x∈R =
+Graph either
+B
+>C
+Lehe anobu-wou
+x0ix5ne
+<
+r compleely above
+ax²+ bx+c≤0 x∈R =
+x-axu
+D<O
+=
+non-positive 
+αo  D
+mgm
+
+=== PDF PAGE 18 ===
+alnay tve
+-ve
+#
+x+x+1
+α=1,
+Ix)xh-1= @ 
+Xolve
+=-3
+ex
+tve
+α-3) (α-4)
+#
+x+x+1
+-αx²+-3
+No Real Root
+Q=1-4(-2)(-3)
+-=D
+x-3)(α-4) ≥0
+-ve
+= 1-24
+Hhomgo
+-ve
+D=-Q3
+-ve
+
+=== PDF PAGE 19 ===
+Question
+Find the set of values of a for which the quadratic polynomial
+()
+(a + 4)x²-2ax+ 2a - 6≤0
+XAA
+
+
+(a - 1)x²-(a + 1)x +(a +1) >0 x ∈ R
+<
+α>
+ DIBY-
+>
+Λ○
+CChat!
+3
+?
+二
+α>+o
+(-aa)²-4(a+4)(xa-6) ≤ 0
+(a+6)（a-4) ≥0
+h->0
+Ha²-Y(aa²+8a-6a-24) ≤0
+a²-aa²-aa+ay<0
+—a²-aa+ay<0
+α(-∞,-6]
+a+aa-a4≥0
+
+=== PDF PAGE 20 ===
+Acidic Question
+Find the set of real values of 'a' for which the graph of the function
+ax² + 2(a + 1)x + 9a + 4
+f(x)
+is always below the x-axis.
+一
+x2 - 8x + 32
+-ve
+αx²+ a(a+1)x + 9a+4
+αE R
+αx²+2(a+1)x+9a+y
+MER
+书
+1x²- 8x+32
+>C
+
+ (a(a+1)²-ya(qa+y) (0 
+a=1,=(8)-4x1x32
+o>
+α>0,D<0
+=64-128
+A(a²+2a+1)-y(%a²+4a)<0
+#
+D=-64
+4a-1 )(&a+1)>0
+-8a²-2a+1<0
+alwoys +ve
+xθ
+∈(∞)
+411
+8²+2-1>0
+8²+4a-2a-1 >0
+4a(2a+1)-1(2a+1) >0
+
+=== PDF PAGE 21 ===
+S
+
+Bolutin
+#
+oA
+2uad.>0
+xeR
+Quad.=0 aeR
+
+quad. =y = f(x)
+Quad.(oxeR
+o>>
+=
+α
+Quad.<0xeR
+一
+
+=== PDF PAGE 22 ===
+Question
+If quadratic function f (x)touches x-axis at x = 3 and crosses y-axis at
+(0, -2), then find f(7).
+f(x) = -2 x² +μx -α 
+6
+f(x) =@x²+bx+@
+3
+=x
+C=-2
+f(+) =-2 x49 + μx4 -2
+α=3
+X
+@=o
+>
+9
+3
+>-b=3
+-98 +84 - 18
+/&a
+L5
+-b=6a oR
+b =-6a
+=-14-18
+2-4ac = D
+32
+9
+J
+X
+36α²-4a(-2)=0
+'o=D
+36a²+8a = 0
+b=-6x-2 :
+4a(9a+2)=0
+933
+
+=== PDF PAGE 23 ===
+&umit-
+mom
+f(x)=(x-3)(x-3)
+=k（x²-6x+9)
+R
+α=3
+=0,
+=-2
+f(x) =
+x²-(6)+ 9
+-=k(9)
+R
+(0 -2)
+?
+0=
+K=-
+6+x-=(t)f
+equal
+(2-6x+9)
+root
+= 4+9
+x=3,3
+6
+²+一
+！
+
+=== PDF PAGE 24 ===
+Question [JEE Mains-2020]
+Let f(x) be a quadratic polynomial such that f(-1) + f(2) = 0. If one of the
+roots of f(x) = 0 is 3, then its other root lies in:
+3x
+0
+A
+(-1, 0)
+B
+(—3,-1)
+(0, 1)
+D
+(1,3)
+
+=== PDF PAGE 25 ===
+DOITBYYOURSELF
+(DIBY)
+
+=== PDF PAGE 26 ===
+GRAPHOFQUADRATIC
+#DIBY-40
+Consider the graph f (x) = ax2 + bx + c and comment on sign of following parts:
+?
+(abc) is
+331=
+(4a + 2b + c) is
+for all x > 3, f(x) is
+For all - 2 <x < 3, f(x) is
+X
+Dis
+(vi)
+(a - b + c)·(9a - 3b + c) is
+Ans.:
+(i) +ve, (ii) -ve, (ili) +ve, (iv) -ve, (v) +ve, (vi) -ve
+
+=== PDF PAGE 27 ===
+GRAPH OFQUADRATIC
+# DIBY-41(challenger)
+Draw the graph of quadratic
+(y =ax²+bc+c)
+ each part with given
+conditions:
+Roots are 3 & 7 and crosses y-axis at (0, -2)
+()
+Imaginary roots with vertex at
+anda -b + c = 2.
+Touches x-axis at x =- 3 and value at x = 2 is -8.
+Also find value of a, b & c in each case.
+
+=== PDF PAGE 28 ===
+GRAPHOFQUADRATIC
+#DIBY-41(AnsWer)
+2
+20
+3
+a=
+b=
+X
+,C =-2
+21
+21
+(0,-2)
+a = 24, b = 36, c = 14
+(!!!)
+-8
+-48
+-72
+=D
+,b=
+C=
+25
+25
+25
+
+=== PDF PAGE 29 ===
+GRAPHOFQUADRATIC
+#DIBY-42
+If the equation ax² + bc + c = 0,(a > 0) has two real roots α and β such that α < -2
+and β > 2, then which of the following statements is/are true?
+(A)
+(B)
+a-|b| +c< 0
+c< 0, b² - 4ac > 0
+(c)
+(D)
+4a-2|b|+c<0
+9a-3|b| + c< 0
+[Ans.:A, B, C]
+#DIBY-43
+The adjoining figure shows the graph of y = ax² + bx + c. Then
+(A)
+0>n
+Y
+(B)
+b2 < 4ax
+(c)
+c> 0
+()
+a and b are of opposite sign
+X
+x1
+X2
+[Ans.:A, D]
+
+=== PDF PAGE 30 ===
+Homework
+# Re-attempt all Class Examples
+#DPP&DIBY
+
+=== PDF PAGE 31 ===
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+
