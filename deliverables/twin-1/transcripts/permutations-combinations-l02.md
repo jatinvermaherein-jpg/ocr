@@ -79,3 +79,42 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 **P:** red chip **Question**; **Number of solutions of equation |x^2 - |x|| = ln|x| is equal to** (no options printed on the slide).
 **H:** two pink construction sketches along the top — `y = |x^2 - |x||` (tents between `-1`, `0`, `1`, green ticks) and `y = ln|x|` (mirror log branches with a vertical asymptote); below, the combined plot on white axes: the green tent curve `|x^2 - |x||` with pink outer branches, the pink `ln|x|` curves crossing it at the dots `(±1, 0)`, yellow dashed guides to a level `2` and to `x = 2`, and a yellow `ln2` label with an arrow onto the curve; at the right a yellow arrow from the printed equation down to a yellow ringed `2` with the cursive `fnf` mark under it.
 **DIBY:** none. **U:** 2 — (a) the ringed figure is read as `2`, but the drawing shows crossings at x = 1 and x = 2 on each side (four in total), so whether the circle holds the final count or the count on x > 0 is not settled on the board; (b) the cursive `fnf` mark recurs here beneath it (sixth sighting, F-34).
+---
+<a id="p13"></a>
+## p13 · MAX. & MIN. CONCEPT OF GRAPHS — the two identities · label: — (no label)
+**P:** clipboard icon + red banner **MAX. & MIN. CONCEPT OF GRAPHS**; yellow/cyan `Printed` `(i) max.{f(x), g(x)} = (f(x)+g(x))/2 + |(f(x)-g(x))/2|` and `(ii) min.{f(x), g(x)} = (f(x)+g(x))/2 - |(f(x)-g(x))/2|` (fractions in green with the modulus bars drawn tall).
+**H:** none. **DIBY:** none. **U:** none.
+
+---
+<a id="p14"></a>
+## p14 · board — what max{ , } means · label: — (no header, board slide)
+**P:** none — board page.
+**H:** two yellow lines and nothing else: `# max.{2, 3, 4, 5} = 5.` and `y = max.{f(x), g(x)}`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p15"></a>
+## p15 · Example — draw four max/min graphs, three sketched · label: — (no label)
+**P:** red chip **Example**; cyan `(i) **Draw:** y = max.{x^2, x}`, `(ii) **Draw:** y = min.{x^2, x}`, `(iii) **Draw:** y = max.{2 - x^2, |x|, 1}`, `(iv) **Draw:** y = min.{sin x, cos x} **where** x in [0, 2pi]` (a cyan brace arc runs down the left from (iii) to (iv), and the interval is wavy-underlined).
+**H:** top right, the (i) envelope on white axes: red parabola and green line y = x crossing at O and at `1` (dashed white vertical), the winning pieces thickened in red with the inner segment in magenta. Bottom left, the (iii) plot: cyan labels `y = 2 - x^2, y = |x|, y = 1`; red bold envelope (parabola crown between -1 and 1 with a pink `2` at the peak, then the |x|-style outer branches), faint pink full parabola with roots labelled `-sqrt(2)` and `sqrt(2)`, green V inside, orange horizontal rule with white label `y = 1`, red dots at (-1, 1) and (1, 1) with dashed verticals to `-1`, `1`. Bottom right, the (iv) answer: a red wavy min-curve on white axes between dotted rules, with a red arrow from (iv) down to it.
+**DIBY:** none. **U:** none — (ii) is left unworked on this slide and drawn on p16.
+
+---
+<a id="p16"></a>
+## p16 · board — y = max{x^2, x} and y = min{x^2, x} side by side · label: — (no header, board slide)
+**P:** none — board page.
+**H:** left, cyan `(i) y = max.{x^2, x}` over red axes: a red curve following the parabola for x < 0 (vertex dot at the origin), the straight line from `0` to `1`, then the parabola again above the dashed white vertical at `1`. Right, cyan `(ii) y = min.{x^2, x}` over red axes: the red curve on the line for x < 0, the parabola arc between `0` and `1`, and the line again beyond the dashed vertical at `1`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p17"></a>
+## p17 · Bumper Question — the five "number of solutions" equations, assigned H.W. · label: **Page No.64**
+**P:** red chip **Bumper Question**; **Find number of solution of following equations:** cyan `(i) |sin pi x| = ln x`, `(ii) max.{sin x, cos x} = sqrt(3)/2, x in [0, 100pi]`, `(iii) min.{tan x, cot x} = 1/8, x in (-2pi, 2pi)`, `(iv) 2sin|x| - |x| + 1 = 0`, `(v) 3|cos x| = 5|sin x|, x in [0, 3pi]`.
+**H:** red `H.W.` inside a red circle with a double underline and a small dot at the left.
+**DIBY:** none (H.W. only). **U:** none — this is the same slide (same printed label `Page No.64`) that opens P&C L03 as its H.W. Discussion, where all five parts are solved (4 / 200 / 8 / 2 / 6): the two decks are the assignment and its answer key.
+
+---
+<a id="p18"></a>
+## p18 · PERMUTATIONS & COMBINATIONS (topic header) · label: — (chip only)
+**P:** black slide, white bold **PERMUTATIONS & COMBINATIONS** inside a thin red rectangle — the homework block ends and today's topic begins.
+**H:** none. **DIBY:** none. **U:** none.
