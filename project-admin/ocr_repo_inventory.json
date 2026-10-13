@@ -389,13 +389,13 @@
     "question_bank_editions": {
       "compact": {
         "file": "deliverables/DIBY_Questions.docx",
-        "est_pages": 42,
-        "layout": "A4, 1.5cm side / 1.3cm vertical margins, 0.95 line spacing, no spacer paragraphs, 10.5pt body"
+        "est_pages": 46,
+        "layout": "same clean content in a tighter setting: 10.5pt body, 1.5cm margins; same letter labels and commentary removal"
       },
       "print": {
         "file": "deliverables/DIBY_Questions_Print.docx",
-        "est_pages": 61,
-        "layout": "plain black-and-white personal copy: no cover, no contents, no header/footer, no per-question source line (chapter title + 'Lecture NN' + DIBY tag + question + options + answer only); 12pt body, 2.0cm margins, chapters start on odd pages, questions kept together"
+        "est_pages": 60,
+        "layout": "plain B&W personal copy: no cover/contents/header/footer/source line; chapter + 'Lecture NN' + DIBY tag + question + options + clean answer; commentary removed; untagged DIBYs relabelled DIBY A/B/C… (23); 12pt body, 2.0cm margins, odd-page chapter starts, flowing paragraphs"
       }
     }
   }

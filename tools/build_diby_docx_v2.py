@@ -86,6 +86,79 @@ def add_footer_page_number(sec):
 
 
 # --------------------------------------------------------------------- helpers
+def is_real_label(lbl: str) -> bool:
+    """A printed label is one carrying a DIBY number (DIBY-12, #DIBY-7) or DIBY-X."""
+    return bool(re.search(r"DIBY\s*[-\u2013]?\s*(\d+|X)\b", lbl or "", re.I))
+
+
+def letter_label(n: int) -> str:
+    """0 -> A, 1 -> B, ... 25 -> Z, 26 -> AA (for DIBYs with no printed tag)."""
+    n += 1
+    out = ""
+    while n > 0:
+        n, rem = divmod(n - 1, 26)
+        out = chr(65 + rem) + out
+    return out
+
+
+COMMENTARY = re.compile(r"\b(slide|board|handwrit|cyan|red box|ticked|working|"
+                       r"pre-filled|homework|unclear|illegible|on-board|see |on p\d|"
+                       r"SOLVED|not on this)\b", re.I)
+NO_ANSWER = re.compile(r"\bnone shown\b|\bnot shown\b|four dots|assigned as homework|"
+                       r"\bblank in the source\b", re.I)
+JUNK_ANSWER = re.compile(r"^[\s.\-_(]*\)?[\s.\-…]*$")
+
+
+def answer_short(ans: str) -> str:
+    """Return a clean short answer; all descriptive commentary is dropped."""
+    ans = (ans or "").strip()
+    if not ans or ans.lower().startswith("none"):
+        return ""
+    if NO_ANSWER.search(ans) and "[Ans." not in ans:
+        return ""
+
+    def tidy(v: str) -> str:
+        v = re.sub(r"\bAns\.?\s*[:.]?\s*", "", v.strip(), flags=re.I)      # inner "Ans.:" too
+        v = re.sub(r"\s*\([^)]*(?:printed|red box|cyan|handwrit|ticked|slide|board|"
+                   r"pre-filled|homework)[^)]*\)?", "", v, flags=re.I)
+        v = re.sub(r"\s{2,}", " ", v).strip(" ;,.-")
+        return "" if not v or JUNK_ANSWER.match(v) or not re.search(r"[A-Za-z0-9]", v) else v
+
+    # 1) list-style answer, e.g. "(i) y in (-inf, -2], (ii) ..."
+    if re.match(r"^\s*\(\s*i\s*\)", ans) and len(ans) <= 90 and not COMMENTARY.search(ans):
+        v = tidy(ans)
+        if v:
+            return f"[Ans.: {v}]"
+
+    # 2) bracketed answer anywhere
+    m = re.search(r"\[\s*Ans\.?\s*:?\s*([^\]]{1,90})\]", ans, re.I)
+    if m:
+        v = tidy(m.group(1))
+        if v:
+            return f"[Ans.: {v}]"
+
+    # 3) "Ans.: …" prefix — take the value, cut off commentary that follows
+    m = re.match(r"^\s*Ans\.?\s*[:.]?\s*(.+)$", ans, re.I)
+    if m:
+        v = re.split(r";|\s\(on-board|\bboard\b", m.group(1))[0]
+        v = re.split(r"\.\s+(?=[A-Z])", v)[0]          # drop a trailing sentence
+        v = tidy(v)
+        if v and len(v) <= 60:
+            return f"[Ans.: {v}]"
+
+    # 4) option letter at the start
+    m = re.match(r"^\s*\(([A-Da-d])\)", ans)
+    if m:
+        return f"[Ans.: ({m.group(1).upper()})]"
+
+    # 5) already a short, plain answer
+    if len(ans) <= 60 and not COMMENTARY.search(ans):
+        v = tidy(ans)
+        if v:
+            return f"[Ans.: {v}]"
+    return ""
+
+
 def norm_tag(label: str, internal: str, marker: str) -> str:
     """Display tag: normalise '#DIBY-36' -> 'DIBY-36'."""
     lab = (label or "").strip().lstrip("#").strip()
@@ -204,6 +277,16 @@ def main():
     omml = latex_to_omml(all_latex)
     print(f"maths spans: {len(set(all_latex))} unique, {len(omml)} rendered as Word equations")
 
+    # labels: a printed DIBY number stays; anything else becomes DIBY A, DIBY B, ...
+    counter = 0
+    for r, _, _ in prepared:
+        if is_real_label(r["printed_label"]):
+            r["print_label"] = norm_tag(r["printed_label"], "", r["marker_text"])
+        else:
+            r["print_label"] = f"DIBY {letter_label(counter)}"
+            counter += 1
+    print(f"letter-labelled DIBYs (no printed tag): {counter}")
+
     # 2) build the document
     doc = Document()
     setup_page(doc.sections[0])
@@ -270,13 +353,9 @@ def main():
         tag.paragraph_format.space_before = Pt(5)
         tag.paragraph_format.space_after = Pt(1)
         tag.paragraph_format.keep_with_next = True
-        tr = tag.add_run(norm_tag(r["printed_label"], r["internal_id"], r["marker_text"]))
+        tr = tag.add_run(r["print_label"])
         tr.bold = True
         tr.font.size = Pt(10)
-        pg = tag.add_run(f"   ·   {r['source_pdf']} — p{r['pdf_page']}")
-        pg.font.size = Pt(7.5)
-        pg.italic = True
-        pg.font.color.rgb = GREY
 
         # question paragraph (italic, maths inline, answer right-aligned)
         q = doc.add_paragraph()
@@ -289,7 +368,7 @@ def main():
             else:
                 run = q.add_run(val)
                 run.italic = True
-        short, long_note = clean_answer(r["answer"])
+        short = answer_short(r["answer"])
         if short:
             tab = q.add_run("\t" + short)
             tab.italic = True
@@ -309,17 +388,6 @@ def main():
                     run.italic = True
                     run.font.size = Pt(9)
                     run.font.color.rgb = GREY
-
-        # long answer note
-        if long_note:
-            an = doc.add_paragraph()
-            an.paragraph_format.space_after = Pt(1)
-            an.paragraph_format.left_indent = Cm(0.35)
-            an.paragraph_format.line_spacing = 0.92
-            ar = an.add_run(long_note)
-            ar.italic = True
-            ar.font.size = Pt(8)
-            ar.font.color.rgb = GREY
 
     doc.save(OUT)
     print("wrote", OUT, os.path.getsize(OUT), "bytes")
