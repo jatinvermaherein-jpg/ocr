@@ -60,8 +60,12 @@ def log_conf_lines(rec, thr=0.65):
     return low_conf_lines(rec, thr)
 
 
-def auto_diby(rec):
-    """Fallback DIBY extraction from OCR text for pages without manual notes."""
+def auto_diby(rec, meta):
+    """Fallback DIBY extraction from OCR text for pages without manual notes.
+
+    Returns plain row dicts (never callables). Since these come from the machine pass
+    alone, every row is explicitly stamped 'auto-extract' / pending visual confirmation.
+    """
     import re as _re
     prim = rec["pass_A_native"] if rec["primary_pass"] == "A" else rec["pass_B_adapted"]
     lines = [l["text"] for l in prim["lines"]]
@@ -79,17 +83,14 @@ def auto_diby(rec):
                 ans = t2.strip()
             else:
                 prompt.append(t2.strip())
-
-        def row(prompt=" ".join(prompt), opts=opts, ans=ans, label=label):
-            return {"Chapter": meta["chapter"], "Lecture No.": meta["lecture"],
+        out.append({"Chapter": meta["chapter"], "Lecture No.": meta["lecture"],
                     "Source PDF": meta["source_pdf"], "PDF page": rec["page"],
                     "DIBY marker": label, "Printed question number/letter (exact)": label,
                     "Internal ID (only if no printed label)": "",
-                    "Prompt (verbatim)": prompt, "Options": "; ".join(opts),
+                    "Prompt (verbatim)": " ".join(prompt), "Options": "; ".join(opts),
                     "Visible solution/answer": ans,
                     "Uncertainty note": "auto-extracted from OCR; pending visual confirmation",
-                    "QA status": "auto-extract"}
-        out.append(row)
+                    "QA status": "auto-extract"})
     return out
 
 
@@ -109,7 +110,7 @@ def build_transcript(slug, meta, pages, qa):
     L.append(f"- Source PDF: `{meta['source_pdf']}`")
     L.append(f"- SHA-256: `{meta['sha256']}`")
     L.append(f"- Pages: {meta['pages']} (reviewed: {len(pages)})")
-    L.append("- Worker: Twin 2 (session branch arena/02fffb3f-ocr; plan branch ocr/twin-2-pc05-11-quadratic01-08)")
+    L.append("- Worker: independent cross-check layer (session branch arena/02fffb3f-ocr); block owner: Twin 2 (merged, ocr-output/twin-2/)")
     L.append(f"- QA reviewer: {qa.get('__reviewer__', AGENT) if isinstance(qa, dict) else AGENT}")
     L.append("")
     for rec in pages:
@@ -199,7 +200,7 @@ def main():
                     "QA status": "visual-full" if note.get("verified_text") else "visual-scan",
                 })
             if not dibs and "DIBY" in rec["text"].upper():
-                for m in auto_diby(rec):
+                for m in auto_diby(rec, meta):
                     diby.append(m)
             if uncert:
                 page_unc.setdefault(p, []).extend(uncert)
@@ -218,7 +219,7 @@ def main():
         w.writeheader()
         w.writerows(diby)
     with open(os.path.join(OUT, "uncertainty_log.md"), "w") as fh:
-        fh.write("# Uncertainty / issue log - Twin 2\n\n")
+        fh.write("# Uncertainty / issue log - independent cross-check (block owner: Twin 2)\n\n")
         fh.write("Every entry cites PDF page and location/reading. Nothing below was silently corrected.\n\n")
         if not unc:
             fh.write("(none recorded yet)\n")
