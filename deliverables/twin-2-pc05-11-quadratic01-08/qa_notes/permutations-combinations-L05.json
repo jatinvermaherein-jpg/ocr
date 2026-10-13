@@ -1,0 +1,350 @@
+{
+ "slug": "permutations-combinations-L05",
+ "chapter": "Permutations & Combinations",
+ "lecture": 5,
+ "source_pdf": "Permutations and Combinations 05 Class Notes.pdf",
+ "qa_reviewer": "arena-twin2-agent",
+ "method": "Full visual QA from 2-up native-resolution contact sheets (page 1-32), with 300-340 dpi zoomed crops used to resolve handwriting ambiguities (p4 case table, p29 DIBY-13 work). Every page of the source was viewed; no sampling.",
+ "pages": {
+  "1": {
+   "type": "cover",
+   "topic": "Cover slide",
+   "verified_text": "ARJUNA | JEE 2027 | Lecture -05 | Mathematics | PERMUTATIONS AND COMBINATIONS | By- Sachin Jakhar Sir",
+   "diagram": "ARJUNA JEE 2027 branding, instructor photo (Sachin Jakhar Sir) wearing black polo with 'Physics' mark, compass/pencil graphics, PW logo top-right",
+   "qa": "Cover confirms chapter = Permutations and Combinations, lecture = 05; matches filename and plan allocation for Twin 2."
+  },
+  "2": {
+   "type": "topics",
+   "topic": "Topics to be covered",
+   "verified_text": "Topics to be covered (handwritten cursive) | A Uses of nCr (boxed red) | B Gap & Tie Method (boxed red) | C Question Practice | D (label printed, no text)",
+   "diagram": "3D question-mark with thinking pencil mascot on right",
+   "qa": "Printed A/B/C/D labels with handwritten topic titles; D is an empty printed label."
+  },
+  "3": {
+   "type": "divider",
+   "topic": "H.W. Discussion",
+   "verified_text": "H.W. Discussion (boxed red, centred)",
+   "diagram": "none (mostly empty dark slide)",
+   "qa": "Section divider."
+  },
+  "4": {
+   "type": "question",
+   "topic": "Challenger Question [JEE Mains-2022] - 7-digit multiples of 11",
+   "verified_text": "Challenger Question [JEE Mains-2022] | Page No.127 | The number of 7-digits numbers which are multiples of 11 and are formed using all the digits 1,2,3,4,5,7 and 9 is ______ . | Sum = 31 | (a+c+e+g) - (b+d+f) = 0, ±11, ±22, ±33 ... (0 crossed out, ±11 ticked in red box, ±22/±33 crossed out) | 7-slot layout with down-arrows marking odd/even positions | Case table (2 columns x 4 rows, cyan digit-sums): left (3,4,5,9)=21, (2,3,7,9)=21, (1,4,7,9)=21, (1,2,3,4)=10; right (7,2,1)=10, (5,4,1)=10, (5,3,2)=10, (5,7,9)=21 | arrow from (7,2,1) -> 4! x 3! = 144 | = 144 | = 144 | = 144 | total 576 ans.",
+   "diagram": "9 blank slots; down-arrows under odd/even positions; wavy white arrow linking a case to its 4!x3! evaluation",
+   "diby": [],
+   "issues": [
+    "Printed digit set re-verified at 400 dpi: 'using all the digits 1, 2, 3, 4, 5, 7 and 9' (7 digits, sum 31; consistent with the Sum = 31 annotation). RESOLVED - previously ambiguous between 7 and 8.",
+    "Top-right cloud badge contains a printed/cursive word overlaid in a star-cloud; legible candidates 'Reattempt' / 'Permutation' but not resolvable at 400 dpi. Logged [UNCLEAR]; not used as content.",
+    "Case table verified at 340 dpi: left column (3,4,5,9)=21, (2,3,7,9)=21, (1,4,7,9)=21; right column (7,2,1)=10, (5,4,1)=10, (5,3,2)=10, (5,7,9)=21; bottom-left (1,2,3,4)=10, bottom-right (5,7,9)=21. Total 4!x3! = 144 shown four times, then 576."
+   ]
+  },
+  "5": {
+   "type": "question",
+   "topic": "Question [JEE Mains-2023] - integers > 7000 from digits 3,5,6,7,8",
+   "verified_text": "Question [JEE Mains-2023] | The number of integers, greater than 7000 that can be formed, using the digits 3,5,6,7,8 without repetition, is | A 120 | B 168 | C 220 | D 48 | (handwritten) 5-digit: 5! = 120 | 4-digit: 3 x 4 x 3 x 2 = ... = 48 (A ticked, D ticked; 120 + 48 left implied)",
+   "diagram": "handwritten slot diagrams: 1 blank + four circles (4-digit case, first digit 7 or 8 -> 2 choices shown as '3 x 4 x 3 x 2' with a curl under the leading factor) and five circles (5-digit case)",
+   "diby": [],
+   "issues": [
+    "RESOLVED at 340 dpi: handwritten 4-digit case is '2 x 4 x 3 x 2 = 48' - leading digit '2' is written with a curl, giving 2 x 4 x 3 x 2 = 48 (first digit 7 or 8). With the 5-digit case 5! = 120, the sum is 168 = printed option (B), which is the ticked answer. Earlier doubt about a '3 x ...' product was a misread of the curled '2'.",
+    "'A 120' also carries a tick/line, marking the 5-digit partial count; only (B) 168 is the ticked final answer."
+   ]
+  },
+  "6": {
+   "type": "question",
+   "topic": "Question [JEE Mains-2022] - passwords, alpha x 5^6",
+   "verified_text": "Question [JEE Mains-2022] | Let S be the set of all passwords which are six to eight characters long, where each character is either an alphabet from {A,B,C,D,E} or a number from {1,2,3,4,5} with the repetition of characters allowed. If the number of passwords in S whose at least one character is a number from {1,2,3,4,5} is alpha x 5^6, then alpha is equal to | (handwritten) 10^6 - 5^6 | 10^7 - 5^7 | 10^8 - 5^8 | totals written as 10^6+10^7+10^8 - (5^6+5^7+5^8) = alpha x 5^6 | alpha = 7073 | red box: 'ek bhi no. na use hua ho', 'ek no. use hua ho', 'do no. use hue ho' (Hinglish case split: 0/1/2+ numbers used)",
+   "diagram": "two groups of five small circles with down-arrows (6-char and 8-char layouts), '10' written at each junction, 6^6 annotation",
+   "diby": [],
+   "issues": [
+    "Two different reading chains appear on the slide: a '6^6' annotation near the circle diagram and the main chain using 10^6/10^7/10^8 minus 5^k. Both transcribed; no correction applied.",
+    "Working continues on p7 (carried-over partial)."
+   ]
+  },
+  "7": {
+   "type": "question",
+   "topic": "Question (JEE Mains-2022) - carried-over working for alpha",
+   "verified_text": "(continuing) 10^6 + 10^7 + 10^8 - (5^6 + 5^7 + 5^8) = alpha x 5^6 | 10^6 (1 + 10 + 100) - 5^6 (1 + 5 + 5^2) | 5^6/5^6 = (111) - 5^6/5^6 x 31 | 5^6 (64 x 111 - 31) | arrow -> 7073",
+   "diagram": "curly braces under the 1+10+100 and 1+5+25 groups; arrow to the final value",
+   "diby": [],
+   "issues": [
+    "The step written as '5^6/5^6 = (111) - 5^6/5^6 x 31' is algebraically incomplete as drawn (the two fractions cancel to give alpha = 111*64 - 31); transcribed verbatim, not corrected."
+   ]
+  },
+  "8": {
+   "type": "question",
+   "topic": "Question - 2nP4 = 396 x nP2",
+   "verified_text": "Question | If 2nP4 = 396 x nP2, then the value of n, is | A 4 | B 5 | C 6 | D 7 | (handwritten) (2n)! / (2n-4)! = 396 x n! / (n-2)! | 2n(2n-1)(2n-2)(2n-3) / (2n-4)! = 396 x n(n-1)2! / (n-2)! | (2n-1)(2n-3) = 11 x 9 | 2n-3 = 9 -> n = 6 (circled; option C ticked)",
+   "diagram": "yellow strike-throughs cancelling (2n-4)! and (n-2)!; blue oval around '2n-3 = 9' and 'n = 6'",
+   "diby": [],
+   "issues": []
+  },
+  "9": {
+   "type": "question",
+   "topic": "Question [JEE Mains-2019] - committee of 11 from 8 males, 5 females",
+   "verified_text": "Question [JEE Mains-2019] | A committee of 11 members is to be formed from 8 males and 5 females. If m is the number of ways the committee is formed with at least 6 males and n is the number of ways the committee is formed with at least 3 females, then | A m = n = 68 | B m + n = 68 | C m = n = 78 | D n = m - 8 | (handwritten) 8M, 5F | m = 8C6.5C5 + 8C7.5C4 + 8C8.5C3 = 78 (B ticked)",
+   "diagram": "green list of the male/female splits; 'B' option circled with a diagonal mark",
+   "diby": [],
+   "issues": [
+    "Handwritten n is listed as '(8M3F, 7M4F, 6M5F)' with the sum left blank - the completion for n is not on this slide. Transcribed as drawn."
+   ]
+  },
+  "10": {
+   "type": "example",
+   "topic": "Example - dice rolled 3 times (Page No.128)",
+   "verified_text": "Example | Page No.128 | A dice is rolled 3 times, top-most face is considered as outcome then find the number of outcome such that: | (i) 5 appears atleast once. | (ii) All 3 outcomes are different. | (iii) Exactly 2 outcomes are same. | (handwritten) (i) 6 6 6 slots | Total = 6^3 | atleast once = Total - (zero times) = 6^3 - 5^3 = 91 | (ii) 6 x 5 x 4 = 120 | (iii) red box 'ex = 325 / 164 / 233 / 235' fraction stack with 'ex =' written beside it",
+   "diagram": "22 stars row at top; three circles (6 6 6) for the slots; red-boxed fraction column",
+   "diby": [],
+   "issues": [
+    "The red-boxed column beside (iii) reads as a stack of 4-digit numbers (325 / 164 / 233 / 235) under 'ex ='; the meaning of these numbers is not stated on the slide and they are not used in the visible chain - recorded verbatim, unresolved.",
+    "(iii) is answered on p11."
+   ]
+  },
+  "11": {
+   "type": "example",
+   "topic": "Example (contd.) - exactly 2 outcomes same",
+   "verified_text": "(iii) Total = 6^3 | all different = 120 | exactly 2 out. are same (red box) = 216 - (120) | all same = 6 | -> = 90 (circled) | OR | {1,2,3,4,5,6} | 3,4 -> 334 / 343 / 433 | 4,3 -> 443 / 434 / 344 | red box: select any 2 x no. of outcomes = 6C2 x 6 | 15 x 6 = 90 (circled)",
+   "diagram": "arrow fan from Total=6^3 to the three cases; circled (3,4) with the six arrangements listed; red boxes around the two key expressions; 3 stars bottom-right",
+   "diby": [],
+   "issues": []
+  },
+  "12": {
+   "type": "theory",
+   "topic": "Rule card - Atleast once / Atleast twice",
+   "verified_text": "Atleast once = Total - (zero Times) | Atleast two = Total - (zero Times) - (1 Time) | (surrounded by a blue cloud border with gold stars)",
+   "diagram": "blue cloud outline ringed with many gold stars",
+   "diby": [],
+   "issues": []
+  },
+  "13": {
+   "type": "theory",
+   "topic": "CONSIDER OCTAGON (n = 8)",
+   "verified_text": "CONSIDER OCTAGON (n = 8) | (i) no. of diagonals = 8C2 - (8) (red box, 'Sides' annotated over the (8)) | (ii) no. of A's having 1 side common with Octagon = 8 x 4 = 32 | (iii) 2 sides common = 8 | (iv) no sides common = 8C3 - (32 + 8)",
+   "diagram": "octagon with vertices numbered 1-8 (numbered in yellow/orange), green outline",
+   "diby": [],
+   "issues": [
+    "Zoomed verification (330-340 dpi): (ii) reads 'no. of Δ's having 1 side common with Octagon = 8 x 4 = 32'; (iii) 'no. of Δ's having 2 sides common = 8'; (iv) 'no. of Δ's having no sides common = 8C3 - (32+8)'. The Δ glyph is written as a small triangle and was resolved from the zoomed crop, not inferred.",
+    "Printed page label on the slide is absent; this is a working slide (octagon figure numbered 1-8)."
+   ]
+  },
+  "14": {
+   "type": "question",
+   "topic": "Question [JEE (Adv.)-2014/JEE Mains-2020] - Metro stations, red vs blue lines",
+   "verified_text": "Question [JEE (Adv.)-2014/JEE Mains-2020] | Page No.130 | Let n > 2 be an integer. Suppose that there are n Metro stations in a city located along a circular path. Each pair of stations is connected by a straight track only. Further, each pair of nearest stations is connected by blue line, whereas all remaining pairs of stations are connected by red line. If the number of red lines is 99 times the number of blue lines, then the value of n is | A 199 | B 201 | C 101 | D 200 | (handwritten) blue lines -> sides | Red line -> diagonal | diagonal = 99 sides | nC2 = 99n | nC2 = 100n | n = 201 (blue annotation) | n(n-1)/2 = 100n | n-1 = 200 | n = 201 (B ticked)",
+   "diagram": "circle with n marked stations, blue chords (sides) and red chords (diagonals) drawn; orange/blue legend arrows",
+   "diby": [],
+   "issues": []
+  },
+  "15": {
+   "type": "question",
+   "topic": "Question - number of straight lines and triangles from points on a quadrilateral",
+   "verified_text": "Question | (i) Number of Straight lines. (ii) Number of Triangles. | (handwritten) Total points = 7 + 6 + 5 + 4 = 22 | 22C2 - (5C2 + 4C2 + 7C2 + 6C2) + ... = 231 - (10 + 6 + 21 + 15) = 183 (red box around the expression) | 22C3 - (5C3 + 4C3 + 6C3 + 7C3) = 1441 (second red box)",
+   "diagram": "yellow quadrilateral outline with marked points distributed 7/6/5/4 along the four sides",
+   "diby": [],
+   "issues": [
+    "Zoomed verification: the evaluation line for part (i) reads '231 - (10 + 6 + 21 + 15) = 183' with a magenta '186' written twice above it (reworking marks). Written arithmetic is inconsistent with the stated 183; transcribed verbatim, NOT corrected - flagged for coordinator.",
+    "Number of triangles (part ii) = 1441, written to the right of the second red box."
+   ]
+  },
+  "16": {
+   "type": "theory",
+   "topic": "IMPORTANT RESULTS (RAR) - n-sided polygon",
+   "verified_text": "IMPORTANT RESULTS (RAR badge) | Page No.130 | # In 'n' sided polygon the triangles are formed by joining the vertices of polygon then: | (a) Number of triangles having one side common with the sides of polygon = n(n-4) | (b) Number of triangles having two side common with the sides of polygon = n | (c) Number of triangles having no side common with polygon = nC3 - (n(n-4) + n) | (d) Number of diagonals in 'n' - sided polygon = nC2 - (n) (red box)",
+   "diagram": "clipboard+pencil icon at left; 'RAR' cloud badge top-right",
+   "diby": [],
+   "issues": []
+  },
+  "17": {
+   "type": "example",
+   "topic": "# COUNTING POINT OF INTERSECTION - Example, 7 straight lines",
+   "verified_text": "# COUNTING POINT OF INTERSECTION | Example | There are 7 straight lines in a plane, then find maximum number of point of intersection possible. | (handwritten) 7C2 x 1 = 21.",
+   "diagram": "seven red lines drawn so as to maximise intersections, with small circles marking each intersection point; 'maximum' circled",
+   "diby": [],
+   "issues": []
+  },
+  "18": {
+   "type": "example",
+   "topic": "# COUNTING POINT OF INTERSECTION - Example, 7 lines, 4 concurrent",
+   "verified_text": "# COUNTING POINT OF INTERSECTION | Example | There are 7 straight lines in a plane out of which 4 are concurrent, then find maximum number of point of intersection possible. | (handwritten) 7C2 - 4C2 + 1 | = 21 - 6 + 1 = 16 (circled)",
+   "diagram": "purple handwritten margin note 'passing through same point' linked by an arrow to the word 'concurrent'",
+   "diby": [],
+   "issues": []
+  },
+  "19": {
+   "type": "example",
+   "topic": "# COUNTING POINT OF INTERSECTION - Example, 11 lines, 4 concurrent, 3 parallel",
+   "verified_text": "# COUNTING POINT OF INTERSECTION | Example | There are 11 straight lines in a plane out of which 4 are concurrent & 3 are parallel, then find maximum number of point of intersection possible. | (handwritten) P.I. = 11C2 - 4C2 - 3C2 + 1",
+   "diagram": "red sketch: four lines through one point (concurrent) plus three parallel lines",
+   "diby": [],
+   "issues": [
+    "The expression is left unevaluated on the slide (numeric value not written). Reading '4C2' / '3C2' is unambiguous at 2-up; the trailing '+ 1' is present with no further work."
+   ]
+  },
+  "20": {
+   "type": "example",
+   "topic": "# COUNTING POINT OF INTERSECTION - Example, 4 lines, 3 circles, 2 parabolas",
+   "verified_text": "# COUNTING POINT OF INTERSECTION | Example | Page No.131 | There are 4 straight lines, 3 circles and 2 parabolas are present, then find maximum number of point of intersection possible. | (handwritten) Total poi. = [ (4C2 x 1) + 4C1 x 3C1 x 2 + 4C1 x 2C1 x 2 ] + [ 3C2 x 2 + 3C1 x 2C1 x 4 + 2C2 x 4 ] | column labels: L-L, L-C, L-P (top row); C-C, C-P, P-P (bottom row)",
+   "diagram": "two red boxes grouping the line-pairs block and the circle/parabola block; cyan column headers",
+   "diby": [],
+   "issues": [
+    "The visible per-pair multipliers (x1, x2, x4) are as drawn: line-line 1, line-circle 2, line-parabola 2, circle-circle 2, circle-parabola 4, parabola-parabola 4. Transcribed verbatim.",
+    "Expression left unevaluated on the slide."
+   ]
+  },
+  "21": {
+   "type": "example",
+   "topic": "# COUNTING RECTANGLES & SQUARES - 7x6 grid squares",
+   "verified_text": "# COUNTING RECTANGLES & SQUARES | Example | Page No.131 | Count total possible Squares and Rectangles in given arrangement. [grid: 6 columns x 7 rows] | (handwritten) Every Square is a Rectangle. | Squares of (1x1) = 7 x 6 = 42 | '' (2x2) = 6 x 5 = 30 | (3x3) = 5 x 4 = 20 | (4x4) = 4 x 3 = 12 | (5x5) = 3 x 2 = 6 | (6x6) = 2 x 1 = 2 | no. of vertical lines = 7 | no. of horiz. lines = 8 | no. of Rectangles = 7C2 x 8C2",
+   "diagram": "6x7 cell grid with cyan dimension arrows (6 across, 7 up); 'Squares' and 'Rectangles' circled in the question line",
+   "diby": [],
+   "issues": [
+    "The squares list is 6 entries (1x1 ... 6x6); the caption in the printed question is as shown. Sum 112 not written on the slide."
+   ]
+  },
+  "22": {
+   "type": "example",
+   "topic": "# COUNTING RECTANGLES & SQUARES - 7x6 grid, odd-dimension rectangles",
+   "verified_text": "# COUNTING RECTANGLES & SQUARES | Example | Page No.131 | Count total possible Squares and Rectangles in given arrangement. [same 6x7 grid] | (handwritten) Every Square is a Rectangle. | # no. of Rectangle with odd - dimensions: 12C1 x 16C1 = (12x16) | both l & b are odd. | Horizontal -> 1unit -> 6 opts. | 3unit -> 4 opts. | 5unit -> 2 opts. | Total = 12 | Vertical -> 1unit -> 7 opts. | 3unit -> 5 opts. | 5unit -> 3 opts. | 7unit -> 1 opts. | Total = 16",
+   "diagram": "'odd - dimensions' circled in orange; cyan dimension arrows again; totals circled in cyan",
+   "diby": [],
+   "issues": [
+    "'opts.' is the handwritten abbreviation used on the slide (options). The product 12x16 = 192 is written in orange above the bracket."
+   ]
+  },
+  "23": {
+   "type": "example",
+   "topic": "Grid illustrations - counting rectangles in a line lattice",
+   "verified_text": "(handwritten) no. of || gms = 9C2 x 7C2  [9 vertical and 7 horizontal red/green lines drawn]",
+   "diagram": "red-green line lattice sketch (9 vertical, 7 horizontal); no printed text on the slide",
+   "diby": [],
+   "issues": [
+    "Handwritten '|| gms' is read as an abbreviation of 'parallelograms'; the word is never written out. Logged as [UNCLEAR] with that candidate reading (alternative: 'diagrams')."
+   ]
+  },
+  "24": {
+   "type": "question",
+   "topic": "Question [IIT-JEE-2005] - rectangles of odd unit length",
+   "verified_text": "Question [IIT-JEE-2005] | Page No.131 | There is a rectangular sheet of dimension (2m-1) x (2n-1), (where m > 0, n > 0). It has been divided into square of unit area by drawing line perpendicular to the sides. Find the number of rectangles having sides of odd unit length. | A (m + n + 1)^2 | B mn(m + 1)(n + 1) | C 4^(m+n-2) | D m^2 n^2 | (handwritten) H.W. circled in red (homework marker)",
+   "diagram": "(2m-1) x (2n-1) grid outline at right with dimension labels 2m-1 (top) and 2n-1 (left)",
+   "diby": [],
+   "issues": [
+    "Marked H.W. by the instructor (red circle). No answer ticked on the slide."
+   ]
+  },
+  "25": {
+   "type": "question",
+   "topic": "Challenger Question - 5 pairs of shoes, select 4",
+   "verified_text": "Challenger Question | Page No.129 | Total 5 different pair of shoes are there, you need to select only 4 shoes such that | (i) No restriction | (ii) Exactly 1 pair of should be formed | (iii) Exactly 2 pair of should be formed | (iv) No pair should form",
+   "diagram": "blue circle enclosing a small shoe-pair sketch at right of (i)",
+   "diby": [],
+   "issues": [
+    "Printed wording is as shown ('pair of shoes' / 'pair of should be formed' / 'No pair should form') - source grammar kept verbatim, not corrected."
+   ]
+  },
+  "26": {
+   "type": "divider",
+   "topic": "DO IT BY YOURSELF (DIBY)",
+   "verified_text": "DO IT BY YOURSELF (DIBY) - yellow rounded badge, centred",
+   "diagram": "none (otherwise empty slide)",
+   "diby_note": "DIBY section divider",
+   "diby": [],
+   "issues": []
+  },
+  "27": {
+   "type": "diby",
+   "topic": "# DIBY-11 - 4-digit integers in [2022, 4482]",
+   "verified_text": "# DIBY-11 | Find the number of 4 digit integers in the closed interval [2022, 4482] which can be formed using the digits {0,2,3,4,6,7}. | [JEE (Adv.)-2022] | [Ans. : 569]",
+   "diagram": "no working on this page - question card only",
+   "diby": [
+    {
+     "printed_label": "# DIBY-11",
+     "prompt": "Find the number of 4 digit integers in the closed interval [2022, 4482] which can be formed using the digits {0,2,3,4,6,7}.",
+     "options": [],
+     "answer": "[Ans. : 569]",
+     "uncertainty": "None. Printed label # DIBY-11 exact."
+    }
+   ],
+   "issues": []
+  },
+  "28": {
+   "type": "diby",
+   "topic": "# DIBY-12 - 3-digit numbers not divisible by 3",
+   "verified_text": "# DIBY-12 | The number of 3-digit numbers, formed using the digits 2, 3, 4, 5 and 7, when the repetition of digits is not allowed, and which are not divisible by 3, is equal [JEE Mains-2024] [Ans. : 36]",
+   "diagram": "three circles (slot diagram) with '5 x 4 x 3 = 60' below; orange arrow to 'not div. by 3' (Req.) with 'div. by 3' crossed out",
+   "diby": [
+    {
+     "printed_label": "# DIBY-12",
+     "prompt": "The number of 3-digit numbers, formed using the digits 2, 3, 4, 5 and 7, when the repetition of digits is not allowed, and which are not divisible by 3, is equal",
+     "options": [],
+     "answer": "[Ans. : 36]",
+     "uncertainty": "None. Printed label # DIBY-12 exact."
+    }
+   ],
+   "issues": []
+  },
+  "29": {
+   "type": "diby",
+   "topic": "# DIBY-13 - 3-digit numbers divisible by 6",
+   "verified_text": "# DIBY-13 | Total numbers of 3-digit numbers that are divisible by 6 and can be formed by using the digits 1,2,3,4,5 with repetition, is ______ . [JEE Mains-2023] [Ans. : 16]",
+   "diagram": "two circled slots: '2' (units place) and '4' (units place); magenta work: '2,2,2' checked, '2,3,1' , '2,4,3' , '3,3,3 x' ; '00 2 -> (2)' with '2x1' beneath; a division-style column: 2 | 2 2 / 3,1 / 4,3 / 5,2",
+   "diby": [
+    {
+     "printed_label": "# DIBY-13",
+     "prompt": "Total numbers of 3-digit numbers that are divisible by 6 and can be formed by using the digits 1,2,3,4,5 with repetition, is ______ .",
+     "options": [],
+     "answer": "[Ans. : 16] (printed)",
+     "uncertainty": "Handwritten working verified at 340 dpi: the digit-triples list reads 2,2,2 (checked) / 2,3,1 / 2,4,3 / 3,3,3 (crossed). The two circled digits (2 and 4) are the units-place candidates for divisibility by 6. The '2x1' annotation beneath the two overlapping circles is as drawn."
+    }
+   ],
+   "issues": []
+  },
+  "30": {
+   "type": "diby",
+   "topic": "# DIBY-14 / # DIBY-15 / # DIBY-16 - three MCQ items",
+   "verified_text": "# DIBY-14 | The number of words that can be formed out of the letters of the word ARTICLE so that the vowels occupy even places is | (A) 36 (B) 574 (C) 144 (D) 754 | [Ans. : (C)] | # DIBY-15 | Eleven books consisting of 5 Mathematics, 4 Physics and 2 Chemistry are placed on a shelf. The number of possible ways of arranging them on the assumption that the books of the same subject are all together is | (A) 41.2! (B) 11! (C) 5!4!3!2! (D) None of these | [Ans. : (C)] | # DIBY-16 | The number of six letter words (with or without meaning), formed using all the letters of the word 'VOWELS', so that all the consonants never come together, is | (A) 576 (B) 140 (C) 356 (D) 209 | [Ans. : (A)]",
+   "diagram": "no handwritten working on this page - three stacked question cards",
+   "diby": [
+    {
+     "printed_label": "# DIBY-14",
+     "prompt": "The number of words that can be formed out of the letters of the word ARTICLE so that the vowels occupy even places is",
+     "options": "(A) 36; (B) 574; (C) 144; (D) 754",
+     "answer": "[Ans. : (C)]",
+     "uncertainty": "None. Printed label # DIBY-14 exact."
+    },
+    {
+     "printed_label": "# DIBY-15",
+     "prompt": "Eleven books consisting of 5 Mathematics, 4 Physics and 2 Chemistry are placed on a shelf. The number of possible ways of arranging them on the assumption that the books of the same subject are all together is",
+     "options": "(A) 41.2!; (B) 11!; (C) 5!4!3!2!; (D) None of these",
+     "answer": "[Ans. : (C)]",
+     "uncertainty": "Option (C) is printed as '5!4!3!2!' although the stem lists 5 Maths, 4 Physics, 2 Chemistry (only three subjects). Printed option text transcribed exactly as shown; possible source error, NOT corrected."
+    },
+    {
+     "printed_label": "# DIBY-16",
+     "prompt": "The number of six letter words (with or without meaning), formed using all the letters of the word 'VOWELS', so that all the consonants never come together, is",
+     "options": "(A) 576; (B) 140; (C) 356; (D) 209",
+     "answer": "[Ans. : (A)]",
+     "uncertainty": "None. Printed label # DIBY-16 exact."
+    }
+   ],
+   "issues": [
+    "DIBY-15 option (C) lists four factorials for a three-subject split - printed text kept verbatim (possible source error, not corrected)."
+   ]
+  },
+  "31": {
+   "type": "homework",
+   "topic": "Homework card",
+   "verified_text": "Homework | # Re-attempt all Class Examples | # DPP & DIBY",
+   "diagram": "clipboard+pencil icon at left",
+   "diby": [],
+   "issues": []
+  },
+  "32": {
+   "type": "closing",
+   "topic": "Closing slide",
+   "verified_text": "It is never about end result | It's always about Journey | Thank You | #futureIITians",
+   "diagram": "large cursive 'You' overlapping the printed 'Thank'; quote in handwritten cursive at top (black + blue ink)",
+   "diby": [],
+   "issues": []
+  }
+ }
+}
