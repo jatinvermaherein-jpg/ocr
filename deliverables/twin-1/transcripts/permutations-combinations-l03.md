@@ -199,3 +199,29 @@ Source: `Permutations & Combinations 03 Class Notes.pdf` (42 pages, image-only, 
 **P:** none — board page.
 **H:** top line white/pink `13C4 = 13!/(9! 4!)` at left and `13P4 = 13!/9!` at right; pink legends `C ≡ comb.` with an arc to `selecⁿ`, and `P ≡ perm.` with an arc to `arrang`; a green horizontal rule across the board. Below it cyan `(i) ⁿC_0 = n!/(n! 0!) = 1` (the top `n!` struck through), `(ii) ⁿC_1 = n!/((n−1)! 1!) = n.(n−1)!/(n−1)! = n` with the cancelling strokes drawn; then cyan `(iv)` before a red box `ⁿC_r = ⁿC_{n−r}`, two yellow arrows dropping to yellow `n!/(r! (n−r)!) = n!/((n−r)! r!)`; a cluster of gold star stickers (about sixteen, three rows) to the right of the red box.
 **DIBY:** none (star cluster only). **U:** 1 — the property list jumps from `(ii)` to `(iv)`; no `(iii)` is written on this page, so the numbering as it stands cannot be matched to a specific missing identity.
+---
+<a id="p31"></a>
+## p31 · board — negative-factorial convention: nCr = 0 when r > n · label: — (no header, board slide)
+**P:** none — board page (no printed question).
+**H:** cyan at the left, two `#` notes `5C2 = 5C3` and `12C5 = 12C7`; orange at the top `# (S+S)` with `S+S` ringed, and `#` beside a red rectangle holding orange `1/(-n)! = 0` (small `0` subscripts); pink below `# 4C7 = 0.` with an arc down to `4!/(7! (-3)!) = 0` and then `1/(-3)! = 0`; at the right pink `7C4 = 7!/(4! 3!)`.
+**DIBY:** none. **U:** none — the `S+S` ring is an unfinished shorthand (no series is written on this or the previous page); read as a marker for the symmetry property rather than a formula.
+
+---
+<a id="p32"></a>
+## p32 · Question Practice (section header) · label: — (chip only)
+**P:** black slide, centred white bold **Question Practice**.
+**H:** none. **DIBY:** none. **U:** none — same divider wording as P&C L04 p32.
+
+---
+<a id="p33"></a>
+## p33 · Question — matrix match C1/C2 on 4-digit numbers from 1..7 (H.W.) · label: — (no label)
+**P:** red chip **Question**; **Using the digits 1, 2, 3, 4, 5, 6, 7, a number of 4 different digits is formed. Find**; yellow column heads `C1` and `C2`; under C1 the white list `(1) How many number are formed?`, `(2) How many numbers are exactly divisible by 2?`, `(3) How many numbers are exactly divisible by 25?`, `(4) How many of these are exactly divisible by 4?`; under C2 `(A) 840`, `(B) 200`, `(C) 360`, `(D) 40`, `(E) 180`.
+**H:** pink `H.W.` with a double underline and dots, written between the two column heads — the whole matrix-match is assigned, nothing solved.
+**DIBY:** none (H.W. only, F-18). **U:** none.
+
+---
+<a id="p34"></a>
+## p34 · Question [JEE Mains–2023] — five-digit numbers > 40000 divisible by 5 (H.W.) · label: — (no label)
+**P:** red chip **Question [JEE Mains–2023]**; **The number of five-digit numbers, greater than 40000 and divisible by 5, which can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to** (40000 in yellow, digits in green); red tiles **A** 132, **B** 120, **C** 72, **D** 96.
+**H:** pink `H.W.` with a double underline at the right — assigned, not solved on this slide.
+**DIBY:** none (H.W. only). **U:** none.
