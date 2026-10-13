@@ -1,0 +1,143 @@
+{
+  "worker": "Twin 2",
+  "mode": "automated OCR only; no manual review, per user instruction",
+  "expected_files": 15,
+  "expected_pages": 536,
+  "documents": [
+    {
+      "id": "pc05",
+      "chapter": "Permutations & Combinations",
+      "lecture": "05",
+      "source": "Permutations and Combinations 05 Class Notes.pdf",
+      "expected_pages": 32,
+      "sha256": "530b5b7e3cf04e5727366e20e215716705c738f568c43b4477a7ed1887413209"
+    },
+    {
+      "id": "pc06",
+      "chapter": "Permutations & Combinations",
+      "lecture": "06",
+      "source": "Permutations and Combinations 06 Class Notes.pdf",
+      "expected_pages": 43,
+      "sha256": "58deec036640785105e4c708e96a4bb7ebe59a77c3349781b62e6da33866052e"
+    },
+    {
+      "id": "pc07",
+      "chapter": "Permutations & Combinations",
+      "lecture": "07",
+      "source": "Permutations and Combinations 07 Class Notes.pdf",
+      "expected_pages": 42,
+      "sha256": "f8e787e7c2f72d9d2f6d3aaae816cd958a30f7ac0556acdcf614c3ab9999e3ec"
+    },
+    {
+      "id": "pc08",
+      "chapter": "Permutations & Combinations",
+      "lecture": "08",
+      "source": "Permutations and Combinations 08 Class Notes.pdf",
+      "expected_pages": 45,
+      "sha256": "aa3b3d649705ff3757939b4fe46fc66860eb3e3fbce2eb32db5ff132393d5d60"
+    },
+    {
+      "id": "pc09",
+      "chapter": "Permutations & Combinations",
+      "lecture": "09",
+      "source": "Permutations and Combinations 09 Class Notes.pdf",
+      "expected_pages": 34,
+      "sha256": "69422476aa388b774c9e776aad79c3939b8ad91969fe7a9e7ab11371b9eb750c"
+    },
+    {
+      "id": "pc10",
+      "chapter": "Permutations & Combinations",
+      "lecture": "10",
+      "source": "Permutations and Combinations 10 Class Notes.pdf",
+      "expected_pages": 37,
+      "sha256": "b17d4c9a5fdde1a417b1bf3285027419b2b5a841582fe40952cc29e241f4424e"
+    },
+    {
+      "id": "pc11",
+      "chapter": "Permutations & Combinations",
+      "lecture": "11",
+      "source": "Permutations and Combinations 11 Class Notes.pdf",
+      "expected_pages": 45,
+      "sha256": "42c8f56b838746694be6ea59e9e343b88bc74f52b15a38e76c7714586387917e"
+    },
+    {
+      "id": "qe01",
+      "chapter": "Quadratic Equations",
+      "lecture": "01",
+      "source": "Quadratic Equations 01 Class Notes.pdf",
+      "expected_pages": 34,
+      "sha256": "1d0a87a5eaefaaf2bf0e060348b4863b79f15f611f0c92f54704ca8bd9188df3"
+    },
+    {
+      "id": "qe02",
+      "chapter": "Quadratic Equations",
+      "lecture": "02",
+      "source": "Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf",
+      "expected_pages": 38,
+      "sha256": "9a5822076efbf793c590a0b099678f11892ec8acb032fcde05876907ac26f975"
+    },
+    {
+      "id": "qe03",
+      "chapter": "Quadratic Equations",
+      "lecture": "03",
+      "source": "Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf",
+      "expected_pages": 29,
+      "sha256": "d747d77311a543d112cf7db499895e3c88d9e47b968d67774df661690bff3207"
+    },
+    {
+      "id": "qe04",
+      "chapter": "Quadratic Equations",
+      "lecture": "04",
+      "source": "Quadratic Equations 04 Class Notes.pdf",
+      "expected_pages": 33,
+      "sha256": "c421f6026dec5c36edecf735763b7ca06a4740cff5e4e2ed7950535b25dd690e"
+    },
+    {
+      "id": "qe05",
+      "chapter": "Quadratic Equations",
+      "lecture": "05",
+      "source": "Quadratic Equations 05 Class Notes.pdf",
+      "expected_pages": 32,
+      "sha256": "55725c8d808ae7216aa7f1a3a751cc75c36352de30e692e689424704452be12f"
+    },
+    {
+      "id": "qe06",
+      "chapter": "Quadratic Equations",
+      "lecture": "06",
+      "source": "Quadratic Equations 06 Class Notes.pdf",
+      "expected_pages": 29,
+      "sha256": "e5c9a4632710c080b46b3af8bc60e65131de61dc0575fd41dc857a8f904add1e"
+    },
+    {
+      "id": "qe07",
+      "chapter": "Quadratic Equations",
+      "lecture": "07",
+      "source": "Quadratic Equations 07 Class Notes.pdf",
+      "expected_pages": 32,
+      "sha256": "df14b15a2894edd4dcd5bbd0416ecc79e21cc8763be94af90d5a37c2b1ea9846"
+    },
+    {
+      "id": "qe08",
+      "chapter": "Quadratic Equations",
+      "lecture": "08",
+      "source": "Quadratic Equations 08 Class Notes.pdf",
+      "expected_pages": 31,
+      "sha256": "53b3ee20d702a5f827e983259e3ce1ad391d97e30519ab2657cd7c97fc7f4d23"
+    }
+  ],
+  "engine_config": {
+    "engine": "rapidocr-onnxruntime",
+    "version": "1.4.4",
+    "detector": "ch_PP-OCRv4_det_infer.onnx",
+    "recognizer": "ch_PP-OCRv4_rec_infer.onnx",
+    "render_scale": 1.5,
+    "text_score": 0.0,
+    "det_limit_side_len": 1600,
+    "det_limit_type": "max",
+    "det_thresh": 0.25,
+    "det_box_thresh": 0.35,
+    "low_confidence_threshold": 0.8,
+    "preprocessing": "RGB PDF render converted to BGR; no text correction"
+  },
+  "started_at": "2026-10-13T10:33:31+00:00"
+}

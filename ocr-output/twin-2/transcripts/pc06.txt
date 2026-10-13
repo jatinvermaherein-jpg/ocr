@@ -1,0 +1,933 @@
+Permutations & Combinations — Lecture 06
+Source: Permutations and Combinations 06 Class Notes.pdf
+AUTOMATED OCR — NOT MANUALLY REVIEWED
+
+=== PDF PAGE 1 ===
+ARJUN
+
+JEE2027
+30
+Lecture -06
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tobecoverey
+A
+Gap & Tie Method
+B
+Arrangement of things not all Different
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+LASTCLASSRECAP
+#
+ In 'n' sided polygon the triangles are formed by joining the vertices of polygon then:
+Number of triangles having one side common with the sides of polygon = n(m-4)
+(a) N
+(b)
+Number of triangles having two side common with the sides of polygon = n .
+
+(c) Number of triangles having no side common with polygon =
+*Cg-(n²-3n)
+(d)
+Number of diagonals in 'n' - sided polygon =
+-n
+
+
+=== PDF PAGE 4 ===
+H.W. Discussion
+
+=== PDF PAGE 5 ===
+Page No.129
+Challenger Question
+Total
+5 different pair
+of shoes are there, you need to select only 4 shoes such
+that
+oi
+No restriction
+= 210
+L,R,
+Exactly l pairofshouldbeformed
+6C
+Exactly 2 pair of should be formed:
+01=
+No pair should form
+R R
+M-目
+司
+L,R,l2l3
+0
+xC,x℃
+L2R2R3l
+ML1
+5(6+6+12)=5×a4=120
+: 5x6x2×2
+OR
+三
+#cx
+(°Ca-
+4
+=5x（28-4)=5x24=120
+M-
+When pair
+useleced
+
+=== PDF PAGE 6 ===
+(iv)
+No pair
+xrod oN
+M-I-
+ex.1 pair
+M-H:
+ex.α par.
+L,R,
+l2Rl3RlyRyl5Rs
+ft
+hy.
+0/ + 0
+5
+2
+xC,xCxC
+&10 -(130)
+= 80.
+5×16
+80
+
+=== PDF PAGE 7 ===
+65/。
+Page No.131
+Question[1IT-JEE-2005]
+There is a rectangular sheet of dimension (2m - 1) × (2n - 1),
+ e an yo nbs o pp e sy l (o  u 'o <  erm)
+drawing line perpendicular to the sides. Find the number of rectangles
+having sides of odd unit length.
+2m-1
+'c=w
+n=4
+A
+(m+n+1）2
+Rectaugwarxhut
+5x4
+2n-1
+B
+mn(m+1)(n+1)
+odld olimtnsions
+1unit → 4
+1 umit →5
+4m+n-2
+3unit → 5
+3unit →3
+5 unit → 3
+5unit →1
+16
+C,xC,=16x9
+Funit
+m2n2
+I
+=n.m²
+牛
+
+=== PDF PAGE 8 ===
+23--
+2n-1
+X
+1unit →
+2n-1
+1unit →
+am-1
+R
+3unit — &n-3
+3unit →
+2m-3
+Sunit -
+2-5
+Sunit →
+9m-5
+m2
+
+=== PDF PAGE 9 ===
+Page No.131
+TIE&GAPMETHOD
+Question
+Arrange a, b, c, d, e & f in a line such that a, b & c are always together.
+Tie Methool
+abc
+abcdef
+d,e,f → 4 unitb 
+ex:-
+dfcbae
+41
+31
+?
+?
+T
+Intrrna/amrawge
+
+=== PDF PAGE 10 ===
+Page No.131
+TIE&GAPMETHOD
+Question
+(ii)
+Arrange
+ (a, b, c, d, e & f) in a line such that no two of a, b & c are together
+Yap
+Metwod
+finko alag -alag
+%akhna hai
+bdaefc
+ex.
+
+3te
+GAP H
+afcdbe
+d-é -f
+31
+x31
+ debf 
+a
+Carofde,f.
+aY.on
+selec?.
+GAP.
+4obfo
+
+=== PDF PAGE 11 ===
+Page No.131
+TIE&GAPMETHOD
+Question
+(iii)
+Arrange (a, b, c, d, e & f) in a line such that a, b & c are not all together
+Bigechion
+abdecf
+adebfc
+Total-
+W together
+aebcaf
+41×31
+D
+
+=== PDF PAGE 12 ===
+CONSIDERFOLLOWINGCASES
+(Tie MeHhod
+abcd
+All together
+ab-c_d
+a_bc _d
+Allare
+nottogethev
+a_bcd
+Total-(alltogeth
+(Gop Metuod)
+a_b —C_d No twoare together 
+
+=== PDF PAGE 13 ===
+SACHIN
+all
+Vowels
+vowels are together 
+ore not
+(no two)vowel are togeHher
+4
+S,C,H,N,CA,I
+S,C,H,N
+1'4
+ 61 - (5!x2!)
+0
+s-cH-N -
+51 x21
+0. 51 - 5!x2l
+0
+a
+41 x
+(2)
+x21 =480
+51
+24 × 10 × 2
+4x 120 = 480
+
+=== PDF PAGE 14 ===
+Page No.131
+Blue TG (KRPNCC)
+(laretogeher)
+uSe:TIE METHOD
+Blue可TGo
+(KRPNCC)
+(ff   可) (No two are together)
+USe:GAP METHOD
+
+=== PDF PAGE 15 ===
+ex'
+一
+B,B2B3ByB5
+G,G2GgGy
+5 Boys, 4 Girls
+arange in a line
+一
+all boys are together.
+B,B,
+50555
+ 51 × 5l
+
+b
+一
+all girls
+Ss are together
+,B2B3
+555'5
+61 x 41
+girls
+are together
+amou
+no two boys are together
+-B-B-B-B-B-
+5-
+6C
+51x
+(4 x41
+gxxih
+5
+1
+
+=== PDF PAGE 16 ===
+PageNo.132
+Bumper Question
+4 boys & 4 girls are to be seated in a line find number of ways:
+If all boys are together & all girls are together
+(ii-a)
+They can be seated so that No two girls are together
+ii-b)
+If not all the girls are together
+OR
+If at least one girl is separated from rest of girls.
+B,BBBy
+G,G293G
+B, B2 B3
+G, G2 G3 G4
+ii)
+b
+(ii)
+Bijection
+B.
+B,-B
+Total-(anlgrnt ortgeter)i
+(1) = 21 x 41 x 4!
+41
+X
+x4l
+51x4!
+18
+?
+
+=== PDF PAGE 17 ===
+Page No.132
+Bumper Question
+4 boys & 4 girls are to be seated in a line find number of ways:
+Boys and girls are alternate
+(iv)
+S  n     e
+be seated so that each couple is together.
+(iv)
+BGBGBGBG
+B,91
+B2G2
+Bg G3)
+By
+C
+4!x4!
+G B G B C B G B
+一
+41× 41
+41 x 21 x 21 x 21 × 21
+(i) =
+41×41×2
+Q
+D
+9
+D
+
+=== PDF PAGE 18 ===
+Page No.132
+BumperQuestion
+4 boys & 4 girls are to be seated in a line find number of ways
+(v)
+B, & B2 are together, G, & G2 are together but they all should not be
+together.
+B,B2
+B3,By,G3,Gy
+- 5-5-8-9-
+21
+21x21
+K
+0
+Q
+
+
+=== PDF PAGE 19 ===
+Page No.132
+Bumper Question
+4 boys & 4 girls are to be seated in a line find number of ways
+Vi
+Between B, & G, there are exactly 4 persons.
+(vii)
+Between B, & G, there at least 4 persons.
+BB3 By GG3Gu
+(wit)
+D
+B,G, ke beech ex. 4 persons 
+31×61
+
+1
+3---- G, --
+I2-×6i
+D
+D
+D
+2.21.61
+I2l×6l
+0
+1一
+D
+persons
+WI
+4
+→ 21 × 61
+1
+21×61
+1-
+3. 2/ x61
+
+、
+2!x6l
+-B----
+C
+2×6)
+?
+3/ x61
+D
+
+=== PDF PAGE 20 ===
+Page No.132
+BumperQuestion
+e-attewpt
+4 boys & 4 girls are to be seated in a line find number of ways
+ili
+Boy and girl are alternate
+and aparticulan
+boy & girl
+1
+ are never
+adjacent to each other in any arrangement.
+alreadly fixed 
+B,,G,
+Byechim
+ex:
+h585956529
+B,G, together
+Total
+allernate wale
+Required
+Not together
+cases
+41.41.2
+1
+
+=== PDF PAGE 21 ===
+M-
+Byechim
+B,G, together
+Total
+alternate wale
+Required
+B,C,
+Not together.
+cases
+41.41.2
+-B-G- B_G_B_G_
+31 x31 x 21
+x1x
+4!.4!.2
+×31x31×2
+1
+=ayxayx2-（≠x6x6x2
+= 12x6
+2x4x2-7
+=#2×9 =648
+
+=== PDF PAGE 22 ===
+B, B, B3 By G,GG3Gy
+=6
+忙
+?
+B G
+GBGBGBGB
+Y
+B
+个
+216
++
+C,
+×31x31
++
+BG
+BG
+108
+1x℃,x3!x31
+3
+0
+324
+324
+
+=== PDF PAGE 23 ===
+10wou
+
+=&0
+G dith·
+L
+select any
+3
+0
+10x9x8x=5040.=
+C
+ihxh)
+,6C3
+
+= 20
+fuouakmouo
+C
+5
+x'C2
+ = 60 X
+6c,x
+=6x5×4
+×')
+= 120 X
+
+=== PDF PAGE 24 ===
+ARRANGEMENTWHENALLTHINGSARENOTDIFFERENT
+PageNo.132
+# Number of arrangements of A,B,C,D,E (taken all at a time) = 51
+3-αlike
+# Number of arrangements ofA,A,A,B,C (taken all at a time) =
+31
+
++
+# Number of arrangements of A,A,A,B,B,C,C (taken all at a time) =
+31212 1
+心
+0
+11!
+
+4 1 41 2 1
+S>4
+D
+0
+I→4
+P→2
+M=1
+
+=== PDF PAGE 25 ===
+A,B,C
+A,A,A
+AAB
+31
+?
+AAB
+AAA
+3 way
+ABA
+4BC
+BAA
+ACB
+BCA
+BAC
+CAB
+CBA
+
+=== PDF PAGE 26 ===
+A,A,A,
+,B, C
+1
+hC
+5!
+×x
+×1×2l
+3/X
+
+=== PDF PAGE 27 ===
+AAABBCC
+BCA
+BACA
+x1
+2
+1t
+女
+31 4
+91 21
+3/2/21
+0
+6
+
+=== PDF PAGE 28 ===
+Page No.133
+Question
+Number of words with or without meaning that can be formed using all
+thelettersoftheword ASSASSINATIoN
+that:
+4→ s
+Start&endwith'S'.
+3→A
+Total = 13
+endswithvowel
+→I
+[JEEMAINs-2023] Vowels occurs together
+↓z
+1>T
+1→0
+2
+1
+(ii)
+41212/21
+AAAIIO
+SSSS,NN,T
+。
+0
+、
+业
+，）），
+12!
+81
+61
+、
+21312121
+D
+413/21
+X
+D
+41 21
+。Q。。
+3/ 2 1
+D
+b
+0
+0
+413/2121
+D
+V
+06
+
+=== PDF PAGE 29 ===
+PageNo.132
+Question[1IT-JEE-2009]
+The number of seven digit integers, with sum of the digits equal to 10 and
+formed by using the digits 1, 2 and 3 only, is
+A
+55
+Sum
+10
+B
+66
+C-I
+3, 2, 1, 1, 1, 1, 1
+7.6 = 42
+51
+C-1= 2,2 ,a ,1, 1, 1, 1
+77
+11
+7.6.5.1
+D
+88
+4131
+三
+D
+= 35 
+
+=== PDF PAGE 30 ===
+[Ans.:14]
+Question[JEEMains-2025]
+If the number of seven-digit numbers, such that the sum of their digits is
+even, is m · n · 10n; m, n E {1, 2, 3,...., 9}, then m + n is equal to
+°Cm+
+
+=== PDF PAGE 31 ===
+P
+Question Practice
+
+=== PDF PAGE 32 ===
+Question[JEEMains-2026]
+A building has ground floor and 10 more floors. Nine persons enter in a lift
+at the ground floor. The lift goes up to the 1oth floor. The number of ways,
+in which any 4 persons exit at a floor and the remaining 5 persons exit at
+a different floor, if the does not stop at the first and the second floors, is
+equalto
+mt
+A
+2184
+B
+3064
+7056
+力
+11340
+
+=== PDF PAGE 33 ===
+PageNo.133
+Question [JEE Mains-2023]
+Some couples participated in mixed double badminton tournament. If
+the number of matches played, so that no couple played in a match, is
+840, then the total
+numbers of persons, who
+participated in the
+tournament, is
+w。
+
+=== PDF PAGE 34 ===
+P
+?
+DO IT BY YOURSELF (DIBY)
+
+=== PDF PAGE 35 ===
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+ o sm isso go n r rs e u pi
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.: (A)]
+15
+NENW'
+Pegy
+(c,(2
+31 x51 x41x2]
+
+=== PDF PAGE 36 ===
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+ a,    i e go sa  yo  mo
+withavowel and endwitha consonant?
+[Ans.:90720]
+#DIBY-19
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+the Digit 1 appearing somewhere to the left of 2
+3 appearing to the left of 4 and
+5 somewhere to theleft of 6, is
+(e.g.815723946would be one suchpermutation)
+A)
+9.7!
+(B)
+8!
+(c)
+5!.4!
+(D)
+8!.4!
+[Ans.: (A)]
+
+=== PDF PAGE 37 ===
+#DIBY-2O
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans.: 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subjects of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+
+[Ans.: (D)]
+
+=== PDF PAGE 38 ===
+#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans. : (c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such thatat least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+#DIBY-24
+Let S = {1, 2, 3,
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+.....
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]
+
+=== PDF PAGE 39 ===
+#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let pn denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+(D)
+8
+5
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]
+
+=== PDF PAGE 40 ===
+#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]
+
+=== PDF PAGE 41 ===
+#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.:(D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]
+
+=== PDF PAGE 42 ===
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+
+=== PDF PAGE 43 ===
+在
+neverabout
+ene resull
+taluoy about
+ourney
+Thank
+oW
+#futurellTians
+

@@ -1,0 +1,15 @@
+{
+  "worker": "Twin 2",
+  "status": "automated_ocr_complete_unreviewed",
+  "files_ocr_processed": 15,
+  "pages_ocr_processed": 536,
+  "manual_pages_reviewed": 0,
+  "failed_ocr_pages": 0,
+  "pages_with_no_text_detected": 0,
+  "recognized_lines": 10713,
+  "recognized_characters": 130609,
+  "low_confidence_lines": 2807,
+  "diby_marker_candidates": 242,
+  "completed_at": "2026-10-13T10:48:15+00:00",
+  "limits": "No manual review, math correction, diagram description, or verified DIBY question/answer extraction. Raw recognition can contain errors and omissions."
+}

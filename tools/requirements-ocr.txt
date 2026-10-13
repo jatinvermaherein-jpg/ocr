@@ -1,0 +1,7 @@
+# Install into an isolated virtual environment; models are bundled in RapidOCR.
+PyMuPDF==1.26.6
+rapidocr-onnxruntime==1.4.4
+opencv-python-headless==4.11.0.86
+# RapidOCR declares opencv-python. Remove that GUI wheel after installing:
+# python -m pip uninstall -y opencv-python
+# python -m pip install --force-reinstall opencv-python-headless==4.11.0.86

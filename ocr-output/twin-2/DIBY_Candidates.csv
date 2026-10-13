@@ -1,0 +1,6700 @@
+chapter,lecture,source_pdf,pdf_page,candidate_id,raw_marker,raw_marker_line,marker_line,marker_confidence,marker_location_pdf_points,printed_question_label,question_label_status,page_raw_ocr,prompt_options_answer_status,qa_status
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,26,T2-PC05-P026-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,27,T2-PC05-P027-L001,DIBY,DIBY-11,1,0.973357,"[[72.0, 42.67], [184.0, 42.67], [184.0, 68.67], [72.0, 68.67]]",,not_identified_automatically,"DIBY-11
+Find the number of 4 digit integers in the closed interval [2022, 4482]
+which can
+be formed using the digits
+s {0, 2, 3, 4, 6, 7}.
+[JEE (Adv.)-2022]
+[Ans.: 569]
+Total
+Rep. i allowed .
+216
+40 _
+36 x4
+42 -
+2x_
+=36
+-εh
+23 --
+203
+44-
+24 --
+36x5
+204-
+26 --
+9
+9+t _ -
+207_-6
+202(",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,28,T2-PC05-P028-L001,DIBY,DIBY-12,1,0.9779,"[[70.0, 58.0], [190.0, 58.0], [190.0, 84.67], [70.0, 84.67]]",,not_identified_automatically,"DIBY-12
+
+The number of 3-digit numbers, formed using the digits 2, 3, 4, 5 and 7, when
+the repetition of digits is not allowed, and which are not divisible by 3, is equal
+[JEEMains-2024]
+div.by 3
+[Ans.:36]
+not div.by 3
+Req:
+×Y3
+60",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,29,T2-PC05-P029-L002,DIBY,DIBY-13,2,0.987364,"[[70.0, 56.0], [190.0, 56.0], [190.0, 82.67], [70.0, 82.67]]",,not_identified_automatically,"#
+DIBY-13
+Total numbers of 3-digit numbers that are divisible by 6 and can be formed by
+using the digits 1, 2, 3, 4, 5 with repetition, is
+[JEEMains-2023]
+[Ans. : 16]
+2
+2
+2 2
+·2,2,2.
+3
+. 2, 3, 1.
+①0²↓
+2×1
+2
+。 2,4,3
+.33,3x",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,30,T2-PC05-P030-L001,DIBY,#DIBY-14,1,0.979575,"[[40.0, 73.33], [193.33, 73.33], [193.33, 102.0], [40.0, 102.0]]",,not_identified_automatically,"#DIBY-14
+The number ofwords thatcan be formed outofthe lettersof theword ARTicLE
+so that the vowels occupy even places is
+(A)
+36
+(B)
+574
+(c)
+144
+(D)
+754
+[Ans.:(c)]
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,30,T2-PC05-P030-L013,DIBY,#DIBY-15,13,0.975243,"[[40.0, 266.67], [192.67, 266.67], [192.67, 295.33], [40.0, 295.33]]",,not_identified_automatically,"#DIBY-14
+The number ofwords thatcan be formed outofthe lettersof theword ARTicLE
+so that the vowels occupy even places is
+(A)
+36
+(B)
+574
+(c)
+144
+(D)
+754
+[Ans.:(c)]
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,30,T2-PC05-P030-L028,DIBY,#DIBY-16,28,0.974548,"[[40.67, 498.67], [191.33, 500.67], [191.33, 527.33], [40.67, 526.0]]",,not_identified_automatically,"#DIBY-14
+The number ofwords thatcan be formed outofthe lettersof theword ARTicLE
+so that the vowels occupy even places is
+(A)
+36
+(B)
+574
+(c)
+144
+(D)
+754
+[Ans.:(c)]
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,05,Permutations and Combinations 05 Class Notes.pdf,31,T2-PC05-P031-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,34,T2-PC06-P034-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,35,T2-PC06-P035-L001,DIBY,#DIBY-15,1,0.985053,"[[41.33, 44.0], [191.33, 44.0], [191.33, 70.0], [41.33, 70.0]]",,not_identified_automatically,"#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+ o sm isso go n r rs e u pi
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.: (A)]
+15
+NENW'
+Pegy
+(c,(2
+31 x51 x41x2]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,35,T2-PC06-P035-L015,DIBY,#DIBY-16,15,0.966685,"[[41.33, 276.67], [191.33, 276.67], [191.33, 303.33], [41.33, 303.33]]",,not_identified_automatically,"#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+ o sm isso go n r rs e u pi
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.: (A)]
+15
+NENW'
+Pegy
+(c,(2
+31 x51 x41x2]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,36,T2-PC06-P036-L001,DIBY,#DIBY-17,1,0.975681,"[[41.33, 67.33], [188.67, 67.33], [188.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+ a,    i e go sa  yo  mo
+withavowel and endwitha consonant?
+[Ans.:90720]
+#DIBY-19
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+the Digit 1 appearing somewhere to the left of 2
+3 appearing to the left of 4 and
+5 somewhere to theleft of 6, is
+(e.g.815723946would be one suchpermutation)
+A)
+9.7!
+(B)
+8!
+(c)
+5!.4!
+(D)
+8!.4!
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,36,T2-PC06-P036-L013,DIBY,#DIBY-18,13,0.975034,"[[40.67, 244.0], [192.0, 244.0], [192.0, 270.67], [40.67, 270.67]]",,not_identified_automatically,"#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+ a,    i e go sa  yo  mo
+withavowel and endwitha consonant?
+[Ans.:90720]
+#DIBY-19
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+the Digit 1 appearing somewhere to the left of 2
+3 appearing to the left of 4 and
+5 somewhere to theleft of 6, is
+(e.g.815723946would be one suchpermutation)
+A)
+9.7!
+(B)
+8!
+(c)
+5!.4!
+(D)
+8!.4!
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,36,T2-PC06-P036-L017,DIBY,#DIBY-19,17,0.961446,"[[41.33, 384.67], [190.0, 384.67], [190.0, 410.67], [41.33, 410.67]]",,not_identified_automatically,"#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+ a,    i e go sa  yo  mo
+withavowel and endwitha consonant?
+[Ans.:90720]
+#DIBY-19
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+the Digit 1 appearing somewhere to the left of 2
+3 appearing to the left of 4 and
+5 somewhere to theleft of 6, is
+(e.g.815723946would be one suchpermutation)
+A)
+9.7!
+(B)
+8!
+(c)
+5!.4!
+(D)
+8!.4!
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,37,T2-PC06-P037-L001,DIBY,#DIBY-2O,1,0.914161,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-2O
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans.: 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subjects of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,37,T2-PC06-P037-L007,DIBY,#DIBY-21,7,0.985953,"[[41.33, 321.33], [190.0, 321.33], [190.0, 348.0], [41.33, 348.0]]",,not_identified_automatically,"#DIBY-2O
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans.: 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subjects of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,38,T2-PC06-P038-L001,DIBY,#DIBY-22,1,0.948446,"[[41.33, 67.33], [196.0, 67.33], [196.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans. : (c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such thatat least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+#DIBY-24
+Let S = {1, 2, 3,
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+.....
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,38,T2-PC06-P038-L014,DIBY,#DIBY-23,14,0.980937,"[[40.67, 290.0], [196.0, 290.0], [196.0, 316.0], [40.67, 316.0]]",,not_identified_automatically,"#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans. : (c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such thatat least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+#DIBY-24
+Let S = {1, 2, 3,
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+.....
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,38,T2-PC06-P038-L026,DIBY,#DIBY-24,26,0.981456,"[[41.33, 477.33], [199.33, 477.33], [199.33, 503.33], [41.33, 503.33]]",,not_identified_automatically,"#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans. : (c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such thatat least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+#DIBY-24
+Let S = {1, 2, 3,
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+.....
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,39,T2-PC06-P039-L001,DIBY,#DIBY-25,1,0.97797,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let pn denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+(D)
+8
+5
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,39,T2-PC06-P039-L014,DIBY,#DIBY-26,14,0.98426,"[[42.0, 255.33], [196.0, 255.33], [196.0, 280.0], [42.0, 280.0]]",,not_identified_automatically,"#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let pn denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+(D)
+8
+5
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,39,T2-PC06-P039-L027,DIBY,#DIBY-27,27,0.980857,"[[40.67, 476.67], [194.0, 476.67], [194.0, 502.67], [40.67, 502.67]]",,not_identified_automatically,"#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let pn denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+(D)
+8
+5
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,40,T2-PC06-P040-L001,DIBY,#DIBY-28,1,0.954829,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,40,T2-PC06-P040-L013,DIBY,#DIBY-29,13,0.981644,"[[41.33, 276.0], [195.33, 276.0], [195.33, 302.67], [41.33, 302.67]]",,not_identified_automatically,"#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,41,T2-PC06-P041-L001,DIBY,#DIBY-3O,1,0.933321,"[[41.33, 67.33], [197.33, 67.33], [197.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.:(D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,41,T2-PC06-P041-L017,DIBY,#DIBY-31,17,0.978877,"[[40.67, 382.0], [191.33, 380.67], [191.33, 407.33], [40.67, 409.33]]",,not_identified_automatically,"#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.:(D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,06,Permutations and Combinations 06 Class Notes.pdf,42,T2-PC06-P042-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,24,T2-PC07-P024-L006,DIBY,DIBY,6,0.98724,"[[879.33, 225.33], [955.33, 225.33], [955.33, 273.33], [879.33, 273.33]]",,not_identified_automatically,"Question[JEEMains-2016]
+Ifall thewords
+ (with or without meaning) having five letters, formed
+using the letters of the word sMALL and arranged as in a dictionary; then
+the position of the word SMALL is
+DIBY
+A
+59th
+B
+52nd
+58th
+D
+46th",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,30,T2-PC07-P030-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,31,T2-PC07-P031-L001,DIBY,#DIBY-15,1,0.985602,"[[41.33, 44.0], [191.33, 44.0], [191.33, 70.0], [41.33, 70.0]]",,not_identified_automatically,"#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]
+3'o
+V,W,L,S
+Am.=61-3/×u1
+3",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,31,T2-PC07-P031-L016,DIBY,#DIBY-16,16,0.952462,"[[41.33, 276.67], [191.33, 276.67], [191.33, 303.33], [41.33, 303.33]]",,not_identified_automatically,"#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]
+3'o
+V,W,L,S
+Am.=61-3/×u1
+3",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,32,T2-PC07-P032-L003,DIBY,#DIBY-17,3,0.973604,"[[40.67, 67.33], [188.0, 67.33], [188.0, 94.0], [40.67, 94.0]]",,not_identified_automatically,"pair d
+same a 8hou wala sawaal 
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+     e  s    
+with avowel and end with a consonant?
+[Ans.: 90720]
+L#DIBY-19
+Same as polit spech wala sawaal)
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+5
+1木
+C
+2米一
+the Digit 1 appearing somewhere to the left of 2
+3
+?
+K
+≤
++
++
+3 appearing to the left of 4 and
+9!
+M
+5
+5somewheretotheleftof6,is
+×31
+213
+219
+212
+X
+2
+(e.g. 815723946 would be one such permutation)
+，
+A)
+9.7!
+(B)
+(c)
+(D)
+8!
+5!.4!
+8!.4!
+9.8.+_9.7!
+[Ans.: (A)]
+8
+D",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,32,T2-PC07-P032-L015,DIBY,#DIBY-18,15,0.976166,"[[40.67, 244.0], [191.33, 244.0], [191.33, 270.67], [40.67, 270.67]]",,not_identified_automatically,"pair d
+same a 8hou wala sawaal 
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+     e  s    
+with avowel and end with a consonant?
+[Ans.: 90720]
+L#DIBY-19
+Same as polit spech wala sawaal)
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+5
+1木
+C
+2米一
+the Digit 1 appearing somewhere to the left of 2
+3
+?
+K
+≤
++
++
+3 appearing to the left of 4 and
+9!
+M
+5
+5somewheretotheleftof6,is
+×31
+213
+219
+212
+X
+2
+(e.g. 815723946 would be one such permutation)
+，
+A)
+9.7!
+(B)
+(c)
+(D)
+8!
+5!.4!
+8!.4!
+9.8.+_9.7!
+[Ans.: (A)]
+8
+D",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,32,T2-PC07-P032-L019,DIBY,L#DIBY-19,19,0.868801,"[[30.67, 380.67], [190.67, 383.33], [190.0, 412.67], [30.0, 409.33]]",,not_identified_automatically,"pair d
+same a 8hou wala sawaal 
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+     e  s    
+with avowel and end with a consonant?
+[Ans.: 90720]
+L#DIBY-19
+Same as polit spech wala sawaal)
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+5
+1木
+C
+2米一
+the Digit 1 appearing somewhere to the left of 2
+3
+?
+K
+≤
++
++
+3 appearing to the left of 4 and
+9!
+M
+5
+5somewheretotheleftof6,is
+×31
+213
+219
+212
+X
+2
+(e.g. 815723946 would be one such permutation)
+，
+A)
+9.7!
+(B)
+(c)
+(D)
+8!
+5!.4!
+8!.4!
+9.8.+_9.7!
+[Ans.: (A)]
+8
+D",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,33,T2-PC07-P033-L001,DIBY,#DIBY-20,1,0.953608,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-20
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans. : 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subsets of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,33,T2-PC07-P033-L007,DIBY,#DIBY-21,7,0.966338,"[[40.67, 320.67], [190.67, 320.67], [190.67, 349.33], [40.67, 349.33]]",,not_identified_automatically,"#DIBY-20
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans. : 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subsets of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,34,T2-PC07-P034-L001,DIBY,#DIBY-22,1,0.966256,"[[41.33, 67.33], [196.0, 67.33], [196.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans.:(c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such that at least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+# DIBY-24
+Let S = 1, 2, 3, ..
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,34,T2-PC07-P034-L014,DIBY,#DIBY-23,14,0.981427,"[[40.67, 290.0], [196.0, 290.0], [196.0, 316.0], [40.67, 316.0]]",,not_identified_automatically,"#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans.:(c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such that at least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+# DIBY-24
+Let S = 1, 2, 3, ..
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,34,T2-PC07-P034-L026,DIBY,# DIBY-24,26,0.892666,"[[40.67, 475.33], [199.33, 476.67], [199.33, 504.0], [40.67, 502.0]]",,not_identified_automatically,"#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans.:(c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such that at least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+# DIBY-24
+Let S = 1, 2, 3, ..
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,35,T2-PC07-P035-L001,DIBY,#DIBY-25,1,0.972491,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let Pn
+ denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+8
+5
+(D)
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,35,T2-PC07-P035-L014,DIBY,#DIBY-26,14,0.979062,"[[42.0, 255.33], [196.0, 255.33], [196.0, 280.0], [42.0, 280.0]]",,not_identified_automatically,"#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let Pn
+ denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+8
+5
+(D)
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,35,T2-PC07-P035-L028,DIBY,#DIBY-27,28,0.981263,"[[40.67, 476.67], [194.0, 476.67], [194.0, 502.67], [40.67, 502.67]]",,not_identified_automatically,"#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let Pn
+ denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+8
+5
+(D)
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,36,T2-PC07-P036-L001,DIBY,#DIBY-28,1,0.947122,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,36,T2-PC07-P036-L013,DIBY,#DIBY-29,13,0.984504,"[[41.33, 276.0], [195.33, 276.0], [195.33, 302.67], [41.33, 302.67]]",,not_identified_automatically,"#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,37,T2-PC07-P037-L001,DIBY,#DIBY-3O,1,0.934341,"[[41.33, 67.33], [197.33, 67.33], [197.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.: (D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,37,T2-PC07-P037-L017,DIBY,#DIBY-31,17,0.981044,"[[41.33, 381.33], [191.33, 381.33], [191.33, 407.33], [41.33, 407.33]]",,not_identified_automatically,"#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.: (D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,38,T2-PC07-P038-L001,DIBY,#DIBY-32,1,0.975233,"[[41.33, 67.33], [196.67, 67.33], [196.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-32
+The number of five digit numbers, greater than 4ooo0 and divisible by 5, which
+can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to
+[JEE Mains-2023]
+(A)
+120
+(B)
+132
+(c)
+72
+(D)
+96
+[Ans.:(A)]
+#DIBY-33
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8, if repetition of digits is allowed, is:
+[JEEMains-2023]
+(A)
+22
+(B)
+18
+(c)
+21
+(D)
+20
+[Ans.: (A)]
+井
+DIBY-34
+ 2n+1Pn-1: 2n-1 Pn = 11:21, then n2 + n + 15 is equal to:
+[JEEMains-2023]
+[Ans.: 45]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,38,T2-PC07-P038-L014,DIBY,#DIBY-33,14,0.97583,"[[41.33, 318.67], [196.67, 318.67], [196.67, 345.33], [41.33, 345.33]]",,not_identified_automatically,"#DIBY-32
+The number of five digit numbers, greater than 4ooo0 and divisible by 5, which
+can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to
+[JEE Mains-2023]
+(A)
+120
+(B)
+132
+(c)
+72
+(D)
+96
+[Ans.:(A)]
+#DIBY-33
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8, if repetition of digits is allowed, is:
+[JEEMains-2023]
+(A)
+22
+(B)
+18
+(c)
+21
+(D)
+20
+[Ans.: (A)]
+井
+DIBY-34
+ 2n+1Pn-1: 2n-1 Pn = 11:21, then n2 + n + 15 is equal to:
+[JEEMains-2023]
+[Ans.: 45]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,38,T2-PC07-P038-L028,DIBY,DIBY-34,28,0.992476,"[[64.0, 527.33], [198.67, 527.33], [198.67, 554.0], [64.0, 554.0]]",,not_identified_automatically,"#DIBY-32
+The number of five digit numbers, greater than 4ooo0 and divisible by 5, which
+can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to
+[JEE Mains-2023]
+(A)
+120
+(B)
+132
+(c)
+72
+(D)
+96
+[Ans.:(A)]
+#DIBY-33
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8, if repetition of digits is allowed, is:
+[JEEMains-2023]
+(A)
+22
+(B)
+18
+(c)
+21
+(D)
+20
+[Ans.: (A)]
+井
+DIBY-34
+ 2n+1Pn-1: 2n-1 Pn = 11:21, then n2 + n + 15 is equal to:
+[JEEMains-2023]
+[Ans.: 45]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,39,T2-PC07-P039-L001,DIBY,#DIBY-35,1,0.973452,"[[41.33, 67.33], [198.67, 67.33], [198.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-35
+A person forgets his 4-digit ATM pin code. But he remembers that in the code
+all the digits are different, the greatest digit is 7 and the sum of the first two
+digits is equal to the sum of the last two digits. Then the maximum number of
+trials necessary to obtain the correct code is
+[JEEMains-2023]
+[Ans.:72]
+#DIBY-36
+The number of seven digit positive integers formed using the digits 1, 2, 3 and 4
+only and sum of the digits equal to 12 is
+[JEE Mains-2023]
+[Ans.: 413]
+#DIBY-37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language courses. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,39,T2-PC07-P039-L008,DIBY,#DIBY-36,8,0.984618,"[[42.0, 303.33], [198.0, 303.33], [198.0, 329.33], [42.0, 329.33]]",,not_identified_automatically,"#DIBY-35
+A person forgets his 4-digit ATM pin code. But he remembers that in the code
+all the digits are different, the greatest digit is 7 and the sum of the first two
+digits is equal to the sum of the last two digits. Then the maximum number of
+trials necessary to obtain the correct code is
+[JEEMains-2023]
+[Ans.:72]
+#DIBY-36
+The number of seven digit positive integers formed using the digits 1, 2, 3 and 4
+only and sum of the digits equal to 12 is
+[JEE Mains-2023]
+[Ans.: 413]
+#DIBY-37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language courses. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,39,T2-PC07-P039-L013,DIBY,#DIBY-37,13,0.970807,"[[41.33, 468.0], [195.33, 468.0], [195.33, 494.67], [41.33, 494.67]]",,not_identified_automatically,"#DIBY-35
+A person forgets his 4-digit ATM pin code. But he remembers that in the code
+all the digits are different, the greatest digit is 7 and the sum of the first two
+digits is equal to the sum of the last two digits. Then the maximum number of
+trials necessary to obtain the correct code is
+[JEEMains-2023]
+[Ans.:72]
+#DIBY-36
+The number of seven digit positive integers formed using the digits 1, 2, 3 and 4
+only and sum of the digits equal to 12 is
+[JEE Mains-2023]
+[Ans.: 413]
+#DIBY-37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language courses. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,40,T2-PC07-P040-L001,DIBY,#DIBY-38,1,0.96675,"[[41.33, 67.33], [198.0, 67.33], [198.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABC. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.: (A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,40,T2-PC07-P040-L021,DIBY,#DIBY-39,21,0.985486,"[[40.0, 345.33], [198.0, 345.33], [198.0, 374.0], [40.0, 374.0]]",,not_identified_automatically,"#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABC. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.: (A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,07,Permutations and Combinations 07 Class Notes.pdf,41,T2-PC07-P041-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,36,T2-PC08-P036-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,37,T2-PC08-P037-L001,DIBY,#DIBY-38,1,0.972534,"[[40.67, 67.33], [197.33, 67.33], [197.33, 94.0], [40.67, 94.0]]",,not_identified_automatically,"#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABc. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.:(A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,37,T2-PC08-P037-L021,DIBY,#DIBY-39,21,0.983866,"[[40.0, 345.33], [198.0, 345.33], [198.0, 374.0], [40.0, 374.0]]",,not_identified_automatically,"#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABc. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.:(A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,38,T2-PC08-P038-L001,DIBY,#DIBY-40,1,0.930529,"[[40.67, 67.33], [199.33, 67.33], [199.33, 94.0], [40.67, 94.0]]",,not_identified_automatically,"#DIBY-40
+There are 15 players in a cricket team, out of which 6 are bowlers, 7 are batsmen
+and 2 are wicketkeepers. The number of ways, a team of 1l players be selected
+from them so as to include at least 4 bowlers, 5 batsmen, and 1wicketkeeper, is
+[Ans. :777]
+#DIBY-41
+Suppose that 20 pillars of the same height have been erected-along the
+boundary of a circular stadium. If the top of each pillar has been connected by
+beams with the top of all its nonadjacent pillars, then the total number of
+beams is:
+(A)
+190
+(B)
+170
+(c)
+180
+(D)
+210
+[Ans.: (B)]
+#DIBY-42
+Let A = {1, 2,3, 4, 5, 6, 7} and B = {3, 6, 7, 9}. Then the number of elements in the set
+[C = A: C n B ≠ P}is
+[JEEMains-2022]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,38,T2-PC08-P038-L006,DIBY,#DIBY-41,6,0.987738,"[[40.67, 268.0], [193.33, 268.0], [193.33, 294.67], [40.67, 294.67]]",,not_identified_automatically,"#DIBY-40
+There are 15 players in a cricket team, out of which 6 are bowlers, 7 are batsmen
+and 2 are wicketkeepers. The number of ways, a team of 1l players be selected
+from them so as to include at least 4 bowlers, 5 batsmen, and 1wicketkeeper, is
+[Ans. :777]
+#DIBY-41
+Suppose that 20 pillars of the same height have been erected-along the
+boundary of a circular stadium. If the top of each pillar has been connected by
+beams with the top of all its nonadjacent pillars, then the total number of
+beams is:
+(A)
+190
+(B)
+170
+(c)
+180
+(D)
+210
+[Ans.: (B)]
+#DIBY-42
+Let A = {1, 2,3, 4, 5, 6, 7} and B = {3, 6, 7, 9}. Then the number of elements in the set
+[C = A: C n B ≠ P}is
+[JEEMains-2022]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,38,T2-PC08-P038-L020,DIBY,#DIBY-42,20,0.980727,"[[42.0, 546.0], [199.33, 546.0], [199.33, 572.67], [42.0, 572.67]]",,not_identified_automatically,"#DIBY-40
+There are 15 players in a cricket team, out of which 6 are bowlers, 7 are batsmen
+and 2 are wicketkeepers. The number of ways, a team of 1l players be selected
+from them so as to include at least 4 bowlers, 5 batsmen, and 1wicketkeeper, is
+[Ans. :777]
+#DIBY-41
+Suppose that 20 pillars of the same height have been erected-along the
+boundary of a circular stadium. If the top of each pillar has been connected by
+beams with the top of all its nonadjacent pillars, then the total number of
+beams is:
+(A)
+190
+(B)
+170
+(c)
+180
+(D)
+210
+[Ans.: (B)]
+#DIBY-42
+Let A = {1, 2,3, 4, 5, 6, 7} and B = {3, 6, 7, 9}. Then the number of elements in the set
+[C = A: C n B ≠ P}is
+[JEEMains-2022]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,39,T2-PC08-P039-L001,DIBY,#DIBY-43,1,0.981621,"[[41.33, 68.0], [198.67, 68.0], [198.67, 94.67], [41.33, 94.67]]",,not_identified_automatically,"#DIBY-43
+If 2nC3: nC3 = 10 : 1, then the ratio (n² + 3n):(n² - 3n + 4)
+[JEE Mains-2023]
+is
+(A)
+(B)
+2:1
+(c)
+36 :16
+(D)
+65:37
+27 :11
+[Ans.: (B)]
+#DIBY-44
+If mp, = nP r+i and nC, = nC,-, then the value of r is equal to
+[JEEE Mains-2021]
+(A) 
+(B)
+(c)
+(D)
+4
+2
+
+3
+[Ans.: (c)]
+#DIBY-45or37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language course. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,39,T2-PC08-P039-L014,DIBY,#DIBY-44,14,0.988485,"[[41.33, 245.33], [202.0, 245.33], [202.0, 272.0], [41.33, 272.0]]",,not_identified_automatically,"#DIBY-43
+If 2nC3: nC3 = 10 : 1, then the ratio (n² + 3n):(n² - 3n + 4)
+[JEE Mains-2023]
+is
+(A)
+(B)
+2:1
+(c)
+36 :16
+(D)
+65:37
+27 :11
+[Ans.: (B)]
+#DIBY-44
+If mp, = nP r+i and nC, = nC,-, then the value of r is equal to
+[JEEE Mains-2021]
+(A) 
+(B)
+(c)
+(D)
+4
+2
+
+3
+[Ans.: (c)]
+#DIBY-45or37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language course. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,39,T2-PC08-P039-L026,DIBY,#DIBY-45or37,26,0.95515,"[[40.67, 417.33], [278.0, 416.0], [278.0, 444.67], [40.67, 446.0]]",,not_identified_automatically,"#DIBY-43
+If 2nC3: nC3 = 10 : 1, then the ratio (n² + 3n):(n² - 3n + 4)
+[JEE Mains-2023]
+is
+(A)
+(B)
+2:1
+(c)
+36 :16
+(D)
+65:37
+27 :11
+[Ans.: (B)]
+#DIBY-44
+If mp, = nP r+i and nC, = nC,-, then the value of r is equal to
+[JEEE Mains-2021]
+(A) 
+(B)
+(c)
+(D)
+4
+2
+
+3
+[Ans.: (c)]
+#DIBY-45or37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language course. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,40,T2-PC08-P040-L001,DIBY,#DIBY-46,1,0.975853,"[[41.33, 67.33], [200.0, 67.33], [200.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-46
+Consider a rectangle ABcD having 5, 7, 6, 9 points in the interior of the line
+segments AB, CD, BC, DA respectively. Let α be the number of triangles having
+these points from all 4 different sides as vertices and β be the number of
+quadrilaterals having these points from all 4 different sides as vertices. Then
+β-α) isequalto
+[JEEMains-2021]
+(A)
+795
+(B)
+(c)
+1173
+1890
+(D)
+717
+[Ans.:(D)]
+#DIBY-47
+There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If
+4 persons are selected from each group, then the number of ways of selecting 4
+menand 4women is
+[JEEMains-2024]
+[Ans.:5626]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,40,T2-PC08-P040-L017,DIBY,#DIBY-47,17,0.985825,"[[42.0, 381.33], [197.33, 381.33], [197.33, 407.33], [42.0, 407.33]]",,not_identified_automatically,"#DIBY-46
+Consider a rectangle ABcD having 5, 7, 6, 9 points in the interior of the line
+segments AB, CD, BC, DA respectively. Let α be the number of triangles having
+these points from all 4 different sides as vertices and β be the number of
+quadrilaterals having these points from all 4 different sides as vertices. Then
+β-α) isequalto
+[JEEMains-2021]
+(A)
+795
+(B)
+(c)
+1173
+1890
+(D)
+717
+[Ans.:(D)]
+#DIBY-47
+There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If
+4 persons are selected from each group, then the number of ways of selecting 4
+menand 4women is
+[JEEMains-2024]
+[Ans.:5626]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,41,T2-PC08-P041-L001,DIBY,#DIBY-48,1,0.973687,"[[40.67, 67.33], [199.33, 67.33], [199.33, 94.0], [40.67, 94.0]]",,not_identified_automatically,"#DIBY-48
+The letters of the word ouGHT are written in all possible ways and these words
+are arranged as in a dictionary, in a series. Then the serial number of the word
+TOUCHis
+[JEE Mains-2023]
+(A)
+89
+(B)
+84
+(c)
+86
+(D)
+79
+[Ans.:(A)]
+#DIBY-49
+All words, with or without meaning, are made using all the letters of the word
+MoNDAY. These words are written as in a dictionary with serial numbers. The
+serial number of the word MoNDAY is
+[JEE Mains-2023]
+(A)
+327
+(B)
+328
+(c)
+324
+(D)
+326
+[Ans. : (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,41,T2-PC08-P041-L015,DIBY,#DIBY-49,15,0.974446,"[[41.33, 311.33], [199.33, 311.33], [199.33, 337.33], [41.33, 337.33]]",,not_identified_automatically,"#DIBY-48
+The letters of the word ouGHT are written in all possible ways and these words
+are arranged as in a dictionary, in a series. Then the serial number of the word
+TOUCHis
+[JEE Mains-2023]
+(A)
+89
+(B)
+84
+(c)
+86
+(D)
+79
+[Ans.:(A)]
+#DIBY-49
+All words, with or without meaning, are made using all the letters of the word
+MoNDAY. These words are written as in a dictionary with serial numbers. The
+serial number of the word MoNDAY is
+[JEE Mains-2023]
+(A)
+327
+(B)
+328
+(c)
+324
+(D)
+326
+[Ans. : (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,42,T2-PC08-P042-L001,DIBY,#DIBY-50,1,0.983464,"[[41.33, 67.33], [199.33, 67.33], [199.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word ""GTWENTY"" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword""GTwENTy""is
+[JEEMains-2024]
+[Ans.:553]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,42,T2-PC08-P042-L015,DIBY,# DIBY-51,15,0.929335,"[[40.67, 304.0], [192.67, 304.0], [192.67, 330.0], [40.67, 330.0]]",,not_identified_automatically,"#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word ""GTWENTY"" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword""GTwENTy""is
+[JEEMains-2024]
+[Ans.:553]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,42,T2-PC08-P042-L023,DIBY,#DIBY-52,23,0.982684,"[[41.33, 498.0], [198.0, 498.0], [198.0, 524.67], [41.33, 524.67]]",,not_identified_automatically,"#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word ""GTWENTY"" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword""GTwENTy""is
+[JEEMains-2024]
+[Ans.:553]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,43,T2-PC08-P043-L001,DIBY,#DIBY-53,1,0.982616,"[[41.33, 67.33], [198.0, 67.33], [198.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-53
+60 words can be made using all the letters of the word BHBJO, with or without
+meaning. If these words are written as in a dictionary, then the 5oth word is:
+[JEEMains-2024]
+(A)
+JBBOH
+(B)
+OBBJH
+(c)
+OBBHJ
+(D)
+HBBJO
+[Ans.: (B)]
+#DIBY-54
+If all the words with or without meaning made using all the letters of the word
+""NAGPUR"" are arranged as in a dictionary, then the word at 315th 
+ position in this
+[JEEMains-2024]
+(A)
+(B)
+(c)
+NRAGUP
+(D)
+NRAPUG
+NRAPGU
+NRAGPU
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,43,T2-PC08-P043-L014,DIBY,#DIBY-54,14,0.976913,"[[40.67, 310.67], [200.67, 310.67], [200.67, 336.67], [40.67, 336.67]]",,not_identified_automatically,"#DIBY-53
+60 words can be made using all the letters of the word BHBJO, with or without
+meaning. If these words are written as in a dictionary, then the 5oth word is:
+[JEEMains-2024]
+(A)
+JBBOH
+(B)
+OBBJH
+(c)
+OBBHJ
+(D)
+HBBJO
+[Ans.: (B)]
+#DIBY-54
+If all the words with or without meaning made using all the letters of the word
+""NAGPUR"" are arranged as in a dictionary, then the word at 315th 
+ position in this
+[JEEMains-2024]
+(A)
+(B)
+(c)
+NRAGUP
+(D)
+NRAPUG
+NRAPGU
+NRAGPU
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,08,Permutations and Combinations 08 Class Notes.pdf,44,T2-PC08-P044-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,27,T2-PC09-P027-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,28,T2-PC09-P028-L001,DIBY,#DIBY-46,1,0.975853,"[[41.33, 67.33], [200.0, 67.33], [200.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-46
+Consider a rectangle ABcD having 5, 7, 6, 9 points in the interior of the line
+segments AB, CD, BC, DA respectively. Let α be the number of triangles having
+these points from all 4 different sides as vertices and β be the number of
+quadrilaterals having these points from all 4 different sides as vertices. Then
+β-α) isequalto
+[JEEMains-2021]
+(A)
+795
+(B)
+(c)
+1173
+1890
+(D)
+717
+[Ans.:(D)]
+#DIBY-47
+There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If
+4 persons are selected from each group, then the number of ways of selecting 4
+menand 4women is
+[JEEMains-2024]
+[Ans.:5626]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,28,T2-PC09-P028-L017,DIBY,#DIBY-47,17,0.985825,"[[42.0, 381.33], [197.33, 381.33], [197.33, 407.33], [42.0, 407.33]]",,not_identified_automatically,"#DIBY-46
+Consider a rectangle ABcD having 5, 7, 6, 9 points in the interior of the line
+segments AB, CD, BC, DA respectively. Let α be the number of triangles having
+these points from all 4 different sides as vertices and β be the number of
+quadrilaterals having these points from all 4 different sides as vertices. Then
+β-α) isequalto
+[JEEMains-2021]
+(A)
+795
+(B)
+(c)
+1173
+1890
+(D)
+717
+[Ans.:(D)]
+#DIBY-47
+There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If
+4 persons are selected from each group, then the number of ways of selecting 4
+menand 4women is
+[JEEMains-2024]
+[Ans.:5626]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,29,T2-PC09-P029-L001,DIBY,#DIBY-48,1,0.979174,"[[41.33, 67.33], [200.0, 67.33], [200.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-48
+The letters of the word ouGHT are written in all possible ways and these words
+are arranged as in a dictionary, in a series. Then the serial number of the word
+TOUGHis
+[JEE Mains-2023]
+(A)
+89
+(B)
+84
+(c)
+86
+(D)
+79
+[Ans.:(A)]
+#DIBY-49
+All words, with or without meaning, are made using all the letters of the word
+MoNDAY. These words are written as in a dictionary with serial numbers. The
+serial number of the word MoNDAY is
+[JEEMains-2023]
+(A)
+327
+(B)
+328
+(c)
+324
+(D)
+326
+[Ans. : (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,29,T2-PC09-P029-L015,DIBY,#DIBY-49,15,0.974595,"[[41.33, 311.33], [199.33, 311.33], [199.33, 337.33], [41.33, 337.33]]",,not_identified_automatically,"#DIBY-48
+The letters of the word ouGHT are written in all possible ways and these words
+are arranged as in a dictionary, in a series. Then the serial number of the word
+TOUGHis
+[JEE Mains-2023]
+(A)
+89
+(B)
+84
+(c)
+86
+(D)
+79
+[Ans.:(A)]
+#DIBY-49
+All words, with or without meaning, are made using all the letters of the word
+MoNDAY. These words are written as in a dictionary with serial numbers. The
+serial number of the word MoNDAY is
+[JEEMains-2023]
+(A)
+327
+(B)
+328
+(c)
+324
+(D)
+326
+[Ans. : (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,30,T2-PC09-P030-L001,DIBY,#DIBY-50,1,0.983464,"[[41.33, 67.33], [199.33, 67.33], [199.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word ""GTWENTY"" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword""GTwENTy""is
+[JEEMains-2024]
+[Ans.:553]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,30,T2-PC09-P030-L015,DIBY,# DIBY-51,15,0.929335,"[[40.67, 304.0], [192.67, 304.0], [192.67, 330.0], [40.67, 330.0]]",,not_identified_automatically,"#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word ""GTWENTY"" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword""GTwENTy""is
+[JEEMains-2024]
+[Ans.:553]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,30,T2-PC09-P030-L023,DIBY,#DIBY-52,23,0.982684,"[[41.33, 498.0], [198.0, 498.0], [198.0, 524.67], [41.33, 524.67]]",,not_identified_automatically,"#DIBY-50
+All the letters of the word PUBLic are written in all possible orders and these
+Ps   s         s
+numberofthewordPuBLicis
+[JEE Mains-2023]
+(A)
+576
+(B)
+578
+(c)
+580
+(D)
+582
+[Ans.: (D)]
+# DIBY-51
+Thelettersof the word
+I'MANKIND'
+are written in all possible orders and
+arranged in serial order as in an English dictionary. Then the serial number of
+theword'MANKIND'is
+[JEE Mains-2022]
+[Ans.:1492]
+#DIBY-52
+All the letters of the word ""GTWENTY"" are written in all possible ways with or
+without meaning and these words are written as in a dictionary. The serial
+numberoftheword""GTwENTy""is
+[JEEMains-2024]
+[Ans.:553]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,31,T2-PC09-P031-L001,DIBY,#DIBY-53,1,0.982616,"[[41.33, 67.33], [198.0, 67.33], [198.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-53
+60 words can be made using all the letters of the word BHBJO, with or without
+meaning. If these words are written as in a dictionary, then the 5oth word is:
+[JEEMains-2024]
+(A)
+JBBOH
+(B)
+OBBJH
+(c)
+OBBHJ
+(D)
+HBBJO
+[Ans.: (B)]
+#DIBY-54
+If all the words with or without meaning made using all the letters of the word
+""NAGPUR"" are arranged as in a dictionary, then the word at 315th 
+ position in this
+[JEEMains-2024]
+(A)
+(B)
+(c)
+NRAGUP
+(D)
+NRAPUG
+NRAPGU
+NRAGPU
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,31,T2-PC09-P031-L014,DIBY,#DIBY-54,14,0.976913,"[[40.67, 310.67], [200.67, 310.67], [200.67, 336.67], [40.67, 336.67]]",,not_identified_automatically,"#DIBY-53
+60 words can be made using all the letters of the word BHBJO, with or without
+meaning. If these words are written as in a dictionary, then the 5oth word is:
+[JEEMains-2024]
+(A)
+JBBOH
+(B)
+OBBJH
+(c)
+OBBHJ
+(D)
+HBBJO
+[Ans.: (B)]
+#DIBY-54
+If all the words with or without meaning made using all the letters of the word
+""NAGPUR"" are arranged as in a dictionary, then the word at 315th 
+ position in this
+[JEEMains-2024]
+(A)
+(B)
+(c)
+NRAGUP
+(D)
+NRAPUG
+NRAPGU
+NRAGPU
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,32,T2-PC09-P032-L001,DIBY,#DIBY-55,1,0.983495,"[[41.33, 67.33], [200.0, 67.33], [200.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-55
+Find the total number of ways of selecting five letters from the work
+""INDEPENDENT'
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,32,T2-PC09-P032-L005,DIBY,#DIBY-56,5,0.980487,"[[42.67, 226.67], [199.33, 226.67], [199.33, 253.33], [42.67, 253.33]]",,not_identified_automatically,"#DIBY-55
+Find the total number of ways of selecting five letters from the work
+""INDEPENDENT'
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,32,T2-PC09-P032-L019,DIBY,#DIBY-57,19,0.986887,"[[42.0, 463.33], [196.0, 463.33], [196.0, 490.0], [42.0, 490.0]]",,not_identified_automatically,"#DIBY-55
+Find the total number of ways of selecting five letters from the work
+""INDEPENDENT'
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,09,Permutations and Combinations 09 Class Notes.pdf,33,T2-PC09-P033-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,15,T2-PC10-P015-L002,DIBY,# DIBY-01,2,0.92418,"[[40.0, 113.33], [192.0, 113.33], [192.0, 139.33], [40.0, 139.33]]",,not_identified_automatically,"RAPIDFIREDIBY'S
+# DIBY-01
+Number of ways in which 8 computers of different make can be distributed
+among 5 schools such that each school gets at least one computer is:
+(A)
+63,000
+(B)
+126,000
+(c)
+151,200
+(D)
+189,000
+[Ans.:(B)]
+#DIBY-O2
+In how many ways can a selection of 5 letters be made from the word
+MISSISSIPPI?
+(A) 
+15
+(B)
+25
+(c) 
+42
+(D)
+60
+
+[Ans.: (B)]
+# DIBY-03
+In how many different ways the number N = 24.32 .53 . 72 .114 .132 be resolved as
+a product of two divisors which are relatively prime ?
+(A)
+32
+(B)
+64
+(c) 16
+(D)
+128
+
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,15,T2-PC10-P015-L014,DIBY,#DIBY-O2,14,0.918951,"[[40.0, 300.0], [197.33, 300.0], [197.33, 326.0], [40.0, 326.0]]",,not_identified_automatically,"RAPIDFIREDIBY'S
+# DIBY-01
+Number of ways in which 8 computers of different make can be distributed
+among 5 schools such that each school gets at least one computer is:
+(A)
+63,000
+(B)
+126,000
+(c)
+151,200
+(D)
+189,000
+[Ans.:(B)]
+#DIBY-O2
+In how many ways can a selection of 5 letters be made from the word
+MISSISSIPPI?
+(A) 
+15
+(B)
+25
+(c) 
+42
+(D)
+60
+
+[Ans.: (B)]
+# DIBY-03
+In how many different ways the number N = 24.32 .53 . 72 .114 .132 be resolved as
+a product of two divisors which are relatively prime ?
+(A)
+32
+(B)
+64
+(c) 16
+(D)
+128
+
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,15,T2-PC10-P015-L027,DIBY,# DIBY-03,27,0.833891,"[[39.33, 487.33], [196.67, 485.33], [196.67, 512.67], [39.33, 514.0]]",,not_identified_automatically,"RAPIDFIREDIBY'S
+# DIBY-01
+Number of ways in which 8 computers of different make can be distributed
+among 5 schools such that each school gets at least one computer is:
+(A)
+63,000
+(B)
+126,000
+(c)
+151,200
+(D)
+189,000
+[Ans.:(B)]
+#DIBY-O2
+In how many ways can a selection of 5 letters be made from the word
+MISSISSIPPI?
+(A) 
+15
+(B)
+25
+(c) 
+42
+(D)
+60
+
+[Ans.: (B)]
+# DIBY-03
+In how many different ways the number N = 24.32 .53 . 72 .114 .132 be resolved as
+a product of two divisors which are relatively prime ?
+(A)
+32
+(B)
+64
+(c) 16
+(D)
+128
+
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,30,T2-PC10-P030-L002,DIBY,#DIBY-O1,2,0.966112,"[[40.0, 112.67], [178.0, 112.67], [178.0, 136.67], [40.0, 136.67]]",,not_identified_automatically,"RAPIDFIREDIBY'S
+#DIBY-O1
+In how many ways can 30 marks be allotted to 8 questions if at least 2 marks are to be
+given to each question, assuming the marks are allotted in non negative integral
+values?
+(A)
+21C7
+(B)
+22C
+(c)
+29 C7
+(D)
+21C8
+[Ans.: (A)]
+#DIBY-O2
+There are an unlimited number of Red, White, Black, and Green balls (balls are all alike
+except for the color). Find the number of ways in which a selection of 1o balls can be
+made:
+(A)
+13C4
+(B)
+10C3
+(c)
+13C3
+(D)
+14C3
+[Ans.:(c)]
+#DIBY-03
+A supermarket offers ice creams in 10 different varieties. Ice creams of each variety are
+identical. In how many ways can 4 ice creams be selected without any restriction?
+13C6
+(A)
+10C4
+(c)
+13C5
+(D)
+13C4
+(B)
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,30,T2-PC10-P030-L015,DIBY,#DIBY-O2,15,0.930355,"[[38.67, 314.0], [184.0, 316.0], [184.0, 342.0], [38.67, 340.67]]",,not_identified_automatically,"RAPIDFIREDIBY'S
+#DIBY-O1
+In how many ways can 30 marks be allotted to 8 questions if at least 2 marks are to be
+given to each question, assuming the marks are allotted in non negative integral
+values?
+(A)
+21C7
+(B)
+22C
+(c)
+29 C7
+(D)
+21C8
+[Ans.: (A)]
+#DIBY-O2
+There are an unlimited number of Red, White, Black, and Green balls (balls are all alike
+except for the color). Find the number of ways in which a selection of 1o balls can be
+made:
+(A)
+13C4
+(B)
+10C3
+(c)
+13C3
+(D)
+14C3
+[Ans.:(c)]
+#DIBY-03
+A supermarket offers ice creams in 10 different varieties. Ice creams of each variety are
+identical. In how many ways can 4 ice creams be selected without any restriction?
+13C6
+(A)
+10C4
+(c)
+13C5
+(D)
+13C4
+(B)
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,30,T2-PC10-P030-L028,DIBY,#DIBY-03,28,0.945816,"[[38.67, 518.67], [184.0, 517.33], [184.0, 544.0], [38.67, 545.33]]",,not_identified_automatically,"RAPIDFIREDIBY'S
+#DIBY-O1
+In how many ways can 30 marks be allotted to 8 questions if at least 2 marks are to be
+given to each question, assuming the marks are allotted in non negative integral
+values?
+(A)
+21C7
+(B)
+22C
+(c)
+29 C7
+(D)
+21C8
+[Ans.: (A)]
+#DIBY-O2
+There are an unlimited number of Red, White, Black, and Green balls (balls are all alike
+except for the color). Find the number of ways in which a selection of 1o balls can be
+made:
+(A)
+13C4
+(B)
+10C3
+(c)
+13C3
+(D)
+14C3
+[Ans.:(c)]
+#DIBY-03
+A supermarket offers ice creams in 10 different varieties. Ice creams of each variety are
+identical. In how many ways can 4 ice creams be selected without any restriction?
+13C6
+(A)
+10C4
+(c)
+13C5
+(D)
+13C4
+(B)
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,31,T2-PC10-P031-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,32,T2-PC10-P032-L001,DIBY,#DIBY-55,1,0.982847,"[[41.33, 67.33], [200.0, 67.33], [200.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-55
+Find the total number of ways of selecting five letters from the work
+""INDEPENDENT'.
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,32,T2-PC10-P032-L005,DIBY,#DIBY-56,5,0.980487,"[[42.67, 226.67], [199.33, 226.67], [199.33, 253.33], [42.67, 253.33]]",,not_identified_automatically,"#DIBY-55
+Find the total number of ways of selecting five letters from the work
+""INDEPENDENT'.
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,32,T2-PC10-P032-L019,DIBY,#DIBY-57,19,0.986887,"[[42.0, 463.33], [196.0, 463.33], [196.0, 490.0], [42.0, 490.0]]",,not_identified_automatically,"#DIBY-55
+Find the total number of ways of selecting five letters from the work
+""INDEPENDENT'.
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,33,T2-PC10-P033-L001,DIBY,#DIBY-58,1,0.968201,"[[41.33, 67.33], [199.33, 67.33], [199.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans......",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,33,T2-PC10-P033-L010,DIBY,#DIBY-59,10,0.960643,"[[40.0, 368.67], [198.67, 367.33], [198.67, 394.67], [40.0, 396.0]]",,not_identified_automatically,"#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans......",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,34,T2-PC10-P034-L001,DIBY,#DIBY-60,1,0.964552,"[[41.33, 67.33], [198.67, 67.33], [198.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+""cURRIcULUM"" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans. : (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+among 3 persons so that each person gets at least one ball is
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,34,T2-PC10-P034-L006,DIBY,# DIBY-61,6,0.948808,"[[40.0, 262.67], [192.0, 262.67], [192.0, 289.33], [40.0, 289.33]]",,not_identified_automatically,"#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+""cURRIcULUM"" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans. : (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+among 3 persons so that each person gets at least one ball is
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,34,T2-PC10-P034-L018,DIBY,#DIBY-62,18,0.98796,"[[41.33, 498.67], [198.0, 498.67], [198.0, 525.33], [41.33, 525.33]]",,not_identified_automatically,"#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+""cURRIcULUM"" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans. : (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+among 3 persons so that each person gets at least one ball is
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,35,T2-PC10-P035-L001,DIBY,#DIBY-63,1,0.980184,"[[42.0, 68.67], [196.67, 68.67], [196.67, 93.33], [42.0, 93.33]]",,not_identified_automatically,"#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+#DIBY-65
+Let the set S = {2, 4, 8, 16, ..
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A u B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,35,T2-PC10-P035-L008,DIBY,# DIBY-64,8,0.948687,"[[40.67, 290.0], [200.0, 290.0], [200.0, 316.0], [40.67, 316.0]]",,not_identified_automatically,"#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+#DIBY-65
+Let the set S = {2, 4, 8, 16, ..
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A u B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,35,T2-PC10-P035-L019,DIBY,#DIBY-65,19,0.976907,"[[40.67, 476.67], [200.0, 476.67], [200.0, 502.67], [40.67, 502.67]]",,not_identified_automatically,"#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+#DIBY-65
+Let the set S = {2, 4, 8, 16, ..
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A u B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,10,Permutations and Combinations 10 Class Notes.pdf,36,T2-PC10-P036-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,9,T2-PC11-P009-L002,DIBY,DIBY,2,0.935267,"[[426.67, 104.67], [495.33, 104.67], [495.33, 135.33], [426.67, 135.33]]",,not_identified_automatically,"W
+DIBY
+45
+4
+#xy=a3.10
+(x,y,eN)
+
+OR
+8.5
+xy=.3.54
+#",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,34,T2-PC11-P034-L003,DO IT BY YOURSELF,DO IT BY YOURSELF (DIBY),3,0.931965,"[[454.67, 330.67], [834.67, 334.0], [834.67, 365.33], [454.67, 362.0]]",,not_identified_automatically,"P
+?
+DO IT BY YOURSELF (DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,35,T2-PC11-P035-L001,DIBY,#DIBY-58,1,0.967503,"[[41.33, 67.33], [199.33, 67.33], [199.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans.. .....",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,35,T2-PC11-P035-L010,DIBY,#DIBY-59,10,0.960643,"[[40.0, 368.67], [198.67, 367.33], [198.67, 394.67], [40.0, 396.0]]",,not_identified_automatically,"#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans.. .....",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,36,T2-PC11-P036-L001,DIBY,#DIBY-60,1,0.964552,"[[41.33, 67.33], [198.67, 67.33], [198.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+""cURRIcULUM"" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans.: (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+   sas  s ss s
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,36,T2-PC11-P036-L006,DIBY,# DIBY-61,6,0.948808,"[[40.0, 262.67], [192.0, 262.67], [192.0, 289.33], [40.0, 289.33]]",,not_identified_automatically,"#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+""cURRIcULUM"" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans.: (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+   sas  s ss s
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,36,T2-PC11-P036-L018,DIBY,#DIBY-62,18,0.987593,"[[41.33, 498.67], [198.0, 498.67], [198.0, 525.33], [41.33, 525.33]]",,not_identified_automatically,"#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+""cURRIcULUM"" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans.: (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+   sas  s ss s
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,37,T2-PC11-P037-L001,DIBY,#DIBY-63,1,0.975616,"[[42.0, 68.67], [196.67, 68.67], [196.67, 93.33], [42.0, 93.33]]",,not_identified_automatically,"#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+# DIBY-65
+Let the set S = {2, 4, 8, 16, ..5
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A U B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,37,T2-PC11-P037-L008,DIBY,# DIBY-64,8,0.948687,"[[40.67, 290.0], [200.0, 290.0], [200.0, 316.0], [40.67, 316.0]]",,not_identified_automatically,"#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+# DIBY-65
+Let the set S = {2, 4, 8, 16, ..5
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A U B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,37,T2-PC11-P037-L019,DIBY,# DIBY-65,19,0.925867,"[[40.67, 476.67], [200.0, 476.67], [200.0, 502.67], [40.67, 502.67]]",,not_identified_automatically,"#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+# DIBY-65
+Let the set S = {2, 4, 8, 16, ..5
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A U B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,38,T2-PC11-P038-L001,DIBY,#DIBY-66,1,0.971766,"[[42.0, 68.67], [198.0, 68.67], [198.0, 93.33], [42.0, 93.33]]",,not_identified_automatically,"#DIBY-66
+A natura number has prime factorization given by n = 2x3y5"", where y and z are
+such that y + z = 5 and y-1 + z-1
+ y > z. Then the number of odd divisors of 
+5
+二
+n, including 1, is
+[JEE Mains-2021]
+(A) 11
+(B)
+6x
+(c)
+12
+(D)
+6
+[Ans.:(c)]
+#DIBY-67
+Number of integral solutions to the equation x + y + z = 21, where x ≥1, y ≥3, z
+≥ 4, is equal to
+[JEE Mains-2023]
+[Ans.:105]
+#DIBY-68
+There are 
+ infinite number of Identical BLUE, RED, GREEN and YELLOW balls
+available for selections. In how many ways can we select 1o balls.
+14C3
+(B)
+13C10
+(c)
+12C10
+(D)
+14C4
+(A)
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,38,T2-PC11-P038-L017,DIBY,#DIBY-67,17,0.96447,"[[40.0, 305.33], [197.33, 305.33], [197.33, 333.33], [40.0, 333.33]]",,not_identified_automatically,"#DIBY-66
+A natura number has prime factorization given by n = 2x3y5"", where y and z are
+such that y + z = 5 and y-1 + z-1
+ y > z. Then the number of odd divisors of 
+5
+二
+n, including 1, is
+[JEE Mains-2021]
+(A) 11
+(B)
+6x
+(c)
+12
+(D)
+6
+[Ans.:(c)]
+#DIBY-67
+Number of integral solutions to the equation x + y + z = 21, where x ≥1, y ≥3, z
+≥ 4, is equal to
+[JEE Mains-2023]
+[Ans.:105]
+#DIBY-68
+There are 
+ infinite number of Identical BLUE, RED, GREEN and YELLOW balls
+available for selections. In how many ways can we select 1o balls.
+14C3
+(B)
+13C10
+(c)
+12C10
+(D)
+14C4
+(A)
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,38,T2-PC11-P038-L022,DIBY,#DIBY-68,22,0.978335,"[[40.67, 455.33], [198.0, 455.33], [198.0, 480.0], [40.67, 480.0]]",,not_identified_automatically,"#DIBY-66
+A natura number has prime factorization given by n = 2x3y5"", where y and z are
+such that y + z = 5 and y-1 + z-1
+ y > z. Then the number of odd divisors of 
+5
+二
+n, including 1, is
+[JEE Mains-2021]
+(A) 11
+(B)
+6x
+(c)
+12
+(D)
+6
+[Ans.:(c)]
+#DIBY-67
+Number of integral solutions to the equation x + y + z = 21, where x ≥1, y ≥3, z
+≥ 4, is equal to
+[JEE Mains-2023]
+[Ans.:105]
+#DIBY-68
+There are 
+ infinite number of Identical BLUE, RED, GREEN and YELLOW balls
+available for selections. In how many ways can we select 1o balls.
+14C3
+(B)
+13C10
+(c)
+12C10
+(D)
+14C4
+(A)
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,39,T2-PC11-P039-L001,DIBY,#DIBY-69,1,0.92153,"[[41.33, 67.33], [198.0, 67.33], [198.0, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-69
+The number of triangles whose vertices are at the vertices of a regular octagon
+but none of whose sides is a side of the octagon is
+[JEE Mains-2024]
+(A)
+56
+(B)
+16
+(c)
+24
+(D)
+48
+[Ans.:(B)]
+#DIBY-70
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can be placed in row so that between any two red cubes, there should be at
+least 2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+# DIBY-71
+Number of ways of arranging 8 identical books into 4 identical shelves where
+any number of shelves may remain empty is equal to
+[JEEMains-2024]
+(A) 
+18
+(B)
+16
+(c)
+12
+(D)
+15
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,39,T2-PC11-P039-L014,DIBY,#DIBY-70,14,0.974129,"[[40.67, 265.33], [195.33, 265.33], [195.33, 292.0], [40.67, 292.0]]",,not_identified_automatically,"#DIBY-69
+The number of triangles whose vertices are at the vertices of a regular octagon
+but none of whose sides is a side of the octagon is
+[JEE Mains-2024]
+(A)
+56
+(B)
+16
+(c)
+24
+(D)
+48
+[Ans.:(B)]
+#DIBY-70
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can be placed in row so that between any two red cubes, there should be at
+least 2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+# DIBY-71
+Number of ways of arranging 8 identical books into 4 identical shelves where
+any number of shelves may remain empty is equal to
+[JEEMains-2024]
+(A) 
+18
+(B)
+16
+(c)
+12
+(D)
+15
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,39,T2-PC11-P039-L020,DIBY,# DIBY-71,20,0.92815,"[[40.0, 456.67], [190.0, 456.67], [190.0, 485.33], [40.0, 485.33]]",,not_identified_automatically,"#DIBY-69
+The number of triangles whose vertices are at the vertices of a regular octagon
+but none of whose sides is a side of the octagon is
+[JEE Mains-2024]
+(A)
+56
+(B)
+16
+(c)
+24
+(D)
+48
+[Ans.:(B)]
+#DIBY-70
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can be placed in row so that between any two red cubes, there should be at
+least 2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+# DIBY-71
+Number of ways of arranging 8 identical books into 4 identical shelves where
+any number of shelves may remain empty is equal to
+[JEEMains-2024]
+(A) 
+18
+(B)
+16
+(c)
+12
+(D)
+15
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,40,T2-PC11-P040-L001,DIBY,#DIBY-72,1,0.948602,"[[41.33, 67.33], [194.67, 67.33], [194.67, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-72
+The total number of positive integral solutions (x, y, z) such that xyz = 24 is
+[JEE Mains-2021]
+(A)
+(B)
+(c)
+(D) 30
+36
+45
+24
+[Ans.: (D)]
+#DIBY-73
+(4!)!
+(5!)!
+Let α =
+and β =
+then
+[JEEMains-2024]
+(4!)3!
+(5!)4!""
+(A)
+(B)
+αeNandβeN
+αeNandβeN
+(c)
+()
+α Nandβ ∈ N
+α N andβ ε N
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,40,T2-PC11-P040-L012,DIBY,#DIBY-73,12,0.990513,"[[40.67, 269.33], [194.67, 269.33], [194.67, 298.0], [40.67, 298.0]]",,not_identified_automatically,"#DIBY-72
+The total number of positive integral solutions (x, y, z) such that xyz = 24 is
+[JEE Mains-2021]
+(A)
+(B)
+(c)
+(D) 30
+36
+45
+24
+[Ans.: (D)]
+#DIBY-73
+(4!)!
+(5!)!
+Let α =
+and β =
+then
+[JEEMains-2024]
+(4!)3!
+(5!)4!""
+(A)
+(B)
+αeNandβeN
+αeNandβeN
+(c)
+()
+α Nandβ ∈ N
+α N andβ ε N
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,41,T2-PC11-P041-L001,DIBY,#DIBY-74,1,0.968301,"[[40.67, 66.0], [198.0, 67.33], [198.0, 94.67], [40.67, 93.33]]",,not_identified_automatically,"#DIBY-74
+From a group of 7 batsmen and 6 bowlers, 10 players are to be chosen for a
+team, which should include atleast 4 batsmen and atleast 4 bowlers. One
+batsmen and one bowler who are captain and vice-captain respectively of the
+team should be included. Then the total number of ways such a selection can
+be made, is
+[JEE Mains-2025]
+(A)
+165
+(B)
+155
+(c)
+145
+(D)
+135
+[Ans.: (B)]
+#DIBY-75
+The number of ways, in which the letters A, B, C, D, E can be placed in the 8
+boxes of the figure below so that no row remains empty and at most one letter
+can be placed in a box, is
+[JEE Mains-2025]
+(A)
+5880
+(B)
+960
+(c)
+840
+(D)
+5760
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,41,T2-PC11-P041-L017,DIBY,#DIBY-75,17,0.984935,"[[40.0, 369.33], [196.67, 369.33], [196.67, 398.0], [40.0, 398.0]]",,not_identified_automatically,"#DIBY-74
+From a group of 7 batsmen and 6 bowlers, 10 players are to be chosen for a
+team, which should include atleast 4 batsmen and atleast 4 bowlers. One
+batsmen and one bowler who are captain and vice-captain respectively of the
+team should be included. Then the total number of ways such a selection can
+be made, is
+[JEE Mains-2025]
+(A)
+165
+(B)
+155
+(c)
+145
+(D)
+135
+[Ans.: (B)]
+#DIBY-75
+The number of ways, in which the letters A, B, C, D, E can be placed in the 8
+boxes of the figure below so that no row remains empty and at most one letter
+can be placed in a box, is
+[JEE Mains-2025]
+(A)
+5880
+(B)
+960
+(c)
+840
+(D)
+5760
+[Ans.:(D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,42,T2-PC11-P042-L001,DIBY,#DIBY-76,1,0.952513,"[[41.33, 67.33], [195.33, 67.33], [195.33, 94.0], [41.33, 94.0]]",,not_identified_automatically,"#DIBY-76
+The number of functions f from [1, 2, 3, .., 20} only {1, 2, 3, ., 2
+20}
+such that f(k)
+is a multiple of 3, whenever k is a multiple of 4, is
+[JEE Mains-2019]
+(A)
+65 × (15)!
+(B)
+5!×6!
+(c)
+(15)! x 6!
+(D)
+56 × 15
+[Ans.: (c)]
+#DIBY-77
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can placed in a row so that between any two red cubes there should be at least
+2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+#DIBY-78
+For n ≥ 2, let S, denote the set of all subsets of {l, 2,
+n}
+with no two
+1
+consecutive numbers. For example {1, 3, 5} e S, but {1, 2, 4}  S. Then n(S5) is
+equal to
+[JEE Mains-2025]
+[Ans. : 13]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,42,T2-PC11-P042-L016,DIBY,#DIBY-77,16,0.983391,"[[40.0, 265.33], [192.0, 265.33], [192.0, 292.0], [40.0, 292.0]]",,not_identified_automatically,"#DIBY-76
+The number of functions f from [1, 2, 3, .., 20} only {1, 2, 3, ., 2
+20}
+such that f(k)
+is a multiple of 3, whenever k is a multiple of 4, is
+[JEE Mains-2019]
+(A)
+65 × (15)!
+(B)
+5!×6!
+(c)
+(15)! x 6!
+(D)
+56 × 15
+[Ans.: (c)]
+#DIBY-77
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can placed in a row so that between any two red cubes there should be at least
+2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+#DIBY-78
+For n ≥ 2, let S, denote the set of all subsets of {l, 2,
+n}
+with no two
+1
+consecutive numbers. For example {1, 3, 5} e S, but {1, 2, 4}  S. Then n(S5) is
+equal to
+[JEE Mains-2025]
+[Ans. : 13]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,42,T2-PC11-P042-L022,DIBY,#DIBY-78,22,0.970461,"[[40.67, 456.67], [195.33, 456.67], [195.33, 483.33], [40.67, 483.33]]",,not_identified_automatically,"#DIBY-76
+The number of functions f from [1, 2, 3, .., 20} only {1, 2, 3, ., 2
+20}
+such that f(k)
+is a multiple of 3, whenever k is a multiple of 4, is
+[JEE Mains-2019]
+(A)
+65 × (15)!
+(B)
+5!×6!
+(c)
+(15)! x 6!
+(D)
+56 × 15
+[Ans.: (c)]
+#DIBY-77
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can placed in a row so that between any two red cubes there should be at least
+2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+#DIBY-78
+For n ≥ 2, let S, denote the set of all subsets of {l, 2,
+n}
+with no two
+1
+consecutive numbers. For example {1, 3, 5} e S, but {1, 2, 4}  S. Then n(S5) is
+equal to
+[JEE Mains-2025]
+[Ans. : 13]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,43,T2-PC11-P043-L001,DIBY,#DIBY-79,1,0.953044,"[[40.67, 67.33], [194.67, 67.33], [194.67, 94.0], [40.67, 94.0]]",,not_identified_automatically,"#DIBY-79
+The largest n ∈ N such that 3n divides 5o! is
+[JEEMains-2025]
+(A)
+21
+(B)
+22
+(c)
+20
+(D) 23
+[Ans.: (B)]
+DIBY-80
+
+In an examination 5 students have been allotted their seats as per their roll
+numbers. The number of ways, in which none of the students sits on the allotted
+seat, is
+[JEEMains-2023]
+[Ans.: 44]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,43,T2-PC11-P043-L012,DIBY,DIBY-80,12,0.988761,"[[68.67, 230.0], [199.33, 230.0], [199.33, 256.67], [68.67, 256.67]]",,not_identified_automatically,"#DIBY-79
+The largest n ∈ N such that 3n divides 5o! is
+[JEEMains-2025]
+(A)
+21
+(B)
+22
+(c)
+20
+(D) 23
+[Ans.: (B)]
+DIBY-80
+
+In an examination 5 students have been allotted their seats as per their roll
+numbers. The number of ways, in which none of the students sits on the allotted
+seat, is
+[JEEMains-2023]
+[Ans.: 44]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Permutations & Combinations,11,Permutations and Combinations 11 Class Notes.pdf,44,T2-PC11-P044-L003,DIBY,#DPP&DIBY,3,0.962104,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,26,T2-QE01-P026-L002,DIBY,(DIBY),2,0.976086,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,27,T2-QE01-P027-L002,DIBY,#DIBY-107,2,0.957392,"[[40.0, 74.67], [206.67, 74.67], [206.67, 101.33], [40.0, 101.33]]",,not_identified_automatically,"QUESTIONS ONGRAPH
+#DIBY-107
+If|x -2|+ 2|x + 2|= P, then find P is given equation has
+00m
+no solution
+Ans.:
+1solution
+0
+No solution
+P<4
+2 solutions
+1solution
+P=4
+(iv)
+more than 2 solutions
+2 solutions
+P>4
+More then2 solution P eΦ
+#DIBY-108
+Find thevalueofkifequation|x+2|-2|x-7|+3|x-4|=khas
+0
+one solution
+i
+two solutions
+Ans.:
+(i!)
+3 solutions
+(iv)
+4 solutions
+D
+one solution
+k∈Φ
+(vi)
+2 solutions
+k>0
+no solution
+o solutions
+3 solutions
+keΦ
+4 solution
+keΦ
+no solution
+k<0
+o solutions
+k= 0",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,27,T2-QE01-P027-L019,DIBY,#DIBY-108,19,0.930296,"[[40.67, 367.33], [209.33, 367.33], [209.33, 394.0], [40.67, 394.0]]",,not_identified_automatically,"QUESTIONS ONGRAPH
+#DIBY-107
+If|x -2|+ 2|x + 2|= P, then find P is given equation has
+00m
+no solution
+Ans.:
+1solution
+0
+No solution
+P<4
+2 solutions
+1solution
+P=4
+(iv)
+more than 2 solutions
+2 solutions
+P>4
+More then2 solution P eΦ
+#DIBY-108
+Find thevalueofkifequation|x+2|-2|x-7|+3|x-4|=khas
+0
+one solution
+i
+two solutions
+Ans.:
+(i!)
+3 solutions
+(iv)
+4 solutions
+D
+one solution
+k∈Φ
+(vi)
+2 solutions
+k>0
+no solution
+o solutions
+3 solutions
+keΦ
+4 solution
+keΦ
+no solution
+k<0
+o solutions
+k= 0",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,28,T2-QE01-P028-L002,DIBY,#DIBY-109,2,0.972942,"[[40.67, 76.0], [207.33, 76.0], [207.33, 100.67], [40.67, 100.67]]",,not_identified_automatically,"QUESTIONSONGRAPH
+#DIBY-109
+Draw graph of y = ||x - 2| - 3| and answer following questions:
+n
+Minimum value of y is
+3313
+If y = k has 2 solutions then k is
+If y = k has 3 solutions then k is
+If y = k has 4 solutions then k is
+If y = k has no solution then k is
+(vi)
+2x+10
+Number of solutions of: ||x - 2|- 3| =
+is(are)
+15
+Ans.:
+酒
+k ∈ (3, ∞) U {0}
+k=3
+k ∈ (0,3)
+k ∈ (-∞, 0)
+4",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,29,T2-QE01-P029-L002,DIBY,#DIBY-110,2,0.986151,"[[40.0, 76.0], [200.0, 76.0], [200.0, 100.67], [40.0, 100.67]]",,not_identified_automatically,"QUESTIONSONIRRATIONALEQUATIONS&INEQUALITY
+#DIBY-110
+It x is a real number, find the number of integral values of x for which the
+expression / Ix - 2| -- 3 +  5 - Ix + 1| is defined.
+[Ans.: 6]
+#DIBY-111
+If the complete solution set of the inequality 1 - /1 - 4x2 < 3x is (a, b], find the
+value of 10a + 2b.
+[Ans. :1]
+#DIBY-112
+Solve:Vx - 2 ≥ V5 - x
+[Ans.:x E
+.51
+# DIBY-113 (challenger)
+solve:Vx - 6 - V10 - x ≥ 1
+,10
+[Ans.:x E8+",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,29,T2-QE01-P029-L006,DIBY,#DIBY-111,6,0.981168,"[[40.67, 235.33], [193.33, 235.33], [193.33, 262.0], [40.67, 262.0]]",,not_identified_automatically,"QUESTIONSONIRRATIONALEQUATIONS&INEQUALITY
+#DIBY-110
+It x is a real number, find the number of integral values of x for which the
+expression / Ix - 2| -- 3 +  5 - Ix + 1| is defined.
+[Ans.: 6]
+#DIBY-111
+If the complete solution set of the inequality 1 - /1 - 4x2 < 3x is (a, b], find the
+value of 10a + 2b.
+[Ans. :1]
+#DIBY-112
+Solve:Vx - 2 ≥ V5 - x
+[Ans.:x E
+.51
+# DIBY-113 (challenger)
+solve:Vx - 6 - V10 - x ≥ 1
+,10
+[Ans.:x E8+",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,29,T2-QE01-P029-L010,DIBY,#DIBY-112,10,0.983555,"[[40.0, 395.33], [200.67, 395.33], [200.67, 421.33], [40.0, 421.33]]",,not_identified_automatically,"QUESTIONSONIRRATIONALEQUATIONS&INEQUALITY
+#DIBY-110
+It x is a real number, find the number of integral values of x for which the
+expression / Ix - 2| -- 3 +  5 - Ix + 1| is defined.
+[Ans.: 6]
+#DIBY-111
+If the complete solution set of the inequality 1 - /1 - 4x2 < 3x is (a, b], find the
+value of 10a + 2b.
+[Ans. :1]
+#DIBY-112
+Solve:Vx - 2 ≥ V5 - x
+[Ans.:x E
+.51
+# DIBY-113 (challenger)
+solve:Vx - 6 - V10 - x ≥ 1
+,10
+[Ans.:x E8+",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,29,T2-QE01-P029-L014,DIBY,# DIBY-113 (challenger),14,0.944452,"[[37.33, 528.67], [398.0, 530.67], [398.0, 565.33], [37.33, 563.33]]",,not_identified_automatically,"QUESTIONSONIRRATIONALEQUATIONS&INEQUALITY
+#DIBY-110
+It x is a real number, find the number of integral values of x for which the
+expression / Ix - 2| -- 3 +  5 - Ix + 1| is defined.
+[Ans.: 6]
+#DIBY-111
+If the complete solution set of the inequality 1 - /1 - 4x2 < 3x is (a, b], find the
+value of 10a + 2b.
+[Ans. :1]
+#DIBY-112
+Solve:Vx - 2 ≥ V5 - x
+[Ans.:x E
+.51
+# DIBY-113 (challenger)
+solve:Vx - 6 - V10 - x ≥ 1
+,10
+[Ans.:x E8+",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,30,T2-QE01-P030-L002,DIBY,#DIBY-114,2,0.98603,"[[40.67, 76.0], [202.67, 76.0], [202.67, 100.67], [40.67, 100.67]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+#DIBY-114
+Which of the following is true?
+A间
+(log10 2)² + 1 > log10 4
+log10 90 > log5 50
+C
+log4 log3 log2 16 > log16 4
+2(log10 3)² - 3(log10 2)² > (log10 2) × (log10 3)
+[Ans.:A, D]
+# DIBY-115 (Challenger)
+Positive numbers x, y and z satisfy xyz = 1081
+ and
+(log1o x)(log1o yz) + (log1o y)(log1o z) = 468.
+Find the value of (log1o x)² + (log1o y)2 + (log1o z)2
+[Ans.:5625]
+# DIBY-116
+Consider the system of equations log1o(2000xy) - log1o x · log1o y = 4,
+log1o(2yz) - log1o y · log1o z = 1 and log1o(zx) - log10 z · log1o x = 0, x,y,z ≤ 90
+then x + y + z =
+[Ans.: 7]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,30,T2-QE01-P030-L011,DIBY,# DIBY-115 (Challenger),11,0.951011,"[[37.33, 318.67], [400.0, 318.67], [400.0, 356.0], [37.33, 356.0]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+#DIBY-114
+Which of the following is true?
+A间
+(log10 2)² + 1 > log10 4
+log10 90 > log5 50
+C
+log4 log3 log2 16 > log16 4
+2(log10 3)² - 3(log10 2)² > (log10 2) × (log10 3)
+[Ans.:A, D]
+# DIBY-115 (Challenger)
+Positive numbers x, y and z satisfy xyz = 1081
+ and
+(log1o x)(log1o yz) + (log1o y)(log1o z) = 468.
+Find the value of (log1o x)² + (log1o y)2 + (log1o z)2
+[Ans.:5625]
+# DIBY-116
+Consider the system of equations log1o(2000xy) - log1o x · log1o y = 4,
+log1o(2yz) - log1o y · log1o z = 1 and log1o(zx) - log10 z · log1o x = 0, x,y,z ≤ 90
+then x + y + z =
+[Ans.: 7]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,30,T2-QE01-P030-L017,DIBY,# DIBY-116,17,0.955772,"[[40.67, 511.33], [200.0, 511.33], [200.0, 536.0], [40.67, 536.0]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+#DIBY-114
+Which of the following is true?
+A间
+(log10 2)² + 1 > log10 4
+log10 90 > log5 50
+C
+log4 log3 log2 16 > log16 4
+2(log10 3)² - 3(log10 2)² > (log10 2) × (log10 3)
+[Ans.:A, D]
+# DIBY-115 (Challenger)
+Positive numbers x, y and z satisfy xyz = 1081
+ and
+(log1o x)(log1o yz) + (log1o y)(log1o z) = 468.
+Find the value of (log1o x)² + (log1o y)2 + (log1o z)2
+[Ans.:5625]
+# DIBY-116
+Consider the system of equations log1o(2000xy) - log1o x · log1o y = 4,
+log1o(2yz) - log1o y · log1o z = 1 and log1o(zx) - log10 z · log1o x = 0, x,y,z ≤ 90
+then x + y + z =
+[Ans.: 7]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,31,T2-QE01-P031-L002,DIBY,#DIBY-117,2,0.983414,"[[40.67, 76.0], [198.0, 76.0], [198.0, 100.67], [40.67, 100.67]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+#DIBY-117
+{x∈R:(v3+√2)*+(v3-√2)=10}.
+Let S =
+.Then the number of elements in S
+is
+[JEEMains-2024]
+(A)
+(B)
+(c)
+(D) 1
+4
+0
+2
+[Ans.:(c)]
+#DIBY-118
+The number ofelements in the set {n E Z: |n2 - 10n + 19| < 6} is
+[JEE Mains-2023]
+[Ans.: 6]
+#DIBY-119
+|x+3|-1
+Let S={x∈[-6,3]-{-2,2}
+v~
+{06+|x|-x:Zx}=pup
+. Then
+|x|-2
+the number of elements of S  T is
+[JEE Mains-2022]
+(A) 7
+(B)
+5
+(c)
+(D)  3
+4
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,31,T2-QE01-P031-L016,DIBY,#DIBY-118,16,0.970441,"[[40.67, 273.33], [200.67, 273.33], [200.67, 300.0], [40.67, 300.0]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+#DIBY-117
+{x∈R:(v3+√2)*+(v3-√2)=10}.
+Let S =
+.Then the number of elements in S
+is
+[JEEMains-2024]
+(A)
+(B)
+(c)
+(D) 1
+4
+0
+2
+[Ans.:(c)]
+#DIBY-118
+The number ofelements in the set {n E Z: |n2 - 10n + 19| < 6} is
+[JEE Mains-2023]
+[Ans.: 6]
+#DIBY-119
+|x+3|-1
+Let S={x∈[-6,3]-{-2,2}
+v~
+{06+|x|-x:Zx}=pup
+. Then
+|x|-2
+the number of elements of S  T is
+[JEE Mains-2022]
+(A) 7
+(B)
+5
+(c)
+(D)  3
+4
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,31,T2-QE01-P031-L020,DIBY,#DIBY-119,20,0.978303,"[[40.67, 422.0], [199.33, 422.0], [199.33, 448.67], [40.67, 448.67]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+#DIBY-117
+{x∈R:(v3+√2)*+(v3-√2)=10}.
+Let S =
+.Then the number of elements in S
+is
+[JEEMains-2024]
+(A)
+(B)
+(c)
+(D) 1
+4
+0
+2
+[Ans.:(c)]
+#DIBY-118
+The number ofelements in the set {n E Z: |n2 - 10n + 19| < 6} is
+[JEE Mains-2023]
+[Ans.: 6]
+#DIBY-119
+|x+3|-1
+Let S={x∈[-6,3]-{-2,2}
+v~
+{06+|x|-x:Zx}=pup
+. Then
+|x|-2
+the number of elements of S  T is
+[JEE Mains-2022]
+(A) 7
+(B)
+5
+(c)
+(D)  3
+4
+[Ans.: (D)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,32,T2-QE01-P032-L002,DIBY,# DIBY-120,2,0.947881,"[[40.0, 76.0], [206.0, 76.0], [206.0, 100.67], [40.0, 100.67]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+# DIBY-120
+Let A = {x: x² - 10| ≤ 6} and B = {x: |x - 2| > 1}. Then
+[JEEMains-2026]
+(A)
+A -B = [2,3)
+(B)
+A U B = (-0o, 1] U (2,)
+(c)
+(可)
+B-A=（-00,-4) U （-2,1) U(4,0)
+A n B = [-4, -2] U [3,4]
+[Ans.: (c)]
+# DIBY-121
+IfA={x∈R:|x-2|>1},B={x∈R:Vx²-3>1},C={x∈R:|x-4|≥2}and Z
+is the set of all integers, then the number of subsets of the set (A n B n C)° n Z is
+[JEE Mains-2021]
+[Ans.:256]
+#DIBY-122
+ nba s e =  + xi( - (x) y  x s e u sie o n r
+[JEE Mains-2021]
+(A)  3
+(B) 2
+(c)
+(D)
+4
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,32,T2-QE01-P032-L014,DIBY,# DIBY-121,14,0.929195,"[[39.33, 285.33], [200.0, 285.33], [200.0, 314.0], [39.33, 314.0]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+# DIBY-120
+Let A = {x: x² - 10| ≤ 6} and B = {x: |x - 2| > 1}. Then
+[JEEMains-2026]
+(A)
+A -B = [2,3)
+(B)
+A U B = (-0o, 1] U (2,)
+(c)
+(可)
+B-A=（-00,-4) U （-2,1) U(4,0)
+A n B = [-4, -2] U [3,4]
+[Ans.: (c)]
+# DIBY-121
+IfA={x∈R:|x-2|>1},B={x∈R:Vx²-3>1},C={x∈R:|x-4|≥2}and Z
+is the set of all integers, then the number of subsets of the set (A n B n C)° n Z is
+[JEE Mains-2021]
+[Ans.:256]
+#DIBY-122
+ nba s e =  + xi( - (x) y  x s e u sie o n r
+[JEE Mains-2021]
+(A)  3
+(B) 2
+(c)
+(D)
+4
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,32,T2-QE01-P032-L019,DIBY,#DIBY-122,19,0.950683,"[[40.67, 498.67], [206.0, 498.67], [206.0, 525.33], [40.67, 525.33]]",,not_identified_automatically,"MISCELLANEOUSQUESTIONS
+# DIBY-120
+Let A = {x: x² - 10| ≤ 6} and B = {x: |x - 2| > 1}. Then
+[JEEMains-2026]
+(A)
+A -B = [2,3)
+(B)
+A U B = (-0o, 1] U (2,)
+(c)
+(可)
+B-A=（-00,-4) U （-2,1) U(4,0)
+A n B = [-4, -2] U [3,4]
+[Ans.: (c)]
+# DIBY-121
+IfA={x∈R:|x-2|>1},B={x∈R:Vx²-3>1},C={x∈R:|x-4|≥2}and Z
+is the set of all integers, then the number of subsets of the set (A n B n C)° n Z is
+[JEE Mains-2021]
+[Ans.:256]
+#DIBY-122
+ nba s e =  + xi( - (x) y  x s e u sie o n r
+[JEE Mains-2021]
+(A)  3
+(B) 2
+(c)
+(D)
+4
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,01,Quadratic Equations 01 Class Notes.pdf,33,T2-QE01-P033-L003,DIBY,DPP&DIBY,3,0.958804,"[[74.67, 230.67], [238.0, 230.67], [238.0, 257.33], [74.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+DPP&DIBY
+#Module: Basic Maths
+4 Sittings Each of1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+4HR
+Exercise-04(JEE ADV.LEVEL):COMPLETE",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,34,T2-QE02-P034-L002,DIBY,(DIBY),2,0.976086,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,35,T2-QE02-P035-L001,DIBY,# DIBY-01,1,0.926967,"[[42.67, 56.67], [193.33, 55.33], [193.33, 82.67], [42.67, 84.0]]",,not_identified_automatically,"# DIBY-01
+The quadratic equation whose roots are 1 + √2, 1 - V2 is
+(A)
+(B)
+x²+2x-1=0
+x²-2x-1= 0
+(c)
+x²-2x+1=0
+(D)
+x²+2x+1=0
+[Ans.: (B)]
+#DIBY-02
+If α, β are roots of the equation ax2 - bx - c = 0, then α² - αβ + β² is equal to
+b²+3ac
+b2-3ac
+b2+2ac
+b2-2ac
+(A)
+(B)
+(c)
+(D)
+a2
+a2
+a2
+a2
+[Ans.: (A)]
+#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2+βis
+(A)
+ax²+ (b -4a)x+ (4a -2b+c) =0 (B)
+ax²-(b-4a)x+(4a-2b+c) = 0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0 (D)
+ax²-(b-4a)x-(4a-2b+c) =0
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,35,T2-QE02-P035-L012,DIBY,#DIBY-02,12,0.951184,"[[42.67, 266.0], [200.0, 266.0], [200.0, 292.67], [42.67, 292.67]]",,not_identified_automatically,"# DIBY-01
+The quadratic equation whose roots are 1 + √2, 1 - V2 is
+(A)
+(B)
+x²+2x-1=0
+x²-2x-1= 0
+(c)
+x²-2x+1=0
+(D)
+x²+2x+1=0
+[Ans.: (B)]
+#DIBY-02
+If α, β are roots of the equation ax2 - bx - c = 0, then α² - αβ + β² is equal to
+b²+3ac
+b2-3ac
+b2+2ac
+b2-2ac
+(A)
+(B)
+(c)
+(D)
+a2
+a2
+a2
+a2
+[Ans.: (A)]
+#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2+βis
+(A)
+ax²+ (b -4a)x+ (4a -2b+c) =0 (B)
+ax²-(b-4a)x+(4a-2b+c) = 0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0 (D)
+ax²-(b-4a)x-(4a-2b+c) =0
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,35,T2-QE02-P035-L027,DIBY,#DIBY-03,27,0.97493,"[[42.0, 458.0], [199.33, 456.67], [199.33, 484.0], [42.0, 485.33]]",,not_identified_automatically,"# DIBY-01
+The quadratic equation whose roots are 1 + √2, 1 - V2 is
+(A)
+(B)
+x²+2x-1=0
+x²-2x-1= 0
+(c)
+x²-2x+1=0
+(D)
+x²+2x+1=0
+[Ans.: (B)]
+#DIBY-02
+If α, β are roots of the equation ax2 - bx - c = 0, then α² - αβ + β² is equal to
+b²+3ac
+b2-3ac
+b2+2ac
+b2-2ac
+(A)
+(B)
+(c)
+(D)
+a2
+a2
+a2
+a2
+[Ans.: (A)]
+#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2+βis
+(A)
+ax²+ (b -4a)x+ (4a -2b+c) =0 (B)
+ax²-(b-4a)x+(4a-2b+c) = 0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0 (D)
+ax²-(b-4a)x-(4a-2b+c) =0
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,36,T2-QE02-P036-L001,DIBY,#DIBY-04,1,0.956003,"[[43.33, 56.0], [202.0, 56.0], [202.0, 82.67], [43.33, 82.67]]",,not_identified_automatically,"#DIBY-04
+If α and β are roots of the equation x² + px +  = 0, such that lα -β| = 10,then
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+#DIBY-O5
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+ac
+ac
+a2c2
+[Ans.: (c)]
+#DIBY-06
+Let a andβbe the roots of the quadratic equation
+(x-2)(x-3) +（x-3)(x +1) +（x + 1)(x-2)=0.Find the value of
+1
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,36,T2-QE02-P036-L013,DIBY,#DIBY-O5,13,0.932772,"[[42.0, 263.33], [201.33, 262.0], [201.33, 289.33], [42.0, 290.67]]",,not_identified_automatically,"#DIBY-04
+If α and β are roots of the equation x² + px +  = 0, such that lα -β| = 10,then
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+#DIBY-O5
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+ac
+ac
+a2c2
+[Ans.: (c)]
+#DIBY-06
+Let a andβbe the roots of the quadratic equation
+(x-2)(x-3) +（x-3)(x +1) +（x + 1)(x-2)=0.Find the value of
+1
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,36,T2-QE02-P036-L031,DIBY,#DIBY-06,31,0.939177,"[[42.67, 496.0], [201.33, 496.0], [201.33, 522.67], [42.67, 522.67]]",,not_identified_automatically,"#DIBY-04
+If α and β are roots of the equation x² + px +  = 0, such that lα -β| = 10,then
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+#DIBY-O5
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+ac
+ac
+a2c2
+[Ans.: (c)]
+#DIBY-06
+Let a andβbe the roots of the quadratic equation
+(x-2)(x-3) +（x-3)(x +1) +（x + 1)(x-2)=0.Find the value of
+1
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,02,Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf,37,T2-QE02-P037-L004,DIBY,DPP&DIBY,4,0.946336,"[[64.67, 232.67], [238.67, 232.67], [238.67, 257.33], [64.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+井
+DPP&DIBY
+# Module: Basic Maths
+(多sittings Each of 1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+ExerciSe-04(JEE ADV.LEVEL):COMPLETE",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,2,T2-QE03-P002-L009,DIBY,Note: Basic Mathematics DIBY PDF is uploaded,9,0.965273,"[[139.33, 560.0], [836.67, 561.33], [836.67, 591.33], [139.33, 590.0]]",,not_identified_automatically,"Topics
+tohecoverer
+A
+Symmetric Functions of Roots
+B
+Newton'sFormula
+Question Practice
+D
+Note: Basic Mathematics DIBY PDF is uploaded",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,13,T2-QE03-P013-L001,DIBY,#DIBY-03,1,0.982108,"[[34.0, 34.67], [182.0, 34.67], [182.0, 58.67], [34.0, 58.67]]",,not_identified_automatically,"#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2 + βis
+ax²+(b-4a)x+(4a-2b+c)=0(
+(B)
+ax²-(b-4a)x+(4a-2b+c) =0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0(D)
+ax²-(b-4a)x-（4a-2b+c)=0
+[Ans. :(A)] 
+α
+αx+bx+ =0
+(a+α)(2+β)
+2+α+2+β
+×+
+X
+=0
+2td
++α+B)
+α+β=-b
++4+2(α+β)+αβ
+= 0
+β
+Q
+αβ =
+C
+6
++4+2
+-b
+=0
+C
++
+a
+Q
+ax²+
+(b-4a)μ + 4α -2b + C = 0",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,14,T2-QE03-P014-L001,DIBY,#DIBY-05,1,0.98307,"[[28.0, 24.67], [180.0, 24.67], [180.0, 50.67], [28.0, 50.67]]",,not_identified_automatically,"#DIBY-05
+1
+1
+If α,β are the roots of ax²+bx+ c =0and c ≠0 then the value of
+(aα+b)2
+(aβ+b)2
+interms of a,b,c is
+b2-2ac
+2ac-b2
+b2-2ac
+26-2
+(A)
+(B)
+(可)
+a2c2
+ac
+ac
+[Ans. : (c)]
+aα+b
+α
+aα²+b+c=0
+α
+d
+R
++
+C2
+aα+b)
+X+
+αα~+ bα + C = O
+?
+02
+αβ=
+c-a
+α(aα+b) =-C
+SBS
+b²-&ac
+α²+1B²+
+αα+b
+a²c?
+X
+α²+β²=
+?
+-20
+a
+a",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,24,T2-QE03-P024-L002,DIBY,(DIBY),2,0.974173,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,25,T2-QE03-P025-L007,DIBY,#DIBY-O4,7,0.923119,"[[44.0, 57.33], [201.33, 57.33], [201.33, 82.0], [44.0, 82.0]]",,not_identified_automatically,"0 =p-3p
+个言
+p²-Yx1<3P
+白
+白
+I
+#DIBY-O4
+Y
+SBS
+a
+If α and β are roots of the equation x2 + px + 3 = 0, such that lα-β= √10, then 
+4
+pbelongs to the set
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+a2c2
+ac
+ac
+[Ans.: (c)]
+( Root a backet)
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+(x-2)(x-3) +(x-3)(x +1) +(x + 1)(x-2) =0.Find the value of
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,25,T2-QE03-P025-L022,DIBY,# DIBY-05,22,0.920398,"[[42.0, 262.0], [202.0, 262.0], [202.0, 290.67], [42.0, 290.67]]",,not_identified_automatically,"0 =p-3p
+个言
+p²-Yx1<3P
+白
+白
+I
+#DIBY-O4
+Y
+SBS
+a
+If α and β are roots of the equation x2 + px + 3 = 0, such that lα-β= √10, then 
+4
+pbelongs to the set
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+a2c2
+ac
+ac
+[Ans.: (c)]
+( Root a backet)
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+(x-2)(x-3) +(x-3)(x +1) +(x + 1)(x-2) =0.Find the value of
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,25,T2-QE03-P025-L041,DIBY,#DIBY-06,41,0.946616,"[[42.0, 495.33], [202.67, 493.33], [202.67, 522.0], [42.0, 523.33]]",,not_identified_automatically,"0 =p-3p
+个言
+p²-Yx1<3P
+白
+白
+I
+#DIBY-O4
+Y
+SBS
+a
+If α and β are roots of the equation x2 + px + 3 = 0, such that lα-β= √10, then 
+4
+pbelongs to the set
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+a2c2
+ac
+ac
+[Ans.: (c)]
+( Root a backet)
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+(x-2)(x-3) +(x-3)(x +1) +(x + 1)(x-2) =0.Find the value of
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,26,T2-QE03-P026-L001,DIBY,# DIBY-07,1,0.89884,"[[42.67, 56.0], [198.0, 56.0], [198.0, 82.67], [42.67, 82.67]]",,not_identified_automatically,"# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,26,T2-QE03-P026-L009,DIBY,# DIBY-08,9,0.938942,"[[43.33, 224.67], [200.67, 224.67], [200.67, 248.67], [43.33, 248.67]]",,not_identified_automatically,"# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,26,T2-QE03-P026-L024,DIBY,# DIBY-09,24,0.910094,"[[42.67, 455.33], [200.67, 455.33], [200.67, 482.0], [42.67, 482.0]]",,not_identified_automatically,"# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,27,T2-QE03-P027-L001,DIBY,#DIBY-11,1,0.983953,"[[42.67, 224.0], [185.33, 224.0], [185.33, 250.0], [42.67, 250.0]]",,not_identified_automatically,"#DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation,whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 =0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,27,T2-QE03-P027-L005,DIBY,#DIBY-12,5,0.981295,"[[42.67, 394.67], [192.67, 394.67], [192.67, 420.67], [42.67, 420.67]]",,not_identified_automatically,"#DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation,whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 =0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,03,Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf,28,T2-QE03-P028-L004,DIBY,DPP&DIBY,4,0.947022,"[[64.67, 232.67], [238.67, 232.67], [238.67, 257.33], [64.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+井
+DPP&DIBY
+# Module: Basic Maths
+(4 Sittings Each of 1 Hr.
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,26,T2-QE04-P026-L002,DIBY,(DIBY),2,0.974173,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,27,T2-QE04-P027-L001,DIBY,# DIBY-04,1,0.917337,"[[43.33, 56.0], [202.0, 56.0], [202.0, 82.67], [43.33, 82.67]]",,not_identified_automatically,"# DIBY-04
+3 = 0, such that lα -βl = √10, then
+If α and β are roots of the equation x + px +
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2, 5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(a)
+ac
+a2c2
+ac
+[Ans.: (c)]
+x²5+G+x²-2x-3+x²-x-=0—
+以
+3x²-8n+1=0
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+yuo=(-x)（+x) +(+x)(-x) +(e-x)(-x)
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,27,T2-QE04-P027-L014,DIBY,# DIBY-05,14,0.920964,"[[42.0, 262.0], [202.0, 262.0], [202.0, 290.67], [42.0, 290.67]]",,not_identified_automatically,"# DIBY-04
+3 = 0, such that lα -βl = √10, then
+If α and β are roots of the equation x + px +
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2, 5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(a)
+ac
+a2c2
+ac
+[Ans.: (c)]
+x²5+G+x²-2x-3+x²-x-=0—
+以
+3x²-8n+1=0
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+yuo=(-x)（+x) +(+x)(-x) +(e-x)(-x)
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,27,T2-QE04-P027-L035,DIBY,#DIBY-06,35,0.969214,"[[42.67, 496.0], [200.67, 496.0], [200.67, 522.67], [42.67, 522.67]]",,not_identified_automatically,"# DIBY-04
+3 = 0, such that lα -βl = √10, then
+If α and β are roots of the equation x + px +
+4
+pbelongs to theset
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2, 5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(a)
+ac
+a2c2
+ac
+[Ans.: (c)]
+x²5+G+x²-2x-3+x²-x-=0—
+以
+3x²-8n+1=0
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+yuo=(-x)（+x) +(+x)(-x) +(e-x)(-x)
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,28,T2-QE04-P028-L018,DIBY,# DIBY-08,18,0.916655,"[[43.33, 224.67], [200.0, 224.67], [200.0, 248.67], [43.33, 248.67]]",,not_identified_automatically,"ditt
+α+8
+-x)=(s+)-
+#
+#
+DIFY-07
+If α, β are the roots of ax2 + bx + c = 0, (a ≠0) and α + 8, β + & are the roots of
+b2-4ac
+B2-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then proye that,
+a2
+A2
+VD
+飞
+[JEE-2000]
+ditf
+#
+# DIBY-08
+al
+|AI
+If α and β be two roots of the equation x² - 64x + 256 = 0. Then the value of
+1-8
+1-8
+乡
+%8
+5
+α
+β
+b-yac
+B2-4AC
+B3
+iS
+1
+?
+S/
+α5
+α
+0
+A2
+(B)
+(c)
+(D)
+A
+3
+2
+X
+[Ans.: (D)]
+#DIBY-09
+αβ
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+whose roots are α4 + β4 and
+(α6 + β6),is:
+[JEE Mains-2024]
+10
+(A)
+x²-190x+ 9466 = 0
+(B)
+x²-195x+ 9466=0
+C
+x²-195x+9506=0
+(0)
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,28,T2-QE04-P028-L048,DIBY,#DIBY-09,48,0.962784,"[[42.67, 455.33], [199.33, 455.33], [199.33, 482.0], [42.67, 482.0]]",,not_identified_automatically,"ditt
+α+8
+-x)=(s+)-
+#
+#
+DIFY-07
+If α, β are the roots of ax2 + bx + c = 0, (a ≠0) and α + 8, β + & are the roots of
+b2-4ac
+B2-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then proye that,
+a2
+A2
+VD
+飞
+[JEE-2000]
+ditf
+#
+# DIBY-08
+al
+|AI
+If α and β be two roots of the equation x² - 64x + 256 = 0. Then the value of
+1-8
+1-8
+乡
+%8
+5
+α
+β
+b-yac
+B2-4AC
+B3
+iS
+1
+?
+S/
+α5
+α
+0
+A2
+(B)
+(c)
+(D)
+A
+3
+2
+X
+[Ans.: (D)]
+#DIBY-09
+αβ
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+whose roots are α4 + β4 and
+(α6 + β6),is:
+[JEE Mains-2024]
+10
+(A)
+x²-190x+ 9466 = 0
+(B)
+x²-195x+ 9466=0
+C
+x²-195x+9506=0
+(0)
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,29,T2-QE04-P029-L001,DIBY,# DIBY-10,1,0.907969,"[[43.33, 45.33], [192.67, 45.33], [192.67, 71.33], [43.33, 71.33]]",,not_identified_automatically,"# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,29,T2-QE04-P029-L010,DIBY,# DIBY-11,10,0.941045,"[[42.67, 224.0], [185.33, 224.0], [185.33, 250.0], [42.67, 250.0]]",,not_identified_automatically,"# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,29,T2-QE04-P029-L014,DIBY,#DIBY-12,14,0.965595,"[[42.67, 394.67], [192.0, 394.67], [192.0, 420.67], [42.67, 420.67]]",,not_identified_automatically,"# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,30,T2-QE04-P030-L002,DIBY,#DIBY-13,2,0.977201,"[[42.67, 53.33], [191.33, 53.33], [191.33, 80.0], [42.67, 80.0]]",,not_identified_automatically,"Newton's formula
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(C)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 = 0
+[Ans.: (c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 =S11 + S10
+(B)
+S12 = S11 + S10
+（C)
+(0)
+2S11 =S12 + S10
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,30,T2-QE04-P030-L015,DIBY,#DIBY-14,15,0.958435,"[[42.67, 280.0], [193.33, 280.0], [193.33, 306.67], [42.67, 306.67]]",,not_identified_automatically,"Newton's formula
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(C)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 = 0
+[Ans.: (c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 =S11 + S10
+(B)
+S12 = S11 + S10
+（C)
+(0)
+2S11 =S12 + S10
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,30,T2-QE04-P030-L028,DIBY,#DIBY-15,28,0.982265,"[[42.67, 502.67], [193.33, 502.67], [193.33, 531.33], [42.67, 531.33]]",,not_identified_automatically,"Newton's formula
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(C)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 = 0
+[Ans.: (c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 =S11 + S10
+(B)
+S12 = S11 + S10
+（C)
+(0)
+2S11 =S12 + S10
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,31,T2-QE04-P031-L001,DIBY,#DIBY-16,1,0.978539,"[[42.67, 53.33], [192.67, 53.33], [192.67, 80.0], [42.67, 80.0]]",,not_identified_automatically,"#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11V3 - 10√2)P10 + (11√2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+1
+[Ans.: (B)]
+#DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3a9
+(A)  2
+(B)
+(c)
+(d)
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α"" -
+Pi5P16-P14P16-Pis+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.: 16]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,31,T2-QE04-P031-L015,DIBY,#DIBY-17,15,0.939466,"[[41.33, 290.0], [190.0, 290.0], [190.0, 318.0], [41.33, 318.0]]",,not_identified_automatically,"#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11V3 - 10√2)P10 + (11√2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+1
+[Ans.: (B)]
+#DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3a9
+(A)  2
+(B)
+(c)
+(d)
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α"" -
+Pi5P16-P14P16-Pis+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.: 16]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,31,T2-QE04-P031-L029,DIBY,#DIBY-18,29,0.969096,"[[44.0, 502.67], [192.67, 502.67], [192.67, 529.33], [44.0, 529.33]]",,not_identified_automatically,"#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11V3 - 10√2)P10 + (11√2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+1
+[Ans.: (B)]
+#DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3a9
+(A)  2
+(B)
+(c)
+(d)
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α"" -
+Pi5P16-P14P16-Pis+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.: 16]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,04,Quadratic Equations 04 Class Notes.pdf,32,T2-QE04-P032-L004,DIBY,DPP&DIBY,4,0.952496,"[[64.0, 232.0], [238.0, 232.0], [238.0, 256.67], [64.0, 256.67]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+开
+DPP&DIBY
+# Module: Basic Maths (4 Sittings Each of 1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,14,T2-QE05-P014-L009,DiBY,80/. DiBY,9,0.871784,"[[934.0, 254.0], [1039.33, 252.67], [1040.0, 287.33], [934.67, 288.67]]",,not_identified_automatically,"Question [JEE Mains-2020]
+The least positive value of 'a' for which the question,
+33
+2x² +(a-10)x+
+= 2a has real roots is
+2
+t
+<C
+80/. DiBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,22,T2-QE05-P022-L002,DIBY,(DIBY),2,0.974173,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,23,T2-QE05-P023-L001,DIBY,# DIBY-07,1,0.89884,"[[42.67, 56.0], [198.0, 56.0], [198.0, 82.67], [42.67, 82.67]]",,not_identified_automatically,"# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,23,T2-QE05-P023-L009,DIBY,# DIBY-08,9,0.938942,"[[43.33, 224.67], [200.67, 224.67], [200.67, 248.67], [43.33, 248.67]]",,not_identified_automatically,"# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,23,T2-QE05-P023-L024,DIBY,# DIBY-09,24,0.910094,"[[42.67, 455.33], [200.67, 455.33], [200.67, 482.0], [42.67, 482.0]]",,not_identified_automatically,"# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,24,T2-QE05-P024-L001,DIBY,# DIBY-10,1,0.907969,"[[43.33, 45.33], [192.67, 45.33], [192.67, 71.33], [43.33, 71.33]]",,not_identified_automatically,"# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,24,T2-QE05-P024-L010,DIBY,# DIBY-11,10,0.941045,"[[42.67, 224.0], [185.33, 224.0], [185.33, 250.0], [42.67, 250.0]]",,not_identified_automatically,"# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,24,T2-QE05-P024-L014,DIBY,#DIBY-12,14,0.965595,"[[42.67, 394.67], [192.0, 394.67], [192.0, 420.67], [42.67, 420.67]]",,not_identified_automatically,"# DIBY-10
+If the equation a(b - c)x² + b(c - a)x + c(a - b) = 0 has equal roots,
+36
+then a² + c² is equal to
+where a + c = 15 and b = :
+[JEE Mains-2025]
+一
+5
+[Ans. : 117]
+# DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation, whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 = 0
+[Ans.:(A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,25,T2-QE05-P025-L002,DIBY,#DIBY-13,2,0.977201,"[[42.67, 53.33], [191.33, 53.33], [191.33, 80.0], [42.67, 80.0]]",,not_identified_automatically,"ONNN
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(c)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 =0
+[Ans.:(c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 = S11 + S10
+(B)
+S12 = S11 + S10
+C
+2S11 =S12 + S10
+(0)
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,25,T2-QE05-P025-L015,DIBY,#DIBY-14,15,0.957541,"[[42.67, 280.0], [193.33, 280.0], [193.33, 306.67], [42.67, 306.67]]",,not_identified_automatically,"ONNN
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(c)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 =0
+[Ans.:(c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 = S11 + S10
+(B)
+S12 = S11 + S10
+C
+2S11 =S12 + S10
+(0)
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,25,T2-QE05-P025-L028,DIBY,#DIBY-15,28,0.982323,"[[42.67, 502.67], [193.33, 502.67], [193.33, 531.33], [42.67, 531.33]]",,not_identified_automatically,"ONNN
+#DIBY-13
+Let α and β be the roots of the equation, 5x² + 6x - 2 = 0. If Sn = αn +βn,n =
+1, 2, 3 ..., then
+[JEE Mains-2020]
+(A)
+(B)
+6S6 + 5S5 = 2S4
+6S6+5S5+2S4=0
+(c)
+(%)
+5S6+ 6S5 = 2S4
+6S6+6S5+2S4 =0
+[Ans.:(c)]
+#DIBY-14
+If α,β are the roots of the equation, x² - x - 1 = 0 and Sn = 2023αn + 2024βn,
+then
+[JEE Mains-2024]
+(A)
+2S12 = S11 + S10
+(B)
+S12 = S11 + S10
+C
+2S11 =S12 + S10
+(0)
+S11 =S10+S12
+[Ans.: (B)]
+#DIBY-15
+U10+√2Ug
+Let α,βbe roots of x² + V2x - 8 = 0. If Un = αn + βn, then
+is equal to
+2Ug
+[JEE Mains-2024]
+[Ans.:4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,26,T2-QE05-P026-L002,DIBY,#DIBY-16,2,0.980693,"[[42.67, 53.33], [192.67, 53.33], [192.67, 80.0], [42.67, 80.0]]",,not_identified_automatically,"OONNN
+#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11√3 - 10√2)P10 + (11V2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+[Ans.:(B)]
+# DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3ag
+(A)  2
+(B)
+(c)
+(d)
+
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α"" -
+ Pis5P16-P14P16-Pi5+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.:16]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,26,T2-QE05-P026-L015,DIBY,# DIBY-17,15,0.922181,"[[42.67, 290.0], [190.67, 290.0], [190.67, 318.0], [42.67, 318.0]]",,not_identified_automatically,"OONNN
+#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11√3 - 10√2)P10 + (11V2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+[Ans.:(B)]
+# DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3ag
+(A)  2
+(B)
+(c)
+(d)
+
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α"" -
+ Pis5P16-P14P16-Pi5+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.:16]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,26,T2-QE05-P026-L030,DIBY,#DIBY-18,30,0.96831,"[[44.0, 502.67], [192.67, 502.67], [192.67, 529.33], [44.0, 529.33]]",,not_identified_automatically,"OONNN
+#DIBY-16
+Let α,β;α > β, be the roots of the equation x² - V2x - V3 = 0. Let Pn = αn -
+βn,n E N. Then (11√3 - 10√2)P10 + (11V2 + 10)P11 - 11P12 is equal to:
+[JEE Mains-2024]
+(A)
+10√2P9
+(B)
+10√3P9
+(c)
+11√2P9
+(D)
+11√3P9
+[Ans.:(B)]
+# DIBY-17
+Let α and β be the roots of x² - 6x - 2 = 0. If ae = αn - βn for n ≥ 1, then the
+a10-2ag
+value of
+is:
+[JEE Mains-2021]
+3ag
+(A)  2
+(B)
+(c)
+(d)
+
+4
+3
+[Ans.: (A)]
+#DIBY-18
+Let α, β(α > β) be the roots of the quadratic equation x² - x -4 = 0. If Pn = α"" -
+ Pis5P16-P14P16-Pi5+P14P15 is equal to.
+βn,n E N, then
+[JEE Mains-2022]
+P13P14
+[Ans.:16]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,27,T2-QE05-P027-L004,DIBY,DIBY-19,4,0.992315,"[[64.0, 58.0], [191.33, 58.0], [191.33, 84.67], [64.0, 84.67]]",,not_identified_automatically,"culreadly done  B. Mm.
+QUADRATICINVOLVINGMODULUS
+#
+DIBY-19
+The number of real solutions of the equation, x² - |x| - 12 = 0 is:
+[JEE Mains-2021]
+(A)   1
+(B)
+(c)
+(D)  2
+4
+3
+[Ans.: (D)]
+# DIBY-20
+The sum, of the squares of all the roots of the equation x^ + |2x - 3| -4 = 0, is
+[JEEMains-2025]
+(A)
+6(2 -√2)
+(B)
+3(3-√2)
+(c)
+6(3 -√2)
+(D) 3(2 -v2)
+[Ans.: (A)]
+#DIBY-21
+The product of the roots of the equation 9x2 - 18|x| + 5 = 0, is:
+[JEE Mains-2020]
+25一9
+1812
+(A)
+(B)
+(c)
+5-9
+(d)
+5
+
+27
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,27,T2-QE05-P027-L014,DIBY,# DIBY-20,14,0.926729,"[[43.33, 247.33], [198.0, 247.33], [198.0, 274.0], [43.33, 274.0]]",,not_identified_automatically,"culreadly done  B. Mm.
+QUADRATICINVOLVINGMODULUS
+#
+DIBY-19
+The number of real solutions of the equation, x² - |x| - 12 = 0 is:
+[JEE Mains-2021]
+(A)   1
+(B)
+(c)
+(D)  2
+4
+3
+[Ans.: (D)]
+# DIBY-20
+The sum, of the squares of all the roots of the equation x^ + |2x - 3| -4 = 0, is
+[JEEMains-2025]
+(A)
+6(2 -√2)
+(B)
+3(3-√2)
+(c)
+6(3 -√2)
+(D) 3(2 -v2)
+[Ans.: (A)]
+#DIBY-21
+The product of the roots of the equation 9x2 - 18|x| + 5 = 0, is:
+[JEE Mains-2020]
+25一9
+1812
+(A)
+(B)
+(c)
+5-9
+(d)
+5
+
+27
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,27,T2-QE05-P027-L025,DIBY,#DIBY-21,25,0.976598,"[[42.67, 443.33], [191.33, 442.0], [191.33, 469.33], [42.67, 470.67]]",,not_identified_automatically,"culreadly done  B. Mm.
+QUADRATICINVOLVINGMODULUS
+#
+DIBY-19
+The number of real solutions of the equation, x² - |x| - 12 = 0 is:
+[JEE Mains-2021]
+(A)   1
+(B)
+(c)
+(D)  2
+4
+3
+[Ans.: (D)]
+# DIBY-20
+The sum, of the squares of all the roots of the equation x^ + |2x - 3| -4 = 0, is
+[JEEMains-2025]
+(A)
+6(2 -√2)
+(B)
+3(3-√2)
+(c)
+6(3 -√2)
+(D) 3(2 -v2)
+[Ans.: (A)]
+#DIBY-21
+The product of the roots of the equation 9x2 - 18|x| + 5 = 0, is:
+[JEE Mains-2020]
+25一9
+1812
+(A)
+(B)
+(c)
+5-9
+(d)
+5
+
+27
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,28,T2-QE05-P028-L003,DIBY,DIBY-22,3,0.991699,"[[64.0, 58.0], [197.33, 58.0], [197.33, 84.67], [64.0, 84.67]]",,not_identified_automatically,"QUADRATICINVOLVINGMODULUS
+中
+DIBY-22
+The sum of the squares of the roots of |x + 2|² + |x - 2| - 2 = 0 and the squares
+of the roots of x2 - 2|x - 3| - 5 = 0, is
+[JEEMains-2025]
+(A)
+26
+(B)
+36
+(c)
+30
+(d)
+24
+[Ans.: (B)]
+#DIBY-23
+The number of real roots of the equation x|xl - 5|x + 2| + 6 = 0
+[JEEMains-2023]
+(A)  5
+(B)3
+(c)
+6
+(D) 
+
+4
+[Ans.: (B)]
+#DIBY-24
+The sum of all the roots of the equation |x2 - 8x + 15 - 2x + 7 = 0 is:
+[JEE Mains-2023]
+(A)   9+√3
+(B)
+11+√3
+(c)
+9 -√3
+(D)
+11-√3
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,28,T2-QE05-P028-L016,DIBY,#DIBY-23,16,0.977001,"[[42.67, 264.0], [196.67, 264.0], [196.67, 290.67], [42.67, 290.67]]",,not_identified_automatically,"QUADRATICINVOLVINGMODULUS
+中
+DIBY-22
+The sum of the squares of the roots of |x + 2|² + |x - 2| - 2 = 0 and the squares
+of the roots of x2 - 2|x - 3| - 5 = 0, is
+[JEEMains-2025]
+(A)
+26
+(B)
+36
+(c)
+30
+(d)
+24
+[Ans.: (B)]
+#DIBY-23
+The number of real roots of the equation x|xl - 5|x + 2| + 6 = 0
+[JEEMains-2023]
+(A)  5
+(B)3
+(c)
+6
+(D) 
+
+4
+[Ans.: (B)]
+#DIBY-24
+The sum of all the roots of the equation |x2 - 8x + 15 - 2x + 7 = 0 is:
+[JEE Mains-2023]
+(A)   9+√3
+(B)
+11+√3
+(c)
+9 -√3
+(D)
+11-√3
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,28,T2-QE05-P028-L027,DIBY,#DIBY-24,27,0.969834,"[[43.33, 470.0], [199.33, 470.0], [199.33, 496.0], [43.33, 496.0]]",,not_identified_automatically,"QUADRATICINVOLVINGMODULUS
+中
+DIBY-22
+The sum of the squares of the roots of |x + 2|² + |x - 2| - 2 = 0 and the squares
+of the roots of x2 - 2|x - 3| - 5 = 0, is
+[JEEMains-2025]
+(A)
+26
+(B)
+36
+(c)
+30
+(d)
+24
+[Ans.: (B)]
+#DIBY-23
+The number of real roots of the equation x|xl - 5|x + 2| + 6 = 0
+[JEEMains-2023]
+(A)  5
+(B)3
+(c)
+6
+(D) 
+
+4
+[Ans.: (B)]
+#DIBY-24
+The sum of all the roots of the equation |x2 - 8x + 15 - 2x + 7 = 0 is:
+[JEE Mains-2023]
+(A)   9+√3
+(B)
+11+√3
+(c)
+9 -√3
+(D)
+11-√3
+[Ans.: (A)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,29,T2-QE05-P029-L001,DIBY,#DIBY-25,1,0.981004,"[[42.67, 68.67], [198.67, 68.67], [198.67, 95.33], [42.67, 95.33]]",,not_identified_automatically,"#DIBY-25
+ = a -  + xh + a + xx o  o soos  o  r
+[JEE Mains-2024]
+[Ans.:3]
+#DIBY-26
+nb e ue 'b = go 'd- = ed + eo pu seqnu i oz-uou  b pun d 
+equationwhoseroots are
+is
+3
+α
+(A)
+(B)
+qx²+ px+ q² = 0
+px² + qx + p² = 0
+(c)
+qx² -px+ q² = 0
+(口)
+px² -qx + p² = 0
+[Ans.: (A)]
+#DiBY-27(Challenger)
+Let f(x) = ax² + bx + c,a,b,c ∈ 1 & f(1) = 0,50 < f(7) < 60 & 70 < f(8) < 80,
+then f(- 1) is equal to
+[Ans.:14]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,29,T2-QE05-P029-L005,DIBY,#DIBY-26,5,0.977182,"[[44.0, 234.0], [198.67, 234.0], [198.67, 260.67], [44.0, 260.67]]",,not_identified_automatically,"#DIBY-25
+ = a -  + xh + a + xx o  o soos  o  r
+[JEE Mains-2024]
+[Ans.:3]
+#DIBY-26
+nb e ue 'b = go 'd- = ed + eo pu seqnu i oz-uou  b pun d 
+equationwhoseroots are
+is
+3
+α
+(A)
+(B)
+qx²+ px+ q² = 0
+px² + qx + p² = 0
+(c)
+qx² -px+ q² = 0
+(口)
+px² -qx + p² = 0
+[Ans.: (A)]
+#DiBY-27(Challenger)
+Let f(x) = ax² + bx + c,a,b,c ∈ 1 & f(1) = 0,50 < f(7) < 60 & 70 < f(8) < 80,
+then f(- 1) is equal to
+[Ans.:14]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,29,T2-QE05-P029-L020,DiBY,#DiBY-27(Challenger),20,0.921701,"[[41.33, 502.67], [384.67, 506.0], [384.67, 538.0], [41.33, 535.33]]",,not_identified_automatically,"#DIBY-25
+ = a -  + xh + a + xx o  o soos  o  r
+[JEE Mains-2024]
+[Ans.:3]
+#DIBY-26
+nb e ue 'b = go 'd- = ed + eo pu seqnu i oz-uou  b pun d 
+equationwhoseroots are
+is
+3
+α
+(A)
+(B)
+qx²+ px+ q² = 0
+px² + qx + p² = 0
+(c)
+qx² -px+ q² = 0
+(口)
+px² -qx + p² = 0
+[Ans.: (A)]
+#DiBY-27(Challenger)
+Let f(x) = ax² + bx + c,a,b,c ∈ 1 & f(1) = 0,50 < f(7) < 60 & 70 < f(8) < 80,
+then f(- 1) is equal to
+[Ans.:14]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,30,T2-QE05-P030-L002,DIBY,DIBY-28,2,0.991169,"[[66.0, 68.67], [199.33, 68.67], [199.33, 95.33], [66.0, 95.33]]",,not_identified_automatically,"井
+DIBY-28
+rootsoftheequation
+(x-α)(x-β) +(x-y)(x-8) =0
+are m
+&n
+respectively, then roots of the equation 2(x - m)(x - n) - (x - α)(x - β) will be
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+α-m,β-n
+m-α+y,n-β+8
+[Ans.: (B)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,05,Quadratic Equations 05 Class Notes.pdf,31,T2-QE05-P031-L004,DIBY,DPP&DIBY,4,0.952496,"[[64.0, 232.0], [238.0, 232.0], [238.0, 256.67], [64.0, 256.67]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+开
+DPP&DIBY
+# Module: Basic Maths (4 Sittings Each of 1 Hr.)
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,24,T2-QE06-P024-L002,DIBY,(DIBY),2,0.980509,"[[539.33, 354.0], [742.67, 354.0], [742.67, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,25,T2-QE06-P025-L002,DIBY,DIBY-27,2,0.991665,"[[47.33, 39.33], [177.33, 39.33], [177.33, 66.0], [47.33, 66.0]]",,not_identified_automatically,"#
+DIBY-27
+roots
+oftheequation
++
+(x-α)(x-β) +(x-y)(x-8) =0
+are
+m
+&n
+ lm ( x)( - x) ( -x)( -x)hob e o so  ns
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+a-m,β-n
+m-a+y,n-β+8
+[Ans.: (B)]
+#DIBY-28
+If the roots of theequation ax2+x+b =0 be real and different, then the roots of
+the equation x2 - 4/abx + 1 = 0 will be
+(A)
+Rational
+(B)
+Irrational
+C
+Real
+(a)
+Imaginary
+[Ans.: (D)]
+#DIBY-29
+3α-5-α2
+Let α, β are the roots of the equation x²+ ax + b = 0 such that
+=β, then
+(β-3)
+value of |a²-2b + 3a| is (where,β≠3)
+(A)  0
+(B)
+(c)
+(D)
+3
+5
+7
+[Ans. : (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,25,T2-QE06-P025-L022,DIBY,#DIBY-28,22,0.981071,"[[24.0, 276.0], [179.33, 276.0], [179.33, 302.67], [24.0, 302.67]]",,not_identified_automatically,"#
+DIBY-27
+roots
+oftheequation
++
+(x-α)(x-β) +(x-y)(x-8) =0
+are
+m
+&n
+ lm ( x)( - x) ( -x)( -x)hob e o so  ns
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+a-m,β-n
+m-a+y,n-β+8
+[Ans.: (B)]
+#DIBY-28
+If the roots of theequation ax2+x+b =0 be real and different, then the roots of
+the equation x2 - 4/abx + 1 = 0 will be
+(A)
+Rational
+(B)
+Irrational
+C
+Real
+(a)
+Imaginary
+[Ans.: (D)]
+#DIBY-29
+3α-5-α2
+Let α, β are the roots of the equation x²+ ax + b = 0 such that
+=β, then
+(β-3)
+value of |a²-2b + 3a| is (where,β≠3)
+(A)  0
+(B)
+(c)
+(D)
+3
+5
+7
+[Ans. : (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,25,T2-QE06-P025-L034,DIBY,#DIBY-29,34,0.973039,"[[23.33, 477.33], [178.0, 477.33], [178.0, 503.33], [23.33, 503.33]]",,not_identified_automatically,"#
+DIBY-27
+roots
+oftheequation
++
+(x-α)(x-β) +(x-y)(x-8) =0
+are
+m
+&n
+ lm ( x)( - x) ( -x)( -x)hob e o so  ns
+(A)
+α+m+yβ+n+8
+(B)
+Y,8
+2
+2
+(c)
+(D)
+a-m,β-n
+m-a+y,n-β+8
+[Ans.: (B)]
+#DIBY-28
+If the roots of theequation ax2+x+b =0 be real and different, then the roots of
+the equation x2 - 4/abx + 1 = 0 will be
+(A)
+Rational
+(B)
+Irrational
+C
+Real
+(a)
+Imaginary
+[Ans.: (D)]
+#DIBY-29
+3α-5-α2
+Let α, β are the roots of the equation x²+ ax + b = 0 such that
+=β, then
+(β-3)
+value of |a²-2b + 3a| is (where,β≠3)
+(A)  0
+(B)
+(c)
+(D)
+3
+5
+7
+[Ans. : (c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,26,T2-QE06-P026-L001,DIBY,#DIBY-30,1,0.976894,"[[41.33, 33.33], [198.0, 33.33], [198.0, 59.33], [41.33, 59.33]]",,not_identified_automatically,"#DIBY-30
+If α is a root of the equation 4x2 - 2x + 3 = 0, then its other roots is
+(A)
+2-3
+(B)
+α+1
+x+
+2α-1
+(c)
+3
+(a)
+3α
+2(4α2+3)
+4
+[Ans.: B, C]
+#DIBY-31
+If roots of 2(x - a)(x - b) + c = 0 are α, β then roots (x - α)(x - β) -  = 0 are
+(A)
+lies between a& b
+(B)
+-a,-b
+(c)
+a, b
+(a)
+2a, 2b
+[Ans. : (c)]
+#DIBY-32
+If the equation in x, x2 + 2(1 + A)x + (3入2 + 2) = 0 has imaginary roots, then
+1
+(A)
+(B)
+(c)
+入=1
+入=-
+入=0
+(D)
+=-1
+2
+[Ans.:A,B,C,D]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,26,T2-QE06-P026-L016,DIBY,#DIBY-31,16,0.98214,"[[42.67, 274.0], [191.33, 274.0], [191.33, 300.67], [42.67, 300.67]]",,not_identified_automatically,"#DIBY-30
+If α is a root of the equation 4x2 - 2x + 3 = 0, then its other roots is
+(A)
+2-3
+(B)
+α+1
+x+
+2α-1
+(c)
+3
+(a)
+3α
+2(4α2+3)
+4
+[Ans.: B, C]
+#DIBY-31
+If roots of 2(x - a)(x - b) + c = 0 are α, β then roots (x - α)(x - β) -  = 0 are
+(A)
+lies between a& b
+(B)
+-a,-b
+(c)
+a, b
+(a)
+2a, 2b
+[Ans. : (c)]
+#DIBY-32
+If the equation in x, x2 + 2(1 + A)x + (3入2 + 2) = 0 has imaginary roots, then
+1
+(A)
+(B)
+(c)
+入=1
+入=-
+入=0
+(D)
+=-1
+2
+[Ans.:A,B,C,D]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,26,T2-QE06-P026-L027,DIBY,#DIBY-32,27,0.987117,"[[41.33, 487.33], [197.33, 487.33], [197.33, 515.33], [41.33, 515.33]]",,not_identified_automatically,"#DIBY-30
+If α is a root of the equation 4x2 - 2x + 3 = 0, then its other roots is
+(A)
+2-3
+(B)
+α+1
+x+
+2α-1
+(c)
+3
+(a)
+3α
+2(4α2+3)
+4
+[Ans.: B, C]
+#DIBY-31
+If roots of 2(x - a)(x - b) + c = 0 are α, β then roots (x - α)(x - β) -  = 0 are
+(A)
+lies between a& b
+(B)
+-a,-b
+(c)
+a, b
+(a)
+2a, 2b
+[Ans. : (c)]
+#DIBY-32
+If the equation in x, x2 + 2(1 + A)x + (3入2 + 2) = 0 has imaginary roots, then
+1
+(A)
+(B)
+(c)
+入=1
+入=-
+入=0
+(D)
+=-1
+2
+[Ans.:A,B,C,D]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,27,T2-QE06-P027-L001,DIBY,#DIBY-33,1,0.971687,"[[44.0, 68.67], [198.0, 68.67], [198.0, 95.33], [44.0, 95.33]]",,not_identified_automatically,"#DIBY-33
+x²-bx
+m-1
+Iftheequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:a=-4]
+DIBY-35
+
+If x = 3 + V5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B)  0
+(c)
+(D) 2
+[Ans.(c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,27,T2-QE06-P027-L021,DIBY,#DIBY-34,21,0.978998,"[[42.67, 308.67], [201.33, 308.67], [201.33, 334.67], [42.67, 334.67]]",,not_identified_automatically,"#DIBY-33
+x²-bx
+m-1
+Iftheequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:a=-4]
+DIBY-35
+
+If x = 3 + V5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B)  0
+(c)
+(D) 2
+[Ans.(c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,27,T2-QE06-P027-L025,DIBY,DIBY-35,25,0.989293,"[[70.67, 465.33], [200.0, 465.33], [200.0, 492.0], [70.67, 492.0]]",,not_identified_automatically,"#DIBY-33
+x²-bx
+m-1
+Iftheequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:a=-4]
+DIBY-35
+
+If x = 3 + V5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B)  0
+(c)
+(D) 2
+[Ans.(c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,06,Quadratic Equations 06 Class Notes.pdf,28,T2-QE06-P028-L003,DIBY,#DPP&DIBY,3,0.94624,"[[43.33, 232.67], [238.67, 232.67], [238.67, 257.33], [43.33, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,5,T2-QE07-P005-L001,DIBY,#DIBY-35,1,0.978771,"[[28.67, 76.67], [180.67, 76.67], [180.67, 103.33], [28.67, 103.33]]",,not_identified_automatically,"#DIBY-35
+x=3+v5
+5then the value of x4 - 12x² + 44x² - 48x + 17
+1
+(B)
+(D) 2
+A
+0
+[Ans.(c)]
+2²-6x+4
+Quad. with Rat couHt
+x²-6x+4
+2-12x+442²-48x+14
+y-6x3+4x²
+α-3 =5
+SAS.
+—6x+40x2-48#
+α²-6x+9=5
+8x3+36x²-24x
+3+
++
+²-6x+4=0
+Q
+-2+14
+3-√5
+x²-x4+16
+A=BQ+R",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,28,T2-QE07-P028-L002,DIBY,(DIBY),2,0.976086,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,29,T2-QE07-P029-L001,DIBY,#DIBY-33,1,0.978173,"[[44.0, 68.67], [198.67, 68.67], [198.67, 95.33], [44.0, 95.33]]",,not_identified_automatically,"#DIBY-33
+x²-bx
+m-1
+If theequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:α=-4]
+DIBY-35
+If x = 3 + √5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B) 0
+(c)
+(D) 2
+[Ans.(c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,29,T2-QE07-P029-L021,DIBY,#DIBY-34,21,0.972498,"[[42.0, 306.67], [201.33, 308.67], [201.33, 335.33], [42.0, 334.0]]",,not_identified_automatically,"#DIBY-33
+x²-bx
+m-1
+If theequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:α=-4]
+DIBY-35
+If x = 3 + √5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B) 0
+(c)
+(D) 2
+[Ans.(c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,29,T2-QE07-P029-L025,DIBY,DIBY-35,25,0.994598,"[[72.0, 465.33], [200.0, 465.33], [200.0, 492.0], [72.0, 492.0]]",,not_identified_automatically,"#DIBY-33
+x²-bx
+m-1
+If theequation
+has roots equal in magnitude but opposite in sign,
+ax-c
+m+1
+then m is
+(A)
+a+b
+(B)
+a-b
+(c)
+b-a
+(D)
+Noneof these
+a-b
+a+b
+b+a
+[Ans.: (B)]
+#DIBY-34
+Find the value of a for which one root of the equation x² + (2a - 1)x + a² + 2 = 0 is
+twice as large as the other.
+[Ans.:α=-4]
+DIBY-35
+If x = 3 + √5 then the value of x4 - 12x3 + 44x² - 48x + 17.
+(A) -1
+(B) 0
+(c)
+(D) 2
+[Ans.(c)]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,30,T2-QE07-P030-L001,DIBY,#DIBY-36,1,0.974752,"[[34.0, 28.67], [191.33, 27.33], [191.33, 53.33], [34.0, 55.33]]",,not_identified_automatically,"#DIBY-36
+The quadratic equation x² + ax + b + 1 = 0 has both positive integral roots, then
+a² + b² can be equal to
+(A)
+50
+(B)
+37
+(c)
+61
+(D)
+20
+[Ans.:A, D]
+DIBY-37
+The number of real roots of the equation 5 + |2* - 1| = 2*(2* - 2) is
+[JEEMains-2019]
+(A)   4
+(B)3
+(c)
+2
+(D) 1
+[Ans.:(D)]
+七
+#DIBY-38
+Find the product of the real roots of the equation, x² + 18x + 30 = 2√ x² + 18x + 45
+[Ans.:20]
+DIBY-39
+If'α' is an irrational solution of the equation 32x²-7x+3 = 4x²-x-6, then the value of
+2a-1
+3
+α+2
+is
+[Ans.: 4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,30,T2-QE07-P030-L013,DIBY,DIBY-37,13,0.992508,"[[64.67, 225.33], [190.67, 223.33], [190.67, 252.67], [64.67, 254.0]]",,not_identified_automatically,"#DIBY-36
+The quadratic equation x² + ax + b + 1 = 0 has both positive integral roots, then
+a² + b² can be equal to
+(A)
+50
+(B)
+37
+(c)
+61
+(D)
+20
+[Ans.:A, D]
+DIBY-37
+The number of real roots of the equation 5 + |2* - 1| = 2*(2* - 2) is
+[JEEMains-2019]
+(A)   4
+(B)3
+(c)
+2
+(D) 1
+[Ans.:(D)]
+七
+#DIBY-38
+Find the product of the real roots of the equation, x² + 18x + 30 = 2√ x² + 18x + 45
+[Ans.:20]
+DIBY-39
+If'α' is an irrational solution of the equation 32x²-7x+3 = 4x²-x-6, then the value of
+2a-1
+3
+α+2
+is
+[Ans.: 4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,30,T2-QE07-P030-L023,DIBY,#DIBY-38,23,0.981504,"[[34.0, 426.67], [191.33, 426.67], [191.33, 455.33], [34.0, 455.33]]",,not_identified_automatically,"#DIBY-36
+The quadratic equation x² + ax + b + 1 = 0 has both positive integral roots, then
+a² + b² can be equal to
+(A)
+50
+(B)
+37
+(c)
+61
+(D)
+20
+[Ans.:A, D]
+DIBY-37
+The number of real roots of the equation 5 + |2* - 1| = 2*(2* - 2) is
+[JEEMains-2019]
+(A)   4
+(B)3
+(c)
+2
+(D) 1
+[Ans.:(D)]
+七
+#DIBY-38
+Find the product of the real roots of the equation, x² + 18x + 30 = 2√ x² + 18x + 45
+[Ans.:20]
+DIBY-39
+If'α' is an irrational solution of the equation 32x²-7x+3 = 4x²-x-6, then the value of
+2a-1
+3
+α+2
+is
+[Ans.: 4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,30,T2-QE07-P030-L026,DIBY,DIBY-39,26,0.995071,"[[66.0, 536.0], [190.67, 534.0], [191.33, 562.67], [66.67, 565.33]]",,not_identified_automatically,"#DIBY-36
+The quadratic equation x² + ax + b + 1 = 0 has both positive integral roots, then
+a² + b² can be equal to
+(A)
+50
+(B)
+37
+(c)
+61
+(D)
+20
+[Ans.:A, D]
+DIBY-37
+The number of real roots of the equation 5 + |2* - 1| = 2*(2* - 2) is
+[JEEMains-2019]
+(A)   4
+(B)3
+(c)
+2
+(D) 1
+[Ans.:(D)]
+七
+#DIBY-38
+Find the product of the real roots of the equation, x² + 18x + 30 = 2√ x² + 18x + 45
+[Ans.:20]
+DIBY-39
+If'α' is an irrational solution of the equation 32x²-7x+3 = 4x²-x-6, then the value of
+2a-1
+3
+α+2
+is
+[Ans.: 4]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,07,Quadratic Equations 07 Class Notes.pdf,31,T2-QE07-P031-L003,DIBY,#DPP&DIBY,3,0.953445,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,19,T2-QE08-P019-L011,DIBY, DIBY-,11,0.82108,"[[1146.67, 266.0], [1232.0, 266.0], [1232.0, 298.67], [1146.67, 298.67]]",,not_identified_automatically,"Question
+Find the set of values of a for which the quadratic polynomial
+()
+(a + 4)x²-2ax+ 2a - 6≤0
+XAA
+
+
+(a - 1)x²-(a + 1)x +(a +1) >0 x ∈ R
+<
+α>
+ DIBY-
+>
+Λ○
+CChat!
+3
+?
+二
+α>+o
+(-aa)²-4(a+4)(xa-6) ≤ 0
+(a+6)（a-4) ≥0
+h->0
+Ha²-Y(aa²+8a-6a-24) ≤0
+a²-aa²-aa+ay<0
+—a²-aa+ay<0
+α(-∞,-6]
+a+aa-a4≥0",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,25,T2-QE08-P025-L002,DIBY,(DIBY),2,0.976086,"[[539.33, 354.0], [742.0, 354.0], [742.0, 432.67], [539.33, 432.67]]",,not_identified_automatically,"DOITBYYOURSELF
+(DIBY)",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,26,T2-QE08-P026-L002,DIBY,#DIBY-40,2,0.983689,"[[38.0, 74.67], [196.67, 74.67], [196.67, 101.33], [38.0, 101.33]]",,not_identified_automatically,"GRAPHOFQUADRATIC
+#DIBY-40
+Consider the graph f (x) = ax2 + bx + c and comment on sign of following parts:
+?
+(abc) is
+331=
+(4a + 2b + c) is
+for all x > 3, f(x) is
+For all - 2 <x < 3, f(x) is
+X
+Dis
+(vi)
+(a - b + c)·(9a - 3b + c) is
+Ans.:
+(i) +ve, (ii) -ve, (ili) +ve, (iv) -ve, (v) +ve, (vi) -ve",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,27,T2-QE08-P027-L002,DIBY,# DIBY-41(challenger),2,0.955606,"[[36.67, 73.33], [380.67, 78.0], [380.0, 113.33], [36.0, 108.67]]",,not_identified_automatically,"GRAPH OFQUADRATIC
+# DIBY-41(challenger)
+Draw the graph of quadratic
+(y =ax²+bc+c)
+ each part with given
+conditions:
+Roots are 3 & 7 and crosses y-axis at (0, -2)
+()
+Imaginary roots with vertex at
+anda -b + c = 2.
+Touches x-axis at x =- 3 and value at x = 2 is -8.
+Also find value of a, b & c in each case.",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,28,T2-QE08-P028-L002,DIBY,#DIBY-41(AnsWer),2,0.96078,"[[37.33, 52.67], [325.33, 52.67], [325.33, 85.33], [37.33, 85.33]]",,not_identified_automatically,"GRAPHOFQUADRATIC
+#DIBY-41(AnsWer)
+2
+20
+3
+a=
+b=
+X
+,C =-2
+21
+21
+(0,-2)
+a = 24, b = 36, c = 14
+(!!!)
+-8
+-48
+-72
+=D
+,b=
+C=
+25
+25
+25",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,29,T2-QE08-P029-L002,DIBY,#DIBY-42,2,0.984756,"[[38.0, 74.67], [196.67, 74.67], [196.67, 101.33], [38.0, 101.33]]",,not_identified_automatically,"GRAPHOFQUADRATIC
+#DIBY-42
+If the equation ax² + bc + c = 0,(a > 0) has two real roots α and β such that α < -2
+and β > 2, then which of the following statements is/are true?
+(A)
+(B)
+a-|b| +c< 0
+c< 0, b² - 4ac > 0
+(c)
+(D)
+4a-2|b|+c<0
+9a-3|b| + c< 0
+[Ans.:A, B, C]
+#DIBY-43
+The adjoining figure shows the graph of y = ax² + bx + c. Then
+(A)
+0>n
+Y
+(B)
+b2 < 4ax
+(c)
+c> 0
+()
+a and b are of opposite sign
+X
+x1
+X2
+[Ans.:A, D]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,29,T2-QE08-P029-L014,DIBY,#DIBY-43,14,0.960505,"[[38.67, 352.67], [196.0, 352.67], [196.0, 379.33], [38.67, 379.33]]",,not_identified_automatically,"GRAPHOFQUADRATIC
+#DIBY-42
+If the equation ax² + bc + c = 0,(a > 0) has two real roots α and β such that α < -2
+and β > 2, then which of the following statements is/are true?
+(A)
+(B)
+a-|b| +c< 0
+c< 0, b² - 4ac > 0
+(c)
+(D)
+4a-2|b|+c<0
+9a-3|b| + c< 0
+[Ans.:A, B, C]
+#DIBY-43
+The adjoining figure shows the graph of y = ax² + bx + c. Then
+(A)
+0>n
+Y
+(B)
+b2 < 4ax
+(c)
+c> 0
+()
+a and b are of opposite sign
+X
+x1
+X2
+[Ans.:A, D]",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed
+Quadratic Equations,08,Quadratic Equations 08 Class Notes.pdf,30,T2-QE08-P030-L003,DIBY,#DPP&DIBY,3,0.953445,"[[42.67, 232.67], [238.67, 232.67], [238.67, 257.33], [42.67, 257.33]]",,not_identified_automatically,"Homework
+# Re-attempt all Class Examples
+#DPP&DIBY",not_separated; see unmodified page OCR,automated_candidate_only_not_reviewed

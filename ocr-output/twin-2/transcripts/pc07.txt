@@ -1,0 +1,952 @@
+Permutations & Combinations — Lecture 07
+Source: Permutations and Combinations 07 Class Notes.pdf
+AUTOMATED OCR — NOT MANUALLY REVIEWED
+
+=== PDF PAGE 1 ===
+ARJUN
+
+JEE2027
+30
+Lecture-07
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tohecoverep
+A
+Rank of a Word in Dictionary
+B
+Selection out of things which are not all different
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+LASTCLASSRECAP
+Consider four different books of Mathematics, three different books of Physics
+and two different books of chemistry. Number of ways of arranging all nine books
+in a row such that:
+All the books of same subject are together is
+31
+41
+51
+(ii) No two books of Mathematics are together is
+51
+(hNEWW'W
+PP2P)
+YC,C2
+-P---C,-C2-
+。
+51 x
+(4 x 4!
+
+=== PDF PAGE 4 ===
+LASTCLASSRECAP
+Consider four different books of Mathematics, three different books of Physics
+and two different books of chemistry. Number of ways of arranging all nine books
+inarowsuchthat:
+(ii) All books of Mathematics are together while no two books of Physics should
+be together is.
+(iv) All possible arrangements if books of same subject are alike
+M,H2 M3 M
+C,-C2 -
+MMMMPPPCC
+91
+3l x 'C
+× 31 x4l
+0
+2
+?
+4/3/21
+。D
+
+=== PDF PAGE 5 ===
+H.W. Discussion
+
+=== PDF PAGE 6 ===
+Page No.133
+Question[JEEMains-2023]
+￥1%
+Some couples participated in mixed double badminton tournament. If
+the number of matches played, so that no couple played in a match, is
+840,then the total
+numbers
+ofpersons,who
+ participated
+d in the
+
+tournament,is
+det n- coupler partiaipaed.
+MMff
+Total persons =,=
+ot
+420
+m-2
+0 =
+x&
+2
+?
+16
+m
+m
+420
+n.n-1)(n-2)（n-3)(
+2
+1(h0ic
+(m-y)
+
+=== PDF PAGE 7 ===
+n(n-1)(n-2)(n-3)
+420
+xB)xsxt×9=（e-u)(-u)（1-u)
+n²-3n) (n²-3n+2) = 1680
+8x4x6x5
+m²-3n=t;
+=8
+t(t+2) = 1680
+t→Quad·
+
+=== PDF PAGE 8 ===
+ Mixed
+dowbole
+mf
+Sumit
+Santost
+1 Hotel
+
+mf
+qush.
+Sunita
+yatche
+N1
+H2 
+Sum.. Sunito
+Sum .t Sush .
+Sant ·e Sunita
+Sant ·& Sush
+
+=== PDF PAGE 9 ===
+Question[JEEMains-2026]
+A building has ground floor and 10 more floors. Nine persons enter in a lift
+at the ground floor. The lift goes up to the 1oth floor. The number of ways,
+in which any 4 persons exit at a floor and the remaining 5 persons exit at
+a different floor, if the does not stop at the first and the second floors, is
+equal to
+A
+2184
+Bfloors
+B
+3064
+！
+8x 126 x  = 705G
+L
+7056
+D
+11340
+
+=== PDF PAGE 10 ===
+[Ans.:14]
+Question[JEEMains-2025]
+If the number of seven-digit numbers, such that the sum of their digits is
+even, is m · n · 10n; m, n E {1, 2, 3,...., 9}, then m + n is equal to
+X
+9+5
+14
+10
+?
+1000000
+1000001
+qixb
+g×xb
+1000002
+4
+2
+Total seven digit no . = 9 x 1o
+1000003
+01,2,3,4,5,6,7,8,9
+Lal
+holt
+odd
+even.
+
+=== PDF PAGE 11 ===
+Question [JEE Mains-2023]
+The number of seven digits odd numbers, that can be formed using all
+the seven digits 1, 2, 2, 2, 3, 3, 5 is
+11
+= 60
+3/ 21
+_3
+240 ft
+5
+:120
+61
+= 60
+1
+312 1
+
+=== PDF PAGE 12 ===
+Question[JEEMains-2023]
+The number of 9 digit numbers that can be formed using all the digits of
+ i    s       s
+°m+
+
+
+=== PDF PAGE 13 ===
+Page No.133
+AcidicQuestion
+    s     s   
+number of ways in which they can do the same if-
+NoRestriction
+(i)
+Mr. A wants to speech before Mr. B and Mr. B before Mr. C.
+A
+-C_B
+(ini)
+Mr. A wants to speech before Mr. B and Mr. B after Mr C.
+lc-A_6
+(in
+A,B,C,DE,F,G
+A
+B
+A>B C>B
+*
+米
+A>B>C
+米
+)4)
+ADCEBfG
+ABC DEFG
+CDAEBFG
+x 41
+GDAEBFC
+t
+1
+
+
+=== PDF PAGE 14 ===
+Page No.133
+ChallengerQuestion
+The symbols
+x, × *, ·, are placed in the squares of the adjoining
++.+.
+figure, The number of ways of placing symbols so that no row remains
+empty is k, then the ten's digit of k is
+Selecdrorn d squares
+anang
+3
++
+3
+3
+X
+C
+×C
+?
+3×3x3x3
+X
+2121
+D
+R
+
+=== PDF PAGE 15 ===
+RANKOFA WORDIN DICTIONARY
+Page No.134
+Alphabetical Order
+UNITA
+#
+Alp.order→A,Z,,,T,
+A--
+51 = 120
+
+61 = +20
+
+→51 = 120
+SUA---
+W
+SuI - -- 3j
+N
+51 = 120.
+SA--
+SUNA --→ 21
+→4! = 24
+$I- :
+SU NIA T → 1 ,
+= 24
+SuNITA→1
+SN--
+4! = 24
+S T - - - - → 41, =24
+Ronk V
+
+=== PDF PAGE 16 ===
+3
+2
+5
+1
+6
+# &UNITA
+ITA
+$
+Z
+
+d
+1 
+1
+S
+41
+31
+21
+11
+O
+<auk=3.5!+4.4+2.31+1.2)
++1.1/+0+1
+
+
+=== PDF PAGE 17 ===
+Page No.134
+Question
+WhenAllLettersaredifferent
+WhenAll Lettersarenotdifferent
+Find rank of word GANIT
+Find rank of word MAsooM
+SI
+120
+Total =
+X,X,I,M,T
+?
+A,KM,αO.8
+2121
+A- - - - → 41 = a4
+→--1
+= 30
+2/ 21
+GAI-- →!
+GANIT-1
+MAM---
+MAO---
+H
+24
+9 = 1e
+MASM--→
+2
+2
+MASO M 0→1
+MASOOM→1
+y2
+
+=== PDF PAGE 18 ===
+TRICK
+Page No.134
+Question
+WhenAllLettersaredifferent
+WhenAll Lettersarenotdifferent
+Find rank ofword GANIT
+Find rank of word MAsooM
+3
+5
+1
+2
+1
+A
+IT
+M
+Z
+A
+S
+1
+51
+41
+31
+21
+11
+21
+3
+D
+2121
+Q
+21
+21
+D
+O
++1×21+0+0
+×41P
+1
+= 30+ 0 + 9 + 1+ 1 + 0 +
+1
+0
+94+2+1=
+= 42 .
+27
+
+=== PDF PAGE 19 ===
+Question
+Find rankofwordANURADHA
+3
+1
+2
+1
+QiBY
+R
+A
+D
+H
+A
+5
+(oncept
+t
+61
+51
+32
+21
+1
+31
+21
+21
+21
+21
+0+xy+55
+4.41
++ 0+ 2+1 +0 +
++
+21
+2
+21
+
+=== PDF PAGE 20 ===
+Question [JEE Mains-2020]
+PageNo.134
+If the letters of the word 'MoTHER' be permuted and all the words so
+formed (with or without meaning)
+)be listed as in a dictionary, then the
+position of the word 'MOTHER' is.
+lnuick
+3
+9
+1
+E
+T
+R
+V
+H
+QIBY
+3
+51
+31
+1
+41
+21
+Comcept
+o
+Kak= 240+ 48+18＋ +0+ 0+ 1
+309
+
+=== PDF PAGE 21 ===
+Page No.134
+ReverseQuestion
+If the letters of the word 'MoTHER' be permuted and all the words so
+formed (with or without meaning) be listed as in a dictionary, then word
+written at 519thposition??
+u
+E,H,M,,R, T
+41 = 24
+RE--
+hS
+51 = 12 0
+E
+Rhe-- .
+一31=
+6
+510.
+51=120
+240.
+RHM---
+QIBY 
+31
+51c
+120
+RhOe - -
+360.
+→2l=
+2
+Word at
+518 
+D
+120
+480
+RHOMET
+453rd ??
+?
+1
+519
+
+=== PDF PAGE 22 ===
+Question [1IT-JEE-2007,Paper-2]
+The letters of word cocHiN are permuted and all the permutations are
+arranged in an alphabetical order as in a English dictionary. The number
+of words that appear before the word cocHiN is
+A
+360
+3
+B
+192
+41
+31
+96
+96
+13
+OO
+D
+48
+
+=== PDF PAGE 23 ===
+PageNo.135
+ReverseQuestion
+If all the letters of the word PUBLic be permuted and all the words so
+formed (with or without meaning) be listed as in a dictionary, then word
+writtenat437thposition??
+MH
+
+=== PDF PAGE 24 ===
+Question[JEEMains-2016]
+Ifall thewords
+ (with or without meaning) having five letters, formed
+using the letters of the word sMALL and arranged as in a dictionary; then
+the position of the word SMALL is
+DIBY
+A
+59th
+B
+52nd
+58th
+D
+46th
+
+=== PDF PAGE 25 ===
+Question[JEEMains-2023]
+If the letters of the word MATHs are permuted and all possible words so
+formed are arranged as in a dictionary with serial numbers, then the
+serial number of theword THAMs is
+D1BY -
+Z
+A
+103
+B
+104
+102
+D
+101
+
+=== PDF PAGE 26 ===
+Question [JEE Mains-2023]
+Page No.135
+Let S = {1, 2, 3, 5, 7}. The rank of 35773 if all 5 digit number formed by digits
+  r  u  ss 
+digits is allowed.
+Total = 55
+35771
+351--- 5
+3542
+352-- → 5²
+35743
+353-- → 52
+3 1 
+3 55 - - → 52
+32 -
+= 2x625 + 3x125 + 4×25
+5
+n
+351-- 5
++ 4x$+3.
+33 - -
+3
+5
+352-5
+357 3 - → 5
+3 5 7 5 - - 5
+
+=== PDF PAGE 27 ===
+P
+Question Practice
+
+=== PDF PAGE 28 ===
+AcidicQuestion
+[Ans. : 210]
+Find the number of 7 digit integers whose sum of digits is 59.
+CaseHakig
+H.Wi
+
+=== PDF PAGE 29 ===
+[Ans.: D]
+Question
+   o    ss    
+repeated is
+'mt
+A
+90,000
+心
+B
+10,000
+30,240
+D
+69,760
+
+=== PDF PAGE 30 ===
+P
+?
+DO IT BY YOURSELF (DIBY)
+
+=== PDF PAGE 31 ===
+#DIBY-15
+Eleven books consisting of 5 Mathematics, 4 Physics and 2 chemistry
+are
+placed on a shelf. The number of possible ways of arranging
+themonthe
+assumption that the books of the same subject are all together is
+(A)
+4!2!
+(B)
+11!
+(c)
+5!4!3!2!
+(D)
+Noneofthese
+[Ans.: (c)]
+#DIBY-16
+The number of six letter words (with or without meaning), formed using all the
+letters of the word 'VowELs', so that all the consonants never come together, is
+(A)
+576
+(B)
+140
+(c)
+356
+(D)
+209
+[Ans.:(A)]
+3'o
+V,W,L,S
+Am.=61-3/×u1
+3
+
+=== PDF PAGE 32 ===
+pair d
+same a 8hou wala sawaal 
+#DIBY-17
+Six married couple are sitting in a room. Then, the number of ways in which 4
+people can be selected, so that They do not form a couple, is
+(A)
+240
+(B)
+255
+(c)
+480
+(D)
+495
+[Ans.: (A)]
+#DIBY-18
+     e  s    
+with avowel and end with a consonant?
+[Ans.: 90720]
+L#DIBY-19
+Same as polit spech wala sawaal)
+Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that
+5
+1木
+C
+2米一
+the Digit 1 appearing somewhere to the left of 2
+3
+?
+K
+≤
++
++
+3 appearing to the left of 4 and
+9!
+M
+5
+5somewheretotheleftof6,is
+×31
+213
+219
+212
+X
+2
+(e.g. 815723946 would be one such permutation)
+，
+A)
+9.7!
+(B)
+(c)
+(D)
+8!
+5!.4!
+8!.4!
+9.8.+_9.7!
+[Ans.: (A)]
+8
+D
+
+=== PDF PAGE 33 ===
+#DIBY-20
+A test consists of 6 multiple choice questions, each having 4 alternative
+answers of which only one is correct. The number of ways, in which a candidate
+answers all six questions such that exactly four of the answers are correct, is
+[JEEMains-2020]
+[Ans. : 135]
+#DIBY-21
+Let the number of elements in sets A and B be five and two respectively. Then
+the number of subsets of A x B each having at least 3 and at most 6 elements is
+[JEEMains-2023]
+(A)
+782
+(B)
+772
+(c)
+752
+(D)
+792
+[Ans.: (D)]
+
+=== PDF PAGE 34 ===
+#DIBY-22
+5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes
+hands with her own husband & no Indian wife shakes hands with a male, then
+the number of hands shakes that takes place in the party is
+(A)
+95
+(B)
+110
+(c)
+135
+(D)
+150
+[Ans.:(c)]
+#DIBY-23
+Numberof naturalnumbersbetween 1o0 and1oo0 such that at least one of
+their digits is 7, is
+(A)
+225
+(B)
+243
+(c)
+252
+(D)
+none
+[Ans.: (c)]
+# DIBY-24
+Let S = 1, 2, 3, ..
+9} for k = 1, 2, .5. Let N, be the number of subsets of s, each
+containing five elements out of which exactly k are odd.
+Then N, + N2 + N + N4 + N =
+[JEE (Adv.)-2017]
+(A)
+(B)
+210
+(c)
+125
+252
+(D)
+126
+[Ans.. (...)]
+
+=== PDF PAGE 35 ===
+#DIBY-25
+The number of seven-digit numbers, that can be formed by using the digits 1, 2,
+3, 5 and 7 such that each digit is used at least once. is:
+[JEE Mains-2026]
+(A)
+15400
+(B)
+17800
+(c)
+16800
+(D)
+29400
+[Ans.: (c)]
+#DIBY-26
+Let Pn
+ denote the total number of triangles formed by joining the vertices of an
+n-side regular polygon. If Pn+1 - Pn = 66, then the sum of all distinct prime
+divisors of n is:
+[JEE Mains-2026]
+(A)  7
+(B)
+(c)
+8
+5
+(D)
+6
+[Ans.:(c)]
+#DIBY-27
+The number of ways, of forming a queue of 4 boys and 3 girls such that all the
+girls are not together, is:
+[JEEMains-2026]
+(A)
+5040
+(B)
+3050
+(c)
+3410
+(D)
+4320
+[Ans.: (D)]
+
+=== PDF PAGE 36 ===
+#DIBY-28
+A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing
+8 balls containing at least two bails of each colour, is:
+[JEEMains-2026]
+(A)
+4100
+(B)
+(c)
+4230
+(D) 4290
+4140
+[Ans.: (A)]
+#DIBY-29
+The number of numbers greater than 5ooo, less than 90o0 and divisible by 3,
+that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is
+allowed, is
+[JEEMains-2026]
+[Ans.:42]
+
+=== PDF PAGE 37 ===
+#DIBY-3O
+Let S = {1, 2,3, 4, 5, 6, 7,8, 9}. Let x be the number of 9-digit numbers formed using
+the digits of the set S such that only one digit is repeated and it is repeated
+exactly twice. Let y be the number of 9-digit numbers formed using the digits of
+the set s such that only two digits are repeated and each of these is repeated
+exactly twice.Then,
+[JEEMains-2026]
+(A)
+56x = 9y
+(B)
+29x = 5y
+(c)
+45x = 7y
+(D)
+21x = 4y
+[Ans.: (D)]
+#DIBY-31
+There are 12 points in a plane, no three of which are in the same straight line,
+except 5 points which are collinear. Then the total number of triangles that can
+be formed with the vertices at any three of these 12 points is
+[JEEMains-2025]
+(A) 
+230
+(B)
+220
+(c)
+200
+(D)
+210
+[Ans.: (D)]
+
+=== PDF PAGE 38 ===
+#DIBY-32
+The number of five digit numbers, greater than 4ooo0 and divisible by 5, which
+can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to
+[JEE Mains-2023]
+(A)
+120
+(B)
+132
+(c)
+72
+(D)
+96
+[Ans.:(A)]
+#DIBY-33
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8, if repetition of digits is allowed, is:
+[JEEMains-2023]
+(A)
+22
+(B)
+18
+(c)
+21
+(D)
+20
+[Ans.: (A)]
+井
+DIBY-34
+ 2n+1Pn-1: 2n-1 Pn = 11:21, then n2 + n + 15 is equal to:
+[JEEMains-2023]
+[Ans.: 45]
+
+=== PDF PAGE 39 ===
+#DIBY-35
+A person forgets his 4-digit ATM pin code. But he remembers that in the code
+all the digits are different, the greatest digit is 7 and the sum of the first two
+digits is equal to the sum of the last two digits. Then the maximum number of
+trials necessary to obtain the correct code is
+[JEEMains-2023]
+[Ans.:72]
+#DIBY-36
+The number of seven digit positive integers formed using the digits 1, 2, 3 and 4
+only and sum of the digits equal to 12 is
+[JEE Mains-2023]
+[Ans.: 413]
+#DIBY-37
+A boy needs to select five courses from 12 available courses, out of which 5
+courses are language courses. If he can choose at most two language courses,
+then the number of ways he can choose five courses is
+[JEEMains-2023]
+[Ans.:546]
+
+=== PDF PAGE 40 ===
+#DIBY-38
+There are 5 points P1, P2, P3, P4, P; on the side AB, excluding A and B, of a triangle
+ABC. Similarly there are 6 points
+P6,P7,...,P11
+on the side BC and 7 points
+P12,P13,....
+P18
+on the side cA of the triangle. The number of triangles, that can
+be formed using the points P1, P2, ., P18
+: as vertices, is:
+[JEE Mains-2024]
+(A)
+751
+(B)
+776
+(c)
+796
+(D)
+771
+[Ans.: (A)]
+#DIBY-39
+A committee of 5 is to be chosen from a group of 9 people. Number of ways in
+which it can be formed if two particular persons either serve together or not at
+all and two other particular persons refuse to serve with each other, is
+(A)  41
+(B)
+36
+(c)
+47
+(D)
+76
+[Ans.: (A)]
+
+=== PDF PAGE 41 ===
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+
+=== PDF PAGE 42 ===
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+

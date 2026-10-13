@@ -1,0 +1,23 @@
+{
+  "worker": "Twin 2",
+  "mode": "automated OCR only; no manual review, per user instruction",
+  "expected_files": 15,
+  "expected_pages": 536,
+  "documents": [
+    {"id": "pc05", "chapter": "Permutations & Combinations", "lecture": "05", "source": "Permutations and Combinations 05 Class Notes.pdf", "expected_pages": 32},
+    {"id": "pc06", "chapter": "Permutations & Combinations", "lecture": "06", "source": "Permutations and Combinations 06 Class Notes.pdf", "expected_pages": 43},
+    {"id": "pc07", "chapter": "Permutations & Combinations", "lecture": "07", "source": "Permutations and Combinations 07 Class Notes.pdf", "expected_pages": 42},
+    {"id": "pc08", "chapter": "Permutations & Combinations", "lecture": "08", "source": "Permutations and Combinations 08 Class Notes.pdf", "expected_pages": 45},
+    {"id": "pc09", "chapter": "Permutations & Combinations", "lecture": "09", "source": "Permutations and Combinations 09 Class Notes.pdf", "expected_pages": 34},
+    {"id": "pc10", "chapter": "Permutations & Combinations", "lecture": "10", "source": "Permutations and Combinations 10 Class Notes.pdf", "expected_pages": 37},
+    {"id": "pc11", "chapter": "Permutations & Combinations", "lecture": "11", "source": "Permutations and Combinations 11 Class Notes.pdf", "expected_pages": 45},
+    {"id": "qe01", "chapter": "Quadratic Equations", "lecture": "01", "source": "Quadratic Equations 01 Class Notes.pdf", "expected_pages": 34},
+    {"id": "qe02", "chapter": "Quadratic Equations", "lecture": "02", "source": "Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf", "expected_pages": 38},
+    {"id": "qe03", "chapter": "Quadratic Equations", "lecture": "03", "source": "Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf", "expected_pages": 29},
+    {"id": "qe04", "chapter": "Quadratic Equations", "lecture": "04", "source": "Quadratic Equations 04 Class Notes.pdf", "expected_pages": 33},
+    {"id": "qe05", "chapter": "Quadratic Equations", "lecture": "05", "source": "Quadratic Equations 05 Class Notes.pdf", "expected_pages": 32},
+    {"id": "qe06", "chapter": "Quadratic Equations", "lecture": "06", "source": "Quadratic Equations 06 Class Notes.pdf", "expected_pages": 29},
+    {"id": "qe07", "chapter": "Quadratic Equations", "lecture": "07", "source": "Quadratic Equations 07 Class Notes.pdf", "expected_pages": 32},
+    {"id": "qe08", "chapter": "Quadratic Equations", "lecture": "08", "source": "Quadratic Equations 08 Class Notes.pdf", "expected_pages": 31}
+  ]
+}

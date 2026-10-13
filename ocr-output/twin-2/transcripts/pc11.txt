@@ -1,0 +1,948 @@
+Permutations & Combinations — Lecture 11
+Source: Permutations and Combinations 11 Class Notes.pdf
+AUTOMATED OCR — NOT MANUALLY REVIEWED
+
+=== PDF PAGE 1 ===
+ARJUN
+1
+JEE2027
+30
+Lecture-1l
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tobe coverey
+A
+Circular Permutation
+B
+Derangement
+
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+H.W. Discussion
+
+=== PDF PAGE 4 ===
+Page No.133
+AcidicQuestion
+How many words of seven letters can be formed by using the letters of
+the word 'succEss' so that neither the two C nor any two S are together.
+96
+S,s,S
+(S,S,S
+CS, U, E
+B
+41
+c-u-∈_~
+x1x31
+_c-c-_ε
+O
+C
+×
+1
+264
+文
+21
+-c-c-U-e .
+Requred.
+SCsCUSE
+D
+40
+12
+x10-4x6
+Cscuses
+
+sccsuse x
+对
+=120-24=
+6
+
+=== PDF PAGE 5 ===
+Page No.141
+MahaBumper Question
+Find number of integral solutions of following equation with given conditions:
+(iv)
+x + y + z + 4@= 20, such that (x,y,z,@ ∈ whole n0 .
+16-1+3
+C-I:
+x+y+=16
+8=1
+3
+3-1
+一
+12-1+3
+x+4+=12
+三
+3-1
+add:
+C-=
+8-1+3
+8=++x
+C3-1
+=-
+4-1+3
+C3-1
+=m
+7+4+4=4
+=
+C-位。
+=
+C-。
+0=3
++y+=20.=)20+3-1
+1
+C-VI：
+W=5
++y+=0
+S
+
+=== PDF PAGE 6 ===
+PageNo.141
+MahaBumperQuestion
+Find number of integral solutions of following equation with given conditions:
+x+y +z≤20,such that（x,y,z ∈non-negative integers)
+
+PX
+10+0+10
+False beggar
++9+9
+=20
+1+1+1
+x+y
++去
+l-+u
+allpossible=
+0+0+0
+1004
+3
+1-h0
+51 
+10
+23
+20
+心
+Q
+2
+?
+
+=== PDF PAGE 7 ===
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(vi)
+35 < x + y + z ≤ 52, such that (x, y,z ∈ positive integers)
+OR
+35
+52
+36<+y+<52
+福
+α+y+<52
+also cuntd cals
+++
+= 52
+人
+um
+α+y+ <35
++y'+'+=49
++x+,b+x
+ = 32
+1-h+6h
+ all possible =
+32+4-1
+4-
+35
+Cyl
+C3
+
+=== PDF PAGE 8 ===
+?
+Page No.141
+Maha Bumper Question
+&d—3cld→
+p+9+r=2
++3-
+C3-1=
+2
+0
+Find number of integral solutions of following equation with given conditions:
+(vii)
+xyz =(
+24)
+(33)
+(52)
+(x, y,z ∈ N)
+1-+++4Pm
+3-1
+111
+SC
+55
+2222
+333
+?
+2
+3cild.
+0
+2
+4id.Hg dit.tox，y
+ex
+2
+只
+4+3-1
+=x+b+d
+all possible so' =
+C
+35
+&3
+82235
+3-1
+1
+3
+2255
+&33
+&3
+1
+xC2
+3×1
+1
+5533
+
+=== PDF PAGE 9 ===
+W
+DIBY
+45
+4
+#xy=a3.10
+(x,y,eN)
+
+OR
+8.5
+xy=.3.54
+#
+
+=== PDF PAGE 10 ===
+Notes!!
+Question
+0
+Number of points with integral co-ordinates
+that lie strictly inside the
+triangle whose vertices are
+ (0, 0), (0, 102)
+) and (102, 0) is.
+H-1
+5050
+(0,102)
+h+x
+<102
+开
+<0<x
+B
+5151
+≤101
+X
+=102
+EN
+9
+4950
++x
+=10 1
+10lx100
+5050
+2
+= 99
++4+七
+D
+5253
+(0,0)↓
+(102,0)
+(0'z) (01)
+1-+6b
+101
+(%'10)
+3-
+
+=== PDF PAGE 11 ===
+0,102)
++y = 102
+(1011)
+101
+(2,100)
+H-2
+100
+(1,10%)
+1otal= 100 + 99+ 98+--- - -+ 1
+(99,3)
+10-×00)
+(98,3)
+(99,2)
+(100, 2)
+a
+K
+(101,1)
+X
+50 x101
+100, 1)
+5050
+(0,0)
+102,0
+(0'z) (01)
+101,0
+
+=== PDF PAGE 12 ===
+Point (x,g)
+boh integer
+Hen point u Called 
+dattice point
+where xt y
+(3,4)
+ex
+二
+383
+
+=== PDF PAGE 13 ===
+[Ans. : (D)]
+Question[JEE Mains-2023]
+The number of triplets
+(x,y,z)
+where x, y, z are
+distinct
+non negative
+integers satisfying x + y + z = 15, is
+mt
+D
+A
+136
+B
+80
+92
+D
+114
+
+=== PDF PAGE 14 ===
+PageNo.143
+NON-CONSECUTIVESELECTION
+Question
+Consider set S = {1, 2, 3, 4, 5, 6, 7, 8, 9},
+, number of ways of selecting 4
+numbers such that no two are consecutive.
+: 1,5,4,9 
+00.0.00
+GCu
+T
+2,4,8,1
+?
+123456489
+2,5,4,9
+6'9h'
+
+=== PDF PAGE 15 ===
+Page No.143
+NON-CONSECUTIVESELECTION
+n=9
+q-4+1
+=4
+Question
+Consider set S = {1, 2, 3, 4, 5, 6, 7, 8, 9},
+,number of ways of selecting
+1
+numbers such that no two are consecutive.
+ex-
+1,3,C,9
+x, + N2 + 3 +x4 + Ns = 5
+一
+vo
+六
+vo
+2,5, 4,9
+',3, 5, 8
+α,+x+x3+a4+=
+α+5-1
+b'9'h't
+5-
+
+=== PDF PAGE 16 ===
+123 
+% select 
+T
+no twso are cmsecwitive
+-Y+1
+OR
+#
++(
+
+(fitniseled)
+
+=== PDF PAGE 17 ===
+PageNo.143
+Question
+A train having 12 stations enroute has to be stopped at 4 stations.
+Number of ways it can be stopped if no two of the stopping stations are
+consecutive.
+12
+X
+X
+m=12
+）
+12 - 4 + 1
+7= 4
+
+=== PDF PAGE 18 ===
+Question[JEE(Adv.)-2020, Paper-2]
+Page No.143
+  s         
+first 15 days of every month and it is mandatory that no two visits take
+place on consecutive days. Then the number of all possible ways
+in
+which such visits to the factory can be made by the engineer during 1-15
+June 2021is
+une →1234 ..---15
+15 -4 +1
+?
+
+=== PDF PAGE 19 ===
+PageNo.143
+NON-CONSECUTIVESELECTION
+Question
+If these nine numbers are placed on a circle (as shown), number of ways
+of selecting 4 numbers such that no two are consecutive.
+H1
+ex
+6't's'
+dine F assume
+whenendpoint
+9
+,3, 5,7
+149seleced
+Krke ans.
+8
+3
+4. G,8,2
+T
+9-4+1
+5-2+1
+7
+5
+?
+6C
+= 15 -6 
+
+=== PDF PAGE 20 ===
+PageNo.143
+NON-CONSECUTIVESELECTION
+Question
+If these nine numbers are placed on a circle (as shown), number of ways
+of selecting 4 numbers such that no two are consecutive.
+H-2
+G-3 +1
+ex
+6't's'
+C
+9
+2
+3
+4. 3, 5, 7
+8
+3
+4. 6 ,8, 2
+4
+5
+6
+
+=== PDF PAGE 21 ===
+Page No.143
+NON-CONSECUTIVESELECTION
+Number of ways of selecting 'r' - things out of 'n' - consecutive things
+#
+s are consecutive = n-r+ic,
+Placed in a line such that no two things
+re ansuoe - u, yo no sauire - ,, buois fo som go segnn
+Placed on a circle such that no two things are consecutive
+nC
+n-r-1
+Cr-1
+n-r+1
+C
+n-r-1
+or
+?
+r-2
+
+=== PDF PAGE 22 ===
+Challenger Question
+Page No.143
+Number of octagons
+sided polygon)
+that can be formed by joining
+(8
+vertices of Icosagon
+(20 sided polygon)
+such that no side of octagon is
+common with polygon.
+n= 20
+20
+select any
+8
+no two are consecutive
+μ
+20
+20-8-1
+Cα-1
+Cx
+1+-u
+1--u
+8
+7
+20-8+1
+20-8-1
+3
+Cq-2
+
+=== PDF PAGE 23 ===
+abc
+ca b
+bca
+CIRCULAR
+all same.
+abc
+ac b
+bca
+bac
+6
+:31
+5
+all same.
+cab
+cba
+
+=== PDF PAGE 24 ===
+Page No.138
+CIRCULARPERMUTATION
+we arrange 
+things on Closed curve then it is called as CIRcULAR
+PERMUTATTION.
+NOTE:
+1. 
+Closed curve has no starting & ending point.
+'u, n io uo saurn ,u, buoin sdbe yo lqnn
+2
+_A-B_C_D_
+Gop=4 
+Gap=5
+
+=== PDF PAGE 25 ===
+PageNo.138
+TWOFORMULA'S
+(m-)!
+Number of ways in which n-different things can be arranged on Circle =
+Number of ways in which n-different things can be arranged on Circle
+=
+(m-I))
+**米
+when Clockwise & Anticlockwise arrangements are considered as same
+&
+A
+#InCaSeOfNECKLACE&GARLAND
+#In case when allhave different NEiGHBOURS
+in every arrangement.
+
+=== PDF PAGE 26 ===
+abcd
+bcda
+Cirde
+丝=4!
+cdab
+(4-)} = 3}
+dabc
+Same.
+
+=== PDF PAGE 27 ===
+Question
+In how many ways 5 boys can be seated around a circular table such
+( sr  
+ =(-)!
+4!
+12
+2
+5-1)!
+= 4!
+
+=== PDF PAGE 28 ===
+Question
+How many garlands can be made using 6 different flowers out of 10
+different available flowers.
+01
+(6-)!
+x
+6
+2
+
+=== PDF PAGE 29 ===
+Page No.138
+Example
+Find number of ways in which 5B and 5G can be seated on a circle
+alternately.
+x(5-1)!
+5-1)1
+A
+
+(5-1)!
+x 5l
+B
+B
+0
+D
+
+=== PDF PAGE 30 ===
+PageNo.138
+Example
+Find number of ways in which 5B and 5G can be seated on a circle
+Buch hat au boysare
+together.
+1B, B2Bg B4 B5
+..9
+5"'
+(6-1)! x 5!
+?
+
+=== PDF PAGE 31 ===
+PageNo.138
+Example
+Find number of ways in which 5B and 5G can be seated on a circle
+alternately if a particular B, and G, are never adjacent to each other in
+any arrangement.
+3
+(5-10!
+XC,×1 x
+41
+mt
+B2
+B3
+
+=== PDF PAGE 32 ===
+Question[JEEMains-2023]
+PageNo.138
+The number of ways, in which 5 girls and 7 boys can be seated at a round
+table so that no two girls sit together, is
+Huw
+D
+720
+A
+126(5!)2
+B
+7(360)2
+7(720)2
+D
+
+=== PDF PAGE 33 ===
+PageNo.139
+Example
+The 10 students of batch B feel they have some conceptual doubt on
+"Circular permutation". Mr. Mathew called them in discussion room and
+asked them to sit down around a circular table which is surrounded by 13
+chairs. Mr Mathew told that his adjacent seat should not remain empty.
+The number of ways, in which the students can sit around a round table if
+Mr. Mathew also sit around a chair.
+O
+x 81
+21
+
+=== PDF PAGE 34 ===
+P
+?
+DO IT BY YOURSELF (DIBY)
+
+=== PDF PAGE 35 ===
+#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans.. .....
+
+=== PDF PAGE 36 ===
+#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+"cURRIcULUM" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans.: (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+   sas  s ss s
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]
+
+=== PDF PAGE 37 ===
+#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+# DIBY-65
+Let the set S = {2, 4, 8, 16, ..5
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A U B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.:(D)]
+
+=== PDF PAGE 38 ===
+#DIBY-66
+A natura number has prime factorization given by n = 2x3y5", where y and z are
+such that y + z = 5 and y-1 + z-1
+ y > z. Then the number of odd divisors of 
+5
+二
+n, including 1, is
+[JEE Mains-2021]
+(A) 11
+(B)
+6x
+(c)
+12
+(D)
+6
+[Ans.:(c)]
+#DIBY-67
+Number of integral solutions to the equation x + y + z = 21, where x ≥1, y ≥3, z
+≥ 4, is equal to
+[JEE Mains-2023]
+[Ans.:105]
+#DIBY-68
+There are 
+ infinite number of Identical BLUE, RED, GREEN and YELLOW balls
+available for selections. In how many ways can we select 1o balls.
+14C3
+(B)
+13C10
+(c)
+12C10
+(D)
+14C4
+(A)
+[Ans.: (B)]
+
+=== PDF PAGE 39 ===
+#DIBY-69
+The number of triangles whose vertices are at the vertices of a regular octagon
+but none of whose sides is a side of the octagon is
+[JEE Mains-2024]
+(A)
+56
+(B)
+16
+(c)
+24
+(D)
+48
+[Ans.:(B)]
+#DIBY-70
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can be placed in row so that between any two red cubes, there should be at
+least 2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+# DIBY-71
+Number of ways of arranging 8 identical books into 4 identical shelves where
+any number of shelves may remain empty is equal to
+[JEEMains-2024]
+(A) 
+18
+(B)
+16
+(c)
+12
+(D)
+15
+[Ans.:(D)]
+
+=== PDF PAGE 40 ===
+#DIBY-72
+The total number of positive integral solutions (x, y, z) such that xyz = 24 is
+[JEE Mains-2021]
+(A)
+(B)
+(c)
+(D) 30
+36
+45
+24
+[Ans.: (D)]
+#DIBY-73
+(4!)!
+(5!)!
+Let α =
+and β =
+then
+[JEEMains-2024]
+(4!)3!
+(5!)4!"
+(A)
+(B)
+αeNandβeN
+αeNandβeN
+(c)
+()
+α Nandβ ∈ N
+α N andβ ε N
+[Ans.: (A)]
+
+=== PDF PAGE 41 ===
+#DIBY-74
+From a group of 7 batsmen and 6 bowlers, 10 players are to be chosen for a
+team, which should include atleast 4 batsmen and atleast 4 bowlers. One
+batsmen and one bowler who are captain and vice-captain respectively of the
+team should be included. Then the total number of ways such a selection can
+be made, is
+[JEE Mains-2025]
+(A)
+165
+(B)
+155
+(c)
+145
+(D)
+135
+[Ans.: (B)]
+#DIBY-75
+The number of ways, in which the letters A, B, C, D, E can be placed in the 8
+boxes of the figure below so that no row remains empty and at most one letter
+can be placed in a box, is
+[JEE Mains-2025]
+(A)
+5880
+(B)
+960
+(c)
+840
+(D)
+5760
+[Ans.:(D)]
+
+=== PDF PAGE 42 ===
+#DIBY-76
+The number of functions f from [1, 2, 3, .., 20} only {1, 2, 3, ., 2
+20}
+such that f(k)
+is a multiple of 3, whenever k is a multiple of 4, is
+[JEE Mains-2019]
+(A)
+65 × (15)!
+(B)
+5!×6!
+(c)
+(15)! x 6!
+(D)
+56 × 15
+[Ans.: (c)]
+#DIBY-77
+The number of ways, 16 identical cubes, of which 1l are blue and rest are red,
+can placed in a row so that between any two red cubes there should be at least
+2 blue cubes, is
+[JEE Mains-2022]
+[Ans.: 56]
+#DIBY-78
+For n ≥ 2, let S, denote the set of all subsets of {l, 2,
+n}
+with no two
+1
+consecutive numbers. For example {1, 3, 5} e S, but {1, 2, 4}  S. Then n(S5) is
+equal to
+[JEE Mains-2025]
+[Ans. : 13]
+
+=== PDF PAGE 43 ===
+#DIBY-79
+The largest n ∈ N such that 3n divides 5o! is
+[JEEMains-2025]
+(A)
+21
+(B)
+22
+(c)
+20
+(D) 23
+[Ans.: (B)]
+DIBY-80
+
+In an examination 5 students have been allotted their seats as per their roll
+numbers. The number of ways, in which none of the students sits on the allotted
+seat, is
+[JEEMains-2023]
+[Ans.: 44]
+
+=== PDF PAGE 44 ===
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+
+=== PDF PAGE 45 ===
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+

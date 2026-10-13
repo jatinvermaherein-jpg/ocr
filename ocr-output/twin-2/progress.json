@@ -1,0 +1,134 @@
+{
+  "worker": "Twin 2",
+  "mode": "OCR only; no manual review",
+  "started_at": "2026-10-13T10:33:31+00:00",
+  "updated_at": "2026-10-13T10:48:14+00:00",
+  "expected_files": 15,
+  "expected_pages": 536,
+  "pages_ocr_processed": 536,
+  "files_complete": 15,
+  "complete": true,
+  "manual_pages_reviewed": 0,
+  "documents": [
+    {
+      "id": "pc05",
+      "source": "Permutations and Combinations 05 Class Notes.pdf",
+      "expected_pages": 32,
+      "pages_saved": 32,
+      "pages_ocr_processed": 32,
+      "complete": true
+    },
+    {
+      "id": "pc06",
+      "source": "Permutations and Combinations 06 Class Notes.pdf",
+      "expected_pages": 43,
+      "pages_saved": 43,
+      "pages_ocr_processed": 43,
+      "complete": true
+    },
+    {
+      "id": "pc07",
+      "source": "Permutations and Combinations 07 Class Notes.pdf",
+      "expected_pages": 42,
+      "pages_saved": 42,
+      "pages_ocr_processed": 42,
+      "complete": true
+    },
+    {
+      "id": "pc08",
+      "source": "Permutations and Combinations 08 Class Notes.pdf",
+      "expected_pages": 45,
+      "pages_saved": 45,
+      "pages_ocr_processed": 45,
+      "complete": true
+    },
+    {
+      "id": "pc09",
+      "source": "Permutations and Combinations 09 Class Notes.pdf",
+      "expected_pages": 34,
+      "pages_saved": 34,
+      "pages_ocr_processed": 34,
+      "complete": true
+    },
+    {
+      "id": "pc10",
+      "source": "Permutations and Combinations 10 Class Notes.pdf",
+      "expected_pages": 37,
+      "pages_saved": 37,
+      "pages_ocr_processed": 37,
+      "complete": true
+    },
+    {
+      "id": "pc11",
+      "source": "Permutations and Combinations 11 Class Notes.pdf",
+      "expected_pages": 45,
+      "pages_saved": 45,
+      "pages_ocr_processed": 45,
+      "complete": true
+    },
+    {
+      "id": "qe01",
+      "source": "Quadratic Equations 01 Class Notes.pdf",
+      "expected_pages": 34,
+      "pages_saved": 34,
+      "pages_ocr_processed": 34,
+      "complete": true
+    },
+    {
+      "id": "qe02",
+      "source": "Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf",
+      "expected_pages": 38,
+      "pages_saved": 38,
+      "pages_ocr_processed": 38,
+      "complete": true
+    },
+    {
+      "id": "qe03",
+      "source": "Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf",
+      "expected_pages": 29,
+      "pages_saved": 29,
+      "pages_ocr_processed": 29,
+      "complete": true
+    },
+    {
+      "id": "qe04",
+      "source": "Quadratic Equations 04 Class Notes.pdf",
+      "expected_pages": 33,
+      "pages_saved": 33,
+      "pages_ocr_processed": 33,
+      "complete": true
+    },
+    {
+      "id": "qe05",
+      "source": "Quadratic Equations 05 Class Notes.pdf",
+      "expected_pages": 32,
+      "pages_saved": 32,
+      "pages_ocr_processed": 32,
+      "complete": true
+    },
+    {
+      "id": "qe06",
+      "source": "Quadratic Equations 06 Class Notes.pdf",
+      "expected_pages": 29,
+      "pages_saved": 29,
+      "pages_ocr_processed": 29,
+      "complete": true
+    },
+    {
+      "id": "qe07",
+      "source": "Quadratic Equations 07 Class Notes.pdf",
+      "expected_pages": 32,
+      "pages_saved": 32,
+      "pages_ocr_processed": 32,
+      "complete": true
+    },
+    {
+      "id": "qe08",
+      "source": "Quadratic Equations 08 Class Notes.pdf",
+      "expected_pages": 31,
+      "pages_saved": 31,
+      "pages_ocr_processed": 31,
+      "complete": true
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+Quadratic Equations — Lecture 03
+Source: Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf
+AUTOMATED OCR — NOT MANUALLY REVIEWED
+
+=== PDF PAGE 1 ===
+ARJUN
+JEE2027
+30
+Lecture-03
+Mathematics
+Physics
+QUADRATIC
+EQUATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tohecoverer
+A
+Symmetric Functions of Roots
+B
+Newton'sFormula
+Question Practice
+D
+Note: Basic Mathematics DIBY PDF is uploaded
+
+=== PDF PAGE 3 ===
+dHS=（b-a)(c-a)
+0-=x
+
+0+o+
+LASTCLASSRECAP
+(b-a)(c-a)
+=1
+α=-b
+D-=x
+mroom
+Answer the following Questions:
+厦
+degree
+e
+一
+(x+b)(x+c)
+(x+c)(x+a)
+(x+a)(x+b)
+= 1is an identify.
+go0%0.0u
+十
+(b-a)(c-a)
+(c-b)(a-b)
+(a-c)(b-c)
+L
+(dlegptee=2)
+3
+N
+α²-3α- 5 = 0
+β² - 3β - 5 = 0then quadratic whose roots are
+2.
+and
+*米
+x²-3x-5=0
+α&βis
+&value of aβ is
+C
+一
+5
+αx²-3α-5=0
+α
+a
+1
+x²-3x-5=0
+β²-3β-5=0
+also value of α²β + αβ2 + 7α + 7β + 2
+β
+α+β=-(-3)= 3
+B+(d+t+(df)
+(5)(3)+4x+=-15+a1+2
+
+=== PDF PAGE 4 ===
+Question Practice
+
+=== PDF PAGE 5 ===
+Question
+Find the value of m such that
+(m² - 3m + 2)x² + (m² - 5m + 4)x + (m² - 7m + 6) = 0 is an identify.
+Ans: A
+B
+2
+-2
+D
+
+=== PDF PAGE 6 ===
+AcidicQuestion
+If roots of x² - 2x + 5 = 0 are α and β then form a quadratic whose roots
+are: (i)
+α²+5&β²+5
+&um)x+
+Prod
+=0
+Qunita:
+#
+x²-ax+5=0.
+α
+Sum=α²+5+β²+5
+x²(4)+0=0
+α²+β²+10.=-6+10 =4
+α+β=-(-2)
+=2
+Pnouc+=(²+5)(β²+5)
+αβ=5=5
+x²+β
+D
+1
+²p²+5p²+5x²+25
+SBS
+x²+β²+aB=4
+?
+(β)²+5（p²+α²)+25
+α²+p²=4-10=-6
+5²+5(-6)+25=20
+
+=== PDF PAGE 7 ===
+α
+x²-ax+5=0
+Oush:
+#
+α+5
+，
+β'+ 5
+&um
+以+
+Yrod
+o=
+-+5=0
+²-a（a+B)x+4αB=0
++5=&α
+#
+5
+p²+5=2β
+x²-4x+20=0
+
+=== PDF PAGE 8 ===
+AcidicQuestion
+If roots of x2 - 2x + 5 = 0'are α and β then form a quadratic whose roots
+5
+are: (ii)
+X
+2-α
+2-β
+Ans:
+x²- &x + 5 =O
+Bush:
+α²-2α+5=0
+α(α-2)=-5
+α(2 -α)=+5
+5
+α=
+2-α
+
+=== PDF PAGE 9 ===
+福
+Acidic Question
+α
+If roots of x2 - 2x + 5 = 0 are α and β/then form a quadratic whose roots
+are: (ii)
++α²-α+ 22
+β²+ 4β²-7β+ 35
+X
+&
+3²-aβ+5=0
+七
+(-β-10)+4(2β-5)-≠β+35
+#
+α²-α+5=0
+β-10 +-20β+35 =5.v
+-10+x-5-+22=.#H-2
+α²=2α-5
+αx
+β+6
+@-5
+α'
+2
++4β²-4β+35
+=（xα-5)-5α
+B
++5β
+4α-10-5α
+2²-(++5)x+(#x5)=0
+0
+-12B+35
+=-α-10
+5
+-12β+30
+
+=== PDF PAGE 10 ===
+β²-aβ+5=0
+Q
+B+6
+B-2B+5
+²-4β+35
+4
+&β
+dG+
+Q
+β+4β²-B+35
+(β²-3β+5)(β+C)
+ + 5
+A
+6β-12+35
+B²-12β+30
+R
+A=BQ+R
+
+=== PDF PAGE 11 ===
+Question [JEE (Adv.)-2015, Paper-2]
+α#0
+Let S be the set of all non-zero realnumbers@)
+such thatthe quadratic
+equationax² - x + α = 0
+has two distinct real roots x, and x, satisfying the
+(s e () s sig bmol e fo m 't > x  x n
+of s?
+θ~∞
+αx-+=0
+
+[x,-x21
+?
+L
+
+D.0.R =x-21 =D
+(-)²yαα
+1-4α
+Solve
+1
+lal
+/αl
+-αl
+()(
+0
+E
+#
+
+12
+5
+D
+
+=== PDF PAGE 12 ===
+6
+Q1
++
+(1-4α²
+Solve
+mod
+（1
+|αl
++ve
+u
+{αl²=1α²1=α²
+clomaw
+1-4α3
+#
+[α
+1-4α²>0
+SBS
+(5α)-(1
+5α²-1 =
+4α?-1<0
+1-4α²<αl
+aα-1)(2α+1)<0
+1-4α²<α²
+O
+()()
+0<5α²-1
+α
+2
+病
+
+12
+D
+0<(N5α-1)(15α+1)
+
+=== PDF PAGE 13 ===
+#DIBY-03
+If α, β are the roots of ax² + bx + c = 0, then the equation whose roots are 2 + α
+and 2 + βis
+ax²+(b-4a)x+(4a-2b+c)=0(
+(B)
+ax²-(b-4a)x+(4a-2b+c) =0
+(c)
+ax²+(b-4a)x-(4a-2b+c)=0(D)
+ax²-(b-4a)x-（4a-2b+c)=0
+[Ans. :(A)] 
+α
+αx+bx+ =0
+(a+α)(2+β)
+2+α+2+β
+×+
+X
+=0
+2td
++α+B)
+α+β=-b
++4+2(α+β)+αβ
+= 0
+β
+Q
+αβ =
+C
+6
++4+2
+-b
+=0
+C
++
+a
+Q
+ax²+
+(b-4a)μ + 4α -2b + C = 0
+
+=== PDF PAGE 14 ===
+#DIBY-05
+1
+1
+If α,β are the roots of ax²+bx+ c =0and c ≠0 then the value of
+(aα+b)2
+(aβ+b)2
+interms of a,b,c is
+b2-2ac
+2ac-b2
+b2-2ac
+26-2
+(A)
+(B)
+(可)
+a2c2
+ac
+ac
+[Ans. : (c)]
+aα+b
+α
+aα²+b+c=0
+α
+d
+R
++
+C2
+aα+b)
+X+
+αα~+ bα + C = O
+?
+02
+αβ=
+c-a
+α(aα+b) =-C
+SBS
+b²-&ac
+α²+1B²+
+αα+b
+a²c?
+X
+α²+β²=
+?
+-20
+a
+a
+
+=== PDF PAGE 15 ===
+Question [1IT-JEE-2010, Paper-1]
+Let p and q be real numbers such that p ≠ 0, p3 ≠ q and p3 ≠ -q. If α and β
+are non-zero complex numbers satisfying α + β = - p and α3 + β3 = q, then
+α1
+β-
+a quadratic equation having
+and
+ds its roots is
+β
+α
+#youtube methad
+(p²+q)x²-(p²+2q)x+(p²+q) =0
+α=1,β=2
+-18x²+9-18=0→ 2x²-+2=0
+p3
++q)x²-(p²-2q)x+(p²+q) =0
+3=-P,
+13+ 23=9.
+-18x²+45x-18=0ax²-5x+2=0
+12
+P=-3
+b=b
+(p²-q)x²-(5p²-2q)x+(p²-q)=0
+p²=-27 2
+p²+q =-18
+C b =b
+0=(b-εd)+x(bz+εds)-zx(b-εd)
+
+=== PDF PAGE 16 ===
+Question[1IT-JEE-2010, Paper-1]
+Let p and q be real numbers such that p ≠ 0, p3 ≠ q and p3 # -q. If α and β
+are non-zero complex numbers satisfying
+gα+β=-pandα3+β3=q,
+then
+α
+a quadratic equation having
+一
+ ds its roots is
+β
+α
+α+β=-P
+以
+一
+x+
+3
+B
+SBS
+α²+β²+2αβ=p
+X
+(α+B)
+(²-aβ)=q
+1α²+β
+X
++
+一
+αB
+α+β²=p²-aαβ
+B
+(p²2αβ-αβ)=q
+p²-3αβ=-g
+α+B
+邹
+(p²+9
+p²+=3αβ
+6-d-
+30
+dB
+3 P
+P
+
+=== PDF PAGE 17 ===
+α²+β
+α+1=0
+αβ
+p-2q
+#
+()
++1=0
+邹()
+3中
+
+=== PDF PAGE 18 ===
+Question [1IT-JEE-2007, Paper-1]
+08
+Let α, β be the roots of the equation x² - px + r = 0 and
+,2β be the roots of
+一
+2
+the equation x² - qx + r = 0. Then the value of r is
+3t
+2-9
+A
+(p-q)(2q-p)
+2-9
+B
+(q-p)(2p-q)
+2
+C
+(q-2p)(2q-p)
+9
+21
+D
+(2p-q)(2q-p)
+9
+
+=== PDF PAGE 19 ===
+SYMMETRICFUNCTIONOFROOTS
+Note-01
+If we interchange position of α & β and expression remains same, then
+expression is called symmetric function of roots.
+Ex.:α2 + β²,
+一
+β
+二
+α²β+β²αetc.
++
+B
+α
+α-4
+B-4
+Note-02
+To find value of symmetric expression of roots, no need to find α & β
+separately.Just find α +β
+and
+αβ
+and enjoy!!
+
+=== PDF PAGE 20 ===
+α+β
+Bumper Question
+32
+α²B²
+64
+If α & β are roots of equation x² - 4x - 8 = O'then find value of following
+1/3
+1/3
+a
+β
+α2
+β2
+1
+(ir)
+1
+α2 + β2
++
++
+β
+(α-4)2
+(β-4)2
+X
+3
+α4 + β4
+α5 +β5
+2
+(vi)
+[α5 - β51
+αβ
+=8
+β
+(vii)
+α
+(v!!i)
+1
+L
+6-=
+α2-8
+β2-8
+Hw.
+tw
+(α+1)(β+1)
+(α-2)(β-2)
+23
+23
+23
+13
+13
+α²+β²=(α+p)²-aαβ
+B
+a
+3
+3
+3
+1.
+2
++
+α+β
+x²-4α-&=0
+→9
+1
+B
+3
+
+4²-2(-8)
+?
+3
+X1
+p
+(xβ)
+#α+β=4
+= 16 +16
+2
+=32.
+#αβ=-8
+α²-4α-8=0
+3
+8 = (h-y)
++B_32
+
+1
+69
+64
+8
+
+
+=== PDF PAGE 21 ===
+²-4x-8=0
+-4
+αB=-8
+井
+α+β=4
+#
+#
+α+
+β
+= 32
+#α+β
+Qumit
+α+β
+=(α+p)(a²+β²)
+Bα²+αβ
+#SBS
+α+β+a²²=(3）
+#forceal aoruaotin
+a+B²=（(32）²=（-8）²
+=32×32-2x8×8
+= 64x14.
+= 896
+
+=== PDF PAGE 22 ===
+²-4x-8=0
+α²+β²=(α+)(α²+β²-αp
+→4
+αB=-8
+α+β=4
+井
+#
+=4×(32-(-8))
+#
+α+
+β
+=32
+: 4x 40
+= 160
+23
+(a²B²)(a+p²
+2
+5
+5
+#α+β²：
+βα
++αβ
+#+B=(a+B)(+)-
+(Ba'+ap)
+
+α+β
+(a+B²)
+()
+(x+β)(a+B）)-αβ(α²+β²)
+α+β= 32 x 160 -(-8)²(4)
+?
+3
+#
+#+B=(+)(+)-(+)
+
+=== PDF PAGE 23 ===
+Question [JEE (Adv.-2020), Paper-1]
+Suppose a, b denote the distinct real roots of the quadratic polynomial
+x2 + 20x - 2020 and suppose c, d denote the distinct complex roots of the
+quadratic polynomial x2 - 20x + 2020.
+( - a)q + (-a)q + (p -p)pp + (-)p oni yuy
+.
+A
+9 0%。 Q1BY
+B
+8000
+8080
+D
+16000
+
+=== PDF PAGE 24 ===
+DOITBYYOURSELF
+(DIBY)
+
+=== PDF PAGE 25 ===
+0 =p-3p
+个言
+p²-Yx1<3P
+白
+白
+I
+#DIBY-O4
+Y
+SBS
+a
+If α and β are roots of the equation x2 + px + 3 = 0, such that lα-β= √10, then 
+4
+pbelongs to the set
+(A) {2, -5}
+(B)
+{-3,2}
+(c)
+{3, -5}
+(D)
+{-2,5}
+[Ans.:(D)]
+# DIBY-05
+If α, β are the roots of ax² + bx + c = 0 and c ≠ 0 then the value of
++
+(aα+b)2
+(aβ+b)2
+in terms of a, b, c is
+b2-2ac
+b2-2ac
+2ac-b2
+22
+(A)
+(B)
+(c)
+(D)
+a2c2
+ac
+ac
+[Ans.: (c)]
+( Root a backet)
+#DIBY-06
+Let α and β be the roots of the quadratic equation
+(x-2)(x-3) +(x-3)(x +1) +(x + 1)(x-2) =0.Find the value of
+1
+门
+1
+(α+1)(β+1)
+(α-2)(β-2)
+(α-3)(β-3)
+[Ans.:0]
+
+=== PDF PAGE 26 ===
+# DIBY-07
+If α, β are the roots of ax² + bx + c = 0, (a ≠ 0) and α + 8, β + & are the roots of
+b2-4ac
+B²-4AC
+Ax² + Bx + C = 0, (A ≠ 0) for some constant 8, then prove that,
+a2
+A2
+[JEE-2000]
+# DIBY-08
+If α and β be two roots of the equation x2 - 64x + 256 = 0. Then the value of
+18
+1-8
+15
+B3
+IS
+a
+5
+(B)3
+(c)
+(D)
+A
+2
+[Ans.: (D)]
+# DIBY-09
+Let α, β be the roots of the equation x² + 2√2x - 1 = 0. The quadratic equation,
+ d   sooso
+(α6 + β6), is:
+[JEE Mains-2024]
+(A)
+x² - 190x + 9466 = 0
+(B)
+x²-195x+9466=0
+C
+x²-195x+ 9506 =0
+()
+x²-180x+9506=0
+[Ans.: (c)]
+
+=== PDF PAGE 27 ===
+#DIBY-11
+Let α E R and let α, β be the roots of the equation x² + 604x + a = 0.
+If α+ + β4 = -30, then the product of all possible values of a is [JEE Mains-2023]
+[Ans.:45]
+#DIBY-12
+If 2 and 6 are the roots of the equation ax² + bx + 1 = 0, then the quadratic
+1
+equation,whose roots are
+and
+is:
+[JEE Mains-2024]
+2a+b
+6a+b
+(A)
+x²+8x+12=0
+(B)
+2x²+11x+12=0
+(c)
+4x²+14x+12=0
+(可)
+x²+10x+16 =0
+[Ans.:(A)]
+
+=== PDF PAGE 28 ===
+Homework
+# Re-attempt all Class Examples
+井
+DPP&DIBY
+# Module: Basic Maths
+(4 Sittings Each of 1 Hr.
+ExerciSe-03(BRIDGE): COMPLETE
+Exercise-04(JEE ADV.LEVEL):COMPLETE
+
+=== PDF PAGE 29 ===
+在
+neverabout
+ene resull
+esaluoy about
+ourney
+Thank
+oW
+#futurellTians
+
