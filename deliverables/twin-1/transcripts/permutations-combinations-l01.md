@@ -158,3 +158,42 @@ Source: `Permutations & Combinations 01 Class Notes.pdf` (46 pages, image-only, 
 **P:** clipboard icon + red banner **GRAPHICAL TRANSFORMATION**; `# T-IX : To Draw |y| = f(x)` (green `T-IX`, yellow `To Draw`, cyan formula); white rule **Remove part of the graph below X-axis, now take image of portion above X-axis in X-axis & keep both.**
 **H:** two green sketches — at the left `y = f(x)` drawn as an upward parabola cutting the axis twice with a hand-drawn arrow up the y-axis; at the right `|y| = f(x)`, the same curve keeping only the parts at or above the axis together with their mirror images below it (the two lower branches).
 **DIBY:** none. **U:** 1 — the rule as printed is loose ("remove the part below the X-axis" then "keep both"): it describes reflecting the *upper* part downward while retaining it, which is what the sketch shows, but the wording could be read as deleting the lower part of f(x) first; kept verbatim.
+---
+<a id="p23"></a>
+## p23 · Example — draw y = sin(pi x) · label: — (no label)
+**P:** red chip **Example**; **Draw :** cyan `y = sin(pi x)`.
+**H:** a hand-drawn plot filling the slide: red axes with arrowheads and a green dot at the origin, an orange sine curve of period 2 crossing the axis at every integer (small orange crosses at `−2`, `−1`, `1`, `2`), orange x-labels `−2, −3/2, −1, −1/2, 0, 1/2, 1, 3/2, 2` (the half-integers written as stacked fractions).
+**DIBY:** none. **U:** none — the printed rule this illustrates is T-VIII (p21); the curve is drawn from scratch rather than by dividing the axis.
+
+---
+<a id="p22"></a>
+## p22 · Example — sin(2x), sin x, sin(x/2) on one grid (period change) · label: — (no label)
+**P:** red chip **Example**; the body of the slide is a white graph-paper strip (a Desmos-style export) with a plain x-axis, no printed formula.
+**H:** three curves on the strip — blue `y = sin(2x)`, red `y = sin x`, green `y = sin(x/2)` — with hand arrows from each coloured label to its curve (the green label written at the top right as `y = sin(1/2 x)` with a green arrow, the blue label below the axis with a blue arrow, the red label at the right with a red curl); printed x-ticks `−6, −4, −2, 0, 2, 4, 6` and a heavy vertical rule at the origin.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p21"></a>
+## p21 · GRAPHICAL TRANSFORMATION — T-VIII: y = f(kx) · label: — (no label)
+**P:** clipboard icon + red banner **GRAPHICAL TRANSFORMATION**; green `# T-VIII :` yellow **To Draw** cyan `y = f(kx)` yellow `, (k > 0)`; white **Divide every number on X-axis by 'k'.**; yellow **As a result :** white `If k > 1, graph will compress along X-axis.` and `If 0 < k < 1, graph will stretch along X-axis.`
+**H:** none. **DIBY:** none. **U:** none — the worked example for this rule is p22 (same slide family), and the printed page carries no label here although p20/p24 of this deck do.
+
+---
+<a id="p20"></a>
+## p20 · Example — 2 sin x, sin x, (1/2) sin x on one grid (amplitude change) · label: — (no label)
+**P:** red chip **Example**; a white graph-paper strip (Desmos-style) with printed axes, no printed formula.
+**H:** three curves — blue `y = 2 sin x` (label in blue at the upper right with a blue arrow), red `y = sin x` (red label with a red arrow) and green `y = 1/2 sin x` (green label below the axis with a curly green arrow); hand-coloured y-ticks `1` in red and `1/2` in green on the y-axis, printed ticks `2` and `-2`, x-ticks `-6, -4, -2, 0, 2, 4, 6`.
+**DIBY:** none. **U:** none — this is the illustration for T-VII (p19), the amplitude rule.
+
+---
+<a id="p19"></a>
+## p19 · GRAPHICAL TRANSFORMATION — T-VII: y = k f(x) · label: — (no label)
+**P:** clipboard icon + red banner **GRAPHICAL TRANSFORMATION**; green `# T-VII :` yellow **To Draw** cyan `y = kf(x)` yellow `, (k > 0)`; white **Multiply every number on Y-axis by 'k'.**; yellow **As a result :** white `If k > 1, graph will stretch along Y-axis.` and `If 0 < k < 1, graph will compress along Y-axis.`
+**H:** none. **DIBY:** none. **U:** none.
+
+---
+<a id="p18"></a>
+## p18 · board — sin(-x), sin(-x + pi/2), sin(-x - pi/2) · label: — (no header, board slide)
+**P:** none — board page.
+**H:** three hand plots on red axes with arrowheads and yellow sine-type curves: at the left pink `# y = sin(-x)` over the reversed sine; at the upper right yellow `y = sin(-x + pi/2) = cos x` over a curve that is at its maximum at x = 0; at the lower centre yellow `y = sin(-x - pi/2) = -cos x` over the curve that is at its minimum at x = 0. No x or y labels are written on any of the three axes.
+**DIBY:** none. **U:** none — the identities are correct as written (sin(−x + π/2) = cos x, sin(−x − π/2) = −cos x).
