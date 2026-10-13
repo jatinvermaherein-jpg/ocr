@@ -45,3 +45,37 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 **P:** none — board page.
 **H:** five orange sketches (the last with a pink curve): `(ii) y = |x|` V through `O`; `y = ||x| - 2|` W with zeros at `-2`, `2` and a central peak `2`; `y = |x| - 2` V shifted down to `-2`; `y = ||x| - 2| - 3` the W sunk to troughs on a dashed line at `-3` with a central local max `-1`; `y = |||x| - 2| - 3|` in pink, the middle tent flipped above the axis with a dashed rule at `3`, the y-intercept marked `1` and a `-1` tick left on the axis.
 **DIBY:** none. **U:** none.
+---
+<a id="p08"></a>
+## p08 · Example (same slide) — (iii) and (iv) graphed · label: — (no label)
+**P:** identical printed slide to p06/p07 (six items); here the hand-ticks are on `(iii)` (pink) and `(iv)` (green) — the ticks move with the reveal, they are not part of the print.
+**H:** pink at the left `(iii) y = e^-x` decay curve; `y = e^-|x|` cusp of height `1` over `0`; `y = e^-|x| + 2` the same cusp raised to a peak `3` above a dashed asymptote at `2` with `0` below. Green at the right `(iv) y = {x}` sawtooth of rising ramps with open circles at the jumps; `y = {-x}` the reflected sawtooth; `y = -{-x}` the flipped sawtooth sitting above the axis with open circles at each step.
+**DIBY:** none. **U:** none — `{x}` is the fractional part, used without a printed definition.
+
+---
+<a id="p09"></a>
+## p09 · Example (same slide) — (v) graphed · label: — (no label)
+**P:** identical printed slide; the pink hand-tick is now on `(v)`.
+**H:** green chain at the left `(v) y = sqrt(x)` (half-parabola from the origin), `y = sqrt(-x)` (reflected, `0` marked), `y = sqrt(2 - x)` (shifted, meeting the x-axis at `2`); at the right the combined pink-and-green plot labelled `|y| = 3 + sqrt(2 - x)` with the `|y|` in pink: two branches opening leftwards from the vertex at `x = 2`, upper branch through the dashed level `3` and lower through `-3`, both dashed levels drawn, dots marking the points `(2, 3)` and `(2, -3)`, axis labelled `0 x`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p10"></a>
+## p10 · Example (same slide) — (vi) graphed, three parabola stages · label: — (no label)
+**P:** identical printed slide; the orange hand-tick is now on `(vi)`.
+**H:** three orange sketches: `(vi) y = x^2 - 5x + 6 = (x - 2)(x - 3)` with roots `2`, `3` and y-intercept `6`; `y = x^2 - 5|x| + 6` the even version with both outer branches, ticks `-3`, `-2`, `2`, `3` and peak `6` at the cusp; `y = |x^2 - 5|x| + 6|` with the two inner arcs folded above the axis, ticks `-3`, `-2`, `0`, `2`, `3` and the central cusp at `6`.
+**DIBY:** none. **U:** none — the first sketch's formula is printed as `x^2 - 5x + 6`, which is the x > 0 branch of the required function, used deliberately as the construction step.
+
+---
+<a id="p11"></a>
+## p11 · Question — number of solutions of |f(|x|)| = 2 from a given graph · label: — (no label)
+**P:** red chip **Question**; **If graph of a function f(x) is shown as following then number of solutions of equation |f(|x|)| = 2 is equal to**; red tiles **A** 3, **B** 6, **C** 10, **D** Infinite. The printed figure at the right is a white curve: rising to `3` at x = 0 from `-1`, falling to `0` at `1`, curling up to a spike just before `2`, plunging through `3` to `-3` near `3.5`, then rising back towards the axis; dotted rules at `3` and `-3`, axis ticks `-1, 0, 1, 2, 3, 4`, y ticks `3, 2, -3`.
+**H:** green heading `y = |f(|x|)|` at the top; the constructed graph across the middle — green W-with-tents (zeros at `-1` and `1` in green, central peak labelled pink `3`) plus pink outer branches; two dotted horizontal rules (at `3` and at `2`, the latter with a pink `2` on the axis); ten pink open circles counting the intersections with `y = 2` (four on the left half, six on the right, as drawn); a magenta wavy underline under the printed `|f(|x|)| = 2`; a magenta tick across tile **C** 10.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p12"></a>
+## p12 · Question — number of solutions of |x^2 - |x|| = ln|x| · label: — (no label)
+**P:** red chip **Question**; **Number of solutions of equation |x^2 - |x|| = ln|x| is equal to** (no options printed on the slide).
+**H:** two pink construction sketches along the top — `y = |x^2 - |x||` (tents between `-1`, `0`, `1`, green ticks) and `y = ln|x|` (mirror log branches with a vertical asymptote); below, the combined plot on white axes: the green tent curve `|x^2 - |x||` with pink outer branches, the pink `ln|x|` curves crossing it at the dots `(±1, 0)`, yellow dashed guides to a level `2` and to `x = 2`, and a yellow `ln2` label with an arrow onto the curve; at the right a yellow arrow from the printed equation down to a yellow ringed `2` with the cursive `fnf` mark under it.
+**DIBY:** none. **U:** 2 — (a) the ringed figure is read as `2`, but the drawing shows crossings at x = 1 and x = 2 on each side (four in total), so whether the circle holds the final count or the count on x > 0 is not settled on the board; (b) the cursive `fnf` mark recurs here beneath it (sixth sighting, F-34).
