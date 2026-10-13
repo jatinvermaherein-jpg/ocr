@@ -125,3 +125,50 @@ Source: `Binomial Theorem 09 Class Notes.pdf` (29 pages, image-only) · page ima
 **P:** none — board page.
 **H:** at the top a red rectangle with orange `Coefficient of x^r in (1-x)^-n = n+r-1 C_r`, framed on four sides by some 44 gold star stickers; to its right a magenta circle with magenta `RAR` over a double underline; below, cyan `Coeff. of x^7 in (1-x)^-3 is` with orange `3+7-1 C_7 = 9C_4`; a second red rectangle with cyan `Coeff. of x^r in (1+x)^-n is` and pink `n+r-1 C_r (-1)^r`, flanked right by a block of about thirty gold stars; and cyan `Coeff. of x^7 in (1+x)^-3 is` with `3+7-1 C_7 (-1)^7 = - 9C_7`.
 **DIBY:** none. **U:** none.
+---
+<a id="p19"></a>
+## p19 · board — p18's frame reused for (1-2x)^-3 · label: — (no header, board slide)
+**P:** none — board page (the star-framed rule is re-drawn from p18 as context).
+**H:** the red rectangle framed by gold stars again holds orange `Coefficient of x^r in (1-x)^-n = n+r-1 C_r`; the magenta `RAR` circle sits at its right; below, cyan `Coeff. of x^7 in (1-2x)^-3 is` (green wavy underline under `(1-2x)^-3`) with orange `3+7-1 C_7 2^7 = 9C_4 . 2^7`; a green arrow down to the green expansion `1 + 3(2x) + (-3)(-3-1)/2! 2^2 x^2 + (-3)(-3-1)(-3-2)/3! (-2^3 x^3) + - - -` (small `0` subscripts under both factorials).
+**DIBY:** none. **U:** 1 — the last factor is written `(-2^3 x^3)` while the earlier terms carry `2x`, `2^2 x^2` with positive signs; the mix of signs is as on the board.
+
+---
+<a id="p20"></a>
+## p20 · Question [JEE Mains–2019] — coefficient of t^4 in ((1-t^6)/(1-t))^3 = 15 · label: **Page No. 164**
+**P:** red chip **Question [JEE Mains–2019]**; **The coefficient of t^4 in the expansion of ((1 - t^6)/(1 - t))^3 is**; red tiles **A** 15, **B** 14, **C** 12, **D** 10.
+**H:** a white tick struck across tile A; pink `(1 - t^6)^3/(1 - t)^3 = (1 - t^6)^3 x (1 - t)^-3` (wavy rule under the second factor); a white arc from the first factor down to white `3C_r (-t^6)^r` with `r = 0` under an arc to `3C_0`; cyan `( 3C_0 ) t^0 x ( 6C_4 ) t^4` with a wavy rule and `15` below the second bracket; a white arc from the `(1 − t)^-3` factor out to the right to white `3+4-1 C_4`; a white arc down to the ringed term `(15) t^4`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p21"></a>
+## p21 · Question — coefficient of x^n in (1+x)^2/(1-x)^3, three-term split · label: — (no label)
+**P:** red chip **Question**; **The coefficient of x^n in (1+x)^2/(1-x)^3 is**; red tiles **A** 3n² + 2n + 1, **B** 2n² + 2n + 1, **C** n² + n + 1, **D** 2n² - 2n + 1.
+**H:** a white arc from the printed fraction to white `(1 + x^2 + 2x)(1 - x)^-3` (a short yellow underline under the `2` of `2x`); then three stacked orange lines pairing the numerator terms with negative-index coefficients — `(1) x^0 x (3+n-1 C_n) x^n`, `(2) x^1 x (3+n-2 C_{n-1}) x^{n-1}`, `(1) x^2 x (3+n-3 C_{n-2}) x^{n-2}`.
+**DIBY:** none. **U:** 1 — the three contributions are never added and no option is ticked, so the board leaves the MCQ unanswered (the sum works out to option B, but that is not written).
+
+---
+<a id="p22"></a>
+## p22 · APPLICATION OF MULTINOMIAL THEOREM — sum 12 on 4 distinct dice · label: **Page No. 142**
+**P:** clipboard icon + red banner **APPLICATION OF MULTINOMIAL THEOREM**; `# ` black then green italic **P&C** and cyan **(Number of Integral Solutions):**; red chip **Question**; **In how many ways sum of 12 can be obtained by throw of 4 distinct dice.**
+**H:** none. **DIBY:** none. **U:** 1 — the module label drops to `Page No. 142` after 163/164, because this block belongs to the multinomial module rather than the B.T. one (same non-monotonic numbering as F-08).
+
+---
+<a id="p23"></a>
+## p23 · board — the naive stars-and-bars count, crossed out · label: — (no header, board slide)
+**P:** none — board page.
+**H:** four red dice boxes at the top, each with a green arrow down to green `a + b + c + d = 12`, with yellow `, a, b, c, d in {1, 2, 3, 4, 5, 6}` at the right; at the left three orange rows of illegal partitions, each led by a cross — `x 9 1 1 1`, `x 7 3 1 1`, `x 1 2 8 1` — and a vertical orange dashed stroke showing the list continues; a cyan arrow from `= 12` down to cyan `n.o.s. = 12-1 C_{4-1} =` with `11 C_3` inside a red rectangle, and a large cyan cross to the right of the box (the plain count is wrong because no die may exceed 6).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p24"></a>
+## p24 · board — the generating-function route: coeff of x^8 in (1-x^6)^4/(1-x)^4 · label: — (no header, board slide)
+**P:** none — board page.
+**H:** the same four red boxes and green arrows into green `a + b + c + d = (12)` with the `12` ringed in magenta, yellow `a, b, c, d in {1, 2, 3, 4, 5, 6}`; a magenta arc from the ring down to cyan `coeff. of x^12 in (x^1 + x^2 + x^3 + ... + x^6)(x^1 + x^2 + x^3 + ... + x^6)(x^1 + x^2 + x^3 + ... + x^6)(x^1 + x^2 + x^3 + ... + x^6)` (four green-bracketed factors); cyan `coeff. of x^12 in (x^1 + x^2 + x^3 + ... + x^6)^4` with a white wavy rule and a small `1` under the leading term; cyan `coeff. of x^12 in ( x (1 - x^6)/(1 - x) )^4` with orange arcs marking the exponent 4 and that `1`, then a yellow arrow to cyan `coeff. of x^12 in x^4 (1 - x^6)^4/(1 - x)^4`; last line magenta `# coeff. of x^8 in` with a magenta arrow to the yellow fraction `(1 - x^6)^4/(1 - x)^4`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p25"></a>
+## p25 · board — answer 125 ways · label: — (no header, board slide)
+**P:** none — board page.
+**H:** top left the magenta/cyan header repeated `# coeff. of x^8 in -> (1 - x^6)^4/(1 - x)^4`; top right yellow `(1 - x^6)^4` with a white arrow down to white `4C_r (-1)^r x^{6r}`; second band magenta `# coeff. of x^8 in -> (1 - x^6)^4 (1 - x)^{-4}`; pink and yellow term pairs `(4C_0) x^0 . (4+8-1 C_8) x^8 = 11C_8 x^8` and `(-4C_1) x^6 . (4+2-1 C_2) x^2 = -4C_1 5C_2 x^8`; a yellow rule then yellow `= (11C_8 - 4 x 10) x^8`; bottom cyan `= 165 - 40 = (125)` with `125` ringed in cyan.
+**DIBY:** none. **U:** none — 11C8 = 165 and 4C1 x 5C2 = 4 x 10 = 40, so the arithmetic on the board is self-consistent.
