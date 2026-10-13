@@ -90,3 +90,44 @@ Source: `Permutations & Combinations 01 Class Notes.pdf` (46 pages, image-only, 
 **P:** red chip **Question**; **There are 7 flags of different colour. Find the number of different signals that can be transmitted by the use of 2 flags one above the other.** (`7 flags` yellow).
 **H:** a cyan two-row box `P-1 | 7 optn` over `P-2 | 6 optn` with cyan `Total = 7 x 6 = 42` below; at the right an orange enumeration grid, two blocks of six columns — the first headed `G G G G G G` over `B  BL.  W  Y  O  P`, the second headed `B B B B B B` over `G  BL.  W  Y.  O  P` — the colours abbreviated green, blue, black, white, yellow, orange, pink.
 **DIBY:** none. **U:** none — only twelve of the 42 ordered pairs are written out; the rest are implied by the pattern.
+---
+<a id="p33"></a>
+## p33 · Question — Golu's kurta/pajama vs T-shirt/jeans outfit count · label: — (no label)
+**P:** red chip **Question**; **Consider 3 different Kurtas, 2 different Pajamas, 4 different T-Shirts & 3 different Jeans.** (all counts in yellow) **In how many ways can little Golu dress up for an event either fully ethnic or fully casual.** (`little Golu` green).
+**H:** pink `Ethnic.` beside an orange `3 x 2` inside a red rectangle, with `K` and `P` written above the two factors and dashes into them, then an orange arrow to orange `6 ways`; below, pink `Casual.` beside an orange `4 x 3` in a second red rectangle with `T` and `J` written under the factors and arrows up into them, arrow to orange `12 ways`; two long orange arcs carry both results to the right, where an orange circle reads `add` and the cursive `fnf` mark opens `= 12 + 6 = 18 ways`.
+**DIBY:** none. **U:** none — another sighting of the cursive `fnf` glyph (here standing where "total" would go), consistent with F-34/U-02.
+
+---
+<a id="p32"></a>
+## p32 · Question — Golu's shirts/jeans/belts: the full product table · label: **Page No.125**
+**P:** red chip **Question**; **Let a person "Little Golu" has 3 different shirts, 2 different Jeans & 4 different belts. Then find number of ways of getting ready.** (`3 different shirts`, `2 different Jeans`, `4 different belts` in yellow, `Little Golu` green).
+**H:** a cyan three-column table headed `Shirt | Jean | Belt` filled in pink with `S1 S1 S1 S1 S1 S1 S1 S2` against `J1 J1 J1 J1 J2 J2 J2 J2` against `B1 B2 B3 B4 B1 B2 B3 B4`, the columns trailing into vertical dots; at the right a yellow cartoon of a flexing boy; cyan `Shirt -> 3`, `Jeans -> 2`, `Belt -> 4` over a cyan rule, then the cursive `fnf` in cyan `= 3 x 2 x 4` and `= 24 ways`.
+**DIBY:** none. **U:** none — p31 and p32 are the same printed slide at successive reveals (see the delta note on p31).
+
+---
+<a id="p31"></a>
+## p31 · Question (same slide, earlier reveal) — the three lists before the table · label: **Page No.125**
+**P:** identical printed question to p32.
+**H:** green lists only — `Shirt -> S1  S2  S3`, `Jeans -> J1  J2`, `Belt -> B1  B2  B3  B4` — the same yellow flexing-boy cartoon, and the same cyan summary `Shirt -> 3 / Jeans -> 2 / Belt -> 4` over a rule with the cursive `fnf = 3 x 2 x 4 = 24 ways`. The product table of p32 is not yet drawn, so this page is transcribed as the earlier state of that slide rather than as new content (F-16 handling).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p30"></a>
+## p30 · FUNDAMENTAL PRINCIPLE OF COUNTING — multiplication (AND) and addition (OR) · label: **Page No.125**
+**P:** clipboard icon + red banner **FUNDAMENTAL PRINCIPLE OF COUNTING**; cyan `# Multiplication Principle: (AND)` over white Hinglish **Jab tak process complete na ho tab tk number of ways ko multiply kte rho.**; cyan `# Addition Principle: (OR)` over white **Agr given process 'm' tarike se complete ho gya hai & ussi process ko complete krne ke 'n' aur tarike hain, to total ways =**.
+**H:** a cyan `Process` label with a two-headed arrow above a red rectangle of four cells `m | n | p | t` separated by orange strokes, an orange arrow to orange `Total = m x n x p x t` (the letters coloured per cell); orange `OR options` at the right; in the addition half, two red rectangles `n-ways` and `m-ways` with a cyan `OR` at their left and a cyan brace whose arrow curves up to the cyan handwriting `(m+n) ways` that completes the printed sentence.
+**DIBY:** none. **U:** none — the Hinglish is transcribed verbatim, including `kte`, `krne`, `gya`.
+
+---
+<a id="p29"></a>
+## p29 · # P&C # PERMUTATIONS & COMBINATIONS (topic header, star-framed) · label: — (no label)
+**P:** centred white bold **PERMUTATIONS & COMBINATIONS** inside a thin red rectangle, with an orange handwritten `# P&C #` above it and the whole block ringed by roughly ninety gold star stickers.
+**H:** pink arrow from the box's left edge down to pink `1 Ques.` branching into `Mains` and `Adv.`; a red rectangle holding pink `Probability` with a pink bracket down to `XII`; green arrows from the box's right edge to green `Sochne wala (Case Making)` and green `Independent`.
+**DIBY:** none. **U:** none — the star frame is used here as emphasis for the chapter title, the same device as the boxed coefficient rules in BT L09 p18.
+
+---
+<a id="p28"></a>
+## p28 · Question — number of solutions of |x^2 - |x|| = ln|x| (H.W.) · label: — (no label)
+**P:** red chip **Question**; **Number of solutions of equation |x^2 - |x|| = ln|x| is equal to** (the equation in cyan).
+**H:** an orange circle enclosing the cursive `H.W.` over a double underline with two small rings — the item is assigned, nothing solved on this slide.
+**DIBY:** none (H.W. only, F-18). **U:** none — this is the same question that P&C L02 p12 works through graphically (with the ringed `2` and a `fnf` mark), so the two decks cross-reference: assigned in L01, solved in L02.
