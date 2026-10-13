@@ -1916,5 +1916,33 @@
   "visible_solution_answer": "printed [Ans.: 252]",
   "uncertainty_note": "duplicate of L04 p39 DIBY-09; 'atleast' printed as one word in both.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "01",
+  "source_pdf": "Permutations & Combinations 01 Class Notes.pdf",
+  "pdf_page": 44,
+  "diby_marker": "handwritten red 'DIBY - (tick)' (no printed # DIBY-nn tag), chip Question",
+  "printed_label": "DIBY(tick)",
+  "internal_id": "PC-L01-P44-DIBY(tick)",
+  "prompt_verbatim": "Prove that cos^2x + cos^2(x + pi/3) + cos^2(x - pi/3) = 3/2",
+  "options": "— (proof)",
+  "visible_solution_answer": "none - assigned as DIBY, never worked in this file",
+  "uncertainty_note": "Hand-written DIBY tag on a printed Question slide; same pattern as L04 p11 (F-18/F-20).",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "01",
+  "source_pdf": "Permutations & Combinations 01 Class Notes.pdf",
+  "pdf_page": 43,
+  "diby_marker": "handwritten red 'DIBY - (cross)' with a brace over both parts, chip Question",
+  "printed_label": "DIBY(cross)",
+  "internal_id": "PC-L01-P43-DIBY(cross)",
+  "prompt_verbatim": "Prove that (i) sin(th) + sin(120 + th) + sin(240 + th) = 0  (ii) cos(th) + cos(120 + th) + cos(240 + th) = 0",
+  "options": "— (proof)",
+  "visible_solution_answer": "none - assigned as DIBY, never worked in this file",
+  "uncertainty_note": "Both parts gathered by one red brace into a single DIBY item; the circled cross distinguishes it from p44's tick.",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]
