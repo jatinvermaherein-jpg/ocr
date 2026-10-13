@@ -49,6 +49,7 @@ PUA = {"\uf0a5": "∞", "\uf0ce": "∈", "\uf0cf": "∉", "\uf0c8": "∪", "\uf0
        "\uf067": "γ", "\uf06c": "λ", "\uf06d": "μ", "\uf0b0": "°"}
 
 OPT_LABEL = re.compile(r"^\(\s*[a-dA-D]\s*\)$")
+OPT_MARK = re.compile(r"\(\s*[a-dA-D]\s*\)")
 WORD = re.compile(r"[A-Za-z]{3,}")
 
 
@@ -71,7 +72,7 @@ def normalise(s: str) -> str:
 
 
 class Span:
-    __slots__ = ("text", "size", "x0", "x1", "top", "base")
+    __slots__ = ("text", "size", "x0", "x1", "top", "base", "frac")
 
     def __init__(self, s: dict):
         self.text = normalise(s["text"])
@@ -79,19 +80,113 @@ class Span:
         self.x0, _, self.x1, _ = s["bbox"]
         self.top = float(s["bbox"][1])
         self.base = float(s["origin"][1])
+        self.frac = False
+
+    @classmethod
+    def folded(cls, text: str, size: float, x0: float, x1: float, top: float, base: float):
+        """A stacked fraction already folded into one `\frac{}{}` span."""
+        self = cls.__new__(cls)
+        self.text, self.size = text, size
+        self.x0, self.x1, self.top, self.base = x0, x1, top, base
+        self.frac = True
+        return self
 
     @property
     def w(self) -> float:
         return self.x1 - self.x0
 
 
+def _render_part(part: list[dict]) -> str:
+    """Text of one half of a stacked fraction (its own script size as body)."""
+    spans = [Span(s) for s in part]
+    size = max(sp.size for sp in spans)
+    base = _row_body_base(spans, size)
+    return _render_seg(spans, size, base).strip()
+
+
+def _frac_stack(num: list[dict], den: list[dict], body: float):
+    """Split a numerator line + the next line into a stacked fraction + the rest.
+
+    In these decks a stacked fraction is its own little block: the numerator on one
+    line, the denominator (script-size, directly below and x-aligned) starting the
+    next.  Anything after the denominator on that line is ordinary text.
+    """
+    num = [s for s in num if s["text"].strip()]
+    line = [s for s in den if s["text"].strip()]
+    if not num or not line:
+        return None
+    nx0 = min(float(s["bbox"][0]) for s in num)
+    nx1 = max(float(s["bbox"][2]) for s in num)
+    nbase = max(float(s["origin"][1]) for s in num)
+    nsize = max(float(s["size"]) for s in num)
+    if nx1 - nx0 > 320 or nsize > body * 0.95:
+        return None                                    # too wide / not a numerator
+    den, rest = [], []
+    for s in line:
+        if rest:
+            rest.append(s)
+            continue
+        x0, _, x1, _ = s["bbox"]
+        size = float(s["size"])
+        base = float(s["origin"][1])
+        own = x1 - x0
+        overlap = min(x1, nx1 + 8) - max(x0, nx0 - 8)
+        if size <= body * 0.95 and overlap > 0.5 * own and base > nbase + 6:
+            den.append(s)
+        else:
+            rest.append(s)
+    if not den:
+        return None
+    dx0 = min(float(s["bbox"][0]) for s in den)
+    dx1 = max(float(s["bbox"][2]) for s in den)
+    dbase = max(float(s["origin"][1]) for s in den)
+    if nx0 < dx0 - 25 or nx1 > dx1 + 25:
+        return None                                    # numerator must sit over it
+    if not 12 <= dbase - nbase <= 1.4 * body:
+        return None                                    # bar-shaped gap only
+    ntext, dtext = _render_part(num), _render_part(den)
+    if not (_good_frac_part(ntext) and _good_frac_part(dtext)):
+        return None
+    return num, den, rest, ntext, dtext
+
+
 def _collect(page) -> list[Span]:
+    """Page spans with stacked fractions folded into single `\frac{}{}` spans."""
     out = []
     for block in page.get_text("dict")["blocks"]:
         if block.get("type") != 0:
             continue
-        for line in block.get("lines", []):
-            for s in line["spans"]:
+        lines = [ln for ln in block.get("lines", [])
+                 if any(s["text"].strip() for s in ln["spans"])]
+        sizes = [float(s["size"]) for ln in lines for s in ln["spans"] if s["text"].strip()]
+        body = max(sizes, default=0.0)
+        done = set()
+        for i in range(len(lines) - 1):
+            if i in done or i + 1 in done:
+                continue
+            got = _frac_stack(lines[i]["spans"], lines[i + 1]["spans"], body)
+            if got is None:
+                continue
+            num, den, rest, ntext, dtext = got
+            done.add(i)
+            done.add(i + 1)
+            nsize = max(Span(s).size for s in num)
+            dsize = max(Span(s).size for s in den)
+            nbase = max(float(s["origin"][1]) for s in num)
+            dbase = max(float(s["origin"][1]) for s in den)
+            out.append(Span.folded(
+                "\\frac{" + ntext + "}{" + dtext + "}",
+                max(nsize, dsize),
+                min(float(s["bbox"][0]) for s in num + den),
+                max(float(s["bbox"][2]) for s in num + den),
+                min(float(s["bbox"][1]) for s in num + den),
+                (nbase + dbase) / 2.0))
+            for s in rest:
+                out.append(Span(s))
+        for i, ln in enumerate(lines):
+            if i in done:
+                continue
+            for s in ln["spans"]:
                 if s["text"].strip():
                     out.append(Span(s))
     return out
@@ -141,7 +236,7 @@ def _render_seg(seg: list[Span], body: float, base: float) -> str:
     for sp in seg:
         txt = sp.text
         is_body = sp.size >= body * 0.88
-        small = sp.size < body * 0.88 and len(txt.strip()) <= 5
+        small = sp.size < body * 0.88 and (sp.frac or len(txt.strip()) <= 5)
         dy = sp.base - base
         if last_body and small and dy < -9:
             out += "^{" + txt.strip() + "}"
@@ -159,6 +254,10 @@ def _join(a: str, b: str) -> str:
     return a + b
 
 
+MATH_WORD = {"sin", "cos", "tan", "cot", "sec", "cosec", "log", "ln",
+             "lim", "max", "min", "arg", "mod", "det", "sgn"}
+
+
 def _good_frac_part(txt: str) -> bool:
     t = txt.strip()
     if not t or OPT_LABEL.match(t):
@@ -172,6 +271,17 @@ def _good_frac_part(txt: str) -> bool:
     if t.endswith((",", "(A)", "(B)", "(C)", "(D)")):
         return False
     if re.search(r",\s*-?\d", t):
+        return False
+    if "=" in t:                       # prose / a whole equation, not a half
+        return False
+    if t[0] in "+×÷/=,;:<>≤≥" or t[-1] in "+-×÷/,;:":
+        return False                   # operator left hanging at either end
+    if re.fullmatch(r"\(\s*(?:\d{1,2}|[a-dA-D])\s*\)[.,]?", t):
+        return False                   # a sub-part label like (1) or (b), not a half
+    for run in re.findall(r"[A-Za-z]{4,}", t):
+        if run.lower() not in MATH_WORD:
+            return False               # a word of English, so not maths
+    if t.count(" ") >= 3:
         return False
     return True
 
@@ -297,6 +407,10 @@ def page_rows(page) -> list[str]:
         if merged[i] or not L["items"] or L["used"]:
             continue
         if not _is_math_only_row(L["items"]):
+            continue
+        # a row that carries its own option labels is a real option row of a grid —
+        # never fold it into the row above (that interleaves the cells)
+        if OPT_MARK.search(" ".join(t for _, t in L["items"])):
             continue
         near = [j for j, M in enumerate(lines)
                 if j != i and not merged[j] and M["items"] and abs(M["base"] - L["base"]) <= 165]

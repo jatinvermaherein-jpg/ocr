@@ -48,7 +48,7 @@ LEAD_META = re.compile(r"^\s*(?:#\s*)?(?:\(?(?:Acidic|Challenger|Critical Thinki
                        r"\s*|\[(?:JEE[^\]]*|Multiple Correct|Challenger[^\]]*)\]\s*)+", re.I)
 QUOTE = re.compile(r"(never about end result|always about Journey|keep believing|self belief)",
                    re.I)
-MARK = re.compile(r"\(\s*([A-D])\s*\)")
+MARK = re.compile(r"\(\s*([A-Da-d])\s*\)")
 OPT_LEAD = re.compile(r"^([A-D])(?![a-z])[\s.\-)\]]*(.+)$")
 OPT_NOTE = re.compile(r"\[?\s*JEE[^\]]*\]?")
 
@@ -103,11 +103,15 @@ def split_options(text: str) -> tuple[str, str]:
             return text, ""
         pieces[l].append(piece)
     head = text[:keep[0][1].start()].strip()
-    tail = text[keep[-1][1].end():].strip()
-    if tail and not OPT_NOTE.match(tail):
-        head = (head + " " + tail).strip()
+    # NOTE: everything after the (D) marker *is* (D)'s own text (the piece runs to the
+    # end of the text), so there is no separate tail to fold back into the question --
+    # doing that duplicated the last option into every question.
     if len(head) < 15:
         return text, ""
+    for l in "ABCD":                    # (A)/(B)… labels and margin tags inside a cell
+        pieces[l] = [re.sub(r"\[[^\]]{0,45}(?:JEE|IIT|Mains|Advanced|NEET)[^\]]{0,45}\]", "", p).strip()
+                     for p in pieces[l]]
+        pieces[l] = [re.sub(r"^[A-Da-d]\s*\)\s*", "", p) for p in pieces[l]]
     opts = "   ".join(("(%s) " % l) + " / ".join(p for p in pieces[l] if p) for l in "ABCD")
     return head, opts.strip()
 
@@ -152,7 +156,20 @@ def tidy(text: str, brackets: bool = True) -> str:
                 if depth == 0:
                     last_balanced = i + 1
         text = text[:last_balanced]
+    if text.count("{") != text.count("}"):        # trim a tail with an unclosed brace
+        depth, last = 0, len(text)
+        for i, ch in enumerate(text):
+            if ch == "{":
+                depth += 1
+            elif ch == "}":
+                depth -= 1
+                if depth == 0:
+                    last = i + 1
+        text = text[:last]
     text = re.sub(r"\\[a-zA-Z]*$", "", text)
+    # stacked sub-part labels read out as a fraction: "(i)" over "(ii)" -> "(i) (ii)"
+    text = re.sub(r"\\frac\{\(([A-Za-z]{1,4})\)\}\{\(([A-Za-z]{1,4})\)\}",
+                  r"(\1) (\2)", text)
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip(" #,;")
 
@@ -170,7 +187,7 @@ def make_item(book: str, tag: str, page: int, lines: list[str]) -> dict | None:
         rest, answer = split_answer(text)
     rest = strip_lead_meta(rest)
     question, opts = split_options(rest)
-    question, opts2 = tidy(question), tidy(opts)
+    question, opts2 = tidy(strip_lead_meta(question)), tidy(opts, brackets=False)
     if not question and not opts2 and not answer:
         return None
     return {"book": book, "tag": tag, "pdf_page": page, "question": question,
@@ -287,9 +304,19 @@ def parse_lettered(book: str, stream, key_pages: set[int],
                 regions[-1]["tail"].append(tail)
 
     items, skipped = [], []
+    prev_last = None
     for i, reg in enumerate(regions):
         head = [l for l in reg["head"] if keep(l)]
         tail = [l for l in reg["tail"] if keep(l)]
+        if prev_last and prev_last != "D":            # (B)(C)(D) of the previous item
+            expect = "ABCD"["ABCD".index(prev_last) + 1:]
+            while head and expect:
+                m = OPT_LEAD.match(head[0].strip())
+                if m and m.group(1).upper() == expect[0]:
+                    head.pop(0)
+                    expect = expect[1:]
+                else:
+                    break
         if not head and not tail:
             skipped.append(reg["tag"])
             continue
@@ -314,10 +341,7 @@ def parse_lettered(book: str, stream, key_pages: set[int],
                 opts[m.group(1).upper()] = m.group(2).strip()
                 letters.append(m.group(1).upper())
                 nxt = "ABCD"[min(3, "ABCD".index(nxt) + 1)]
-        # leading option lines in the head belong to the previous item
-        drop = _leading_option_run(head, "A") if head and letters else 0
-        if drop and letters and letters[0] != "A":
-            head = head[drop:]
+        prev_last = letters[-1] if letters else None
         if reg["page"] in key_pages:
             continue                                  # the A–M key grid, not an item
         text = re.sub(r"\s{2,}", " ", " ".join(l for l in head if not QUOTE.search(l))).strip()
