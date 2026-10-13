@@ -2,11 +2,11 @@
   "worker": "Twin 2",
   "mode": "OCR only; no manual review",
   "started_at": "2026-10-13T10:33:31+00:00",
-  "updated_at": "2026-10-13T10:37:45+00:00",
+  "updated_at": "2026-10-13T10:38:56+00:00",
   "expected_files": 15,
   "expected_pages": 536,
-  "pages_ocr_processed": 232,
-  "files_complete": 5,
+  "pages_ocr_processed": 268,
+  "files_complete": 6,
   "complete": false,
   "manual_pages_reviewed": 0,
   "documents": [
@@ -54,16 +54,16 @@
       "id": "pc10",
       "source": "Permutations and Combinations 10 Class Notes.pdf",
       "expected_pages": 37,
-      "pages_saved": 36,
-      "pages_ocr_processed": 36,
-      "complete": false
+      "pages_saved": 37,
+      "pages_ocr_processed": 37,
+      "complete": true
     },
     {
       "id": "pc11",
       "source": "Permutations and Combinations 11 Class Notes.pdf",
       "expected_pages": 45,
-      "pages_saved": 0,
-      "pages_ocr_processed": 0,
+      "pages_saved": 35,
+      "pages_ocr_processed": 35,
       "complete": false
     },
     {
