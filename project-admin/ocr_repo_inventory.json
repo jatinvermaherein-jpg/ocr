@@ -375,7 +375,7 @@
     "note": "One document with every DIBY item from all four worker registers. Twin 2 / Twin 4 had no prompts extracted, so draft text is reconstructed from their own raw page OCR (delimited by the next marker) and labelled unverified; nothing was corrected or re-worded.",
     "question_bank_docx": "deliverables/DIBY_Questions.docx",
     "question_bank_csv": "deliverables/DIBY_Questions.csv",
-    "question_bank_note": "655 questions with type-set Word equations (section markers excluded), one heading per chapter+lecture, DIBY tag, right-aligned answer; 561 unique maths expressions rendered as native OMML equations via pandoc",
+    "question_bank_note": "655 questions with type-set Word equations (section markers excluded), one heading per chapter+lecture, DIBY tag, right-aligned answer. Compact layout (~42 est. pages vs ~65 for the earlier spacing, same content); every chapter starts on an odd page (oddPage section breaks); page numbers in the footer. 561 unique maths expressions rendered as native OMML equations via pandoc.",
     "builders": [
       "tools/build_diby_master.py",
       "tools/build_diby_docx_v2.py",

@@ -28,7 +28,9 @@ from ocr_math_to_latex import segments          # noqa: E402
 
 import pypandoc                                  # noqa: E402
 from docx import Document                        # noqa: E402
+from docx.enum.section import WD_SECTION                  # noqa: E402
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT  # noqa: E402
+from docx.oxml import OxmlElement                # noqa: E402
 from docx.oxml.ns import qn                      # noqa: E402
 from docx.shared import Cm, Pt, RGBColor         # noqa: E402
 from lxml import etree                           # noqa: E402
@@ -45,6 +47,42 @@ W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 
 GREY = RGBColor(0x77, 0x77, 0x77)
 ANSWER_BLUE = RGBColor(0x11, 0x55, 0x99)
+
+# ---- page geometry (compact but readable) -----------------------------------
+PAGE_W, PAGE_H = Cm(21.0), Cm(29.7)      # A4
+MARGIN_SIDE = Cm(1.5)
+MARGIN_VERT = Cm(1.3)
+TEXT_WIDTH = Cm(18.0)                    # 21.0 - 1.5 - 1.5
+
+
+def setup_page(sec):
+    sec.page_width, sec.page_height = PAGE_W, PAGE_H
+    sec.left_margin = sec.right_margin = MARGIN_SIDE
+    sec.top_margin = sec.bottom_margin = MARGIN_VERT
+    sec.header_distance = Cm(0.7)
+    sec.footer_distance = Cm(0.7)
+    return sec
+
+
+def add_footer_page_number(sec):
+    """Centred page number in the footer, so odd/even chapter starts are visible."""
+    p = sec.footer.paragraphs[0]
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run()
+    run.font.size = Pt(8)
+    fld = OxmlElement("w:fldSimple")
+    fld.set(qn("w:instr"), " PAGE ")
+    inner = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    sz = OxmlElement("w:sz")
+    sz.set(qn("w:val"), "16")
+    rpr.append(sz)
+    inner.append(rpr)
+    t = OxmlElement("w:t")
+    t.text = "1"
+    inner.append(t)
+    fld.append(inner)
+    p._p.append(fld)
 
 
 # --------------------------------------------------------------------- helpers
@@ -67,17 +105,24 @@ def clean_answer(ans: str) -> tuple[str, str]:
         return "", ""
     if ans.lower().startswith("none"):
         return "", ""
+
+    def tidy(v: str) -> str:
+        v = re.sub(r"^Ans\.?\s*[:.]?\s*", "", v.strip(), flags=re.I).strip()
+        if not v or re.fullmatch(r"[\.\-_·…\s]+", v) or len(re.sub(r"[^A-Za-z0-9]", "", v)) == 0:
+            return ""
+        return v
+
     m = re.search(r"\[\s*Ans\.?\s*:?\s*([^\]]{1,40})\]", ans)
-    if m:
-        return f"[Ans.: {m.group(1).strip()}]", ""
+    if m and tidy(m.group(1)):
+        return f"[Ans.: {tidy(m.group(1))}]", ""
     m = re.match(r"^Ans\.?\s*[:.]?\s*([^(\[]+?)\s*[(\[]", ans)
-    if m and m.group(1).strip():
-        return f"[Ans.: {m.group(1).strip()}]", ans
+    if m and tidy(m.group(1)):
+        return f"[Ans.: {tidy(m.group(1))}]", ans
     m = re.match(r"^Ans\.?\s*[:.]?\s*([^(\[]+)$", ans)
-    if m and m.group(1).strip():
-        return f"[Ans.: {m.group(1).strip()}]", ""
-    if len(ans) <= 24:
-        return f"[Ans.: {ans}]" if not ans.startswith("[") else ans, ""
+    if m and tidy(m.group(1)):
+        return f"[Ans.: {tidy(m.group(1))}]", ""
+    if len(ans) <= 24 and tidy(ans):
+        return f"[Ans.: {tidy(ans)}]", ""
     return "", ans
 
 
@@ -126,11 +171,12 @@ def add_math(par, omml):
     par._p.append(copy.deepcopy(omml))
 
 
-def styled_heading(doc, text, size=13, space_before=16):
+def styled_heading(doc, text, size=12, space_before=10):
     p = doc.add_paragraph()
     p.paragraph_format.space_before = Pt(space_before)
-    p.paragraph_format.space_after = Pt(4)
+    p.paragraph_format.space_after = Pt(2)
     p.paragraph_format.keep_with_next = True
+    p.paragraph_format.line_spacing = 0.95
     r = p.add_run(text)
     r.bold = True
     r.italic = True
@@ -160,40 +206,60 @@ def main():
 
     # 2) build the document
     doc = Document()
-    sec = doc.sections[0]
-    sec.page_width, sec.page_height = Cm(21.0), Cm(29.7)
-    sec.left_margin = sec.right_margin = Cm(2.0)
-    sec.top_margin = sec.bottom_margin = Cm(1.7)
-    text_width = Cm(17.0)
+    setup_page(doc.sections[0])
+    text_width = TEXT_WIDTH
 
     n = doc.styles["Normal"]
     n.font.name = "Calibri"
     n.font.size = Pt(10.5)
     n.paragraph_format.space_after = Pt(0)
+    n.paragraph_format.line_spacing = 0.95
 
-    # title block
+    # compact title block (page 1, so chapter 1 still starts on an odd page)
     t = doc.add_paragraph()
-    t.paragraph_format.space_before = Pt(2)
+    t.paragraph_format.space_before = Pt(0)
+    t.paragraph_format.space_after = Pt(0)
     tr = t.add_run("DIBY — Question Bank")
     tr.bold = True
     tr.italic = True
-    tr.font.size = Pt(17)
+    tr.font.size = Pt(14)
     tr.font.color.rgb = RGBColor(0x1F, 0x38, 0x64)
 
     sub = doc.add_paragraph()
-    sub.paragraph_format.space_after = Pt(10)
+    sub.paragraph_format.space_after = Pt(8)
     qc = Counter(r["prompt_source"].split("(")[0].strip() for r, _, _ in prepared)
     n_ver = qc.get("verified visual transcription", 0)
     n_ext = qc.get("dual-pass OCR extraction, not visually QA'd", 0)
     n_drf = qc.get("raw OCR reconstructed from the same page", 0)
-    sr = sub.add_run(f"{len(items)} questions · chapters in order · "
-                     f"{n_ver} verified, {n_ext} ocr-extract, {n_drf} ocr-draft (unverified)")
+    sr = sub.add_run(f"{len(items)} questions · {n_ver} verified, {n_ext} ocr-extract, "
+                     f"{n_drf} ocr-draft (unverified) · equations typeset; "
+                     "OCR text not corrected — check ocr-draft items against the source page")
     sr.italic = True
-    sr.font.size = Pt(9)
+    sr.font.size = Pt(8)
     sr.font.color.rgb = GREY
 
-    prev_key = None
+    add_footer_page_number(doc.sections[0])
+
+    prev_chapter = None
+    first_chapter = True
     for r, q_segs, o_segs in prepared:
+        # every new chapter starts on an odd page
+        if r["chapter"] != prev_chapter:
+            if not first_chapter:
+                sec = doc.add_section(WD_SECTION.ODD_PAGE)
+                setup_page(sec)
+            first_chapter = False
+            prev_chapter = r["chapter"]
+            prev_key = None
+            ch = doc.add_paragraph()
+            ch.paragraph_format.space_before = Pt(2)
+            ch.paragraph_format.space_after = Pt(6)
+            ch.paragraph_format.keep_with_next = True
+            cr = ch.add_run(r["chapter"].upper())
+            cr.bold = True
+            cr.font.size = Pt(15)
+            cr.font.color.rgb = RGBColor(0x1F, 0x38, 0x64)
+
         key = (r["chapter"], r["lecture"])
         if key != prev_key:
             styled_heading(doc, f"{r['chapter']}, Lecture {r['lecture']}")
@@ -201,20 +267,21 @@ def main():
 
         # tag line
         tag = doc.add_paragraph()
-        tag.paragraph_format.space_before = Pt(8)
-        tag.paragraph_format.space_after = Pt(2)
+        tag.paragraph_format.space_before = Pt(5)
+        tag.paragraph_format.space_after = Pt(1)
         tag.paragraph_format.keep_with_next = True
         tr = tag.add_run(norm_tag(r["printed_label"], r["internal_id"], r["marker_text"]))
         tr.bold = True
-        tr.font.size = Pt(11)
-        pg = tag.add_run(f"   ·   {r['source_pdf']} — PDF page {r['pdf_page']}")
-        pg.font.size = Pt(8)
+        tr.font.size = Pt(10)
+        pg = tag.add_run(f"   ·   {r['source_pdf']} — p{r['pdf_page']}")
+        pg.font.size = Pt(7.5)
         pg.italic = True
         pg.font.color.rgb = GREY
 
         # question paragraph (italic, maths inline, answer right-aligned)
         q = doc.add_paragraph()
-        q.paragraph_format.space_after = Pt(2)
+        q.paragraph_format.space_after = Pt(1)
+        q.paragraph_format.line_spacing = 0.95
         q.paragraph_format.tab_stops.add_tab_stop(text_width, WD_TAB_ALIGNMENT.RIGHT)
         for kind, val in q_segs:
             if kind == "math" and val in omml:
@@ -231,31 +298,28 @@ def main():
         # options line
         if o_segs:
             op = doc.add_paragraph()
-            op.paragraph_format.space_after = Pt(2)
-            op.paragraph_format.left_indent = Cm(0.5)
+            op.paragraph_format.space_after = Pt(1)
+            op.paragraph_format.left_indent = Cm(0.35)
+            op.paragraph_format.line_spacing = 0.92
             for kind, val in o_segs:
                 if kind == "math" and val in omml:
                     add_math(op, omml[val])
                 else:
                     run = op.add_run(val)
                     run.italic = True
-                run.font.size = Pt(9.5)
-                run.font.color.rgb = GREY
-            for run in op.runs:
-                run.font.size = Pt(9.5)
-                run.font.color.rgb = GREY
+                    run.font.size = Pt(9)
+                    run.font.color.rgb = GREY
 
         # long answer note
         if long_note:
             an = doc.add_paragraph()
-            an.paragraph_format.space_after = Pt(2)
-            an.paragraph_format.left_indent = Cm(0.5)
+            an.paragraph_format.space_after = Pt(1)
+            an.paragraph_format.left_indent = Cm(0.35)
+            an.paragraph_format.line_spacing = 0.92
             ar = an.add_run(long_note)
             ar.italic = True
-            ar.font.size = Pt(9)
+            ar.font.size = Pt(8)
             ar.font.color.rgb = GREY
-
-        doc.add_paragraph().paragraph_format.space_after = Pt(6)   # spacer
 
     doc.save(OUT)
     print("wrote", OUT, os.path.getsize(OUT), "bytes")
