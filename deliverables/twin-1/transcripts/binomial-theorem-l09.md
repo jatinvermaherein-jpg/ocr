@@ -172,3 +172,29 @@ Source: `Binomial Theorem 09 Class Notes.pdf` (29 pages, image-only) · page ima
 **P:** none — board page.
 **H:** top left the magenta/cyan header repeated `# coeff. of x^8 in -> (1 - x^6)^4/(1 - x)^4`; top right yellow `(1 - x^6)^4` with a white arrow down to white `4C_r (-1)^r x^{6r}`; second band magenta `# coeff. of x^8 in -> (1 - x^6)^4 (1 - x)^{-4}`; pink and yellow term pairs `(4C_0) x^0 . (4+8-1 C_8) x^8 = 11C_8 x^8` and `(-4C_1) x^6 . (4+2-1 C_2) x^2 = -4C_1 5C_2 x^8`; a yellow rule then yellow `= (11C_8 - 4 x 10) x^8`; bottom cyan `= 165 - 40 = (125)` with `125` ringed in cyan.
 **DIBY:** none. **U:** none — 11C8 = 165 and 4C1 x 5C2 = 4 x 10 = 40, so the arithmetic on the board is self-consistent.
+---
+<a id="p26"></a>
+## p26 · board — bounded-solution variant: a+b+c+d = 10 with per-variable caps · label: — (no header, board slide)
+**P:** none — board page.
+**H:** four red boxes at the top with green arrows down to green `a + b + c + d = (10)` (`10` ringed in magenta), then white `, 0 <= a <= 3, 2 <= b <= 5, 2 <= c <= 5, d >= 0`; a long magenta arc from the ring down to cyan `coeff. of x^10 in` followed by the four white factors `(x^0 + x^1 + x^2 + x^3)(x^2 + x^3 + x^4 + x^5)(x^2 + x^3 + x^4 + x^5)(x^0 + x^1 + x^2 + x^3 + ....)`. No coefficient is extracted — the slide stops at the product.
+**DIBY:** none. **U:** 1 — no printed question on this page; it is the same technique as p24/p25 with the bounds read off the board only (the four caps are hand-written, not printed anywhere in the deck).
+
+---
+<a id="p27"></a>
+## p27 · Question [JEE Mains–2022] — 30 identical candies, C2/C3 bounds (H.W.) · label: **Page No. 142**
+**P:** red chip **Question [JEE Mains–2022]**; **The number of ways to distribute 30 identical candies among four children C1, C2, C3 and C4, so that C2, receives atleast 4 and atmost 7 candies, C3 receives atleast 2 and atmost 6 candies, is equal to**; red tiles **A** 205, **B** 615, **C** 510, **D** 430.
+**H:** cyan `C1 + C2 + C3 + C4 = 30.` with yellow arcs above reading `C1 >= 0` and `C4 >= 0`, a cyan down-arrow from `C2` into a red rectangle holding yellow `4 <= C2 <= 7`, and a yellow arc from `C3` into a second red rectangle holding yellow `2 <= C3 <= 6`; at the right a yellow circle enclosing the cursive `H.W.` over a double underline with two small rings.
+**DIBY:** none (H.W. only, F-18). **U:** none — "atleast"/"atmost" are printed as single words (verbatim), matching the same typo in P&C L03/L04.
+
+---
+<a id="p28"></a>
+## p28 · Homework · label: — (no label)
+**P:** clipboard icon + red banner **Homework**; white `# Re-attempt all Class Examples`; white `# DPP & DIBY`.
+**H:** none. **DIBY:** none — an instruction slide with no `# DIBY-nn` item (F-18); the same slide text as P&C L04 p42.
+**U:** none.
+
+---
+<a id="p29"></a>
+## p29 · closing slide — Thank You · label: — (no label)
+**P:** white script `It is never about` + red script `end result`; white script `It's always about` + cyan script `Journey`; large `Thank` (yellow) `You` (white script); cyan hashtag `#futurellTians`.
+**H:** none. **DIBY:** none. **U:** none — Lecture 09 ends here: 29 PDF pages, all read and audited (lecture COMPLETE).
