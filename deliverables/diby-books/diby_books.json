@@ -555,9 +555,10 @@
   "book": "Basic Mathematics Part 02 DIBY",
   "tag": "DIBY-69",
   "pdf_page": 4,
-  "question": "The number of positive integers not satisfying the inequality \\frac{log_{2}}",
-  "options": "(A) 2}4^{x}-2⋅2^{x}+ 17> 5 (B) 3 (C) 4 (D) 1",
-  "answer": "(A)"
+  "question": "The number of positive integers not satisfying the inequality log_{2}(4^{x} - 2\\cdot 2^{x} + 17) > 5",
+  "options": "(A) 2   (B) 3   (C) 4   (D) 1",
+  "answer": "(A)",
+  "note": "read from PDF p4: the text layer lost the bracket of the log argument and the option block had been folded into the question; the printed answer (A) 2 confirms the reading (2^x > 5, so the two positive integers 1 and 2 fail)"
  },
  {
   "book": "Basic Mathematics Part 02 DIBY",

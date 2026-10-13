@@ -160,15 +160,18 @@ def repair_latex(tex: str) -> str:
             closes -= 1
     # a dangling superscript / subscript ('x^' or 'x_') cannot be parsed
     out = re.sub(r"[\^_](?=\s*[)} \],]|\s*$)", "", out)
-    depth = out.count("{") - out.count("}")
-    if depth > 0:
-        out += "}" * depth
-    elif depth < 0:                      # drop surplus closers from the end
-        for _ in range(-depth):
-            i = out.rfind("}")
-            if i < 0:
-                break
-            out = out[:i] + out[i + 1:]
+    # balance braces: a closer with nothing open is dropped (OCR often leaves a stray
+    # `}` where a fraction bar or bracket used to be), missing closers are added at the end
+    kept, depth = [], 0
+    for ch in out:
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            if depth == 0:
+                continue
+            depth -= 1
+        kept.append(ch)
+    out = "".join(kept) + "}" * depth
     return re.sub(r"\s{2,}", " ", out).strip()
 
 
