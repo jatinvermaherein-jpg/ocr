@@ -16,7 +16,7 @@ superscripts, stacked fractions, option grids — is restored from span geometry
 | With options | 319 |
 | Duplicate tags | 0 |
 | Markers not turned into items | 7 (motivational slides, not questions) |
-| Items repaired against the rendered page | 42 (`manual_fixes.json`) |
+| Items repaired against the rendered page | 46 (`manual_fixes.json`) |
 
 Per book: Basic Mathematics Part 01 60 · Part 02 62 · Set Theory 31 · Permutations & Combinations 80 ·
 Quadratic Equations Part 01 85 · Part 02 13 · Sequence & Series 114 · Trigonometric Equations 61 ·
@@ -48,11 +48,11 @@ option block can straddle the marker and whose final page is the A–M answer ke
 ## Caveats
 
 * Extraction is from the PDF text layer, sharpened by span geometry — it is **not** a page-by-page
-  visual transcription. 42 items were repaired against the rendered page (see `manual_fixes.json`);
+  visual transcription. 46 items were repaired against the rendered page (see `manual_fixes.json`);
   the rest carry what the text layer holds.
 * Complex display layouts (graphs, matching/column questions, multi-part sums with several stacked
   fractions) come through flattened; their maths is present but the reading order can be jumbled.
-* 1,884 of 1,916 maths spans typeset as native Word equations; the remaining 32 fall back to
+* 1,886 of 1,918 maths spans typeset as native Word equations; the remaining 32 fall back to
   readable plain text (`tools/diby_math.py`).
-* The last rebuilt documents were verified in the OOXML: 9 book headings, 565 tags, 2,341 typeset
+* The last rebuilt documents were verified in the OOXML: 9 book headings, 565 tags, 2,343 typeset
   equations, 0 raw LaTeX, pure black, odd-page book breaks, no header/footer parts.

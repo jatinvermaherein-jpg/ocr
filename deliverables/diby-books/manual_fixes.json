@@ -366,5 +366,37 @@
   "options": "(A) A→p, B→q, C→r, D→s   (B) A→p, B→r, C→q, D→s   (C) A→s, B→r, C→p, D→q   (D) A→s, B→p, C→r, D→q",
   "answer": "(C)",
   "note": "the four matching options are printed as the answer choices (table on the right)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 21,
+  "options": "(A) \\frac{2}{13}(3^{50}-1)   (B) \\frac{1}{13}(3^{50}-1)   (C) \\frac{1}{26}(3^{49}-1)   (D) \\frac{1}{26}(3^{50}-1)",
+  "answer": "(D)",
+  "note": "options are a fraction multiplied by a bracketed term: the bracket was being read as the fraction's denominator"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-86",
+  "pdf_page": 35,
+  "options": "(A) 226   (B) 220   (C) 223   (D) 227",
+  "answer": "(C)",
+  "note": "the page heading 'WRITING Tn FOR SERIES WITH COMMON DIFFERENCE IN AP OR GP' had been folded into option (D)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 13,
+  "question": "If cosα+ cosβ= \\frac{1}{2} and sinα+ sinβ= \\frac{1}{3}, then match Column-I with Column-II:",
+  "options": "(A) cos(\\frac{α+β}{2})   (B) cos(\\frac{α-β}{2})   (C) tan(\\frac{α+β}{2})   (D) tan(\\frac{α-β}{2})   ||   (P) ±\\frac{\\sqrt{13}}{12}   (Q) \\frac{2}{3}   (R) ±\\frac{3}{\\sqrt{13}}   (S) ±\\sqrt{\\frac{131}{13}}",
+  "answer": "A → Q, B → S, C → P, D → R  (printed: A-R, B-P, C-Q, D-S)",
+  "note": "matching table on p13: both columns read from the rendered page; the printed answer row is kept as-is"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 19,
+  "options": "",
+  "note": "multi-part summation exercise: both parts answer inline, no options on the page"
  }
 ]
