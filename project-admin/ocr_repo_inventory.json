@@ -1,0 +1,411 @@
+{
+  "report": {
+    "title": "OCR repository inventory",
+    "audited_on": "2026-10-13",
+    "repository": "jatinvermaherein-jpg/ocr",
+    "method": "file-tree walk; counts recomputed from artifacts (CSV/JSON parsed); PDF page counts re-verified with PyMuPDF",
+    "companion_markdown": "project-admin/OCR_Repo_Inventory.md"
+  },
+  "corpus": {
+    "source_pdfs": 66,
+    "total_pages": 2624,
+    "page_counts_verified": true,
+    "by_chapter": [
+      {
+        "chapter": "Binomial Theorem",
+        "lectures": "01-09",
+        "pdfs": 9,
+        "pages": 344,
+        "assigned_to": "Twin 1"
+      },
+      {
+        "chapter": "Permutations & Combinations",
+        "lectures": "01-11",
+        "pdfs": 11,
+        "pages": 442,
+        "assigned_to": "Twin 1 (L01-04), Twin 2 (L05-11)"
+      },
+      {
+        "chapter": "Quadratic Equations",
+        "lectures": "01-14",
+        "pdfs": 14,
+        "pages": 493,
+        "assigned_to": "Twin 2 (L01-08), Twin 3 (L09-14)"
+      },
+      {
+        "chapter": "Trigonometric Equation",
+        "lectures": "01-07",
+        "pdfs": 7,
+        "pages": 309,
+        "assigned_to": "Twin 3"
+      },
+      {
+        "chapter": "Trigonometric Functions",
+        "lectures": "01-13",
+        "pdfs": 13,
+        "pages": 540,
+        "assigned_to": "Twin 4"
+      },
+      {
+        "chapter": "Sequence and Series",
+        "lectures": "01-12",
+        "pdfs": 12,
+        "pages": 496,
+        "assigned_to": "Current assistant (no output committed)"
+      }
+    ]
+  },
+  "workstreams": [
+    {
+      "worker": "Twin 1",
+      "folder": "deliverables/twin-1",
+      "files": 13,
+      "pages": 508,
+      "mode": "visual transcription + full visual QA",
+      "status": "complete",
+      "pages_audited": 508,
+      "pages_visually_verified": 508,
+      "transcripts": {
+        "markdown": 13,
+        "docx": 13
+      },
+      "diby_rows": 143,
+      "uncertainty_entries": 11,
+      "engine": "manual visual transcription from rendered pages (source PDFs have no text layer)",
+      "notes": "508/508 QA-PASSED; SHA-256 per source in scope_manifest.json; 13 qabatch_*.json QA batches"
+    },
+    {
+      "worker": "Twin 2",
+      "folder": "ocr-output/twin-2",
+      "files": 15,
+      "pages": 536,
+      "mode": "automated OCR only, no manual review (user instruction)",
+      "status": "automated_ocr_complete_unreviewed",
+      "pages_audited": 536,
+      "pages_visually_verified": 0,
+      "recognized_lines": 10713,
+      "recognized_characters": 130609,
+      "low_confidence_lines": 2807,
+      "diby_candidates": 242,
+      "diby_pages": 119,
+      "uncertainty_entries": 3343,
+      "engine": "rapidocr-onnxruntime 1.4.4, PP-OCRv4 det+rec, render_scale 1.5 (CPU)",
+      "notes": "records/*.jsonl hold 536 page records with line scores and bounding boxes; DIBY entries are marker candidates only"
+    },
+    {
+      "worker": "Twin 3",
+      "folder": "deliverables/twin-3-quadratic09-14-trigeq",
+      "files": 13,
+      "pages": 544,
+      "mode": "dual-pass machine OCR + manual visual QA (in progress)",
+      "status": "in_progress",
+      "pages_audited": 544,
+      "pages_visually_verified": 259,
+      "qa_status_breakdown": {
+        "visual-full": 162,
+        "visual-scan": 97,
+        "auto-QA (dual-pass)": 285
+      },
+      "pages_with_qa_notes": 259,
+      "diby_rows": 164,
+      "uncertainty_entries": 393,
+      "engine": "dual-pass PP-OCRv4 (RapidOCR/onnxruntime), 200 dpi, pass-agreement ratio recorded",
+      "notes": "QA complete for QE L09-L14; TrEq L01 at 24/53; TrEq L02-L07 extraction present, QA pending"
+    },
+    {
+      "worker": "Twin 4",
+      "folder": "deliverables/twin-4-trigonometric-functions",
+      "files": 13,
+      "pages": 540,
+      "mode": "machine OCR draft only",
+      "status": "extraction_only",
+      "pages_audited": 540,
+      "pages_visually_verified": 0,
+      "qa_status_breakdown": {
+        "NOT VISUALLY VERIFIED — machine OCR draft only": 540
+      },
+      "diby_rows": 172,
+      "uncertainty_entries": 203,
+      "engine": "RapidOCR 200 dpi",
+      "notes": "known content discrepancy in Trigonometric Functions L01 pp.2-33/41-49 (non-trig headings) logged, not corrected"
+    },
+    {
+      "worker": "Current assistant",
+      "folder": null,
+      "files": 12,
+      "pages": 496,
+      "mode": "n/a",
+      "status": "no_output_in_repo",
+      "notes": "Sequence & Series PDFs are present at the repo root but no deliverables/ocr-output folder exists for them"
+    },
+    {
+      "worker": "Sequence & Series",
+      "folder": "deliverables/sequence-series-L01-L12",
+      "files": 12,
+      "pages": 496,
+      "mode": "dual-pass machine OCR (visual QA for L01-L02 only)",
+      "status": "ocr_complete_partial_visual",
+      "pages_audited": 496,
+      "pages_visually_verified": 83,
+      "diby_rows": 195,
+      "uncertainty_entries": 310,
+      "engine": "dual-pass PP-OCRv4 (RapidOCR/onnxruntime), 200 dpi",
+      "notes": "merged from main (PR #6); L01 44/44 and L02 39/39 visually verified, 413 pages machine-only"
+    }
+  ],
+  "totals": {
+    "pages_with_audit_row": 2624,
+    "pages_visually_verified": 850,
+    "pages_machine_ocr_only": 1774,
+    "diby_rows_all_workers": 916,
+    "uncertainty_entries_all_workers": 4260,
+    "json_files_in_repo": 27,
+    "jsonl_page_records": 536
+  },
+  "json_reports": [
+    {
+      "path": "ocr-output/twin-2/completion_summary.json",
+      "kind": "completion certificate",
+      "scope": "Twin 2",
+      "highlights": "15 files / 536 pages / 10713 lines / 130609 chars / 2807 low-conf / 242 DIBY candidates"
+    },
+    {
+      "path": "ocr-output/twin-2/run_manifest.json",
+      "kind": "run provenance",
+      "scope": "Twin 2",
+      "highlights": "15 source SHA-256 + engine config + start time"
+    },
+    {
+      "path": "ocr-output/twin-2/progress.json",
+      "kind": "progress ledger",
+      "scope": "Twin 2",
+      "highlights": "per-document expected/saved/processed, complete=true"
+    },
+    {
+      "path": "ocr-output/twin-2/records/*.jsonl",
+      "kind": "page records",
+      "scope": "Twin 2",
+      "highlights": "536 objects: text, line scores, bounding boxes, render size, timing"
+    },
+    {
+      "path": "project-admin/Twin_2_OCR_Assignment.json",
+      "kind": "assignment scope",
+      "scope": "Twin 2",
+      "highlights": "15 docs / 536 pages"
+    },
+    {
+      "path": "deliverables/twin-1/page-audit/scope_manifest.json",
+      "kind": "scope + integrity",
+      "scope": "Twin 1",
+      "highlights": "13 files / 508 pages / SHA-256 each / inventory_mismatches empty"
+    },
+    {
+      "path": "deliverables/twin-1/page-audit/progress.json",
+      "kind": "completion ledger",
+      "scope": "Twin 1",
+      "highlights": "pages_reviewed 508 / 508, per-lecture breakdown"
+    },
+    {
+      "path": "deliverables/twin-1/page-audit/qabatch_*.json",
+      "kind": "per-lecture QA batches",
+      "scope": "Twin 1",
+      "highlights": "13 files, 508 page dicts (heading, handwriting, DIBY, uncertainty, QA status)"
+    },
+    {
+      "path": "deliverables/twin-1/diby/diby_rows.json",
+      "kind": "DIBY register (JSON)",
+      "scope": "Twin 1",
+      "highlights": "143 items with verbatim prompts, options, printed labels"
+    },
+    {
+      "path": "deliverables/twin-3-quadratic09-14-trigeq/qa_notes/*.json",
+      "kind": "visual QA records",
+      "scope": "Twin 3",
+      "highlights": "7 files, 259 page records (verified text, diagram notes, DIBY, [UNCLEAR])"
+    },
+    {
+      "path": "deliverables/DIBY_Master.json",
+      "kind": "consolidated DIBY register",
+      "scope": "all workers",
+      "highlights": "721 items with prompt, options, answer, provenance and quality badge"
+    }
+  ],
+  "csv_reports": [
+    {
+      "path": "deliverables/twin-1/page-audit/page_audit_twin1.csv",
+      "rows": 508
+    },
+    {
+      "path": "deliverables/twin-1/diby/diby_index_twin1.csv",
+      "rows": 143
+    },
+    {
+      "path": "ocr-output/twin-2/Page_Audit.csv",
+      "rows": 536
+    },
+    {
+      "path": "ocr-output/twin-2/DIBY_Candidates.csv",
+      "rows": 242
+    },
+    {
+      "path": "ocr-output/twin-2/Uncertainty_Log.csv",
+      "rows": 3343,
+      "breakdown": {
+        "UNREVIEWED_OCR": 536,
+        "LOW_ENGINE_CONFIDENCE": 2807
+      }
+    },
+    {
+      "path": "deliverables/twin-3-quadratic09-14-trigeq/page_audit.csv",
+      "rows": 544
+    },
+    {
+      "path": "deliverables/twin-3-quadratic09-14-trigeq/diby_index.csv",
+      "rows": 164
+    },
+    {
+      "path": "deliverables/twin-4-trigonometric-functions/page_audit.csv",
+      "rows": 540
+    },
+    {
+      "path": "deliverables/twin-4-trigonometric-functions/diby_index.csv",
+      "rows": 172
+    },
+    {
+      "path": "deliverables/twin-4-trigonometric-functions/uncertainty_log.csv",
+      "rows": 203
+    },
+    {
+      "path": "deliverables/DIBY_Master.csv",
+      "rows": 721
+    },
+    {
+      "path": "deliverables/DIBY_Questions.csv",
+      "rows": 655
+    }
+  ],
+  "tools": [
+    {
+      "path": "tools/ocr_twin2.py",
+      "role": "resumable CPU OCR of Twin-2 pages"
+    },
+    {
+      "path": "tools/package_twin2_ocr.py",
+      "role": "builds Twin-2 audit/DIBY/uncertainty/summary bundle from JSONL"
+    },
+    {
+      "path": "tools/render_pages.py",
+      "role": "render PDF pages to PNG for visual transcription"
+    },
+    {
+      "path": "tools/twin1_scope.py",
+      "role": "Twin-1 scope as code"
+    },
+    {
+      "path": "tools/init_audit.py",
+      "role": "pre-register audit rows + verify page counts + SHA-256"
+    },
+    {
+      "path": "tools/add_qa.py",
+      "role": "append per-page QA rows"
+    },
+    {
+      "path": "tools/merge_qa.py",
+      "role": "merge QA batches into audit + DIBY index + progress"
+    },
+    {
+      "path": "tools/md_to_docx.py",
+      "role": "Markdown transcript to DOCX"
+    },
+    {
+      "path": "deliverables/twin-3-quadratic09-14-trigeq/tools/",
+      "role": "dual-pass OCR pipeline, QA contact sheets, deliverable builder"
+    },
+    {
+      "path": "tools/build_diby_master.py",
+      "role": "assembles the consolidated DIBY document from all four worker registers"
+    },
+    {
+      "path": "tools/build_diby_docx_v2.py",
+      "role": "builds the question-bank DOCX in the requested layout with native Word equations"
+    },
+    {
+      "path": "tools/ocr_math_to_latex.py",
+      "role": "converts OCR maths to LaTeX (conservative; falls back to plain text)"
+    },
+    {
+      "path": "tools/build_diby_docx_print.py",
+      "role": "builds the print-professional question-bank edition"
+    }
+  ],
+  "open_items": [
+    {
+      "id": 2,
+      "issue": "Twin 4: 0/540 pages visually verified (machine draft only)",
+      "severity": "high"
+    },
+    {
+      "id": 3,
+      "issue": "Twin 3: 285/544 pages still auto-QA, concentrated in Trigonometric Equation L02-L07",
+      "severity": "medium"
+    },
+    {
+      "id": 4,
+      "issue": "Twin 2: no manual review (user-requested); 2807 low-confidence lines unverified",
+      "severity": "accepted-by-design"
+    },
+    {
+      "id": 5,
+      "issue": "Trigonometric Functions 01 pp.2-33/41-49 carry non-trig (exp/log series, inequality) headings",
+      "severity": "needs coordinator decision"
+    },
+    {
+      "id": 6,
+      "issue": "Session branches differ from the branch names in the master allocation plan",
+      "severity": "low"
+    },
+    {
+      "id": 7,
+      "issue": "Reporting granularity differs per twin (item / line / page level); no unified handoff schema",
+      "severity": "low"
+    }
+  ],
+  "consolidated_outputs": {
+    "markdown": "deliverables/DIBY_Master.md",
+    "csv": "deliverables/DIBY_Master.csv",
+    "json": "deliverables/DIBY_Master.json",
+    "docx": "deliverables/DIBY_Master.docx",
+    "builder": "tools/build_diby_master.py",
+    "items": 916,
+    "quality": {
+      "verified": 223,
+      "ocr_extract": 279,
+      "ocr_draft": 348,
+      "marker_only": 66
+    },
+    "items_with_question_text": 849,
+    "repeat_appearances": 108,
+    "note": "One document with every DIBY item from all four worker registers. Twin 2 / Twin 4 had no prompts extracted, so draft text is reconstructed from their own raw page OCR (delimited by the next marker) and labelled unverified; nothing was corrected or re-worded.",
+    "question_bank_docx": "deliverables/DIBY_Questions.docx",
+    "question_bank_csv": "deliverables/DIBY_Questions.csv",
+    "question_bank_note": "655 questions with type-set Word equations (section markers excluded), one heading per chapter+lecture, DIBY tag, right-aligned answer. Compact layout (~42 est. pages vs ~65 for the earlier spacing, same content); every chapter starts on an odd page (oddPage section breaks); page numbers in the footer. 561 unique maths expressions rendered as native OMML equations via pandoc.",
+    "builders": [
+      "tools/build_diby_master.py",
+      "tools/build_diby_docx_v2.py",
+      "tools/ocr_math_to_latex.py"
+    ],
+    "question_bank_print_docx": "deliverables/DIBY_Questions_Print.docx",
+    "question_bank_editions": {
+      "compact": {
+        "file": "deliverables/DIBY_Questions.docx",
+        "est_pages": 46,
+        "layout": "same clean content in a tighter setting: 10.5pt body, 1.5cm margins; same letter labels and commentary removal"
+      },
+      "print": {
+        "file": "deliverables/DIBY_Questions_Print.docx",
+        "est_pages": 60,
+        "layout": "plain B&W personal copy: no cover/contents/header/footer/source line; chapter + 'Lecture NN' + DIBY tag + question + options + clean answer; commentary removed; untagged DIBYs relabelled DIBY A/B/C… (23); 12pt body, 2.0cm margins, odd-page chapter starts, flowing paragraphs"
+      }
+    }
+  }
+}

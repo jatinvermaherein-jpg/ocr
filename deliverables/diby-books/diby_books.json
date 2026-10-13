@@ -1,0 +1,4568 @@
+[
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "The multiplication of a rational number 'x' and an irrational number 'y’ is",
+  "options": "(A) Always rational (B) Rational except when y= π (C) Always irrational (D) Irrational except when x= 0",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "If a, b, care real, then a(a-b) + b(b-c) + c(c-a) = 0, only if",
+  "options": "(A) a+ b+ c= 0 (B) a= b= c (C) a= b or b= c or c= a (D) a-b-c= 0",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 2,
+  "question": "If a, b, care real and distinct numbers, then the value of(a-b)^{3}+(b-c)^{3}+(c-a)^{3}a-b b-c c-a",
+  "options": "(A) 1 (B) abc (C) 2 (D) 3",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "If x^{2} - 4x + 1 = 0, then what is the value of x^{3}+\\frac{1}{x^{3}} ?",
+  "options": "",
+  "answer": "52"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 3,
+  "question": "If x= 1+ 2^{\\frac{1}{3}}+ 2^{\\frac{2}{3}}, then x^{3}-3x^{2}-3x= __________.",
+  "options": "",
+  "answer": "1"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 3,
+  "question": "If x+\\frac{1}{x}= a, then what is the value of x^{3}+ x^{2}+\\frac{1}{x^{3}}+\\frac{1}{x^{2}}?",
+  "options": "",
+  "answer": "a^{3}+ a^{2}-3a-2"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "If x^{13}Τ+ y^{13}Τ+ z^{13}Τ= 0, then (x+ y+ z)^{3}is equal to",
+  "options": "(A) 1 (B) 3 (C) 3xy (D) 27xyz",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 4,
+  "question": "The product x+ y x-y x^{2}+ xy+ y^{2}x^{2}-xy+ y^{2} simplifies to",
+  "options": "",
+  "answer": "x^{6}-y^{6}"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 4,
+  "question": "Find the real values of p, q, rsatisfying 2p-3^{8}+1-q^{6}+4-3r^{4}= 0.",
+  "options": "",
+  "answer": "p=\\frac{3}{2}, q= 1, r=\\frac{4}{3}"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 5,
+  "question": "Let a, b and c be distinct non-zero real numbers such that a+ b+ c= 0then the value of the expression\\frac{a+b}{ab}2+\\frac{b+c}{bc}2+\\frac{c+a}{ca}2 is",
+  "options": "(A) 0 (B) 1 (C) 2 (D) 3",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 5,
+  "question": "If a+ b+ c= 6& a^{2}+ b^{2}+ c^{2}= 14and a^{3}+ b^{3}+ c^{3}= 36, then the value 3\\frac{1}{a}+\\frac{1}{b}+^{1}c of",
+  "options": "",
+  "answer": "5.5"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 6,
+  "question": "Match the following:",
+  "options": "(A) \\frac{5x-3}{-4}≤ 8   (B) \\frac{x-1}{x+2}> 0   (C) \\frac{(x+3)(x-2)}{x-5}≤ 0   (D) \\frac{(x+4)(x+8)}{(x-9)(x+1)(x-3)}> 0   (P) x∈(-∞, -3] ∪[2, 5)   (Q) x∈(-8, -4) ∪(-1, 3) ∪(9, ∞)   (R) x∈[-\\frac{29}{5}, ∞)   (S) x∈(-∞, -2) ∪(1, ∞)",
+  "answer": "A → R, B → S, C → P, D → Q",
+  "note": "Column-I / Column-II matching table on p6: both columns read from the rendered page"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 7,
+  "question": "1)\\frac{6x-5}{4x+1}< 0[Ans. :(-1/4, 5/6)] (2)\\frac{3}{x-2}< 1 [Ans. :(-∞, 2) ∪(5, ∞)] (3)\\frac{1}{x-1}≤2 [Ans. : (-∞, 1) ∪[3/2, ∞)] (4)\\frac{x-1}{x}-\\frac{x+1}{x-1}< 2 [Ans. : (-∞, -1)0,\\frac{1}{2}∪(1, ∞)] (5) 1+\\frac{2}{x-1}≥\\frac{6}{x} [Ans. : (-∞, 0) ∪(1, 2] ∪[3, ∞)]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 8,
+  "question": "Find sum of all integral values of x satisfying\\frac{x^{2}-5x+6}{x^{2}-x-12}≤0",
+  "options": "",
+  "answer": "03"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 8,
+  "question": "Solve :\\frac{x}{x - 2}>\\frac{1}{x + 3}",
+  "options": "",
+  "answer": "x∈ (-∞, -3) ∪ (2, ∞)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 8,
+  "question": "Solve :_{x}2 + x - 12≤_{2}2x + 3 1",
+  "options": "",
+  "answer": "x∈-∞, -4∪-3, 3∪[6, ∞)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 9,
+  "question": "Solve :x+ 5 2x-3 5-x+ 7 3 3x+ 8 2< 0",
+  "options": "",
+  "answer": "x∈-5,^{-8}3∪-83,\\frac{3}{2}∪7, ∞"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 9,
+  "question": "Solve :x^{2}-3x+ 2 x^{3}-3x^{2}4-x^{2}≥0 ]",
+  "options": "",
+  "answer": "x∈-∞, -2∪0∪[1, 3"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 9,
+  "question": "Solve :x2 + x 1≤2x2 + 2x + 3 1",
+  "options": "",
+  "answer": "x∈-1, 0"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 10,
+  "question": "x-1 2\\frac{x^{2}-4}{3}x^{2}-5x+6 Solve : x+6x 2≥0",
+  "options": "",
+  "answer": "x∈-6, -2∪1, 2∪3, ∞"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 10,
+  "question": "The greatest negative integer satisfying x^{2}-4x-77< 0and x^{2}> 4, is",
+  "options": "",
+  "answer": "-3"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 10,
+  "question": "The solution set of x 2+ 2≤3x≤2x 2-5, is",
+  "options": "(A) No Solution (B) 1, 2 (C) (-∞, -1] ∪[5/2, ∞) (D) none of these",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 11,
+  "question": "Solve: -1<\\frac{3x-1}{x-2}≤4",
+  "options": "",
+  "answer": "x∈-∞,\\frac{3}{4}∪[7, ∞)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 11,
+  "question": "Values of x simultaneously satisfying: x 2-x-6≥0 & x 2-4x< 0",
+  "options": "",
+  "answer": "x∈[3, 4)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 11,
+  "question": "Solve:x 2-x-1 x 2-x-7< -5",
+  "options": "",
+  "answer": "x∈(-2, -1) ∪(2, 3)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 12,
+  "question": "Solution of x^{4}(x-3)(x+1)^{2}(x-2)3(x+4)> 0is",
+  "options": "(A) x∈(-4, 2) ∪(4, ∞) (B) x∈(-4, -1) ∪(-1, 2) ∪(3, ∞) (C) x∈(-4, 0) ∪(0, 2) ∪(3, ∞) (D) x∈(-4, -1) ∪(-1, 0) ∪(0, 2) ∪(3, ∞)",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-27",
+  "pdf_page": 12,
+  "question": "Solve:x 3\\frac{-4x}{4-x^{220}}2+3x-12 x+2 21 18\\frac{5-7x}{x+3}22 19≤ 0",
+  "options": "",
+  "answer": "x∈-∞, -2∪\\frac{5}{7}, ∞--3, 2"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 12,
+  "question": "Solve following Inequalities : (i)\\frac{x4+x2+1}{x2-11x+28}≥0(ii) x2+7x+15≥0 x^{2}-x+1",
+  "options": "",
+  "answer": "(i) x∈ (-∞, 4) ∪ (7, ∞), (ii) x∈R"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 13,
+  "question": "If a= 42, b=-3 125-2 3, c= 814, then\\frac{1}{a}+\\frac{1}{b}+-3\\frac{1}{c}=",
+  "options": "",
+  "answer": "60"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 13,
+  "question": "If p= 8^{\\frac{2}{3}}, q= 9^{\\frac{3}{2}}, r= 16^{\\frac{5}{4}}, s=6 1-2, then p+ q+ r+ s=",
+  "options": "",
+  "answer": "99"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 13,
+  "question": "If u=\\frac{1}{27}-43, v=\\frac{1}{216}-23, w=8\\frac{5}{3}⋅4-52, t=9\\frac{3}{2}⋅81-34, thenvwt u=",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 14,
+  "question": "If m_{1}= log_{8}16, m_{2}= log_{81}27, m_{3}= log_{1/3}1/9, m4= log1/393, then m_{1}⋅m_{2}⋅m_{3}⋅m_{4}",
+  "options": "",
+  "answer": "-5"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-33",
+  "pdf_page": 14,
+  "question": "The value of 81^{1log}Τ 53+ 27^{log}936+ 3^{4log}Τ 79 is equal to",
+  "options": "(A) 49 (B) 625 (C) 216 (D) 890",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-34",
+  "pdf_page": 14,
+  "question": "Let N=\\frac{log_{3}135}{log_{15}3}-\\frac{log_{3}5}{log_{405}}3. Then N is",
+  "options": "(A) a natural number (B) a prime number (C) a rational number (D) an integer",
+  "answer": "A, B, C, D"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-35",
+  "pdf_page": 15,
+  "question": "Greatest integer less than or equal to the number log_{2}15⋅log_{16}Τ 2⋅log_{3}16Τ is",
+  "options": "(A) 4 (B) 3 (C) 2 (D) 1",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-36",
+  "pdf_page": 15,
+  "question": "1+1+1 has the value equal to 1+log_{b}a+log_{b}c 1+log_{c}a+log_{c}b 1+log_{a}b+log_{a}c",
+  "options": "(A) abc (B) \\frac{1}{abc} (C) 0 (D) 1",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-37",
+  "pdf_page": 15,
+  "question": "\\frac{1}{1+\\log_{a}bc}+\\frac{1}{1+\\log_{b}ca}+\\frac{1}{1+\\log_{c}ab} has the value equal to",
+  "options": "(A) 1/2   (B) 1   (C) 2   (D) 4",
+  "answer": "(B)",
+  "note": "three stacked fractions over two baselines on the slide"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-38",
+  "pdf_page": 16,
+  "question": "If \\log_{7}2 = m, then \\log_{49}28 is equal to",
+  "options": "(A) 2(1 + 2m)   (B) \\frac{1+2m}{2}   (C) \\frac{2}{1+2m}   (D) 1 + m",
+  "answer": "(B)",
+  "note": "options (B) and (C) are stacked fractions whose halves sit on two baselines"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-39",
+  "pdf_page": 16,
+  "question": "Value of log_{2}log_{2}log_{3}log_{3}27^{3}=",
+  "options": "",
+  "answer": "0"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-40",
+  "pdf_page": 16,
+  "question": "Match the column Column-I Column-II",
+  "options": "(A) If log a = 2logb, then (P) (Q) a^{3} = 10b^{2} (B) If log a + 2log b = 0, then a = b (C) If 3log a - 2log b = 1, then (R) (S) a = b^{2} (D) If ln\\frac{a+b}{2}=\\frac{1}{2}lna+ lnb, then ab^{2} = 1",
+  "answer": "A-R, B-S, C-P, D-Q"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-41",
+  "pdf_page": 17,
+  "question": "If x= log_{a}bc,y= log_{b}\\frac{ca}{1+ z} and z= log_{c}ab, then the value of 1+ x-1+1+ y-1+-1 = ________.",
+  "options": "",
+  "answer": "1"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-42",
+  "pdf_page": 17,
+  "question": "If N= 7^{log}49900, A= 2^{log}24+ 3^{log}24+ 4^{log}22-4^{log}23 D=log_{5}49 log_{7}125. Find P= log\\frac{N}{A-_{10}}N+ A+ D+ 6-log_{5}2.",
+  "options": "",
+  "answer": "2"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-43",
+  "pdf_page": 17,
+  "question": "If log_{x-3}2x-3 is a meaningful quantity then find the interval in which x must lie",
+  "options": "(A) x∈3, 4∪4, ∞ (B) x∈3, 4∪4, ∞ (C) x∈(3, 4) ∪4, ∞ (D) None of these",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-44",
+  "pdf_page": 18,
+  "question": "Suppose x, y, z > 0 and different than one and lnx+ lny+ lnz= 0. \\frac{1}{lny} +\\frac{1}{lnz} +\\frac{1}{lnx} +1 If\\frac{1}{e^{k}}= x\\frac{1}{lnz⋅y}\\frac{1}{lnx⋅z}lny. The k =",
+  "options": "",
+  "answer": "3"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 18,
+  "question": "Let log_{2}x+ log_{4}x+ log_{8}x= log_{k}x for all x∈R+. If k=b a where a, b∈N, then find the smallest positive value of (a+ b).",
+  "options": "",
+  "answer": "75"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-46",
+  "pdf_page": 18,
+  "question": "1...10 times \\frac{1}{2}2 \\frac{1}{5^{2}} If A= log 5, then value of log 3 1024A+ 1, is equal to",
+  "options": "(A) 1 (B) 3 (C) 5 (D) 2",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 19,
+  "question": "Value of x satisfying: x^{2}+ 7^{log_{7}x}- 2= 0",
+  "options": "",
+  "answer": "(x = 1)",
+  "note": "question text read from the page image (PDF p19); the exponent was mangled in the text layer"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 19,
+  "question": "The sum of all the solutions of the equation: 2log x - log(2x - 75) = 2",
+  "options": "(A) 30   (B) 350   (C) 75   (D) 200",
+  "answer": "D",
+  "note": "item is an image in the PDF — question, options and answer read from p19"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 19,
+  "question": "The solution of the equation: log_{7}log_{5}(√(x^{2}+ 5)+ x)= 0",
+  "options": "(A) x = 2   (B) x = 3   (C) x = 4   (D) x = -2",
+  "answer": "C",
+  "note": "item is an image in the PDF — question, options and answer read from p19"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-51",
+  "pdf_page": 20,
+  "question": "The sum of all integral values of x satisfying the equation 2log_{8}2x+ log_{8}x^{2}-2x+ 1=\\frac{4}{3} is.",
+  "options": "",
+  "answer": "2"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-52",
+  "pdf_page": 20,
+  "question": "log_{7}\\frac{2x-6}{2x-1}≥0",
+  "options": "",
+  "answer": "-∞,1 2"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 20,
+  "question": "Number of real solution of: log_{5}[2+ log_{3}(x+ 3)]= 0 is",
+  "options": "",
+  "answer": "1",
+  "note": "item is an image in the PDF — question and answer read from p20"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-53",
+  "pdf_page": 21,
+  "question": "If log_{0.5}log_{5}x^{2}-4> log_{0.5}1, then ‘x’ lies in the interval",
+  "options": "(A) -3, -5∪5, 3 (B) -3, -5∪5, 35 (C) 5, 35 (D) ∅",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 21,
+  "question": "Solution set of the inequality 2-log_{2}x^{2}+ 3x≥0is",
+  "options": "(A) [-4, 1] (B) [-4, -3] ∪ (0, 1] (C) (-∞, -3) ∪ (1, ∞) (D) (-∞, -4) ∪ [1, ∞)",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-55",
+  "pdf_page": 21,
+  "question": "Number of solution of the equation log_{3}3^{x}-8= 2-x is",
+  "options": "(A) 0 (B) 1 (C) 2 (D) 3",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-56",
+  "pdf_page": 22,
+  "question": "Number of solution of the equation log_{x-1}4= 1+ log_{2}x-1 is",
+  "options": "(A) 0 (B) 1 (C) 2 (D) 3",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-57",
+  "pdf_page": 22,
+  "question": "Number of solution of the equation x+ 1\\frac{log10x+1}{2}= 100x+ 1\\frac{is}{3}",
+  "options": "(A) 0   (B) 1   (C) 2   (D) 3",
+  "answer": "(C)",
+  "note": "option values sit one row below their labels"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-58",
+  "pdf_page": 22,
+  "question": "log3log_{8}4 x 2+ 7+ log1log1 2 4 x 2+ 7-1= -2",
+  "options": "",
+  "answer": "x = 3 or -3"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-59",
+  "pdf_page": 22,
+  "question": "The product of all positive real values of x satisfying the equation x^{16log}5x3-68log5x= 5^{-16} is [JEE (Adv.)-2022]",
+  "options": "",
+  "answer": "1"
+ },
+ {
+  "book": "Basic Mathematics Part 01 DIBY",
+  "tag": "DIBY-60",
+  "pdf_page": 23,
+  "question": "Let (x_{0}, y_{0}) be the solution of the following equations 3^{lnx}= 2^{lny}2x ln2=3y ln3 Then x_{0} is [JEE (Adv.)-2011]",
+  "options": "(A) \\frac{1}{6} (B) \\frac{1}{3} (C) \\frac{1}{2} (D) 6",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-61",
+  "pdf_page": 2,
+  "question": "Number of solution of the equation 3^{log}23x+ x^{log}3x= 162is:",
+  "options": "(A) 0 (B) 1 (C) 2 (D) 3",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-62",
+  "pdf_page": 2,
+  "question": "Solve: log_{10}5+ log_{10}(x+ 10) -1= log_{10}(21x-20) -log_{10}(2x-1)",
+  "options": "",
+  "answer": "3/2, 10"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-63",
+  "pdf_page": 2,
+  "question": "Solve: log_{6}2^{x+3}-log_{6}3^{x}-2= x",
+  "options": "",
+  "answer": "log_{3}4"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-64",
+  "pdf_page": 2,
+  "question": "Solve: log_{0.5x}x^{2}-14log_{16x}x^{3}+ 40log_{4x}x= 0",
+  "options": "",
+  "answer": "1 2, 1, 4"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-65",
+  "pdf_page": 3,
+  "question": "Solve: 2log_{2}log_{2}x+ log_{12}Τ log_{2}22x= 1",
+  "options": "",
+  "answer": "8"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-66",
+  "pdf_page": 3,
+  "question": "Solve: log_{x}2+6x+8(log_{2x}2+2x+3(x^{2}-2x)൯ = 0",
+  "options": "",
+  "answer": "-1"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-67",
+  "pdf_page": 3,
+  "question": "If x1and x2 are the roots of equation e^{32}Τ⋅x^{2lnx}= x^{4}, then the product of the roots of the equation is",
+  "options": "(A) e^{2} (B) e (C) e^{3/2} (D) e^{-2}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-68",
+  "pdf_page": 4,
+  "question": "\\frac{1}{2} The solution set of inequality: log 3x2+1 2 <",
+  "options": "",
+  "answer": "(-∞, -1) ∪ (1, ∞)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-69",
+  "pdf_page": 4,
+  "question": "The number of positive integers not satisfying the inequality \\frac{log_{2}}",
+  "options": "(A) 2}4^{x}-2⋅2^{x}+ 17> 5 (B) 3 (C) 4 (D) 1",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-70",
+  "pdf_page": 5,
+  "question": "Match Column-I with Column-II:",
+  "options": "(A) 5^{x}- 24 = \\frac{25}{5^{x}}   (B) (2^{x+1})(5^{x}) = 200   (C) 4^{2/x}- 5(4^{1/x}) + 4 = 0   (D) 2^{2x+1}- 33(2^{x-1}) + 4 = 0   (E) \\frac{2^{x-1} \\cdot 4^{x+1}}{8^{x-1}} = 16   (F) 3^{2x+1}+ 10(3^{x}) + 3 = 0   (G) 64(9^{x})- 84(12^{x}) + 27(16^{x}) = 0   (H) 5^{2x}- 7^{x}- 5^{2x}(35) + 7^{x}(35) = 0   ||   (p) -3   (q) -2   (r) -1   (s) 0   (t) 1   (u) 2   (v) 3   (w) None",
+  "answer": "A → u; B → u; C → t; D → q, v; E → p, q, r, s, t, u, v; F → w; G → t, u; H → s",
+  "note": "16-row matching table on p5: both columns and the answer list read from the page"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-71",
+  "pdf_page": 6,
+  "question": "The value of x satisfying the equation x+3x-2= 2",
+  "options": "(A) x= {0, 1} (B) x=0,\\frac{2}{3} (C) x= {1, 2} (D) x=\\frac{1,^{4}}{3}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-72",
+  "pdf_page": 6,
+  "question": "The value of x satisfying the equation log_{2}x= 3",
+  "options": "(A) x= {8, -8} (B) x=8,\\frac{1}{8} (C) x=6,\\frac{1}{6} (D) x=-8, -^{1}8",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-73",
+  "pdf_page": 6,
+  "question": "The value of x satisfying the equation 3x-2+ x= 11",
+  "options": "(A) x=13, -\\frac{9}{2}4 (B) x=13,\\frac{9}{2}4 (C) x=-^{13}, -\\frac{9}{2}4 (D) x=\\frac{13}{4}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-74",
+  "pdf_page": 7,
+  "question": "The value of x satisfying the equation x-3+ 2|x+ 1| = 4",
+  "options": "(A) 1 (B) -1 (C) \\frac{5}{3} (D) 3",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-75",
+  "pdf_page": 7,
+  "question": "The number of real solution of the equation, x^{2} - |x| - 12 = 0 is [JEE Mains-2021]",
+  "options": "(A) 2 (B) 3 (C) 1 (D) 4",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-76",
+  "pdf_page": 7,
+  "question": "Solve |x^{2} + 4x + 3| + 2x + 5 = 0[JEE-1987, 5M]",
+  "options": "",
+  "answer": "x = -4 and (-1-3)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-77",
+  "pdf_page": 7,
+  "question": "The sum of all the real roots of the equation |x - 2|^{2} + |x - 2| - 2 = 0 is ____________. [JEE-1997, 2M]",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-78",
+  "pdf_page": 8,
+  "question": "x - 3)^{2} + |x - 3| - 11 = 0, the sum of solutions of this equation is? [JEE Mains-2021]",
+  "options": "(A) 5 (B) 6 (C) 7 (D) 8",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-79",
+  "pdf_page": 8,
+  "question": "The sum of all roots of the equation |x^{2} - 8x + 15| - 2x + 7 = 0 is [JEE Mains-2023]",
+  "options": "(A) 9 -3 (B) 9 +3 (C) 11 -3 (D) 11 +3",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-80",
+  "pdf_page": 8,
+  "question": "The complete set of value of x satisfying the equation |x| -|x-2| = 2",
+  "options": "(A) x∈ (-∞, 0] (B) x∈ [0, 2] (C) x∈ [2, ∞) (D) x∈ {0, 2}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-81",
+  "pdf_page": 9,
+  "question": "The number of real roots of the equation x 2-3x+ 2= 0is",
+  "options": "(A) 1 (B) 2 (C) 3 (D) 4",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-82",
+  "pdf_page": 9,
+  "question": "Solutions of 4x+ 3+3x-4= 12are",
+  "options": "(A) x= -\\frac{7}{3},\\frac{3}{7} (B) x= -\\frac{5}{2},\\frac{2}{5} (C) x= -\\frac{11}{7},\\frac{13}{7} (D) x= -\\frac{3}{7},\\frac{7}{5}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-83",
+  "pdf_page": 9,
+  "question": "Solve if x-5+x+ 4= 9",
+  "options": "(A) [-4, 5] (B) (-4, 5) (C) (-4, 5] (D) [-4, 5)",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-84",
+  "pdf_page": 10,
+  "question": "Number of real solutions of |x-1| = |x-2|+|x-3|is",
+  "options": "(A) 0 (B) 1 (C) 2 (D) more than 2",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-85",
+  "pdf_page": 10,
+  "question": "Solve for x : (i) (ii)|||x+ 5| -3| -1| = 2 ||||x-5| -7| -3| -2| = 1(ii) x∈{-8, -6, -2, -4, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18}][",
+  "options": "",
+  "answer": "(i) x∈{-11, -5, -1}"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-86",
+  "pdf_page": 10,
+  "question": "Solution of Modulus equation: |x-3| + 2|x+ 1| = 4",
+  "options": "",
+  "answer": "(x = -1)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-87",
+  "pdf_page": 11,
+  "question": "Solve for x :",
+  "options": "",
+  "answer": "(i) \\frac{1}{2}≤|2x-1| ≤_{5}3(i) x∈\\frac{1}{5},\\frac{1}{4}∪\\frac{3}{4},45 (ii) -\\frac{1}{3}≤|3x-4| ≤2(ii) x∈\\frac{2}{3}, 2 (iii) 2≤|4-5x| ≤^{10}3(iii) x∈\\frac{2}{15},\\frac{2}{5}∪\\frac{6}{5},2215"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-88",
+  "pdf_page": 11,
+  "question": "3<x^{2}-1< 8(iv) x∈(-3, -2) ∪(2, 3) The complete set of real ‘x’ satisfying ||x-1| -1|≤1is",
+  "options": "(A) [0, 2] (B) [-1, 3] (C) [-1, 1] (D) [1, 3]",
+  "answer": "(B)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-89",
+  "pdf_page": 12,
+  "question": "Solve :\\frac{x-3}{x+1}≤1",
+  "options": "",
+  "answer": "x≥ 1"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-90",
+  "pdf_page": 12,
+  "question": "Solve :1+\\frac{3}{x}> 2",
+  "options": "",
+  "answer": "x∈ (-1, 0) ∪ (0, 3)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-91",
+  "pdf_page": 12,
+  "question": "Number of non-positive integral values of 'x' satisfying the given inequality",
+  "options": "(A) 0 x^{2}-1≤|2x-1|is (B) 1 (C) 2 (D) 3",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-92",
+  "pdf_page": 13,
+  "question": "Solve for x : (i) \\frac{(|x|-1)}{(|x|-2)}≤0 (iii) (ii) (|x|-1)(|x|-3)|x|^{2}-5|x|+6|x|4-|x|2-2|x|2≤0≥0 ∪[1, 2) x∈(-∞, -3] ∪(-2, -1] ∪[3, ∞) ∪[1, 2) (iii) x∈(-∞, -3] ∪[3, ∞)]",
+  "options": "",
+  "answer": "(i) (ii) x∈(-2, -1"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-93",
+  "pdf_page": 14,
+  "question": "Solve :\\frac{|x-2|-3}{|x+5|+2}≥ 0.",
+  "options": "",
+  "answer": "x∈-∞, -1∪5, ∞"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-94",
+  "pdf_page": 14,
+  "question": "Solve :\\frac{3}{x-5}> 1.",
+  "options": "",
+  "answer": "x∈2, 8-{5}"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-95",
+  "pdf_page": 14,
+  "question": "Solve :|x^{2} - 3x - 3| > |x^{2} + 7x - 13|.",
+  "options": "",
+  "answer": "x∈(-∞, -4) ∪(1, 2)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-96",
+  "pdf_page": 15,
+  "question": "The number of integral solutions of log_{5}x^{2}-4= 2+log_{5}x-3 is",
+  "options": "(A) 1 (B) 2 (C) 3 (D) 0",
+  "answer": "(A)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-97",
+  "pdf_page": 15,
+  "question": "Value of x satisfying: log_{4}x^{2}-1-log_{4}x-1 2= log_{4}4-x is a+2a, then value of a is ________.",
+  "options": "",
+  "answer": "03"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-98",
+  "pdf_page": 15,
+  "question": "Exhaustive set of values of x satisfying log_{x}x^{2}+ x+ 1≥0 is",
+  "options": "(A) (-1, 0) (B) (-∞, -1) ∪ (1, ∞) (C) (-∞, ∞) - {-1, 0, 1} (D) (-∞, -1) ∪ (-1, 0) ∪ (1, ∞)",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-99",
+  "pdf_page": 16,
+  "question": "Number of values of x satisfying the equation x^{4}=x^{log}2x2+12 is",
+  "options": "(A) 2 (B) 3 (C) 4 (D) 5",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-100",
+  "pdf_page": 16,
+  "question": "The inequality log_{e}x< 1 is satisfied if",
+  "options": "(A) x∈(1/e, e) (B) x∈(- e, -1/e) (C) x∈(- 1, 1) (D) x∈(- e, e)",
+  "answer": "A, B"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-101",
+  "pdf_page": 16,
+  "question": "Find the number of integral solution of the equation log x x+x-2= log_{x}5x-6+ 5x-2.",
+  "options": "",
+  "answer": "1"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-102",
+  "pdf_page": 17,
+  "question": "Solve:x^{2}-4x+ 3+x^{2}-11x+ 24= 7x-3. ]",
+  "options": "",
+  "answer": "x∈ [1, 8"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-103",
+  "pdf_page": 17,
+  "question": "Solve:x^{2}-3x+ 2+x+ 5>x^{2}-2x+ 7.",
+  "options": "",
+  "answer": "x∈-∞, -5∪1, 2"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-104",
+  "pdf_page": 17,
+  "question": "Solve x:x^{2}+ 5x+ 9<x^{2}+ 2x+ 2+3x+ 7.",
+  "options": "",
+  "answer": "x< -\\frac{7}{3}"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-105",
+  "pdf_page": 18,
+  "question": "The complete set of real values of x satisfying the inequality 2log^{2}3x-3log_{3}x-8 2log^{2}3x-3log_{3}x-6≥3is",
+  "options": "",
+  "answer": "x∈0,\\frac{1}{33}∪\\frac{1}{3}, 93∪27, ∞"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-106",
+  "pdf_page": 18,
+  "question": "\\frac{x^{2}-4x+3}{x2+x-5} The complete set of real values of x satisfying the inequality log_{3}≥0 is",
+  "options": "(A) -∞,\\frac{1}{2} (B) -∞,\\frac{2}{5}∪2, ∞ (C) -∞,\\frac{2}{5}∪1, ∞ (D) -∞,\\frac{1}{2}∪1, ∞",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-107",
+  "pdf_page": 19,
+  "question": "If |x-2| + 2|x+ 2| = P, then find P is given equation has (i) (ii) no solution",
+  "options": "",
+  "answer": "1 solution(i) (ii) No solution P< 4 (iii) 2 solutions 1 solution P= 4 (iv) more than 2 solutions(iii) 2 solutions P> 4 (iv) More then 2 solution P∈∅"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-108",
+  "pdf_page": 19,
+  "question": "Find the value of k if equation |x+ 2| -2|x-7| + 3|x-4| = k has (i) one solution (ii) two solutions",
+  "options": "",
+  "answer": "(iii) 3 solutions (iv) 4 solutions(i) (ii) one solution \\frac{k∈∅}{k> 0} (v) no solution (vi) ∞ solutions 2 solutions (iii) 3 solutions \\frac{k∈∅}{k∈∅} (iv) 4 solution (v) (vi) no solution k< 0 ∞ solutions k= 0"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-109",
+  "pdf_page": 20,
+  "question": "Draw graph of y= ||x-2| -3| and",
+  "options": "",
+  "answer": "wer following questions: (i) (ii) Minimum value of yis ___________. If y= khas 2 solutions then k is ____________. (iii) If y= khas 3 solutions then k is _________. (iv) If y= khas 4 solutions then k is _________. (v) If y= khas no solution then k is _________. (vi) Number of solutions of : ||x-2|- 3| =\\frac{2x+10}{15}, is(are) ___________. Ans. : (i) (ii)0 (iii) (iv) k = 3 k∈ (3, ∞) ∪ {0} \\frac{(v)}{(vi) 4}k∈ (-∞, 0) k∈ (0, 3) QUESTIONS ON IRRATIONAL EQUATIONS & INEQUALITY"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-110",
+  "pdf_page": 21,
+  "question": "It x is a real number, find the number of integral values of x for which the expression x-2-3+5-x+ 1 is defined.",
+  "options": "",
+  "answer": "6"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-111",
+  "pdf_page": 21,
+  "question": "If the complete solution set of the inequality 1-1-4x^{2}< 3x is (a, b], find the value of 10a+ 2b.",
+  "options": "",
+  "answer": "1"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-112",
+  "pdf_page": 21,
+  "question": "Solve :x-2≥5-x",
+  "options": "",
+  "answer": "x∈\\frac{7}{2}, 5"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-113",
+  "pdf_page": 21,
+  "question": "Solve :x-6-10-x≥1",
+  "options": "",
+  "answer": "x∈8+\\frac{7}{2}, 10"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-114",
+  "pdf_page": 22,
+  "question": "Which of the following is true?",
+  "options": "(A) log_{10}2 2+ 1> log_{10}4 (B) log_{10}90> log_{5}50 (C) log_{4}log_{3}log_{2}16> log_{16}4 (D) 2log_{10}3 2-3log_{10}2 2>log_{10}2×log_{10}3",
+  "answer": "A, D"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-115",
+  "pdf_page": 22,
+  "question": "Positive numbers x, y and z satisfy xyz= 10^{81} and log_{10}x log_{10}yz+log_{10}y log_{10}z= 468. Find the value of log_{10}x 2+log_{10}y 2+log_{10}z 2",
+  "options": "",
+  "answer": "5625"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-116",
+  "pdf_page": 22,
+  "question": "Consider the system of equations log_{10}2000xy-log_{10}x⋅log_{10}y= 4, log_{10}(2yz) -log_{10}y⋅log_{10}z= 1 and log_{10}(zx) -log_{10}z⋅log_{10}x= 0, x, y, z≤90 then x+ y+ z=",
+  "options": "",
+  "answer": "7"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-117",
+  "pdf_page": 23,
+  "question": "Let S=x∈R:3+2 x+3-2 x= 10. Then the number of elements in S \\frac{is}",
+  "options": "(A) 4} (B) 0 (C) 2 (D) 1",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-118",
+  "pdf_page": 23,
+  "question": "The number of elements in the set n∈ℤ:n^{2}-10n+ 19< 6 is [JEE Mains-2023]",
+  "options": "",
+  "answer": "6"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-119",
+  "pdf_page": 23,
+  "question": "Let S=x∈-6, 3--2, 2:\\frac{x+3-1}{x-2}≥0 and T=x∈Z: x 2-7x+ 9≤0. Then the number of elements of S∩Tis [JEE Mains-2022]",
+  "options": "(A) 7 (B) 5 (C) 4 (D) 3",
+  "answer": "(D)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-120",
+  "pdf_page": 24,
+  "question": "Let A=x:x^{2}-10≤6 and B= {x: |x-2| > 1}. Then [JEE Mains-2026]",
+  "options": "(A) A-B=2, 3 (B) A∪B=-∞, 1∪2, ∞ (C) B-A=-∞, -4∪-2, 1∪4, ∞ (D) A∩B= [-4, -2] ∪[3, 4]",
+  "answer": "(C)"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-121",
+  "pdf_page": 24,
+  "question": "If A= {x∈R: |x-2| > 1}, B=x∈R:x^{2}-3> 1, C= {x∈R: |x-4| ≥2} and Z is the set of all integers, then the number of subsets of the set (A∩B∩C)^{C}∩Zis [JEE Mains-2021]",
+  "options": "",
+  "answer": "256"
+ },
+ {
+  "book": "Basic Mathematics Part 02 DIBY",
+  "tag": "DIBY-122",
+  "pdf_page": 24,
+  "question": "The number of elements in the set {x∈R: (|x| -3)|x+ 4| = 6}is equal to [JEE Mains-2021]",
+  "options": "(A) 3 (B) 2 (C) 4 (D) 1",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "A man has 3 jackets, 10 shirts and 5 pairs of slacks. If an outfit consists of a jacket, a shirt, and a pair of slacks, how many different outfits can the man make?",
+  "options": "",
+  "answer": "150"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "There are 6 roads between A & B and 4 roads between B & C. (i) (ii) In how many ways can one drive from A to C by way of B? In how many ways can one drive from A to C and back to A, passing through B on both trips? (iii) In how many ways can one drive the circular trip described in (ii) without using the same road more than once.",
+  "options": "",
+  "answer": "(i) 24; (ii) 576; (iii) 360"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 3,
+  "question": "If repetitions are not permitted (i) How many 3 digit numbers can be formed from the six digits 2, 3, 5, 6, 7 & 9? (ii) How many of these are less than 400? (iii) How many are even? (iv) How many are odd? (v) How many are multiple of 5?",
+  "options": "",
+  "answer": "(i) 120; (ii) 40; (iii) 40; (iv) 80; (v) 20"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "How many natural numbers are their from 1 to 1000 which have none of their digits repeated.",
+  "options": "",
+  "answer": "738"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 4,
+  "question": "How many positive integers less than 10^{5} can be written with only the digits 7 and 9 ?",
+  "options": "",
+  "answer": "62"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 4,
+  "question": "a) How many new words can be formed by using all the letters of the word (b) How many words starts with a vowel and ending with a consonant. (c) How many words starts with a consonant and ends with consonant.",
+  "options": "",
+  "answer": "(a) 7! - 1; (b) 1440; (c) 1440"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "Find the number of 10-digit numbers such that the product of any two consecutive digits in the number is a prime number.",
+  "options": "",
+  "answer": "2048"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 5,
+  "question": "Find number of ways in which 7 different colours in a rainbow can be arranged, if green is always in the middle.",
+  "options": "",
+  "answer": "720"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 5,
+  "question": "Find the number of natural numbers between 100 and 1000 such that atleast one of their digits is 7 .",
+  "options": "",
+  "answer": "252"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 5,
+  "question": "If the digits are not allowed to repeat in any numbers formed by using the digits 0, 2, 4, 6, 8, then the number of all numbers greater than 10,000 is equal to [JEE Mains-2021]",
+  "options": "",
+  "answer": "96"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 6,
+  "question": "Find the number of 4 digit integers in the closed interval [2022, 4482] which can be formed using the digits {0, 2, 3, 4, 6, 7}. [JEE (Adv.)-2022]",
+  "options": "",
+  "answer": "569"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 6,
+  "question": "The number of 3-digit numbers, formed using the digits 2, 3, 4, 5 and 7, when the repetition of digits is not allowed, and which are not divisible by 3, is equal [JEE Mains-2024]",
+  "options": "",
+  "answer": "36"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 6,
+  "question": "Total numbers of 3-digit numbers that are divisible by 6 and can be formed by using the digits 1, 2, 3, 4, 5 with repetition, is _______. [JEE Mains-2023]",
+  "options": "",
+  "answer": "16"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 7,
+  "question": "The number of words that can be formed out of the letters of the word ARTICLE so that the vowels occupy even places is",
+  "options": "(A) 36 (B) 574 (C) 144 (D) 754",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 7,
+  "question": "Eleven books consisting of 5 Mathematics, 4 Physics and 2 Chemistry are placed on a shelf. The number of possible ways of arranging them on the assumption that the books of the same subject are all together is",
+  "options": "(A) 4!2! (B) 11! (C) 5!4!3!2! (D) None of these",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 7,
+  "question": "The number of six letter words (with or without meaning), formed using all the letters of the word ‘VOWELS’, so that all the consonants never come together, is",
+  "options": "(A) 576 (B) 140 (C) 356 (D) 209",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 8,
+  "question": "Six married couple are sitting in a room. Then, the number of ways in which 4 people can be selected, so that They do not form a couple, is",
+  "options": "(A) 240 (B) 255 (C) 480 (D) 495",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 8,
+  "question": "How many of the arrangements of the letter of the word “LOGARITHM” begin with a vowel and end with a consonant?",
+  "options": "",
+  "answer": "90720"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 8,
+  "question": "Number of permutations of 1, 2, 3, 4, 5, 6, 7, 8 and 9 taken all at a time, such that the Digit 1 appearing somewhere to the left of 2 3 appearing to the left of 4 and 5 somewhere to the left of 6, is (e.g. 815723946 would be one such permutation)",
+  "options": "(A) 9 × 7! (B) 8! (C) 5! × 4! (D) 8! × 4!",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 9,
+  "question": "A test consists of 6 multiple choice questions, each having 4 alternative answers of which only one is correct. The number of ways, in which a candidate answers all six questions such that exactly four of the answers are correct, is [JEE Mains-2020]",
+  "options": "",
+  "answer": "135"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 9,
+  "question": "Let the number of elements in sets A and B be five and two respectively. Then the number of subsets of A × B each having at least 3 and at most 6 elements is [JEE Mains-2023]",
+  "options": "(A) 782 (B) 772 (C) 752 (D) 792",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 10,
+  "question": "5 Indian & 5 American couples meet at a party & shake hands. If no wife shakes hands with her own husband & no Indian wife shakes hands with a male, then the number of hands shakes that takes place in the party is",
+  "options": "(A) 95 (B) 110 (C) 135 (D) 150",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 10,
+  "question": "Number of natural numbers between 100 and 1000 such that at least one of their digits is 7, is",
+  "options": "(A) 225 (B) 243 (C) 252 (D) none",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 10,
+  "question": "Let S = {1, 2, 3, …….9} for k = 1, 2, …….5. Let N_{k} be the number of subsets of S, each containing five elements out of which exactly k are odd. Then N_{1} + N_{2} + N_{3} + N_{4} + N_{5} = [JEE (Adv.)-2017]",
+  "options": "(A) 125 (B) 210 (C) 252 (D) 126",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 11,
+  "question": "The number of seven-digit numbers, that can be formed by using the digits 1, 2, 3, 5 and 7 such that each digit is used at least once. is: [JEE Mains-2026]",
+  "options": "(A) 15400 (B) 17800 (C) 16800 (D) 29400",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 11,
+  "question": "Let P_{n} denote the total number of triangles formed by joining the vertices of an n-side regular polygon. If P_{n+1}-P_{n}= 66, then the sum of all distinct prime divisors of n is: [JEE Mains-2026]",
+  "options": "(A) 7 (B) 8 (C) 5 (D) 6",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-27",
+  "pdf_page": 11,
+  "question": "The number of ways, of forming a queue of 4 boys and 3 girls such that all the girls are not together, is: [JEE Mains-2026]",
+  "options": "(A) 5040 (B) 3050 (C) 3410 (D) 4320",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 12,
+  "question": "A box contains 5 blue, 6 yellow and 4 red balls The number of ways, of drawing 8 balls containing at least two bails of each colour, is: [JEE Mains-2026]",
+  "options": "(A) 4100 (B) 4140 (C) 4230 (D) 4290",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 12,
+  "question": "The number of numbers greater than 5000, less than 9000 and divisible by 3, that can be formed using the digits 0, 1, 2, 5, 9, if the repetition of the digits is allowed, is [JEE Mains-2026]",
+  "options": "",
+  "answer": "42"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 13,
+  "question": "Let S= {1, 2, 3, 4, 5, 6, 7, 8, 9}. Let x be the number of 9-digit numbers formed using the digits of the set S such that only one digit is repeated and it is repeated exactly twice. Let y be the number of 9-digit numbers formed using the digits of the set S such that only two digits are repeated and each of these is repeated exactly twice. Then, [JEE Mains-2026]",
+  "options": "(A) 56x= 9y (B) 29x= 5y (C) 45x= 7y (D) 21x= 4y",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 13,
+  "question": "There are 12 points in a plane, no three of which are in the same straight line, except 5 points which are collinear. Then the total number of triangles that can be formed with the vertices at any three of these 12 points is [JEE Mains-2025]",
+  "options": "(A) 230 (B) 220 (C) 200 (D) 210",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 14,
+  "question": "The number of five digit numbers, greater than 40000 and divisible by 5, which can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to [JEE Mains-2023]",
+  "options": "(A) 120 (B) 132 (C) 72 (D) 96",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-33",
+  "pdf_page": 14,
+  "question": "The total number of three-digit numbers, divisible by 3, which can be formed using the digits 1, 3, 5, 8, if repetition of digits is allowed, is: [JEE Mains-2023]",
+  "options": "(A) 22 (B) 18 (C) 21 (D) 20",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-34",
+  "pdf_page": 14,
+  "question": "If ^{2n+1}P_{n-1}: ^{2n-1}P_{n}= 11: 21, then n^{2}+ n+ 15 is equal to: [JEE Mains-2023]",
+  "options": "",
+  "answer": "45"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-35",
+  "pdf_page": 15,
+  "question": "A person forgets his 4-digit ATM pin code. But he remembers that in the code all the digits are different, the greatest digit is 7 and the sum of the first two digits is equal to the sum of the last two digits. Then the maximum number of trials necessary to obtain the correct code is [JEE Mains-2023]",
+  "options": "",
+  "answer": "72"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-36",
+  "pdf_page": 15,
+  "question": "The number of seven digit positive integers formed using the digits 1, 2, 3 and 4 only and sum of the digits equal to 12 is ____. [JEE Mains-2023]",
+  "options": "",
+  "answer": "413"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-37",
+  "pdf_page": 15,
+  "question": "A boy needs to select five courses from 12 available courses, out of which 5 courses are language courses. If he can choose at most two language courses, then the number of ways he can choose five courses is [JEE Mains-2023]",
+  "options": "",
+  "answer": "546"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-38",
+  "pdf_page": 16,
+  "question": "There are 5 points P_{1}, P_{2}, P_{3}, P_{4}, P_{5} on the side AB, excluding A and B, of a triangle ABC. Similarly there are 6 points P_{6}, P_{7}, … . , P_{11} on the side BC and 7 points P_{12}, P_{13}, … . , P_{18} on the side CA of the triangle. The number of triangles, that can be formed using the points P_{1}, P_{2}, … . , P_{18} as vertices, is: [JEE Mains-2024]",
+  "options": "(A) 751 (B) 776 (C) 796 (D) 771",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-39",
+  "pdf_page": 16,
+  "question": "A committee of 5 is to be chosen from a group of 9 people. Number of ways in which it can be formed if two particular persons either serve together or not at all and two other particular persons refuse to serve with each other, is",
+  "options": "(A) 41 (B) 36 (C) 47 (D) 76",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-40",
+  "pdf_page": 17,
+  "question": "There are 15 players in a cricket team, out of which 6 are bowlers, 7 are batsmen and 2 are wicketkeepers. The number of ways, a team of 11 players be selected from them so as to include at least 4 bowlers, 5 batsmen, and 1 wicketkeeper, is",
+  "options": "",
+  "answer": "777"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-41",
+  "pdf_page": 17,
+  "question": "Suppose that 20 pillars of the same height have been erected-along the boundary of a circular stadium. If the top of each pillar has been connected by beams with the top of all its nonadjacent pillars, then the total number of beams is:",
+  "options": "(A) 190 (B) 170 (C) 180 (D) 210",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-42",
+  "pdf_page": 17,
+  "question": "Let A= {1, 2, 3, 4, 5, 6, 7} and B= {3, 6, 7, 9}. Then the number of elements in the set {C⊆A: C∩B≠ϕ} is________. [JEE Mains-2022]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-43",
+  "pdf_page": 18,
+  "question": "If ^{2n}C_{3}: ^{n}C_{3} = 10: 1, then the ratio n^{2}+ 3n:n^{2}-3n+ 4 is [JEE Mains-2023]",
+  "options": "(A) 65 : 37 (B) 2 : 1 (C) 36 : 16 (D) 27 : 11",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-44",
+  "pdf_page": 18,
+  "question": "If ^{n}P_{r} = ^{n}P_{r}+1 and ^{n}C_{r} = ^{n}C_{r}-1, then the value of r is equal to [JEEE Mains-2021]",
+  "options": "(A) 1 (B) 4 (C) 2 (D) 3",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 18,
+  "question": "or 37 A boy needs to select five courses from 12 available courses, out of which 5 courses are language course. If he can choose at most two language courses, then the number of ways he can choose five courses is [JEE Mains-2023]",
+  "options": "",
+  "answer": "546"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-46",
+  "pdf_page": 19,
+  "question": "Consider a rectangle ABCD having 5, 7, 6, 9 points in the interior of the line segments AB, CD, BC, DA respectively. Let α be the number of triangles having these points from all 4 different sides as vertices and β be the number of quadrilaterals having these points from all 4 different sides as vertices. Then (β-α) is equal to [JEE Mains-2021]",
+  "options": "(A) 795 (B) 1173 (C) 1890 (D) 717",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 19,
+  "question": "There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If 4 persons are selected from each group, then the number of ways of selecting 4 men and 4 women is ______. [JEE Mains-2024]",
+  "options": "",
+  "answer": "5626"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 20,
+  "question": "The letters of the word OUGHT are written in all possible ways and these words are arranged as in a dictionary, in a series. Then the serial number of the word TOUGH is [JEE Mains-2023]",
+  "options": "(A) 89 (B) 84 (C) 86 (D) 79",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 20,
+  "question": "All words, with or without meaning, are made using all the letters of the word MONDAY. These words are written as in a dictionary with serial numbers. The serial number of the word MONDAY is [JEE Mains-2023]",
+  "options": "(A) 327 (B) 328 (C) 324 (D) 326",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 21,
+  "question": "All the letters of the word PUBLIC are written in all possible orders and these words are written as in a dictionary with serial numbers. Then the serial number of the word PUBLIC is [JEE Mains-2023]",
+  "options": "(A) 576 (B) 578 (C) 580 (D) 582",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-51",
+  "pdf_page": 21,
+  "question": "The letters of the word 'MANKIND' are written in all possible orders and arranged in serial order as in an English dictionary. Then the serial number of the word 'MANKIND' is [JEE Mains-2022]",
+  "options": "",
+  "answer": "1492"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-52",
+  "pdf_page": 21,
+  "question": "All the letters of the word \"GTWENTY\" are written in all possible ways with or without meaning and these words are written as in a dictionary. The serial number of the word \"GTWENTY\" is [JEE Mains-2024]",
+  "options": "",
+  "answer": "553"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-53",
+  "pdf_page": 22,
+  "question": "60 words can be made using all the letters of the word BHBJO, with or without meaning. If these words are written as in a dictionary, then the 50^{th} word is: [JEE Mains-2024]",
+  "options": "(A) JBBOH (B) OBBJH (C) OBBHJ (D) HBBJO",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 22,
+  "question": "If all the words with or without meaning made using all the letters of the word \"NAGPUR\" are arranged as in a dictionary, then the word at 315^{th} position in this [JEE Mains-2024]",
+  "options": "(A) NRAGUP (B) NRAPUG (C) NRAPGU (D) NRAGPU",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-55",
+  "pdf_page": 23,
+  "question": "Find the total number of ways of selecting five letters from the work ‘INDEPENDENT’.",
+  "options": "",
+  "answer": "72"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-56",
+  "pdf_page": 23,
+  "question": "The number of ways five alphabets can be chosen from the alphabets of the word MATHEMATICS, where the chosen alphabets are not necessarily distinct, is equal to [JEE Mains-2024]",
+  "options": "(A) 179 (B) 177 (C) 181 (D) 175",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-57",
+  "pdf_page": 23,
+  "question": "The total number of words (with or without meaning) that can be formed out of the letters of the word ‘DISTRIBUTION’ taken four at a time, is equal to [JEE Mains-2024]",
+  "options": "",
+  "answer": "3734"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-58",
+  "pdf_page": 24,
+  "question": "In an examination of Mathematics paper, there are 20 questions of equal marks and the question paper is divided into three sections: A, B and C. A student is required to attempt total 15 questions taking at least 4 questions from each section. If section A has 8 questions, section B has 6 questions and section C has 6 questions, then the total number of ways a student can select 15 questions is [JEE Mains-2024]",
+  "options": "",
+  "answer": "11376"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-59",
+  "pdf_page": 24,
+  "question": "In how many ways 5 NEET & 5 JEE Aspirants can be seated",
+  "options": "(A) All JEE aspirants are together (B) All NEET aspirants are together & all JEE aspirants are together (C) Not all JEE aspirants are together (D) No 2 JEE aspirants are together",
+  "answer": "………"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-60",
+  "pdf_page": 25,
+  "question": "Find the number of all 6 digit numbers such that all the digits of each number are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number appears at least twice.",
+  "options": "",
+  "answer": "1405"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-61",
+  "pdf_page": 25,
+  "question": "The number of words that can be formed using all the letter of the word “CURRICULUM” in which two U’s are together but separated from the third ‘U’ in K(7!). The value of K is",
+  "options": "(A) 7 (B) 9 (C) 12 (D) 14",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-62",
+  "pdf_page": 25,
+  "question": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is [IIT-JEE-2012]",
+  "options": "(A) 75 (B) 150 (C) 210 (D) 243",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-63",
+  "pdf_page": 26,
+  "question": "The students S_{1}, S_{2}, … , S_{10} are to be divided into 3 groups A, B and C such that each group has at least one students and the group C has at most 3 students. Then the total number of possibilities of forming such groups is [JEE Mains-2021]",
+  "options": "",
+  "answer": "31650"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-64",
+  "pdf_page": 26,
+  "question": "The total number of three-digit numbers, divisible by 3, which can be formed using the digits 1, 3, 5, 8 if repetition of digits is allowed, is [JEE Mains-2023]",
+  "options": "(A) 21 (B) 22 (C) 18 (D) 20",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-65",
+  "pdf_page": 26,
+  "question": "Let the set S = {2, 4, 8, 16, …. 512} be partitioned into 3 sets A, B, C with equal number of elements such that A∪B∪C = S and A∩B = B∩C = A∩C = ∅. The maximum number of such possible partitions of S is equal to [JEE Mains-2024]",
+  "options": "(A) 1640 (B) 1520 (C) 1710 (D) 1680",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-66",
+  "pdf_page": 27,
+  "question": "A natura number has prime factorization given by n= 2^{x}3^{y}5^{z}, where y and z are such that y + z = 5 and y^{-1}+ z^{-1}=\\frac{5}{6}, y> z. Then the number of odd divisors of n, including 1, is [JEE Mains-2021]",
+  "options": "(A) 11 (B) 6x (C) 12 (D) 6",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-67",
+  "pdf_page": 27,
+  "question": "Number of integral solutions to the equation x + y + z = 21, where x≥ 1, y≥ 3, z≥ 4, is equal to [JEE Mains-2023]",
+  "options": "",
+  "answer": "105"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-68",
+  "pdf_page": 27,
+  "question": "There are infinite number of Identical BLUE, RED, GREEN and YELLOW balls available for selections. In how many ways can we select 10 balls.",
+  "options": "(A) 14C_{3} (B) 13C_{10} (C) 12C_{10} (D) 14C_{4}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-69",
+  "pdf_page": 28,
+  "question": "The number of triangles whose vertices are at the vertices of a regular octagon but none of whose sides is a side of the octagon is [JEE Mains-2024]",
+  "options": "(A) 56 (B) 16 (C) 24 (D) 48",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-70",
+  "pdf_page": 28,
+  "question": "The number of ways, 16 identical cubes, of which 11 are blue and rest are red, can be placed in row so that between any two red cubes, there should be at least 2 blue cubes, is [JEE Mains-2022]",
+  "options": "",
+  "answer": "56"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-71",
+  "pdf_page": 28,
+  "question": "Number of ways of arranging 8 identical books into 4 identical shelves where any number of shelves may remain empty is equal to [JEE Mains-2024]",
+  "options": "(A) 18 (B) 16 (C) 12 (D) 15",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-72",
+  "pdf_page": 29,
+  "question": "The total number of positive integral solutions (x, y, z) such that xyz = 24 is [JEE Mains-2021]",
+  "options": "(A) 36 (B) 45 (C) 24 (D) 30",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-73",
+  "pdf_page": 29,
+  "question": "Let α=\\frac{4!!}{4!^{3!}} and β=\\frac{5!!}{5!^{4!}}, then [JEE Mains-2024]",
+  "options": "(A) α∈ N and β∈ N (B) α∈ N and β∉ N (C) α∉ N and β∈ N (D) α∉ N and β∉ N",
+  "answer": "(A)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-74",
+  "pdf_page": 30,
+  "question": "From a group of 7 batsmen and 6 bowlers, 10 players are to be chosen for a team, which should include atleast 4 batsmen and atleast 4 bowlers. One batsmen and one bowler who are captain and vice-captain respectively of the team should be included. Then the total number of ways such a selection can be made, is [JEE Mains-2025]",
+  "options": "(A) 165 (B) 155 (C) 145 (D) 135",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-75",
+  "pdf_page": 30,
+  "question": "The number of ways, in which the letters A, B, C, D, E can be placed in the 8 boxes of the figure below so that no row remains empty and at most one letter can be placed in a box, is [JEE Mains-2025]",
+  "options": "(A) 5880 (B) 960 (C) 840 (D) 5760",
+  "answer": "(D)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-76",
+  "pdf_page": 31,
+  "question": "The number of functions f from {1, 2, 3, …., 20} only {1, 2, 3, …., 20} such that f(k) is a multiple of 3, whenever k is a multiple of 4, is [JEE Mains-2019]",
+  "options": "(A) 6^{5} × (15)! (B) 5! × 6! (C) (15)! × 6! (D) 5^{6} × 15",
+  "answer": "(C)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-77",
+  "pdf_page": 31,
+  "question": "The number of ways, 16 identical cubes, of which 11 are blue and rest are red, can placed in a row so that between any two red cubes there should be at least 2 blue cubes, is [JEE Mains-2022]",
+  "options": "",
+  "answer": "56"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-78",
+  "pdf_page": 31,
+  "question": "For n≥ 2, let S_{n} denote the set of all subsets of {1, 2, ….., n} with no two consecutive numbers. For example {1, 3, 5} ∈S_{6}, but {1, 2, 4} ∉S_{6}. Then n(S_{5}) is equal to [JEE Mains-2025]",
+  "options": "",
+  "answer": "13"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-79",
+  "pdf_page": 32,
+  "question": "The largest n∈N such that 3^{n} divides 50! is [JEE Mains-2025]",
+  "options": "(A) 21 (B) 22 (C) 20 (D) 23",
+  "answer": "(B)"
+ },
+ {
+  "book": "Permutations and Combinations DIBY",
+  "tag": "DIBY-80",
+  "pdf_page": 32,
+  "question": "In an examination 5 students have been allotted their seats as per their roll numbers. The number of ways, in which none of the students sits on the allotted seat, is [JEE Mains-2023]",
+  "options": "",
+  "answer": "44"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "The quadratic equation whose roots are 1+2, 1-2 is",
+  "options": "(A) x^{2}+ 2x-1= 0 (B) x^{2}-2x-1= 0 (C) x^{2}-2x+ 1= 0 (D) x^{2}+ 2x+ 1= 0",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "If α, β are roots of the equation ax^{2}-bx-c= 0, then α^{2}-αβ+ β^{2} is equal to \\frac{b^{2}+3ac}{a2}\\frac{b^{2}-3ac}{a2}\\frac{b^{2}+2ac}{a2}\\frac{b^{2}-2ac}{a2}",
+  "options": "(A) \\frac{b^{2}+3ac}{a^{2}}   (B) \\frac{b^{2}-3ac}{a^{2}}   (C) \\frac{b^{2}+2ac}{a^{2}}   (D) \\frac{b^{2}-2ac}{a^{2}}",
+  "answer": "(A)",
+  "note": "four stacked fractions around a label row"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 2,
+  "question": "If α, β are the roots ofax^{2}+ bx+ c= 0, then the equation whose roots are 2 + α and 2 + βis",
+  "options": "(A) ax^{2}+ (b-4a) x+ (4a-2b+ c) = 0 (B) ax^{2}-(b-4a) x+ (4a-2b+ c) = 0 (C) ax^{2}+b-4ax-(4a-2b+ c) = 0 (D) ax^{2}-b-4ax-(4a-2b+ c) = 0",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "If α and β are roots of the equation x 2+ px+\\frac{3p}{4}= 0, such that α-β=10, then p belongs to the set",
+  "options": "(A) {2, -5} (B) {-3, 2} (C) {3, -5} (D) {-2, 5}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 3,
+  "question": "If α, β are the roots of ax^{2}+ bx+ c= 0 and c≠0 then the value of \\frac{1}{(aα+b)^{2}}+\\frac{1}{(aβ+b)^{2}} in terms of a, b, c is",
+  "options": "(A) \\frac{b^{2}-2ac}{ac}   (B) \\frac{2ac-b^{2}}{ac}   (C) \\frac{b^{2}-2ac}{a^{2}c^{2}}   (D) \\frac{b^{2}}{2}",
+  "answer": "(C)",
+  "note": "the two reciprocals sit above the fraction line in the text layer"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 3,
+  "question": "Let α and β be the roots of the quadratic equation (x - 2)(x - 3) + (x - 3)(x + 1) + (x + 1)(x - 2) = 0. Find the value of \\frac{1}{α+1)(β+1}+\\frac{1}{α-2)(β-2}+\\frac{1}{α-3)(β-3}",
+  "options": "",
+  "answer": "0"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "If α, β are the roots of ax^{2} + bx + c = 0, (a≠ 0) and α + δ, β + δare the roots of 2\\frac{b^{2}-4ac}{2}\\frac{B^{2}-4AC}{2} Ax + Bx + C = 0, (A≠ 0) for some constant δ, then prove that,a=A . [JEE-2000]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 4,
+  "question": "If α and β be two roots of the equation x^{2}-64x+ 256= 0. Then the value of \\frac{α^{3}}{β5}\\frac{1}{8}+\\frac{β^{3}}{α5}\\frac{1}{8} is",
+  "options": "(A) 1 (B) 3 (C) 4 (D) 2",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 4,
+  "question": "Let α, β be the roots of the equation x^{2}+ 22x-1= 0. The quadratic equation, whose roots are α^{4}+ β^{4}and\\frac{1}{10}α^{6}+ β^{6}, is: [JEE Mains-2024]",
+  "options": "(A) x^{2}-190x+ 9466= 0 (B) x^{2}-195x+ 9466= 0 (C) x^{2}-195x+ 9506= 0 (D) x^{2}-180x+ 9506= 0",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 5,
+  "question": "If the equation a(b-c) x^{2}+ b(c-a) x+ c(a-b) = 0has equal roots, where a+ c= 15and b=^{36}, then a^{2}+ c^{2} is equal to [JEE Mains-2025]5",
+  "options": "",
+  "answer": "117"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 5,
+  "question": "Let α∈ℝ and let α, β be the roots of the equation x^{2}+ 60^{\\frac{1}{4}}x+ a= 0. If α^{4}+ β^{4}= -30, then the product of all possible values of a is [JEE Mains-2023]",
+  "options": "",
+  "answer": "45"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 5,
+  "question": "If 2 and 6 are the roots of the equation ax^{2}+ bx+ 1= 0, then the quadratic equation, whose roots are\\frac{1}{2a+b} and\\frac{1}{6a+b}, is : [JEE Mains-2024]",
+  "options": "(A) x^{2}+ 8x+ 12= 0 (B) 2x^{2}+ 11x+ 12= 0 (C) 4x^{2}+ 14x+ 12= 0 (D) x^{2}+ 10x+ 16= 0",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 6,
+  "question": "Let α and β be the roots of the equation, 5x^{2}+ 6x-2= 0. If S_{n}= α^{n}+β^{n}, n= 1, 2, 3… ., then [JEE Mains-2020]",
+  "options": "(A) 6S_{6}+ 5S_{5}= 2S_{4} (B) 6S_{6}+ 5S_{5}+ 2S_{4}= 0 (C) 5S_{6}+ 6S_{5}= 2S_{4} (D) 6S_{6}+ 6S_{5}+ 2S_{4}= 0",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 6,
+  "question": "If α, β are the roots of the equation, x^{2}-x-1= 0 and S_{n}= 2023α^{n}+ 2024β^{n}, then [JEE Mains-2024]",
+  "options": "(A) 2S_{12}= S_{11}+ S_{10} (B) S_{12}= S_{11}+ S_{10} (C) 2S_{11}= S_{12}+ S_{10} (D) S_{11}= S_{10}+ S_{12}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 6,
+  "question": "Let α, β be roots of x 2+2x-8= 0. If U_{n}= α n+ β n, then U10+2U_{8}2U9 is equal to [JEE Mains-2024]",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 7,
+  "question": "Let α, β; α> β, be the roots of the equation x^{2}-2x-3= 0. Let P_{n}= α^{n}- β^{n}, n∈N. Then (113-102) P_{10}+ (112+ 10) P_{11}-11P_{12} is equal to: [JEE Mains-2024]",
+  "options": "(A) 102P_{9} (B) 103P_{9} (C) 112P_{9} (D) 113P_{9}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 7,
+  "question": "Let α and β be the roots of x^{2}-6x-2= 0. If a_{n}= α^{n}-β^{n} for n≥1, then the value of \\frac{a_{10}-2a_{8}}{3a_{9}} is: [JEE Mains-2021]",
+  "options": "(A) 2   (B) 1   (C) 4   (D) 3",
+  "answer": "(A)",
+  "note": "option letters (c)/(d) are lower-case on the slide, so the splitter left them in the question"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 7,
+  "question": "Let α, β(α> β) be the roots of the quadratic equation x^{2}-x-4= 0. If P_{n}= α^{n}- β n, n∈N, then P_{15}P_{16}-P_{14}P_{16}-P^{2}15+P_{14}P_{15}P_{13}P_{14} is equal to. [JEE Mains-2022]",
+  "options": "",
+  "answer": "16"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 8,
+  "question": "The number of real solutions of the equation, x^{2}-|x| -12= 0is: [JEE Mains-2021]",
+  "options": "(A) 1 (B) 4 (C) 3 (D) 2",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 8,
+  "question": "The sum, of the squares of all the roots of the equation x^{2}+ |2x-3|-4= 0, is [JEE Mains-2025]",
+  "options": "(A) 6(2-2) (B) 3(3-2) (C) 6(3-2) (D) 32-2",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 8,
+  "question": "The product of the roots of the equation 9x^{2}-18|x| + 5= 0, is: [JEE Mains-2020]",
+  "options": "(A) \\frac{25}{9} (B) \\frac{25}{81} (C) \\frac{5}{9} (D) \\frac{5}{27}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 9,
+  "question": "The sum of the squares of the roots of |x+ 2|^{2}+ |x-2| -2= 0and the squares of the roots of x^{2}-2|x-3| -5= 0, is[JEE Mains-2025]",
+  "options": "(A) 26 (B) 36 (C) 30 (D) 24",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 9,
+  "question": "The number of real roots of the equation x|x| -5|x+ 2| + 6= 0 [JEE Mains-2023]",
+  "options": "(A) 5 (B) 3 (C) 6 (D) 4",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 9,
+  "question": "The sum of all the roots of the equation x^{2}-8x+ 15-2x+ 7= 0is: [JEE Mains-2023]",
+  "options": "(A) 9+3 (B) 11+3 (C) 9-3 (D) 11-3",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 10,
+  "question": "The number of real solutions of the equation x|x+ 5| + 2|x+ 7| -2= 0is [JEE Mains-2024]",
+  "options": "",
+  "answer": "3"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 10,
+  "question": "If pand qare non-zero real numbers and α^{3}+ β^{3}= -p, αβ= q, then a quadratic equation whose roots are\\frac{α^{2}}{β},\\frac{β^{2}}{α}is",
+  "options": "(A) qx^{2}+ px+ q^{2}= 0 (B) px^{2}+ qx+ p^{2}= 0 (C) qx^{2}-px+ q^{2}= 0 (D) px^{2}-qx+ p^{2}= 0",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-27-A",
+  "pdf_page": 10,
+  "question": "Let fx= ax^{2}+ bx+ c, a, b, c∈I & f(1) = 0, 50< f(7) < 60 & 70< f(8) < 80, then f(- 1) is equal to",
+  "options": "",
+  "answer": "14"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-27-B",
+  "pdf_page": 11,
+  "question": "Ifrootsoftheequation x-α x-β+x-γ x-δ= 0arem&nrespectively,then roots of the equation 2x-m x-n-x-α x-β= 0Will be",
+  "options": "(A) \\frac{α+m+γ}{2},\\frac{β+n+δ}{2} (B) γ, δ (C) α- m, β- n (D) m- α+ γ, n- β+ δ",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 11,
+  "question": "If the roots of the equation ax^{2}+ x+ b= 0be real and different, then the roots of the equation x^{2}-4abx+ 1= 0 will be",
+  "options": "(A) Rational (B) Irrational (C) Real (D) Imaginary",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 11,
+  "question": "Let α, β are the roots of the equation x 2+ ax+ b= 0 such that\\frac{3α-5-α^{2}}{β-3}= β , then value of |a^{2}-2b+ 3a| is (where, β≠ 3)",
+  "options": "(A) 0 (B) 3 (C) 5 (D) 7",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 12,
+  "question": "If αis a root of the equation 4x^{2}-2x+ 3= 0, then its other roots is",
+  "options": "(A) \\frac{2}{3}+ α   (B) \\frac{α+1}{2α-1}   (C) \\frac{3}{2(4α^{2}+3)}   (D) \\frac{3α}{4}",
+  "answer": "B, C",
+  "note": "four option fractions re-read from the rendered slide"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 12,
+  "question": "If roots of 2(x-a)(x-b) + c= 0are α, β then roots x-α x-β-\\frac{c}{2}= 0 are",
+  "options": "(A) lies between a& b (B) -a, -b (C) a, b (D) 2a, 2b",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 12,
+  "question": "If the equation in x, x^{2}+ 21+ λx+3λ^{2}+ 2= 0 has imaginary roots, then",
+  "options": "(A) λ= 1 (B) λ= -\\frac{1}{2} (C) λ= 0 (D) λ= -1",
+  "answer": "A, B, C, D"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-33",
+  "pdf_page": 13,
+  "question": "If the equation\\frac{x^{2}-bx}{ax-c}=\\frac{m-1}{m+1} has roots equal in magnitude but opposite in sign, then m is",
+  "options": "(A) \\frac{a+b}{a-b} (B) \\frac{a-b}{a+b} (C) \\frac{b-a}{b+a} (D) None of these",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-34",
+  "pdf_page": 13,
+  "question": "Find the value of a for which one root of the equation x^{2}+ (2a-1) x+ a^{2}+ 2= 0is twice as large as the other.",
+  "options": "",
+  "answer": "a= -4"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-35",
+  "pdf_page": 13,
+  "question": "If x = 3 + \\sqrt{5} then the value of x^{4}-12x^{3}+ 44x^{2}-48x+ 17.",
+  "options": "(A) -1   (B) 0   (C) 1   (D) 2",
+  "answer": "(C)",
+  "note": "the radical sign is a drawing, absent from the text layer; x = 3+√5 gives the printed answer 1"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-36",
+  "pdf_page": 14,
+  "question": "The quadratic equation x^{2}+ ax+ b+ 1= 0has both positive integral roots, then a^{2}+ b^{2}can be equal to",
+  "options": "(A) 50 (B) 37 (C) 61 (D) 20",
+  "answer": "A, D"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-37",
+  "pdf_page": 14,
+  "question": "The number of real roots of the equation 5+2^{x}-1= 2^{x}2^{x}-2 is [JEE Mains-2019]",
+  "options": "(A) 4 (B) 3 (C) 2 (D) 1",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-38",
+  "pdf_page": 14,
+  "question": "Find the product of the real roots of the equation, x^{2}+ 18x+ 30= 2x^{2}+ 18x+ 45",
+  "options": "",
+  "answer": "20"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-39",
+  "pdf_page": 14,
+  "question": "If ‘α’ is an irrational solution of the equation 3^{2x}2-7x+3= 4^{x}2-x-6, then the value of \\frac{2α-1}{α+2} 3 is",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-40",
+  "pdf_page": 15,
+  "question": "Consider the graph f(x) = ax^{2}+ bx+ cand comment on sign of following parts: (abc) is ______________.y (i) (ii)(4a+ 2b+ c) is ______________. (iii) for all x> 3, f(x) is ____________. (iv) For all - 2< x< 3, f(x) is ____________.D is ____________.-2 3 x (v) (vi)(a-b+ c)×(9a-3b+ c) is __________.",
+  "options": "",
+  "answer": "(i) +ve, (ii) -ve, (iii) +ve, (iv) -ve, (v) +ve, (vi) -ve"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-41",
+  "pdf_page": 16,
+  "question": "Draw the graph of quadratic (y= ax^{2}+ bx+ c) in each part with given conditions: (i) Roots are 3 & 7 and crosses y-axis at (0, -2) (ii) Imaginary roots with vertex at-\\frac{3}{4},\\frac{1}{2} and a-b+ c= 2. (iii) Touches x-axis at x=- 3 and value at x= 2 is -8. Also find value of a, b& c in each case.",
+  "options": "",
+  "answer": "y (i)(0,-2)3 7 x a= -\\frac{2}{21}, b= 20, c= -2 21 1 y\\frac{1}{2} (ii)\\frac{-3}{4}x a= 24, b= 36, c= 14 (iii)-3 y x a= \\frac{-8}{25}, b= -48, c= -72 25 25"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-42",
+  "pdf_page": 18,
+  "question": "If the equation ax^{2}+ bx+ c= 0, (a> 0) has two real roots α and β such that α< -2 and β> 2, then which of the following statements is/are true?",
+  "options": "(A) a-b+ c< 0 (B) c< 0,b^{2}-4ac> 0 (C) 4a-2|b| + c< 0 (D) 9a-3|b| + c< 0",
+  "answer": "A, B, C"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-43",
+  "pdf_page": 18,
+  "question": "The adjoining figure shows the graph of y = ax^{2}+ bx+ c. Then",
+  "options": "(A) a < 0   (B) b^{2} < 4ac   (C) c > 0   (D) a and b are of opposite sign",
+  "answer": "A, D",
+  "note": "graph-axis labels had merged into the option cells"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-44",
+  "pdf_page": 19,
+  "question": "Find the range of f(x) :(i) f(x) = 2x^{2} - 3x + 2 (ii) f(x) = 2x^{2} - 3x + 2, x∈ [0, 2]",
+  "options": "",
+  "answer": "(i) \\frac{7}{8}, ∞, (ii) \\frac{7}{8}, 4"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 19,
+  "question": "Find range of following functions: (i) (ii) f(x) = 3x^{2}-2x-7 f(x) = 3x^{2}-2x-7, x∈(0, 5] (iii) f(x) = 3x^{2}-2x-7, x∈[-6, -1] , (iii) [-2, 113]]",
+  "options": "",
+  "answer": "(i) -\\frac{22}{3}, ∞, (ii) [-22/3, 58"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-46",
+  "pdf_page": 20,
+  "question": "If the range of the function f(x) =x 2\\frac{5-x}{-3x+2}, x≠1, 2, is (-∞, α] ∪[β, ∞), then α^{2}+ β^{2}is equal to: [JEE Mains-2025]",
+  "options": "(A) 190 (B) 192 (C) 188 (D) 194",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 20,
+  "question": "Let f: ℝ-{2, 6} → ℝ be real valued function defined as f(x) = \\frac{x^{2}+2x+1}{x^{2}-8x+12}. Then range of f is [JEE Mains-2023]",
+  "options": "(A) (-∞, -\\frac{21}{4}] ∪[0, ∞)   (B) (-∞, -\\frac{21}{4}] ∪(0, ∞)   (C) (-∞, -\\frac{21}{4}] ∪[\\frac{21}{4}, ∞)   (D) (-∞, -\\frac{21}{4}] ∪[1, ∞)",
+  "answer": "(A)",
+  "note": "options are interval pairs with stacked fractions"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 21,
+  "question": "Let the sum of the maximum and the minimum values of the function fx=\\frac{2x^{2}-3x+8}{2x^{2}+3x+8} be\\frac{m}{n}, where gcd(m, n) = 1. Then m+ n is equal to [JEE Mains-2024]",
+  "options": "(A) 195 (B) 201 (C) 217 (D) 182",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 21,
+  "question": "Show that if x is real then\\frac{x^{2}-3x+4}{x^{2}+3x+4} lies from 1/7 and 7.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 21,
+  "question": "Find the range of :f(x) =x^{2} + x + 2 x 2 + x + 1 , x∈R[IITJEE-2003]",
+  "options": "",
+  "answer": "1,\\frac{7}{3}"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-51",
+  "pdf_page": 22,
+  "question": "\\frac{2x^{2}+2x+3}{2} We call ‘p’ a good number if the inequality x+x+1≤pis satisfied for any real x. Find the smallest integral good number.",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-52",
+  "pdf_page": 22,
+  "question": "If α, β are the roots of equation x^{2}+ x- 2= 0, then find the value of \\frac{αβ^{4}(β+1)^{4}+βα^{4}(α+1)^{4}}{α^{2}+β^{2}+α+β}.",
+  "options": "",
+  "answer": "-4",
+  "note": "one big fraction over three text rows on the slide"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-53",
+  "pdf_page": 22,
+  "question": "The minimum value of the sum of the squares of the roots of x^{2}+ (3-a) x+ 1= 2ais:",
+  "options": "",
+  "answer": "6"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 23,
+  "question": "The number of real solutions of the equation 3x^{2}+\\frac{1}{x^{2}}-2x+^{1}x+ 5= 0, is [JEE Mains-2023]",
+  "options": "(A) 4 (B) 0 (C) 3 (D) 2",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-55",
+  "pdf_page": 23,
+  "question": "If x^{2}+ 4ax+ 3= 0and 2x^{2}+ 3ax-9= 0have a common root then the value of |a|is",
+  "options": "(A) 1 (B) 0 (C) -1 (D) None of these",
+  "answer": "A"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-56",
+  "pdf_page": 24,
+  "question": "If a, b, p, q are non-zero real numbers, then the equations 2a^{2}x^{2}-2abx+ b^{2}= 0 and p^{2}x^{2}+ 2pqx+ q^{2}= 0have:",
+  "options": "(A) No common root (B) One common root if 2a^{2}+ b^{2}= p^{2}+ q^{2} (C) Two common roots if 3pq= 2ab (D) Two common roots if 3qb= 2ap",
+  "answer": "A"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-57",
+  "pdf_page": 24,
+  "question": "x^{2}-11x+ aand x^{2}-14x+ 2awill have a common factor, if a=",
+  "options": "(A) 24 (B) 0, 24 (C) 3, 24 (D) 0, 3",
+  "answer": "B"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-58",
+  "pdf_page": 24,
+  "question": "If x^{2}+ px+ 1 is a factor of ax^{3}+ bx+ c, then",
+  "options": "(A) a^{2}+ c^{2}= -ab (B) a^{2}-c^{2}= -ab (C) a^{2}-c^{2}= ab (D) None of these",
+  "answer": "C"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-59",
+  "pdf_page": 25,
+  "question": "The value of p and q for which the equation px^{2}+ 5x+ 2= 0and 3x^{2}+ 10x+ q= 0 have both roots is common.",
+  "options": "(A) p=\\frac{3}{2}, q= 4 (B) p= 2, q=\\frac{3}{4} (C) p=\\frac{2}{3}, q= 4 (D) p= 4, q=\\frac{3}{2}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-60",
+  "pdf_page": 25,
+  "question": "If the equation x^{2}-4x+ 5= 0and x^{2}+ ax+ b= 0(where a, b∈ℝ) have a common roots then which of the following is correct?",
+  "options": "(A) a= -4, b= -5 (B) a+ b= 1 (C) a+ b= -1 (D) b-a= 1",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-61",
+  "pdf_page": 25,
+  "question": "If Q_{1}x= x^{2}+k-29x-k and Q_{2}x= 2x^{2}+2k-43x+ k both are factors of a cubic polynomial P(x), then the largest value of k is",
+  "options": "(A) 0 (B) 33 (C) 23 (D) 30",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-62",
+  "pdf_page": 26,
+  "question": "If the equation x^{2}+ abx+ c= 0and x^{2}+ acx+ b= 0,b≠c have a common root then their uncommon roots are the roots of the equation",
+  "options": "(A) a(b+ c) x^{2}+ (b+ c) x+ abc= 0 (B) ab+ cx^{2}-b+ cx-abc= 0 (C) ab+ cx^{2}-(b+ c) x+ abc= 0 (D) ab+ cx^{2}+b+ cx-abc= 0",
+  "answer": "(D)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-63",
+  "pdf_page": 26,
+  "question": "If a-bx^{2}+ 2b-cx+a-c+ 1= 0a, b, c∈ℝ and x^{2}+ 2x+ 5= 0 have a common roots, then which of the following is true?",
+  "options": "(A) a-b= 1 (B) a-b=\\frac{1}{3} (C) a-b=\\frac{1}{2} (D) a-b= 2",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-64",
+  "pdf_page": 26,
+  "question": "If equations ax^{2}-(a+ b) x+ b= 0& bx^{2}+ (b-c) x-c= 0has exactly one root in common a, b, c≠0, then which of the following can be correct?",
+  "options": "(A) b^{2}= ac (B) -a= b≠c (C) b= a≠c (D) -a≠b= c",
+  "answer": "A, B, D"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-65",
+  "pdf_page": 27,
+  "question": "Let λ≠0 be in R. If α and β are the roots of the equation, x^{2}-x+2λ= 0and α and γ are the roots of the equation, 3x^{2}-10x+ 27λ= 0, then^{βγ}is equal to:λ [JEE MAINS - 2020]",
+  "options": "(A) 18 (B) 36 (C) 9 (D) 27",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-66",
+  "pdf_page": 27,
+  "question": "If one root is square of the other root of equation x^{2} + px + q = 0, then the relation between pand q is [IIT-JEE-2004]",
+  "options": "(A) p^{3} - q(3p - 1) + q^{2} = 0 (B) p^{3} - q(3p + 1) + q^{2} = 0 (C) p^{3} + q(3p - 1) + q^{2} = 0 (D) p^{3} + q(3p + 1) + q^{2} = 0",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-67",
+  "pdf_page": 28,
+  "question": "Let x^{2}-m-3x+ m= 0,m∈R be a quadratic equation. Find the value of m for which (i) (ii) both the roots are smaller than 2. both the roots are greater than 2. (iii) one root is smaller than 2 and the other root is greater than 2. (iv) exactly one root lies in the interval (1, 2). (v) both the roots lie in the interval (1, 2). (vi) one root is greater than 2 and the other root is smaller than 1. (vii) atleast one root lie in interval (1, 2). (viii) atleast one root is greater than 2.",
+  "options": "",
+  "answer": "(i) m∈ (-∞, 1] , (ii) m∈[9, 10), (iii) m∈(10, ∞), (iv) m∈(10, ∞), (v) m∈∅, (vi) m∈∅, (vii) m∈(10, ∞), (viii) m∈[9, ∞) - {10}]"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-68",
+  "pdf_page": 29,
+  "question": "Find all values of a for which the equation 4x^{2} - 2x + a = 0 has two roots lie in the interval (-1, 1).",
+  "options": "",
+  "answer": "a∈-2,\\frac{1}{4}"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-69",
+  "pdf_page": 29,
+  "question": "The number of integral values of k, for which one root of the equation 2x^{2} - 8x + k = 0lies in the interval (1, 2) and its other root lies in the interval (2, 3), is [JEE Mains-2023]",
+  "options": "(A) 2 (B) 0 (C) 1 (D) 3",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-70",
+  "pdf_page": 29,
+  "question": "Find all the values of ‘a’ for which both roots of the equation x^{2}+ x+ a= 0exceed the quantity ‘a’.",
+  "options": "(A) (-∞, -2) (B) -∞,\\frac{1}{4} (C) (-2, 0) (D) -∞, -2∪0,\\frac{1}{4}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-71",
+  "pdf_page": 30,
+  "question": "Find the set of values of ‘a’for which zeroes of the quadratic polynomial a^{2}+ a+ 1x^{2}+a-1x+ a^{2}are located on either side of 3.",
+  "options": "(A) (-∞, -2) (B) (0, ∞) (C) ∅ (D) ℝ",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-72",
+  "pdf_page": 30,
+  "question": "Find all possible values of ‘a’for which exactly one root of the quadratic equation x^{2}-(a+ 1) x+ 2a= 0lie in the interval (0, 3).",
+  "options": "(A) (-∞, 0) ∪ (6, ∞ ) (B) (-∞, 0] ∪ (6, ∞ ) (C) (-∞, 0) ∪ [6, ∞ ) (D) (-∞, 0] ∪ [6, ∞ )",
+  "answer": "(B)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-73",
+  "pdf_page": 31,
+  "question": "If α, β, γ are roots of 5x3-qx-1= 0, (q∈R) find the value of\\frac{α^{2}-3}{βγ}+\\frac{β^{2}-3}{αγ}+\\frac{γ^{2}-3}{αβ}.",
+  "options": "",
+  "answer": "3"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-74",
+  "pdf_page": 31,
+  "question": "Given that α, β, γ are the roots of cubic equation x^{3}-3x^{2}+ 2x+\\frac{2}{3}= 0. The value of α^{4}+ β^{4}+ γ^{4} is equal to",
+  "options": "",
+  "answer": "9"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-75",
+  "pdf_page": 31,
+  "question": "P(x) = x^{3}+ 33x^{2}+ 327x+ 935. Let P(x) be a polynomial as described above with a; b;cthe roots of P(x). Find a^{2}+ b^{2}+ c^{2}without solving P(x) = 0.",
+  "options": "",
+  "answer": "435"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-76",
+  "pdf_page": 32,
+  "question": "Let α, β and γ are the roots of the cubic x^{3}-3x^{2}+ 1= 0. Find a cubic whose roots are\\frac{α}{α-2},\\frac{β}{β-2} and\\frac{γ}{γ-2}. Hence or otherwise find the value of (α-2)(β-2)(γ-2).",
+  "options": "",
+  "answer": "3y^{3}-9y^{2}-3y+ 1= 0,α-2 β-2 γ-2= 3"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-77",
+  "pdf_page": 32,
+  "question": "If α is a root of x^{3}-x-1= 0, then the value of α^{10}+ 2α^{8}-α^{7}-3α^{6}-3α^{5}+ 4α^{4}+ 2α^{3}-4α^{2}-6α+ 2 is",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-78",
+  "pdf_page": 32,
+  "question": "Let α, β, γ be the roots of the cubic equation x^{3}-px^{2}+ qx-r= 0. Find the value of sum of the cubes of the roots",
+  "options": "(A) p^{3}-3pq+ 3r (B) p^{3}-3pq-3r (C) p^{3}+ 3pq-3r (D) p^{3}-2pq+ r",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-79",
+  "pdf_page": 33,
+  "question": "If α, β, γ be the roots of the equation x^{3}+ ax+ a= 0(where a∈ℝ, a≠0 ) satisfy \\frac{α^{2}}{β}+\\frac{β^{2}}{γ}+\\frac{γ^{2}}{α}= -8, then a is -",
+  "options": "(A) -8 (B) -2 (C) 2 (D) 8",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-80",
+  "pdf_page": 33,
+  "question": "If a, b, c are the roots of cubic x^{3}-x^{2}+ 1= 0then find the value of a^{-2}+ b^{-2}+ c^{-2}",
+  "options": "(A) 0 (B) 1 (C) 2 (D) 3",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-81",
+  "pdf_page": 33,
+  "question": "If α, β, γ & δ are roots of equation x^{4}-7x^{2}+ x-5= 0, then value of",
+  "options": "(A) -5 (α+ β+ γ)(α+ β+ δ)(β+ γ+ δ)(α+ γ+ δ) is- (B) 5 (C) 1 (D) -1",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-82",
+  "pdf_page": 34,
+  "question": "If α, β, γ are the roots of equation x^{3}+ 2x-5= 0and if equation x^{3}+ bx^{2}+ cx+ d= 0 has roots 2α+ 1, 2β+ 1, 2γ+ 1, then value of |b+ c+ d| is (where b, c, dare coprime)",
+  "options": "(A) 41 (B) 39 (C) 40 (D) 43",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-83",
+  "pdf_page": 34,
+  "question": "The length of the sides of a triangle are the 3 distinct roots of the equation 4x^{3}-24x^{2}+ 47x-30= 0. If the area of triangle is Δ, find the value of 100Δ.",
+  "options": "(A) 100 (B) 200 (C) 150 (D) 250",
+  "answer": "(C)"
+ },
+ {
+  "book": "Quadratic Equations Part 01 DIBY",
+  "tag": "DIBY-84",
+  "pdf_page": 34,
+  "question": "Let for a≠a_{1}≠0, and f(x) = ax^{2}+ bx+ c, g(x) = a_{1}x^{2}+ b_{1}x+ c_{1} and p(x) = f(x) - g(x). If p(x) = 0 only for x= -1and p(-2) = 2, then the value of p(2) is [AIEEE-2011]",
+  "options": "(A) 18 (B) 3 (C) 9 (D) 6",
+  "answer": "(A)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-A",
+  "pdf_page": 3,
+  "question": "If the equations x^{3}+ x^{2}-4x= 4 and x^{2}+ px+ 2p= 0 (p∈R) have two roots common, then the value of p is",
+  "options": "(A) -2   (B) -1   (C) 1   (D) 3",
+  "answer": "B",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-B",
+  "pdf_page": 4,
+  "question": "The values of k, for which the equation x^{2}+ 2(k-1)x+ k+ 5= 0 possesses at least one positive root, are",
+  "options": "(A) [4, ∞)   (B) (-∞, -1) ∪[4, ∞)   (C) [-1, 4]   (D) (-∞, -1]",
+  "answer": "D",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-C",
+  "pdf_page": 5,
+  "question": "If the roots of the equation x^{2}+ (p+1)x+ 2q-q^{2}+ 3= 0 are real and unequal ∀ p∈R, then find the minimum integral value of (q^{2}-2q).",
+  "options": "",
+  "answer": "4",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-D",
+  "pdf_page": 6,
+  "question": "If α and β are the distinct roots of the equation x^{2}+ (3)^{1/4}x+ 3^{1/2}= 0, then the value of α^{96}(α^{12}-1) + β^{96}(β^{12}-1) is equal to",
+  "options": "(A) 56 × 3^{25}   (B) 56 × 3^{24}   (C) 52 × 3^{24}   (D) 25 × 3^{25}",
+  "answer": "C",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-E",
+  "pdf_page": 7,
+  "question": "If α, β and γ are roots of 3x^{3}-4x^{2}-3x+ 2= 0 and (α^{5}+β^{5}+γ^{5})-(α^{3}+β^{3}+γ^{3}) = \\frac{2}{m}(2(α^{4}+β^{4}+γ^{4})-(α^{2}+β^{2}+γ^{2})). Then value of m is",
+  "options": "",
+  "answer": "3",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-F",
+  "pdf_page": 8,
+  "question": "Let α, β, γ be roots of x^{3}+ 2x^{2}-4x+ 5= 0 find value of \\frac{(α^{3}+5)(β^{3}+5)(γ^{3}+5)}{13αβγ}",
+  "options": "",
+  "answer": "8",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-G",
+  "pdf_page": 9,
+  "question": "Let x_{1}, x_{2}, x_{3}, x_{4} be the solution of the equation 4x^{4}+ 8x^{3}-17x^{2}-12x+ 9= 0 and (4+x_{1}^{2})(4+x_{2}^{2})(4+x_{3}^{2})(4+x_{4}^{2}) = \\frac{125}{16}m. Then the value of m is ____________.",
+  "options": "",
+  "answer": "221",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-H",
+  "pdf_page": 10,
+  "question": "Let α, β, γ be distinct real number and f(x) is a quadratic polynomial such that f(2)α^{2}+ f(3)α+ f(4) = 4α^{2}+ 4α+ 8, f(2)β^{2}+ f(3)β+ f(4) = 4β^{2}+ 4β+ 8, f(2)γ^{2}+ f(3)γ+ f(4) = 4γ^{2}+ 4γ+ 8, then find the value of f(7).",
+  "options": "",
+  "answer": "44",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-I",
+  "pdf_page": 11,
+  "question": "Let α, β, γ be the three roots of the equation x^{3}+ bx+ c= 0. If βγ= 1= -α, then b^{3}+ 2c^{3}-3α^{3}-6β^{3}-8γ^{3} is equal to",
+  "options": "(A) 155/8   (B) 21   (C) 169/8   (D) 19",
+  "answer": "D",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-J",
+  "pdf_page": 12,
+  "question": "If α_{1}, α_{2}, α_{3}, α_{4}, α_{5} are roots of equation x^{5}-5x^{4}-1= 0, then",
+  "options": "(A) \\sum_{r=1}^{5} \\frac{1}{α_{r}^{4}}= -\\frac{1}{20}   (B) \\sum_{r=1}^{5} \\frac{1}{α_{r}^{4}}= -20   (C) \\prod_{r=1}^{5} (\\frac{1}{α_{r}^{4}}+ 5)^{5}= 1   (D) \\prod_{r=1}^{5} (\\frac{1}{α_{r}^{4}}+ 5)^{3}= \\frac{1}{5}",
+  "answer": "B, C",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-K",
+  "pdf_page": 13,
+  "question": "If α, β are roots of ax^{2}+ bx+ c= 0, then the equation ax^{2}-bx(x-1) + c(x-1)^{2}= 0 has roots",
+  "options": "(A) \\frac{α}{1-α}, \\frac{β}{1-β}   (B) \\frac{1-α}{α}, \\frac{1-β}{β}   (C) \\frac{α}{1+α}, \\frac{β}{1+β}   (D) \\frac{1+α}{α}, \\frac{1+β}{β}",
+  "answer": "B",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-L",
+  "pdf_page": 14,
+  "question": "If x^{2}+ 9y^{2}-4x+ 3= 0, x, y∈R, then x and y respectively lie in the intervals",
+  "options": "(A) [1, 3] and [1, 3]   (B) [1, 3] and [-\\frac{1}{3}, \\frac{1}{3}]   (C) [-\\frac{1}{3}, \\frac{1}{3}] and [1, 3]   (D) [-\\frac{1}{3}, \\frac{1}{3}] and [-\\frac{1}{3}, \\frac{1}{3}]",
+  "answer": "B",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Quadratic Equations Part 02 DIBY",
+  "tag": "DIBY-M",
+  "pdf_page": 15,
+  "question": "a, b, c, d are real numbers such that (a+1)(b+1)(c+1)(d+1) = 1, (a+2)(b+2)(c+2)(d+2) = 2, (a+3)(b+3)(c+3)(d+3) = 3, (a+4)(b+4)(c+4)(d+4) = 4. Find (a+5)(b+5)(c+5)(d+5).",
+  "options": "",
+  "answer": "29",
+  "note": "let ered book: question, options and answer re-read from the page (slide deck)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "Let a_{n} be the n^{th}term of an A. P. If S_{n}= a_{1}+ a_{2}+ a_{3}+ ⋯. +a_{n}= 700, a_{6}= 7and S_{7}= 7, then a_{n}is equal to: [JEE Mains-2025]",
+  "options": "(A) 56 (B) 65 (C) 64 (D) 70",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "If the first term of an A.P. is 3 and the sum of its first four terms is equal to one- fifth of the sum of the next four terms, then the sum of the first 20 terms is equal to [JEE Mains-2025]",
+  "options": "(A) -120 (B) -1200 (C) -1020 (D) -1080",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 2,
+  "question": "The roots of the quadratic 3x^{2}-px+ q= 0 are 10^{th}and 11^{th}terms of an arithmetic progression with common difference\\frac{3}{2}. If the sum of the first 11 terms of this arithmetic progression is 88, then q-2pis equal to [JEE Mains-2025]",
+  "options": "",
+  "answer": "474"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "In an arithmetic progression, if S_{40}= 1030and S_{12}= 57, then S_{30}-S_{10} is equal to [JEE Mains-2025]",
+  "options": "(A) 505 (B) 525 (C) 510 (D) 515",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 3,
+  "question": "If a_{1}, a_{2}, a_{3}, … are in A.P. such that a_{1}+ a_{7}+ a_{16}= 40, then the sum of the first 15 terms of this A.P. is [JEE Mains-2019]",
+  "options": "(A) 200 (B) 280 (C) 120 (D) 260",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 3,
+  "question": "If 19^{th}terms of non-zero A.P. is zero, then its (49^{th}term) : ( 29^{th}term) is: [JEE Mains-2019]",
+  "options": "(A) 4 : 1 (B) 1 : 3 (C) 3 : 1 (D) 2 : 1",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "Let S_{n} be the sum of the first n terms of an arithmetic progression. If S_{3n}= 3S_{2n}, then the value of\\frac{S_{4n}}{S_{2n}} is: [JEE Mains-2021]",
+  "options": "(A) 2 (B) 6 (C) 8 (D) 4",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 4,
+  "question": "a_{1}+a_{2}+⋯+a_{10}\\frac{100}{p2} Let a_{1}, a_{2}, a_{3}, … be an A.P. If a 1+a 2+⋯+a p=, p≠10, then\\frac{a_{11}}{a_{10}} is equal to: [JEE Mains-2021]",
+  "options": "(A) \\frac{21}{19} (B) \\frac{100}{121} (C) \\frac{121}{100} (D) \\frac{19}{21}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 5,
+  "question": "If log_{3}2, log_{3}2^{x}-5, log_{3}2^{x}-\\frac{7}{2} are in an arithmetic progression, then the value of x is equal to [JEE Mains-2021]",
+  "options": "",
+  "answer": "3"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 5,
+  "question": "If the 10^{th}term of an A.P. is\\frac{1}{20} and its 20^{th}term is\\frac{1}{10}, then the sum of its first 200 terms is [JEE Mains-2020]",
+  "options": "(A) 100 (B) 50\\frac{1}{4} (C) 100\\frac{1}{2} (D) 50",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 6,
+  "question": "If the sum of the series 20+ 19\\frac{3}{5}+ 19\\frac{1}{5}+ 18\\frac{4}{5}+ ⋯ upto n^{th}term is 488 and the n^{th} term is negative, then [JEE Mains-2020]",
+  "options": "(A) n= 41 (B) n^{th} term is -4\\frac{2}{5} (C) n= 60 (D) n^{th} term is -4",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 6,
+  "question": "Five numbers are in A.P., whose sum is 25 and product is 2520. If one of these five numbers is\\frac{-1}{2}, then the greatest number amongst them is [JEE Mains-2020]",
+  "options": "(A) \\frac{21}{2} (B) 16 (C) 27 (D) 7",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 7,
+  "question": "If 32sin2α-1, 14and 34-2sin2α are the first three terms of an A.P. for some α, then the sixth term of this A.P. is: [JEE Mains-2020]",
+  "options": "(A) 65 (B) 78 (C) 81 (D) 66",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 7,
+  "question": "If a_{1}, a_{2}, a_{3}. and b_{1}, b_{2}, b_{3}. are in A.P., and a_{1}= 2, a_{10}= 3, a_{1}b_{1}= 1= a_{10}b_{10}, then a_{4}b_{4} is equal to. [JEE Mains-2022]",
+  "options": "(A) \\frac{35}{27} (B) 1 (C) \\frac{27}{28} (D) \\frac{28}{27}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 7,
+  "question": "A software company sets up m number of computer systems to finish an assignment in 17 days. If 4 computer systems crashed on the start of the second day, 4 more computer systems crashed on the start of the third day and so on, then it took 8 more days to finish the assignment. The value of m is equal to: [JEE Mains-2024]",
+  "options": "(A) 125 (B) 150 (C) 180 (D) 160",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 8,
+  "question": "Consider two sets A and B, each containing three numbers in A. P. Let the sum and the product of the elements of A be 36 and p respectively and the sum and the product of the elements of B be 36 and q respectively. Let d and D be the common differences of AP's in A and B respectively such that D= d+ 3, d> 0. If \\frac{p+q}{p-q}=\\frac{19}{5}, then p-qis equal to [JEE Mains-2025]",
+  "options": "(A) 600 (B) 450 (C) 630 (D) 540",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 8,
+  "question": "Consider an A. P. of positive integers, whose sum of the first three terms is 54 and the sum of the first twenty terms lies between 1600 and 1800. Then its 11^{th} term is: [JEE Mains-2025]",
+  "options": "(A) 84 (B) 90 (C) 108 (D) 122",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 9,
+  "question": "Number of 4 digit integers less than 2800 which are either divisible by 3 or by 11 is equal to ? [JEE Mains-2023]",
+  "options": "",
+  "answer": "710"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 9,
+  "question": "If where n is an even integer, is an arithmetic progression with common difference 1, and σ^{n}i=1a_{i}= 192,σ^{n/2}i=1a_{2i}= 120,, then n is equal to [JEE Mains-2022]",
+  "options": "(A) 48 (B) 96 (C) 92 (D) 104",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 9,
+  "question": "Let S_{1} be the sum of first 2n term of an arithmetic progression. Let S_{2} be the sum of first 4n terms of the same arithmetic progression. If (S_{2} - S_{1}) is 1000, then the sum of the first 6n terms of the arithmetic progression is equal to [JEE Mains-2021]",
+  "options": "(A) 5000 (B) 1000 (C) 7000 (D) 3000",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 10,
+  "question": "The sum of all natural numbers ‘n’ such that 100< n< 200 and H.C.F. (91, n) > 1 is [JEE Mains-2019]",
+  "options": "(A) 3221 (B) 3121 (C) 3203 (D) 3303",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 10,
+  "question": "The series of positive multiples of 3 is divided into sets : {3}, {6, 9, 12}, {15, 18, 21, 24, 27}, ……… Then the sum of the elements in the 11^{th} set is equal to [JEE Mains-2022]",
+  "options": "",
+  "answer": "6993"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 10,
+  "question": "Let a_{1}, a_{2}, … a_{30} be an A.P., S= σ^{30}i=1a_{i}and T= σ^{15}i=1a_{2i-1}. If a_{5}= 27and S-2T= 75, then a_{10} is equal to [JEE Mains-2019]",
+  "options": "(A) 52 (B) 57 (C) 47 (D) 42",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 11,
+  "question": "Let a_{1}, a_{2}, … a_{2024} be an Arithmetic Progression such that a_{1}+ ൫a_{5}+ a_{10}+a_{15}+ ⋯+ a_{2020})+ a_{2024}= 2233. Then a_{1}+ a_{2}+ a_{3}+ ⋯+ a_{2024} is equal to [JEE Mains-2025]",
+  "options": "",
+  "answer": "11132"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 11,
+  "question": "If p^{th}, q^{th}and r^{th}term of an A.P. are respectively a, b and c, then the value of a(q-r) + b(r-p) + c(p-q) is",
+  "options": "(A) 0 (B) 1 (C) p+ q+ r (D) abc",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 11,
+  "question": "Find the value of the sum S= 100^{2}-99^{2}+ 98^{2}-97^{2}+ 96^{2}-95^{2}+. . . +2^{2}-1^{2}",
+  "options": "(A) 4950 (B) 10100 (C) 5150 (D) 5050",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-27",
+  "pdf_page": 12,
+  "question": "The sum of first 3 terms of an A.P. is 27 and the sum of their squares is 293, then first term and common difference of A.P. is",
+  "options": "(A) First term = 3, Common difference = ±6 (B) First term = 4, Common difference = 5 (C) First term = 4 or 14, Common difference = ±5 (D) First term = 2 or 16, Common difference = ±7",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 12,
+  "question": "The number of terms in an A.P. is even, the sum of the odd numbered terms is 24 & sum of the even numbered terms is 30 and the last term exceeds the first term by 10\\frac{1}{2}. Find the number of terms.",
+  "options": "(A) 4 (B) 6 (C) 8 (D) 12",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 13,
+  "question": "How many terms of the series, 20+ 19\\frac{1}{3}+ 18\\frac{2}{3}+ ⋯. .. must be taken so that sum is 300. Explain the reason of double answer.",
+  "options": "(A) n= 25 or n= 36; the sum of the terms from 26^{th} to 36^{th} is zero (B) n= 20 orn= 30; the common difference becomes positive after the 20^{th} term (C) n= 15 or n= 40; the terms after the 15^{th}term are perfectly symmetrical (D) n= 25 only; the negative value of n= -36 is rejected",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 13,
+  "question": "If the sum of the roots of the equation ax^{2}+ bx+ c= 0is equal to the sum of the squares of their reciprocals, then show that bc^{2}, ca^{2}, ab^{2} are in A.P.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 14,
+  "question": "A person is to count 4500 currency notes. Let a_{n} denote the number of notes he counts in the n^{th}minute. If a_{1}= a_{2}= ⋯= a_{10}= 150 and a_{10}, a_{11}, …are in an AP with common difference -2, then the time taken by him to count all notes is [AIEEE-2010]",
+  "options": "(A) 24 minutes (B) 34 minutes (C) 125 minutes (D) 135 minutes",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 14,
+  "question": "Let the sum of the first n terms of a non-constant A.P., a_{1}, a_{2}, a_{3}… be 50n+\\frac{n(n-7)}{2}A, where A is constant. If d is the common difference of this A.P., then the ordered pair (d, a_{50}) is equal to: [JEE Mains-2019]",
+  "options": "(A) (A, 50+ 45A) (B) 50, 50+ 46A (C) (A, 50+ 46A) (D) (50, 50+ 45A)",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-33",
+  "pdf_page": 15,
+  "question": "Along a road lies an odd number of stones placed at intervals of 10 m. These stones have to be assembled around the middle stone. A person can carry only one stone at a time. A man carried out the job starting with the stone in the middle, carrying stones in succession, thereby covering a distance of 4.8 km. Then the number of stones is",
+  "options": "(A) 15 (B) 29 (C) 31 (D) 35",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-34",
+  "pdf_page": 16,
+  "question": "Let a_{1}, a_{2}, a_{3}, … be a G. P. of increasing positive numbers. If a_{3}a_{5}= 729 and \\frac{111}{4} a_{2}+ a_{4}=, then 24a_{1}+ a_{2}+ a_{3} is equal to [JEE Mains-2025]",
+  "options": "(A) 131 (B) 130 (C) 129 (D) 128",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-35",
+  "pdf_page": 16,
+  "question": "Let a_{1}, a_{2}, a_{3}, … be a G.P. of increasing positive terms. If a_{1}a_{5}= 28and a_{2}+ a_{4}= 29, then a_{6}is equal to: [JEE Mains-2025]",
+  "options": "(A) 812 (B) 526 (C) 784 (D) 628",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-36",
+  "pdf_page": 16,
+  "question": "Let a and b be two distinct positive real numbers. Let 11^{th} term of a GP, whose first term is a and third term is b, is equal to p^{th} term of another GP, whose first term is a and fifth term is b. Then p is equal to [JEE Mains-2024]",
+  "options": "(A) 20 (B) 25 (C) 21 (D) 24",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-37",
+  "pdf_page": 17,
+  "question": "Let a_{1}, a_{2}, a_{3}, … be a G.P. of increasing positive numbers. Let the sum of its 6^{th} and 8^{th} terms be 2 and the product of its 3^{rd} and 5^{th} terms be\\frac{1}{9}. Then 6a_{2}+ a_{4}a_{4}+ a_{6} is equal to [JEE Mains-2023]",
+  "options": "(A) 22 (B) 2 (C) 33 (D) 3",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-38",
+  "pdf_page": 17,
+  "question": "In an increasing geometric progression of positive terms, the sum of the second and sixth terms is\\frac{70}{3} and the product of the third and fifth terms is 49. Then the sum of the 4^{th}, 6^{th}and 8^{th} terms is: [JEE Mains-2024]",
+  "options": "(A) 96 (B) 78 (C) 91 (D) 84",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-39",
+  "pdf_page": 18,
+  "question": "Find the four successive terms of a. G.P. of which the 2^{nd} term is smaller than the first by 35 and the 3^{rd} term is larger than the 4^{th} by 560.",
+  "options": "(A) 7, -28, 112, -448 (B) 5, -20, 80, -320 (C) 7, 28, 112, 448 (D) -\\frac{35}{3}, -\\frac{140}{3}, -\\frac{560}{3}, -\\frac{2240}{3}",
+  "answer": "A, D"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-40",
+  "pdf_page": 18,
+  "question": "If a_{1}, a_{2}, a_{3} are in G.P. such that a_{1}+ a_{2}+ a_{3}= 13and a^{2}1+ a^{2}2+ a^{2}3= 91. Find a and r.",
+  "options": "(A) (a= 1, r= 2) or a= 4, r=\\frac{1}{2} (B) (a= 3, r= 1) or a=\\frac{1}{3}, r= 9 (C) (a= 2, r= 3) or a= 9, r=\\frac{1}{2} (D) (a= 1, r= 3) or a= 9, r=\\frac{1}{3}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-41",
+  "pdf_page": 19,
+  "question": "If S_{1}, S_{2}, S_{3}, … . S_{p}are the sums of infinite G.P. whose first terms are 1, 2, 3, … … p, and whose common ratios are\\frac{1}{2},\\frac{1}{3},\\frac{1}{4}, … …_{p+1} respectively, then find the value of S_{1}+ S_{2}+ S_{3}+ ⋯S_{p}.1",
+  "options": "(A) \\frac{p(p+1)}{2} (B) \\frac{(p+1)(p+3)}{2} (C) \\frac{p}{2}(p+ 3) (D) p(p+ 3)",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-42",
+  "pdf_page": 19,
+  "question": "The sum of an infinite number of terms of a G.P. is 15 and the sum of their squares is 45. Find the series.",
+  "options": "(A) 5,\\frac{10}{3},\\frac{20}{9},\\frac{40}{27}, … (B) 3, 2,\\frac{4}{3},\\frac{8}{9}, … (C) 5,\\frac{5}{3},\\frac{5}{9},\\frac{5}{27}, … (D) 3,\\frac{6}{5},\\frac{12}{25}, …",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-43",
+  "pdf_page": 20,
+  "question": "If the sum of an infinite GP a, ar, ar^{2}, ar^{3}….., is 15 and the sum of squares of of its each term is 150, then the sum of ofar^{2}, ar^{4}, ar^{6}…….upto infinity, is: [JEE Mains-2021]",
+  "options": "(A) \\frac{1}{2} (B) \\frac{25}{2} (C) \\frac{5}{2} (D) \\frac{9}{2}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-44",
+  "pdf_page": 20,
+  "question": "Three numbers are in an increasing geometric progression with common ratio r. If the middle number is doubled, then the new numbers are in an arithmetic progression with common difference d. If the fourth term of GP is 3r^{2}, then r^{2}-d is equal to: [JEE Mains-2021]",
+  "options": "(A) 7+3 (B) 7-3 (C) 7+ 33 (D) 7-73",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 21,
+  "question": "If the sum of the second, third and fourth terms of a positive term. G.P. is 3 and the sum of its sixth, seventh and eighth terms is 243, then the sum of the first 50 terms of this G.P. is: [JEE Mains-2020]",
+  "options": "(A) \\frac{2}{13}(3^{50}-1)   (B) \\frac{1}{13}(3^{50}-1)   (C) \\frac{1}{26}(3^{49}-1)   (D) \\frac{1}{26}(3^{50}-1)",
+  "answer": "(D)",
+  "note": "options are a fraction multiplied by a bracketed term: the bracket was being read as the fraction's denominator"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-46",
+  "pdf_page": 21,
+  "question": "The greatest positive integer k, for which 49^{k}+ 1is a factor of the sum 49^{125}+ 49^{124}+ ⋯+ 49^{2}+ 49+ 1, is [JEE Mains-2020]",
+  "options": "(A) 32 (B) 63 (C) 65 (D) 60",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 21,
+  "question": "If the sum of the second, fourth and sixth terms of a G.P. of positive terms is 21 and the sum of its eighth, tenth and twelfth terms is 15309, then the sum of its first nine terms is: [JEE Mains-2025]",
+  "options": "(A) 760 (B) 755 (C) 750 (D) 757",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 22,
+  "question": "If three distinct numbers a, b, c are in G.P. and the equations ax^{2}+ 2bx+ c= 0 and dx^{2}+ 2ex+ f= 0 have a common root, then which one of the following statements is correct? [JEE Mains-2019]",
+  "options": "(A) d, e, f are in A.P (B) \\frac{d}{a},\\frac{e}{b},\\frac{f}{c} are in G.P (C) \\frac{d}{a},\\frac{e}{b},\\frac{f}{c} are in A.P (D) d, e, f are in G.P",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 22,
+  "question": "Find the sum of the following series (i) (ii)5 + 55 + 555 + …… to n terms 0.3 + 0.33 + 0.333 + …… to n terms \\frac{10^{n}-1}{9}",
+  "options": "",
+  "answer": "(i)\\frac{5}{9}10-n(ii)\\frac{1}{3}n-\\frac{1}{9}1-\\frac{1}{10}n"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 22,
+  "question": "If x = 1 + a + a^{2} + a^{3} + …… ∞and y = 1 + b + b^{2} + b^{3} + …… ∞show that 1 + ab + a^{2}b^{2} + a^{3}b^{3} + ……. ∞ =\\frac{xy}{x+y -1} where 0 < a < 1 and 0 < b < 1.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-51",
+  "pdf_page": 23,
+  "question": "For the two positive number a, b if a, band\\frac{1}{18} are in a geometric progression, while\\frac{1}{a} , 10 and\\frac{1}{b}are in an arithmetic progression, then 16a + 12bis equal to [JEE Mains-2023]",
+  "options": "",
+  "answer": "3"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-52",
+  "pdf_page": 23,
+  "question": "If the first 3 consecutive terms of a geometrical progression are the roots of the equation 2x^{3} - 19x^{2} + 57x - 54 = 0 find the sum to infinite number of terms of G.P.",
+  "options": "",
+  "answer": "\\frac{27}{2}"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-53",
+  "pdf_page": 23,
+  "question": "Let x_{1}, x_{2}, x_{3}, x_{4}be in a geometric progression. If 2, 7, 9, 5 are subtracted respectively from x_{1}, x_{2}, x_{3}, x_{4}then the resulting numbers are in an arithmetic progression. Then the value of\\frac{1}{24}x_{1}x_{2}x_{3}x_{4} is: [JEE Mains-2025]",
+  "options": "(A) 72 (B) 18 (C) 36 (D) 216",
+  "answer": "216"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 24,
+  "question": "If p arithmetic mean are inserted between 5 and 41 so that ratio\\frac{A3}{A_{p-1}}=\\frac{2}{5}, then find the value of p.",
+  "options": "",
+  "answer": "11"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-55",
+  "pdf_page": 24,
+  "question": "If a_{1}a_{2}a_{3} … . . a_{n}are n arithmetic means inserted between 7 and 2015 whose sum is 56616, then",
+  "options": "(A) n is 56 (B) n is 28 (C) a_{19} = 2029/3 (D) a_{19} = 36543/57",
+  "answer": "(A,C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-56",
+  "pdf_page": 24,
+  "question": "The sides of a right angled triangle are in arithmetic progression. If the triangle has area 24, then what is the length of its smallest side?",
+  "options": "",
+  "answer": "6"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-57",
+  "pdf_page": 25,
+  "question": "\\frac{108}{5}\\frac{107}{52}2 1-54 Let S= 109+++ ⋯+_{5}107+_{5}108. Then the value of 16S-(25) is equal to [JEE Mains-2023]",
+  "options": "",
+  "answer": "2175"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-58",
+  "pdf_page": 25,
+  "question": "Suppose a_{1}, a_{2}, 2, a_{3}, a_{4}be in an arithmetico-geometric progression. If the common ratio of the corresponding geometric progression is 2 and the sum of all 5 terms of the arithmetico-geometric progression is 49 2, then a_{4}is equal to ___________ . [JEE Mains-2023]",
+  "options": "",
+  "answer": "16"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-59",
+  "pdf_page": 25,
+  "question": "If 7= 5+\\frac{1}{7}(5+ α) +\\frac{1}{7^{2}}(5+ 2α) +\\frac{1}{7^{3}}(5+ 3α) + ⋯∞, then the value of α is : [JEE Mains-2025]",
+  "options": "(A) \\frac{6}{7} (B) \\frac{1}{7} (C) 6 (D) 1",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-60",
+  "pdf_page": 26,
+  "question": "Let S= 2+\\frac{6}{7}+_{7}2+_{7}3+_{7}4+ ⋯. Then 4S is equal to 12 20 30[JEE Mains-2022]",
+  "options": "(A) \\frac{7}{3}2 (B) \\frac{7^{3}}{32} (C) \\frac{7}{3}3 (D) \\frac{7^{2}}{33}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-61",
+  "pdf_page": 26,
+  "question": "If 3 612+\\frac{10}{3^{11}}+\\frac{20}{3^{10}}+^{40}9+ ⋯+^{10240}= 2^{n}⋅m, where m is odd, then mn is equal to 3 3 [JEE Mains-2022]",
+  "options": "",
+  "answer": "12"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-62",
+  "pdf_page": 26,
+  "question": "If S=\\frac{7}{5}+\\frac{9}{5^{2}}+_{5}3+_{5}4+ ⋯, then 160S is equal to 13 19[JEE Mains-2021]",
+  "options": "",
+  "answer": "305"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-63",
+  "pdf_page": 26,
+  "question": "If S(x) = (1+ x) + 2(1+ x)^{2}+ 3(1+ x)^{3}+ ⋯+ 60(1+ x)^{60}, x≠0, and (60)^{2}S(60) = a(b)^{b}+ b, where a, b∈N, then (a+ b) equal to [JEE Mains-2024]",
+  "options": "",
+  "answer": "3660"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-64",
+  "pdf_page": 27,
+  "question": "Let a and b be positive real numbers. If a, A_{1}, A_{2}, b are in arithmetic progression, a, G_{1}, G_{2}, b are in geometric progression and a, H_{1}, H_{2}, b are in harmonic progression, show that\\frac{G_{1}G_{2}}{H_{1}H_{2}}=\\frac{A_{1}+A_{2}}{H_{1}+H_{2}}=(2a+b)(a+2b)9ab.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-65",
+  "pdf_page": 27,
+  "question": "Find the sum 2017+\\frac{1}{4}2016+\\frac{1}{4}2015+ ⋯+\\frac{1}{4}2+\\frac{1}{4}(1)… \\frac{1}{1-_{4}2017}",
+  "options": "",
+  "answer": "S=\\frac{4}{3}(2017) -\\frac{4}{9}"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-66",
+  "pdf_page": 27,
+  "question": "Find the sum 1+ 21+\\frac{1}{50}+ 31+\\frac{1}{50}2+ ⋯50terms .",
+  "options": "",
+  "answer": "2500"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-67",
+  "pdf_page": 27,
+  "question": "\\frac{1^{2}}{2}3^{2}5^{2}7^{2} Find the sum+_{2}2+_{2}3+_{2}4+ ⋯∞",
+  "options": "",
+  "answer": "17"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-68",
+  "pdf_page": 28,
+  "question": "Let α and β be the roots of equation px^{2}+ qx+ r= 0, p≠0. If p, q, r, are in A.P. and \\frac{1}{α}+\\frac{1}{β}= 4, then the value of |α-β|is: [JEE Main-2014]",
+  "options": "(A) \\frac{61}{9} (B) \\frac{217}{9} (C) \\frac{34}{9} (D) \\frac{213}{9}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-69",
+  "pdf_page": 28,
+  "question": "If b, a, c are in Arithmetic Progression (A.P.) and c, b, a are in Geometric Progression (G.P.), then the sequence a, c, bis in.",
+  "options": "(A) Arithmetic Progression (A.P.) (B) Geometric Progression (G.P.) (C) Harmonic Progression (H.P.) (D) Arithmetico-Geometric Progression (A.G.P.)",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-70",
+  "pdf_page": 29,
+  "question": "Find the sum to n terms and also S∞ for 1+\\frac{4}{5}+\\frac{7}{5^{2}}+_{5}3 10+ ⋯",
+  "options": "(A) S_{n}=\\frac{35}{16}-\\frac{12n+7}{16.5^{n-1}} and S_{∞}=\\frac{35}{16} (B) S_{n}=\\frac{35}{16}-\\frac{12n-7}{16⋅5^{n-1}} and S_{∞}=^{35}16 (C) S_{n}=\\frac{25}{16}-\\frac{12n+5}{16.5^{n-1}} and S_{∞}=\\frac{25}{16} (D) None of these",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-71",
+  "pdf_page": 30,
+  "question": "The value of 1^{2}+ 3^{2}+ 5^{2}+ ⋯+ 25^{2} is : [JEE Mains-2013]",
+  "options": "(A) 1728 (B) 1456 (C) 2925 (D) 1469",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-72",
+  "pdf_page": 30,
+  "question": "The sum of the series 1+ 2× 3+ 3× 5+ 4× 7+ ⋯ upto 11^{th}term is : [JEE Mains-2019]",
+  "options": "(A) 916 (B) 945 (C) 915 (D) 946",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-73",
+  "pdf_page": 30,
+  "question": "Find the sum of the first n terms of the series 3^{2}+ 7^{2}+ 11^{2}+ ⋯up to nterms",
+  "options": "(A) \\frac{n}{3}(16n^{2}+ 12n-1)   (B) \\frac{n}{3}(16n^{2}-12n+ 1)   (C) \\frac{n}{3}(16n^{2}+ 12n+ 1)   (D) \\frac{n}{2}(16n^{2}+ 12n-1)",
+  "answer": "(A)",
+  "note": "option parentheses are drawn, not text: restored from the page"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-74",
+  "pdf_page": 31,
+  "question": "Compute the sum of the series whose n^{th} term is given by T_{n}= n(n+ 1)(3n-1).",
+  "options": "(A) \\frac{n(n+1)(3n^{2}+3n-2)}{12}   (B) \\frac{n(n+1)(9n^{2}+15n+2)}{12}   (C) \\frac{n(n+1)(n+2)(9n-1)}{12}   (D) \\frac{n(n+1)(3n^{2}+n+2)}{4}",
+  "answer": "(C)",
+  "note": "four big fractions over two baselines"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-75",
+  "pdf_page": 31,
+  "question": "Compute the sum (31)^{2}+ (32)^{2}+ (33)^{2}+ ⋯… + (50)^{2}.",
+  "options": "(A) 32,925 (B) 33,470 (C) 34,185 (D) 35,310",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-76",
+  "pdf_page": 31,
+  "question": "The value(S) of the positive integer n for which the quadratic equation, σ^{n}k=1(x+ k-1)(x+ k) = 10nhas solutions α and α+ 1for some α is.",
+  "options": "(A) 10 (B) 11 (C) 12 (D) 13",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-77",
+  "pdf_page": 32,
+  "question": "The sum σ^{20}k=1 1+ 2+ 3+. . . . . +k is [JEE Mains-2020]",
+  "options": "",
+  "answer": "1540"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-78",
+  "pdf_page": 32,
+  "question": "Let S_{n} be the sum to n-terms of an arithmetic progression 3, 7, 11, …… . If 40<\\frac{6}{nn+1}σ^{n}k=1S_{k}< 42, then n equals [JEE Mains-2024]",
+  "options": "",
+  "answer": "9"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-79",
+  "pdf_page": 32,
+  "question": "The sum of the series 1+ 2× 3+ 3× 5+ 4× 7+ ⋯upto 11^{th} term is: [JEE Mins-2019]",
+  "options": "(A) 915   (B) 946   (C) 945   (D) 916",
+  "answer": "(B)",
+  "note": "option (D) carried the margin tag '[JEE Mins-2019]' and (A) lost its bracket"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-80",
+  "pdf_page": 33,
+  "question": "Let S_{K}=1+2+⋯+K and σ^{n}j=1S^{2}j K=\\frac{n}{A}Bn^{2}+ Cn+ D where A, B, C, D∈ℕ and A has least value. Then [JEE Mains-2023]",
+  "options": "(A) A+ C+ D is not divisible by B (B) A+ B= 5D-C (C) A+ B+ D is divisible by 5 (D) A+ B is divisible by D",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-81",
+  "pdf_page": 33,
+  "question": "13+23+33+⋯ upto n terms If=\\frac{9}{5}, then the value of n is [JEE Mains-2023] 1⋅3+2⋅5+3⋅7+⋯ upto n terms",
+  "options": "",
+  "answer": "5"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-82",
+  "pdf_page": 33,
+  "question": "If gcd(m, n) = 1and 1^{2}-2^{2}+ 3^{2}-4^{2}+ ⋯+ (2021)^{2}-(2022)^{2}+ (2023)^{2}= 1012m^{2}n, then m^{2}-n^{2}is equal to [JEE Mains-2023]",
+  "options": "(A) 200 (B) 240 (C) 220 (D) 180",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-83",
+  "pdf_page": 34,
+  "question": "If the sum of the first 15 terms of the series\\frac{3}{4}3+1\\frac{1}{2}3+2\\frac{1}{4}3+ 3 3+3\\frac{3}{4}3+ ⋯is equal to 225k, then k is equal to: [JEE Mains-2019]",
+  "options": "(A) 108 (B) 27 (C) 54 (D) 9 WRITING T_{n} FOR SERIES WITH COMMON DIFFERENCE IN AP OR GP",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-84",
+  "pdf_page": 35,
+  "question": "S_{n} = 2 + 5 + 14 + 41 + 122 + …….. Upto n-terms.",
+  "options": "",
+  "answer": "\\frac{3^{n+1}+2n-3}{4}"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-85",
+  "pdf_page": 35,
+  "question": "The sum 1+ 3+ 11+ 25+ 45+ 71+ ⋯ upto 20 terms, is equal to [JEE Mains-2025]",
+  "options": "(A) 7240 (B) 7130 (C) 6982 (D) 8124",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-86",
+  "pdf_page": 35,
+  "question": "If S_{n}= 4+ 11+ 21+ 34+ 50+ ⋯ to nterms, then\\frac{1}{60}S_{29}-S_{9}[JEE Mains-2023]",
+  "options": "(A) 226   (B) 220   (C) 223   (D) 227",
+  "answer": "(C)",
+  "note": "the page heading 'WRITING Tn FOR SERIES WITH COMMON DIFFERENCE IN AP OR GP' had been folded into option (D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-87",
+  "pdf_page": 36,
+  "question": "Find the sum of the series 6 + 13 + 22 + 33 + …… up to nterms.",
+  "options": "(A) \\frac{n}{6}2n^{2}+ 15n+ 19 (B) \\frac{n}{6}2n^{2}+ 13n+ 21 (C) \\frac{n}{3}n^{2}+ 7n+ 10 (D) \\frac{n}{6}2n^{2}+ 11n+ 17",
+  "answer": "(A)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-88",
+  "pdf_page": 37,
+  "question": "32-1+_{5}2-1+_{7}2-1+ ⋯+_{(201)}2-1 is equal to 1 1 1 1[JEE Mains-2021]",
+  "options": "(A) \\frac{101}{404} (B) \\frac{25}{101} (C) \\frac{101}{408} (D) \\frac{99}{400}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-89",
+  "pdf_page": 37,
+  "question": "If the sum of series\\frac{1}{1⋅(1+d)}+(1+d)(1+2d)1+ ⋯+(1+9d)(1+10d)1 is equal to 5, then 50d is equal to: [JEE Mains-2024]",
+  "options": "(A) 20 (B) 5 (C) 15 (D) 10",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-90",
+  "pdf_page": 37,
+  "question": "The sum σ_{n=1}21(4n-1)(4n+3)3 is equal to [JEE Mains-2022]",
+  "options": "(A) \\frac{7}{87} (B) \\frac{7}{29} (C) \\frac{14}{87} (D) \\frac{21}{29}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-91",
+  "pdf_page": 38,
+  "question": "The sum of 10 terms of the series_{1}2×22+_{2}2×32+_{3}2×42+ ⋯is [JEE Mains-2021]3 5 7",
+  "options": "(A) \\frac{143}{144} (B) 1 (C) \\frac{99}{100} (D) \\frac{120}{121}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-92",
+  "pdf_page": 38,
+  "question": "If \\frac{1}{2×3×4}+\\frac{1}{3×4×5}+\\frac{1}{4×5×6}+ ⋯+100×101×102 1=\\frac{k}{101}, then 34k is equal to [JEE Mains-2022]",
+  "options": "",
+  "answer": "286"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-93",
+  "pdf_page": 38,
+  "question": "If σ_{k=1}10 k 4+k k 2+1=\\frac{m}{n}, where m and n are co-prime, then m+ nis equal to [JEE Mains-2022]",
+  "options": "",
+  "answer": "166"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-94",
+  "pdf_page": 39,
+  "question": "The sum to 10 terms of the series_{1+1}2+14+_{1+2}2+24+_{1+3}2+34+ ⋯is 1 2 3 [JEE Mains-2023]",
+  "options": "(A) \\frac{59}{111} (B) \\frac{55}{111} (C) \\frac{56}{111} (D) \\frac{58}{111}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-95",
+  "pdf_page": 39,
+  "question": "If a_{n}=4n 2\\frac{-2}{-16n+15}, then a1+ a2+ ⋯+ a25 is equal to: [JEE Mains-2023]",
+  "options": "(A) \\frac{51}{144} (B) \\frac{49}{138} (C) \\frac{50}{141} (D) \\frac{52}{147}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-96",
+  "pdf_page": 39,
+  "question": "The sum of the series1-3⋅12+14+_{1-3⋅2}2+24+_{1-3⋅3}2+34+. . .up to 10 terms is 1 2 3 [JEE Mains-2024]",
+  "options": "(A) \\frac{45}{109} (B) -\\frac{45}{109} (C) \\frac{55}{109} (D) -\\frac{55}{109}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-97",
+  "pdf_page": 40,
+  "question": "If the sum of the first 20 terms of the series4+3.12+14+_{4+3.2}2+24+_{4+3.3}2+34 4.1 4.2 4.3 \\frac{4.4}{2}m +4+ ⋯isn, where m and n are coprime, then m+ nis equal to \\frac{4+3.4}",
+  "options": "(A) 423}+4 (B) 420 (C) 421 (D) 422",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-98",
+  "pdf_page": 40,
+  "question": "The sum σ_{k=1}n(k+1) k+kk+1 1 is equal to",
+  "options": "",
+  "answer": "\\frac{n+1-1}{n+1}"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-99",
+  "pdf_page": 41,
+  "question": "Find the sum σ_{n=1}∞3n-2n 3n+1-2n+1 6^{n}",
+  "options": "",
+  "answer": "(2)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-100",
+  "pdf_page": 41,
+  "question": "1 1 1 1 Find the sum of the series 3 2+1+4 2+2+5 2+3+6 2+4+ ⋯∞.",
+  "options": "",
+  "answer": "(13/36)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-101",
+  "pdf_page": 41,
+  "question": "Find the sum σ∞n=2 n\\frac{3n^{2}+1}{2}-1 3",
+  "options": "",
+  "answer": "(09/16)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-102",
+  "pdf_page": 41,
+  "question": "Let S=1+1+1 2+1+2+2 3+1+3+3 4+ ⋯+1+n+n n+1= 10. Then find the value of n.",
+  "options": "",
+  "answer": "(24)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-103",
+  "pdf_page": 42,
+  "question": "Minimum value of sum of real numbers a^{-5}, a^{-4}, 3a^{-3}, 1, a^{8} & a^{10} (where a > 0) [IIT-JEE-2011]",
+  "options": "",
+  "answer": "8"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-104",
+  "pdf_page": 42,
+  "question": "If a > 0, b > 0, c > 0, then show that : a+ b+ c\\frac{1}{a}+\\frac{1}{b}+\\frac{1}{c}≥9[JEE-1984]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-105",
+  "pdf_page": 42,
+  "question": "For positive real number a, b & c show that 1+ a 1+ b 1+ c 7> 7^{7}a^{4}b^{4}c^{4}[JEE-2004]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-106",
+  "pdf_page": 42,
+  "question": "Let x, y > 0. If x^{3}y^{2} = 2^{15}, then the least value of 3x + 2yis [JEE Mains-2022]",
+  "options": "(A) 30 (B) 32 (C) 36 (D) 40",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-107",
+  "pdf_page": 43,
+  "question": "The minimum value of fx= a a^{x}+ a 1-a^{x},, where a, x∈R and a > 0, is equal to [JEE Mains-2021]",
+  "options": "(A) a +\\frac{1}{a} (B) 2a (C) a + 1 (D) 2 a",
+  "answer": "D"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-108",
+  "pdf_page": 43,
+  "question": "Let a, b, c and d be positive real numbers such that a + b + c + d = 11. If the maximum value of a^{5}b^{3}c^{2}d is 3750β, then the value of β is [JEE Mains-2023]",
+  "options": "(A) 110 (B) 108 (C) 90 (D) 55",
+  "answer": "C"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-109",
+  "pdf_page": 43,
+  "question": "If the minimum value of fx=\\frac{5x^{2}}{2}+\\frac{α}{x^{5}}, x> 0is 14, then the value of α is equal to [JEE Mains-2022]",
+  "options": "(A) 32 (B) 64 (C) 128 (D) 256",
+  "answer": "(C)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-110",
+  "pdf_page": 44,
+  "question": "Simplify : S=\\frac{2}{1!}+\\frac{4}{3!}+\\frac{6}{5!}+\\frac{8}{7!}+. . . . . ∞",
+  "options": "",
+  "answer": "(e)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-111",
+  "pdf_page": 44,
+  "question": "S = 1 + \\frac{1+2}{2!} + \\frac{1+2+2^{2}}{3!} + \\frac{1+2+2^{2}+2^{3}}{4!} + \\ldots \\infty",
+  "options": "",
+  "answer": "(e^{2}- e)",
+  "note": "image-only question on p44: three stacked fractions are on separate baselines in the text layer"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-112",
+  "pdf_page": 44,
+  "question": "The sum 1+\\frac{1+3}{2!}+\\frac{1+3+5}{3!}+\\frac{1+3+5+7}{4!}+. . . . .upto ∞ terms, is equal to [JEE Mains-2025]",
+  "options": "(A) 6e (B) 4e (C) 3e (D) 2e",
+  "answer": "(D)"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-113",
+  "pdf_page": 45,
+  "question": "The sum of the series σ_{n=1}∞n^{2}+6n+10(2n+1)! is equal to: [JEE Mains-2021]",
+  "options": "(A) \\frac{41}{8}e+\\frac{19}{8}e-10 (B) \\frac{41}{8}e-\\frac{19}{8}-1-10 \\frac{-1}{-1}\\frac{e}{19} -1 (C) \\frac{41}{8}e+\\frac{19}{8}e+ 10 (D) -\\frac{41}{8}e+8 e-10",
+  "answer": "B"
+ },
+ {
+  "book": "Sequence and Series DIBY",
+  "tag": "DIBY-114",
+  "pdf_page": 45,
+  "question": "If 0< x< 1and y=\\frac{1}{2}x 2+\\frac{2}{3}x 3+\\frac{3}{4}x 4+ ⋯, then the value of e 1+y at x=\\frac{1}{2}is: [JEE Mains-2021]",
+  "options": "(A) 2e^{2} (B) \\frac{1}{2}e^{2} (C) 2e (D) \\frac{1}{2}e",
+  "answer": "B"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "State whether the following collections is a set or not? (i) (ii) The collection of natural numbers between 2 and 20 The collection of numbers which satisfy the equation x^{2}-5x+ 6= 0 (iii) (iv) The collection of prime numbers between 1 and 100. The collection of all intelligent women in Jalandhar",
+  "options": "",
+  "answer": "(i) Yes, (ii) Yes, (iii) Yes, (iv) No"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "Write the following set in builder form (i) (ii)",
+  "options": "",
+  "answer": "(i) x:x=\\frac{p}{q}, p∈I, q∈N(ii) x:x= λ^{2}+ 1, λ∈N"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 3,
+  "question": "Consider set A= {1, 2, 3, 4, 5, 6, 7}then: (i) (ii) number of subsets of set A number of proper subsets of set A (iii) (iv) number of non-empty subsets of set A. number of non-empty proper subsets of set A. (v) (vi) number of non-empty subsets containing only odd numbers. number of subsets of A whose product of elements is even. (vii) number of subsets of A whose product of elements is odd.",
+  "options": "",
+  "answer": "(i) 128, (ii) 127, (iii) 127, (iv) 126, (v) 15, (vi) 112, (vii) 15"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "Two finite sets have m and n elements respectively. The total number of subsets of first set is 992 more than the total number of subsets of the second set. Find the value of m & n.",
+  "options": "",
+  "answer": "m = 10, n = 5"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 4,
+  "question": "Let A= {3, 6, 9, 12, 15, 18, 21}, B= {4, 8, 12, 16, 20}, C= {2, 4, 6, 8, 10, 12, 14, 16} and D=5, 10, 15, 20 \\frac{I}{II}(A∪B) -C= {3, 9, 18, 21}(A-B) ∩(C-D) = {6} III (A∩B∩C) ∪D= {12, 5, 15, 10, 20} Which of the following is correct?",
+  "options": "(A) Only I and II (B) Only II and III (C) Only III and I (D) None of these",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 4,
+  "question": "If A and B are two sets such that n(A) = 70, n(B) = 60, and n(A∪B) = 110, then n(A∩B) is equal to",
+  "options": "(A) 240   (B) 50   (C) 40   (D) 20",
+  "answer": "(D)",
+  "note": "split from the merged text layer around the DIBY-07 marker; text read from p4"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "Let n(U) = 700, n(A) = 200, n(B) = 300 and n(A∩B) = 100 then n(A^{c}∩B^{c}) =",
+  "options": "(A) 400   (B) 600   (C) 300   (D) 200",
+  "answer": "(C)",
+  "note": "marker sits inside option (A) in the text layer; text read from p4"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 5,
+  "question": "A market research group conducted a survey of 1000 consumers and reported that 720 consumers liked product A and 450 consumers liked product B. What is the least number that must have liked both products?",
+  "options": "(A) 170 (B) 280 (C) 220 (D) None of these",
+  "answer": "(A)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 5,
+  "question": "If A, Band C are any three sets, then A-(B∪C) is equal to",
+  "options": "(A) A-B∪A-C (B) A-B∩A-C (C) (A-B) ∪C (D) (A-B) ∩C",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 5,
+  "question": "If A, Band C are non-empty sets, then (A-B) ∪(B-A) equals",
+  "options": "(A) A∪B-B (B) A-A∩B (C) A∪B-A∩B (D) (A∩B) ∪(A∪B)",
+  "answer": "(C)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 6,
+  "question": "What does the shaded portion of the Venn diagram given below represent?",
+  "options": "(A) P∩Q∩P∩R (B) P∩Q-R∪P∩R-Q P Q (C) ((P∪Q) -R) ∩((P∩R) -Q) (D) ((P∩Q) ∪R) ∩((P∪R) -R) R",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 6,
+  "question": "In a class of 55 students, the number of students studying different subjects are 23 in Mathematics, 24 in Physics, 19 in Chemistry, 12 in Mathematics and Physics, 9 in Mathematics and Chemistry, 7 in Physics and Chemistry and 4 in all the three subjects. The number of students who have taken exactly one subject is",
+  "options": "(A) 6 (B) 9 (C) 7 (D) 22",
+  "answer": "(D)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 7,
+  "question": "If X= {1, 2, 3, 4, 5, 6, 7, 8, 9}, A=x∈N: 30< x^{2}< 70, B= {x:x is a prime number less than 10}, then which of the following is incorrect?",
+  "options": "(A) A∪B= {2, 3, 5, 6, 7, 8} (B) A∩B=7, 8 (C) A-B= {6, 8} (D) AΔB= {2, 3, 5, 6, 8}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 7,
+  "question": "If A and B be two sets and A∪B∪C= U. Then, (A-B∪B-C∪C-A)'is equal to",
+  "options": "(A) A∪B∪C (B) A∪(B∩C) (C) A∩B∩C (D) A∩(B∪C)",
+  "answer": "(D)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 7,
+  "question": "If there are three athletic teams in a school 21 are in the basketball team, 26 in hockey team and 29 in the football team. 14 play hockey and basketball, 15 play hockey and football, 12 play football and basketball and 8 play all the games. Then total number of members are",
+  "options": "(A) 42 (B) 43 (C) 45 (D) None of these",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 8,
+  "question": "Let A, B, and C be three sets such that n",
+  "options": "(A) = 40, n (B) = 20, n (C) = 30, n(A∩B) = 8, n(B∩ C) = 10, n(C∩A) = 12, and n(A∩B∩C) = 5. Find the number of elements in exactly one of the three sets. (A) 35 (B) 40 (C) 45 (D) 50",
+  "answer": "(C)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 8,
+  "question": "Consider the sets A= {n∈ℕ : n is a factor of 36} and B= {n∈ℕ : n is a factor of 48}. Find n(AΔB).",
+  "options": "(A) 4   (B) 6   (C) 7   (D) 9",
+  "answer": "(C)",
+  "note": "the '4' of option (A) had been read as the denominator of n(AΔB)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 8,
+  "question": "In a class of 50 students, 30 like coffee, 25 like tea, and 15 like both. How many students like neither coffee nor tea?",
+  "options": "(A) 5 (B) 10 (C) 15 (D) 20",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 9,
+  "question": "If Π (A) denotes the power set of A, and A= {1, 2, {3, 4}}, find n(Π (A)).",
+  "options": "(A) 4 (B) 8 (C) 16 (D) 32",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 9,
+  "question": "Let X= {1, 2, 3, … , 10}and A= {1, 2, 3, 4, 5}. How many subsets B of X exist such that",
+  "options": "(A) B∩A= ∅ ?16 (B) 32 (C) 64 (D) 128",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 10,
+  "question": "Given n(U) = 100, n(A) = 40, n(B) = 50, n(A∩B) = 15. Match the quantities in Column-I with their values in Column-II.",
+  "options": "(A) A→p, B→q, C→r, D→s   (B) A→p, B→r, C→q, D→s   (C) A→s, B→r, C→p, D→q   (D) A→s, B→p, C→r, D→q",
+  "answer": "(C)",
+  "note": "the four matching options are printed as the answer choices (table on the right)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 10,
+  "question": "Let A, B, and C be sets such that n",
+  "options": "",
+  "answer": "2",
+  "note": "numeric-answer question: the option block on the page belongs to the previous item"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 11,
+  "question": "Given the sets A = {1, 2, 3}, B = {3, 4}, C = {4, 5, 6}, then A∪(B∩C) is",
+  "options": "(A) {3} (B) {1, 2, 3, 4} (C) {1, 2, 4, 5} (D) {1, 2, 3, 4, 5, 6}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 11,
+  "question": "There are 200 individuals with skin disorder, out of them 100 have been exposed to Chemical C_{1}, 50 to Chemical C_{2}, and 30 to both C_{1} & C_{2}. Find the number of individuals exposed to C_{1} but not C_{2}.",
+  "options": "",
+  "answer": "70"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 12,
+  "question": "Evaluate the unknowns in each of the following cases: (a) n(A∪B), n(A∩B), if A⊂B, nA= 30, nB= 36 (b) n (B), if n (A) = 30, n(A∪B) = 50, n(A∩B) = 10 (c) n(A∪B), if nA= 20, nA^{'}∩B= 8 (d) n(A∩B), if n(A-B) = 30, n(B-A) = 16, n(A∪B) = 60 n(A∪B), if n (A) = 58, n (B) = 102, n(A-B) = 38 (e) (f) n(A∪B), if n(S) = 70, n (A) = 40, n (B) = 50, n(A∩B) = 27᪄ (Here S denotes the Universal Set) (e) n(A∪B) = 140",
+  "options": "",
+  "answer": "(a) n(A∪B) = 36; n(A∩B) = 30 (b) n (B) = 30 (c) n(A∪B) = 28 (d) n(A∩B) = 14 (f) data is incorrect"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 12,
+  "question": "A survey shows that 61%, 46% and 29% of the people watched \"3 idiots\", \"Rajneeti\" and \"Avatar\" respectively. 25% people watched exactly two of the three movies and 3% watched none. What percentage of people watched all the three movies?",
+  "options": "",
+  "answer": "7"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-27",
+  "pdf_page": 13,
+  "question": "The set A∩B'' ∪(B∩C) is equal to",
+  "options": "(A) A^{'}∪B∪C (B) A^{'}∪B (C) A^{'}∩C^{'} (D) A^{'}∩B",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 13,
+  "question": "Let X be the universal set for sets A and B, if n",
+  "options": "(A) = 200, n (B) = 300and n(A∩B) = 100, then nA^{'}∩B^{'} is equal to 300 provided n(X) is equal to (A) 600 (B) 700 (C) 800 (D) 900",
+  "answer": "(B)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 13,
+  "question": "In a group of 50 people, two tests were conducted, one for diabetes and one for blood pressure. 30 people were diagnosed with diabetes and 40 people were diagonsed with high blood pressure. What is the minimum number of people who were having diabetes and high blood pressure?",
+  "options": "(A) 0 (B) 10 (C) 20 (D) 30",
+  "answer": "(C)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 14,
+  "question": "A class has 175 students. The following data shows the number of students obtaining one or more subjects. Mathematics 100, Physics 70, Chemistry 40; Mathematics and Physics 30, Mathematics and Chemistry 28, Physics and Chemistry 23; Mathematics, Physics and Chemistry 18. How many students have offered Mathematics alone?",
+  "options": "(A) 35 (B) 48 (C) 60 (D) 22",
+  "answer": "(C)"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 14,
+  "question": "In a class of 80 students numbered 1 to 80, all odd numbered students opt of Cricket, students whose numbers are divisible by 5 opt for Football and those whose numbers are divisible by 7 opt for Hockey. If the number of students who do not opt any of the three games is n, then\\frac{n}{4}is equal to",
+  "options": "",
+  "answer": "7"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "Solve :3sec2θ= 2.",
+  "options": "",
+  "answer": "θ= nπ±\\frac{π}{12}, n∈I"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "Find general solution of equation cotx=3",
+  "options": "(A) x= nπ+\\frac{π}{3} (B) x= nπ+\\frac{π}{6} (C) x= nπ+\\frac{2π}{3} (D) x=\\frac{9π5π}{6}6",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 2,
+  "question": "The number of values of x in the interval [0, 5π] satisfying the equation 3sin^{2}x-7sinx+ 2= 0is:",
+  "options": "(A) 0 (B) 2 (C) 6 (D) 8",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "General solution of the equation 2sinθ-3 2+tanθ+3 2= 0",
+  "options": "",
+  "answer": "(6n+ 2)\\frac{π}{3}, n∈I"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 3,
+  "question": "Find the principal solution of sin2x= -\\frac{1}{2}",
+  "options": "(A) \\frac{7π}{6},\\frac{11π}{6} (B) \\frac{7π}{12},\\frac{11π}{12},\\frac{15π}{12},\\frac{19π}{12} (C) \\frac{7π}{12},\\frac{11π}{12},\\frac{19π}{12},\\frac{23π}{12} (D) None of these",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 3,
+  "question": "Find the number of solution tan3x = 1in the interval x∈-\\frac{2π}{3},\\frac{5π}{6}.",
+  "options": "",
+  "answer": "05"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 4,
+  "question": "Find the number of solution of the equation 16^{sin}2x+ 16^{cos}2x= 10, where 0 ≤x≤ 2π.",
+  "options": "",
+  "answer": "08"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 4,
+  "question": "Number of values of 'x' in (-2π, 2π) satisfying the equation 2^{sin}2x+ 4(2^{cos}2x) = 6 is:",
+  "options": "(A) 8 (B) 6 (C) 4 (D) 2",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 4,
+  "question": "The most general solution of tanθ= -1and cosθ=1 2 is",
+  "options": "(A) nπ+^{7π}, n∈I 4 (B) nπ+ (-1)^{n7π}, n∈I 4 (C) 2nπ+\\frac{7π}{4}, n∈I (D) None of these",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 5,
+  "question": "If 4sin^{2}θ+ 2(3+ 1) cosθ= 4+3, where n∈Ithen the general value of θ is",
+  "options": "(A) \\frac{π}{3} (B) 2nπ+\\frac{π}{4} \\frac{2nπ±}{nπ±} (C) \\frac{π}{3} (D) nπ-\\frac{π}{3}",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 5,
+  "question": "Solve for x : sinxcos\\frac{x}{4}-2sinx+1+ sin\\frac{x}{4}-2cosxcosx= 0",
+  "options": "",
+  "answer": "2π(4n + 1)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 5,
+  "question": "The equation 3sinx+ cosx= 4has",
+  "options": "(A) Only one solution (B) Two solutions (C) Infinitely many solutions (D) No solution",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 6,
+  "question": "The number of solutions of sinθ+ 2sin2θ+ 3sin3θ+ 4sin4θ= 10in (0, π) is",
+  "options": "",
+  "answer": "……"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 6,
+  "question": "The general solution of 8tan^{2x}= 1+ secx is 2",
+  "options": "(A) x= 2nπ± cos-1\\frac{-1}{3} (B) x= 2nπ±\\frac{π}{6} (C) x= 2nπ± cos^{-1}\\frac{1}{3} (D) None of these",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 6,
+  "question": "Number of solutions of σ^{5}r=1cosrx= 5in the interval [0, 4π] is:",
+  "options": "(A) 0 (B) 2 (C) 3 (D) 7",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 7,
+  "question": "\\frac{sin3θ}{2cos2θ+1}=\\frac{1}{2}if",
+  "options": "(A) θ= nπ+\\frac{π}{6}, n∈I (B) θ= 2nπ-\\frac{π}{6}, n∈I (C) θ= nπ+ (-1)\\frac{nπ}{6}, n∈I (D) θ= nπ-\\frac{π}{6}, n∈I",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 7,
+  "question": "\\frac{π}{2}, then the number of values of x for which sinx-sin2x+ sin3x= 0, is \\frac{If 0≤x<}",
+  "options": "(A) 2} (B) 1 (C) 3 (D) 4",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 7,
+  "question": "If the sum of solutions of the system of equations 2sin^{2}θ-cos2θ= 0and 2cos^{2}θ+ 3sinθ= 0in the interval [0, 2π] is kπ, then k is equal to .",
+  "options": "",
+  "answer": "03"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 8,
+  "question": "Solve : sin(cosx) = cos(sinx)",
+  "options": "",
+  "answer": "No Solution"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 8,
+  "question": "Solve : cosecx-cosec2x= cosec4x",
+  "options": "",
+  "answer": "x=2n+ 1\\frac{π}{7} & n≠7m+ 3, n∈I & m∈I"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 8,
+  "question": "The general value of θ satisfying the equation 2sin^{2}θ-3sinθ-2= 0, is [JEE-1995, 2M]",
+  "options": "(A) nπ+ (-1)^{nπ}6 (B) nπ+ (-1)^{nπ}2 (C) nπ+ (-1)^{n5π}6 (D) nπ+ (-1)^{n7π}6",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 9,
+  "question": "The general solution of sinx-3sin2x+ sin3x= cosx-3cos2x+ cos3xis [JEE-1989, 2M]",
+  "options": "(A) nπ+\\frac{π}{8} (B) \\frac{nπ}{2}+\\frac{π}{8} (C) (-1)\\frac{nnπ}{2}+\\frac{π}{8} (D) 2nπ+ cos\\frac{-13}{2}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 9,
+  "question": "The possible values of θ∈(0, π) such that sin(θ) + sin(4θ) + sin(7θ) = 0are [AIEEE-2011]",
+  "options": "(A) \\frac{2π}{9},\\frac{π}{4},\\frac{π}{2},\\frac{2π}{3},\\frac{3π}{4},\\frac{8π}{9} (B) \\frac{2π}{9},\\frac{π}{4},\\frac{4π}{9},\\frac{π}{2},\\frac{3π}{4},\\frac{8π}{9} (C) \\frac{π}{4},\\frac{5π}{12},\\frac{π}{2},\\frac{2π}{3},\\frac{3π}{4},\\frac{8π}{9} (D) \\frac{2π}{9},\\frac{π}{4},\\frac{π}{2},\\frac{2π}{3},\\frac{3π}{4},\\frac{35π}{36}",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 10,
+  "question": "The number of distinct solutions of the equation \\frac{5}{4}cos^{2}2x+ cos^{4}x+ sin^{4}x+ cos^{6}x+ sin^{6}x= 2in the interval [0, 2π] is [JEE (Adv.)-2015]",
+  "options": "",
+  "answer": "08"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 10,
+  "question": "The number of solutions of the equation sinx= cos^{2}xin the interval (0, 10) is [JEE Mains-2022]",
+  "options": "",
+  "answer": "04"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 11,
+  "question": "Consider the following lists : [JEE (Adv.)-2022] List-I List-II x∈-^{2π},^{2π}: cosx+ sinx= 1 has two elements (I) (II)(P) (Q) x∈-^{5π},^{5π}\\frac{3}{18}\\frac{3}{18}:3tan3x= 1 has three elements x∈-^{6π},^{6π}: 2cos(2x) =3 has four elements (III) (IV)(R) (S) x∈-^{7π},^{7π}\\frac{5}{4}\\frac{5}{4}: sinx-cosx= 1 has five elements (T) has six elements The correct option is:",
+  "options": "(A) (I)→(P); (II)→(S); (III)→(P); (IV)→(S) (B) (I)→(P); (II)→(P); (III)→(T); (IV)→(R) (C) (I)→(Q); (II)→(P); (III)→(T); (IV)→(S) (D) (I) →(Q); (II) →(S); (III) →(P); (IV) →(R)",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-27",
+  "pdf_page": 12,
+  "question": "If the solution of the equation log_{cosx}cotx+ 4log_{sinx}tanx= 1, x∈0,_{2}π, is -1 α+β, where α, β are integers, then α+ βis equal to: [JEE Mains-2023] \\frac{sin}",
+  "options": "(A) 3}2 (B) 5 (C) 6 (D) 4",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 12,
+  "question": "Let S be the set of all α∈R such that the equation, cos2x+ αsinx= 2α-7has a solution. Then S is equal to: [JEE Mains-2019]",
+  "options": "(A) [2, 6] (B) [3, 7] (C) R (D) [1, 4]",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 12,
+  "question": "If α, -\\frac{π}{2}< α<\\frac{π}{2} is the solution of 4cosθ+ 5sinθ= 1, then the valuer of tanαis [JEE Mains-2024]",
+  "options": "(A) \\frac{10-10}{6} (B) \\frac{10-10}{12} (C) \\frac{10-10}{12} (D) \\frac{10-10}{6}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 13,
+  "question": "The sum of all values of θ∈0,^{π}2 satisfying sin^{2}2θ+ cos^{4}2θ=\\frac{3}{4}is: [JEE Mains-2019]",
+  "options": "(A) π (B) \\frac{5π}{4} (C) \\frac{π}{2} (D) \\frac{3π}{8}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 13,
+  "question": "Let S=θ∈[-2π, 2π]: 2cos^{2}θ+ 3sinθ= 0. Then the sum of the elements of S is [JEE Mains-2019]",
+  "options": "(A) \\frac{13π}{6} (B) π (C) 2π (D) \\frac{5π}{2}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 13,
+  "question": "Let the set of all a∈R such that the equation cos2x+ asin x= 2a-7 has a solution be [p, q] and r= tan9^{∘}-tan27^{∘}-\\frac{1}{cot63}∘+ tan81^{∘}, then pqr is equal to [JEE Mains-2024]",
+  "options": "",
+  "answer": "48"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-33",
+  "pdf_page": 14,
+  "question": "Solve: sinθ+3cosθ≥1, -\\frac{π}{2}≤θ≤\\frac{π}{2}",
+  "options": "",
+  "answer": "-\\frac{π}{6}≤θ≤\\frac{π}{2}"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-34",
+  "pdf_page": 14,
+  "question": "Find the value of x in the interval-\\frac{π}{2},\\frac{3π}{2} for which 2sin2x+ 1≤2sinx+2cosx",
+  "options": "",
+  "answer": "x∈\\frac{-π}{4},\\frac{π}{6}∪\\frac{π}{4},\\frac{5π}{6}"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-35",
+  "pdf_page": 14,
+  "question": "Solve sin2x>2sin^{2}x+ (2-2) cos^{2}x",
+  "options": "",
+  "answer": "nπ+\\frac{π}{8}, nπ+\\frac{π}{4}, n∈I"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-36",
+  "pdf_page": 14,
+  "question": "The set of all x in\\frac{-π}{2},\\frac{π}{2} satisfying |4sinx-1| <5 is given by",
+  "options": "(A) -\\frac{π}{10},\\frac{3π}{10} (B) \\frac{π}{10},\\frac{-3π}{10} (C) \\frac{π}{10},\\frac{3π}{10} (D) None of these",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-37",
+  "pdf_page": 15,
+  "question": "Solve for x & y: x cos^{3}y+ 3x cosy sin^{2}y= 14 x sin^{3}y+ 3x cos^{2}y siny= 13 2",
+  "options": "",
+  "answer": "x= ±55 & y= nπ+ tan^{-11}"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-38",
+  "pdf_page": 15,
+  "question": "2\\frac{1}{x+_{sin}2x}2 2\\frac{1}{x+_{cos}2x}2 Solve sin+cos= 12+\\frac{1}{2}siny",
+  "options": "",
+  "answer": "x= kπ±\\frac{π}{4}; y= 2nπ+\\frac{π}{2}; k, n∈I"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-39",
+  "pdf_page": 15,
+  "question": "Solve x and y:4^{sinx}+ 3^{cosy}= 11 1 5. 16^{sinx}-2. 3^{cosy}= 2 6 3",
+  "options": "",
+  "answer": "x= nπ+ (-1)^{nπ} and y= 2mπ±^{π}, where m, n∈I"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-40",
+  "pdf_page": 16,
+  "question": "Consider the trigonometric equation : cos4x+ 6= 7cos2x. Which of the following represents the correct general solution for x, and what is the sum of all solution in the interval [0, 314]?.",
+  "options": "(A) General Solution: x= nπ; Sum of solutions: 4950π (B) General Solution: x= nπ; Sum of solutions: 5050π (C) General Solution: x= nπ; Sum of solutions: 5000π (D) General Solution: x= nπ, Sum of solutions: 4900π",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-41",
+  "pdf_page": 16,
+  "question": "The number of real solutions to the trigonometric equation 23cosx+ sinx= 2 in the interval [0, 2π]is :",
+  "options": "(A) 0 (B) 1 (C) 2 (D) 4",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-42",
+  "pdf_page": 17,
+  "question": "The general solution of the trigonometric equation (\\sec x-1) = (\\sqrt{2}-1)\\tan x is (where n∈ℤ):",
+  "options": "(A) x= 2nπ or x= 2nπ+\\frac{π}{4}   (B) x= nπ or x= nπ+\\frac{π}{8}   (C) x= 2nπ or x= 2nπ+\\frac{π}{8}   (D) x= nπ or x= nπ+\\frac{π}{4}",
+  "answer": "(A)",
+  "note": "the slide prints the third label as '(B)' again; kept as (C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-43",
+  "pdf_page": 17,
+  "question": "Find the general solution and number of solutions of the equation cos^{2}x+ cos^{2}2x+ cos^{2}3x+ cos^{2}4x= 2in the interval [0, π].",
+  "options": "(A) 5 (B) 7 (C) 8 (D) 10",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-44",
+  "pdf_page": 17,
+  "question": "Find the general solution and number of solutions of the equation sin^{4}2x+ cos^{4}2x= sin2x⋅cos2xin the interval [0, 2π].",
+  "options": "(A) 2 (B) 4 (C) 6 (D) 8",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 18,
+  "question": "Find the general solution and number of solutions of the equation cosecx-cosec2x= cosec4x in the interval [0, 2π].",
+  "options": "(A) 4 (B) 7 (C) 8 (D) 6",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-46",
+  "pdf_page": 18,
+  "question": "If 0 <α, β<πand cosα + cosβ - cos(α + β) =\\frac{3}{2}, find α and β.",
+  "options": "",
+  "answer": "α = β =\\frac{π}{3}"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 18,
+  "question": "Find the solution set of the equation, log-x2-6x 10 sin3x+ sinx= log-x2-6x 10 sin2x",
+  "options": "",
+  "answer": "-\\frac{5π}{3}"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 19,
+  "question": "The number of solutions of the pair of equations 2sin^{2}θ-cos2θ= 0 2cos^{2}θ-3sinθ= 0 in the interval [0, 2π] is [IIT-JEE-2007,Paper-1]",
+  "options": "(A) Zero (B) One (C) Two (D) Four",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 19,
+  "question": "Let P= {θ: sinθ-cosθ=2cosθ}and Q= {θ: sinθ+ cosθ=2sinθ}be two sets. Then [IIT-JEE-2011]",
+  "options": "(A) P⊂Q and Q - P≠≠ (B) Q⊆P (C) P⊆Q (D) P = Q",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 19,
+  "question": "Let S=θ∈[-2π, 2π]: 2cos^{2}θ+ 3sinθ= 0. Then the sum of the elements of S is:",
+  "options": "(A) π (B) \\frac{5π}{3} (C) \\frac{13π}{6} (D) 2π",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-51",
+  "pdf_page": 20,
+  "question": "Let α and β respectively be the maximum and the minimum values of the function fθ= 4sin^{4}7π-θ+ sin^{4}2 11π+ θ-2sin^{6}3π-θ+ sin^{6}2 9π-θ, θ∈ℝ Then α+ 2β is equal to: [JEE (Main)-2026]",
+  "options": "(A) 4 (B) 5 (C) 3 (D) 6",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-52",
+  "pdf_page": 20,
+  "question": "The least value of cos^{2}θ-6sinθcosθ+ 3sin^{2}θ+ 2 is [JEE(Main)-2026]",
+  "options": "(A) -1 (B) 4+10 (C) 4-10 (D) 1",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-53",
+  "pdf_page": 20,
+  "question": "3cosec20^{∘}-sec20^{∘} The value of_{cos20}∘cos40∘cos60∘cos80∘ is equal to [JEE(Main)-2026]",
+  "options": "(A) 32 (B) 16 (C) 64 (D) 12",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 21,
+  "question": "tanA-B If+\\frac{sin^{2}C}{sin^{2}A}= 1, A, B, C∈0,\\frac{π}{2}, then [JEE(Main)-2026] tanA",
+  "options": "(A) tanA, tanC, tanB are in G.P (B) tanA, tanB, tanC are in G.P (C) tanA, tanC, tanB are in A.P (D) tanA, tanB, tanC are in A.P",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-55",
+  "pdf_page": 21,
+  "question": "The number of solutions of the equation sine^{x}= 5^{x}+ 5^{-x}",
+  "options": "(A) 0}{ (B) 1 (C) 2} (D) Infinitely many",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-56",
+  "pdf_page": 21,
+  "question": "The equation cosp-1x^{2}+cospx+ sinp= 0 in the variable x, has real roots. Then, p can take any value in the interval [IIT-JEE 1990]",
+  "options": "(A) (0, 2π) (B) (-π, 0) (C) -\\frac{π}{2},\\frac{π}{2} (D) (0, π)",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-57",
+  "pdf_page": 22,
+  "question": "Let S=x∈-π, π: sinxsinx+ cosx= a, a∈Z. Then n(S) is equal to: [JEE (Main)-2026]",
+  "options": "(A) 3 (B) 6 (C) 7 (D) 9",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-58",
+  "pdf_page": 22,
+  "question": "The smallest positive root of the equation tanx-x= 0 lies in [IIT-JEE 1987]",
+  "options": "(A) 0,\\frac{π}{2} (B) \\frac{π}{2}, π (C) π,\\frac{3π}{2} (D) \\frac{3π}{2}, 2π",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-59",
+  "pdf_page": 23,
+  "question": "For all θ in [0, π/2], show that cos(sinθ) > sin(cosθ). [IIT-JEE 1981]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-60",
+  "pdf_page": 23,
+  "question": "Find the smallest positive number p for which the equation cospsinx= sinpcosx has a solution x∈0, 2π. [IIT-JEE 1995]",
+  "options": "",
+  "answer": "p=\\frac{π}{22}"
+ },
+ {
+  "book": "Trigonometric Equations DIBY",
+  "tag": "DIBY-61",
+  "pdf_page": 23,
+  "question": "Show that the equation e^{sinx}-e^{-sinx}-4= 0has no real solution. [IIT-JEE 1982]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-01",
+  "pdf_page": 2,
+  "question": "If sinA tanA= cos^{2}A, then cos^{3}A+ cos^{2}Ais equal to",
+  "options": "(A) 1 (B) 2 (C) 4 (D) None of these",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-02",
+  "pdf_page": 2,
+  "question": "If cosecA+ cotA=\\frac{11}{2}, then tanA is",
+  "options": "(A) \\frac{21}{22} (B) \\frac{15}{16} (C) \\frac{44}{117} (D) \\frac{117}{43}",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-03",
+  "pdf_page": 2,
+  "question": "If tanθ=\\frac{-4}{3}, then sinθ is",
+  "options": "(A) \\frac{-4}{5} but not\\frac{4}{5} (B) \\frac{-4}{5} or\\frac{4}{5} (C) \\frac{4}{5} but not -\\frac{4}{5} (D) None of these",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-04",
+  "pdf_page": 3,
+  "question": "If tanθ+ sinθ= mand tanθ-sinθ= n, then prove that m^{2}-n^{2}= 4sinθ tanθ",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-05",
+  "pdf_page": 3,
+  "question": "tanA + secA - 1 1 + sinA Prove that= tan A - secA + 1 cosA",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-06",
+  "pdf_page": 3,
+  "question": "Prove that: sin^{8}A-cos^{8}A=sin^{2}A-cos^{2}A 1-2sin^{2}Acos^{2}A",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-07",
+  "pdf_page": 3,
+  "question": "1+ tanα tanβ)^{2}+ (tanα-tanβ)^{2}=",
+  "options": "(A) tan^{2}α tan^{2}β (B) sec^{2}α sec^{2}β (C) tan^{2}α cot^{2}β (D) sec^{2}α cos^{2}β",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-08",
+  "pdf_page": 4,
+  "question": "sinA 1+cosA Prove that :+= 2cosecA 1+cosA sinA",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-09",
+  "pdf_page": 4,
+  "question": "1-sinA Prove that :1+sinA= secA-tanA",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-10",
+  "pdf_page": 4,
+  "question": "Prove that :cosecA+cosecA= 2sec^{2}A cosecA-1 cosecA+1",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-11",
+  "pdf_page": 4,
+  "question": "cosecA Prove that := cosA cotA+tanA",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-12",
+  "pdf_page": 5,
+  "question": "Find value of following sin^{2π}+ cos^{2π}-tan^{2π}=2sin^{2π}+ cosec^{27π}cos^{2π}= (i) (iii)3 4(ii) (iv)6 6 3 cot^{2π}+ cosec^{5π}+ 3tan^{2π}=\\frac{6}{6}6 6 2sin^{23π}+ 2cos^{2π}+ 2sec^{2π}=4 4 3",
+  "options": "",
+  "answer": "(i) \\frac{-1}{2} , (ii) \\frac{3}{2} , (iii) 6, (iv) 10"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-13",
+  "pdf_page": 5,
+  "question": "tan90°-θsec180°-θsin-θ is equals sin180°+θcos360°+θcosec90°-θ",
+  "options": "(A) cosecθ (B) 1 (C) -1 (D) -cosecθ",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-14",
+  "pdf_page": 6,
+  "question": "sec270^{∘}-Asec90^{∘}-A-tan270^{∘}-Atan90^{∘}+ A",
+  "options": "",
+  "answer": "-1"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-15",
+  "pdf_page": 6,
+  "question": "cotA+ tan180^{∘}+ A+ tan90^{∘}+ A+ tan360^{∘}-A",
+  "options": "",
+  "answer": "0"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-16",
+  "pdf_page": 6,
+  "question": "tan180^{∘}-θcos180^{∘}-θtan90^{∘}-θ sin90^{∘}+θcot90^{∘}-θtan90^{∘}+θ",
+  "options": "",
+  "answer": "-1"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-17",
+  "pdf_page": 6,
+  "question": "\\frac{3π}{2}cosA If tanA= 2and A∈π, then the expression 3 3 is equal to sin A+cos A",
+  "options": "",
+  "answer": "5/9"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-18",
+  "pdf_page": 7,
+  "question": "\\sin^{2}\\frac{π}{18}+ \\sin^{2}\\frac{π}{9}+ \\sin^{2}\\frac{7π}{18}+ \\sin^{2}\\frac{4π}{9} equal",
+  "options": "(A) 0   (B) 1   (C) -1   (D) 2",
+  "answer": "(D)",
+  "note": "four squared-sine terms with stacked fractions, read from the rendered slide"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-19",
+  "pdf_page": 7,
+  "question": "Prove that tan720^{∘}-cos270^{∘}-sin150^{∘}cos120^{∘}=^{1} \\frac{1.}{2.}4 sin780^{∘}sin480^{∘}+ cos120^{∘}sin150^{∘}=^{1}2",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-20",
+  "pdf_page": 7,
+  "question": "Prove that sec\\frac{3π}{2}-θsecθ-\\frac{5π}{2}+ tan\\frac{5π}{2}+ θtanθ-\\frac{3π}{2}= -1.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 8,
+  "question": "If sinx= -\\frac{3}{5} where π< x<^{3π}, then 80(tan^{2}x - cosx) is equal to 2",
+  "options": "(A) 109 (B) 108 (C) 19 (D) 18",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-22",
+  "pdf_page": 8,
+  "question": "sin405^{∘}[Ans. :\\frac{1 ]}{2} \\frac{1.}{2.} sec-1470^{∘}[Ans. :\\frac{2 ]}{3} \\frac{3.}{4.}tan-300^{∘}[Ans. :3 ] cot585^{∘}[Ans. : 1] \\frac{5.}{6.}cosec-750^{∘}[Ans. : -2] cos-2220^{∘}[Ans. : 1/2]",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-23",
+  "pdf_page": 9,
+  "question": "Prove that sin7θ-sin5θ cos6θ-cos4θ 1.= tanθ 2.= -tanθ cos7θ+cos5θ sin6θ+sin4θ sinA+sin3A sin7A-sinA 3.= tan2 A 4.= cos4Asec5A cosA+cos3A sin8A-sin2A cos2 B+cos2 A sin2A+sin2B 5.= cot(A+ B) cot(A-B) 6.=\\frac{tan(A+B)}{tan(A-B)} cos2 B-cos2 A sin2A-sin2B sinA+sin2 A sin5 A-sin3 A 7.= cot\\frac{A}{2}8.= tanA cos A-cos2 A cos3 A+cos5 A cos2 B-cos2 A = tan(A-B) \\frac{9.}{10.}sin2 B+sin2 A cosA+ B+ sinA-B= 2sin45^{∘}+ Acos45^{∘}+ B cos3A-cosA cos2A-cos4A sinA 11.sin3A-sinA+sin4A-sin2A=cos2Acos3A",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-24",
+  "pdf_page": 10,
+  "question": "sin8θcosθ-sin6θcos3θ Find the value of expression, given θ = 7.5 °. cos2θcosθ-sin3θsin4θ",
+  "options": "(A) 2 +3 (B) 2 -3 (C) 0 (D) 1",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-25",
+  "pdf_page": 10,
+  "question": "sin23α-sin3α If α=\\frac{π}{19}, find the value of . sin16α+sin4α",
+  "options": "(A) 1 (B) 0 (C) 2 (D) -1",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-26",
+  "pdf_page": 10,
+  "question": "1+tan37°1+tan30° The expression\\frac{1+tan8°}{1+tan2°}\\frac{1+tan15°}{1+tan43°} reduces to",
+  "options": "(A) 2 tan 45° (B) 4 (C) 8 (D) 6 cot 45°",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-27",
+  "pdf_page": 11,
+  "question": "For α, β∈0,π2, let 3sinα+ β= 2sinα-β and a real number k be such that tanα= ktanβ. Then the value of k is equal to",
+  "options": "(A) 5 (B) -2/3 (C) -5 (D) 2/3",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-28",
+  "pdf_page": 11,
+  "question": "tan50^{∘}-tan40^{∘} Let tan10∘= k, find k∈N.",
+  "options": "",
+  "answer": "2"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-29",
+  "pdf_page": 11,
+  "question": "If x=\\frac{π}{48}, find the value ofcos7x+cos5x+cos9x+cos3xsin7x+sin5x+sin9x+sin3x.",
+  "options": "",
+  "answer": "2 - 1"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-30",
+  "pdf_page": 12,
+  "question": "\\frac{α+β}{2} If 3sinα= 5sinβ≠0, then the value of\\frac{tan}{tan}\\frac{α-β}{2} is:",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-31",
+  "pdf_page": 12,
+  "question": "The value of cos24^{∘}-cos12^{∘}+ cos48^{∘}-cos84^{∘}=",
+  "options": "",
+  "answer": "1/2"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-32",
+  "pdf_page": 13,
+  "question": "If cosα+ cosβ= \\frac{1}{2} and sinα+ sinβ= \\frac{1}{3}, then match Column-I with Column-II:",
+  "options": "(A) cos(\\frac{α+β}{2})   (B) cos(\\frac{α-β}{2})   (C) tan(\\frac{α+β}{2})   (D) tan(\\frac{α-β}{2})   ||   (P) ±\\frac{\\sqrt{13}}{12}   (Q) \\frac{2}{3}   (R) ±\\frac{3}{\\sqrt{13}}   (S) ±\\sqrt{\\frac{131}{13}}",
+  "answer": "A → Q, B → S, C → P, D → R  (printed: A-R, B-P, C-Q, D-S)",
+  "note": "matching table on p13: both columns read from the rendered page; the printed answer row is kept as-is"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-33",
+  "pdf_page": 14,
+  "question": "sinθ+sin2θ Prove that= tanθ 1+cosθ+cos2θ",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-34",
+  "pdf_page": 14,
+  "question": "1-cosA+cosB-cos(A+B) Prove that= tan\\frac{A}{2}cot\\frac{B}{2} 1+cosA-cosB-cos(A+B)",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-35",
+  "pdf_page": 14,
+  "question": "Value of : ς_{k=1}17 sin_{18}=_{2}16 then a= ________.kπ a",
+  "options": "",
+  "answer": "9"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-36",
+  "pdf_page": 14,
+  "question": "1-sinx+1+sinx If\\frac{5π}{2}< x< 3π, then the value of the expression is 1-sinx-1+sinx",
+  "options": "(A) -cot\\frac{x}{2} (B) cot\\frac{x}{2} (C) tan\\frac{x}{2} (D) -tan\\frac{x}{2}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-37",
+  "pdf_page": 15,
+  "question": "If A= 340^{∘} then 2sin_{2}A is identical to",
+  "options": "(A) 1+ sinA+1-sinA (B) -1+ sinA-1-sinA (C) 1+ sinA-1-sinA (D) -1+ sinA+1-sinA",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-38",
+  "pdf_page": 15,
+  "question": "Evaluate: cos^{6π}16+ cos^{63π}16+ cos^{65π}16+ cos^{67π}16",
+  "options": "(A) 5/8 (B) 5/4 (C) 7/16 (D) 5/32",
+  "answer": "(B)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-39",
+  "pdf_page": 15,
+  "question": "Ifcosθ x=\\frac{y}{cosθ+_{3}}2π=\\frac{z}{cosθ-_{3}}2π, then x+ y+ zis equal to:",
+  "options": "(A) -1 (B) 1 (C) 0 (D) 2",
+  "answer": "(C)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-40",
+  "pdf_page": 16,
+  "question": "Find the exact value of tan^{2π}16+ tan^{23π}+ tan^{25π}+ tan^{27π}16 16 16",
+  "options": "",
+  "answer": "28"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-41",
+  "pdf_page": 16,
+  "question": "Prove that cos36^{∘}cos72^{∘}cos108^{∘}cos144^{∘}= 1/16.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-42",
+  "pdf_page": 16,
+  "question": "If A+ B+ C= π, prove that sin^{2A}+ sin^{2B}-sin^{2C}= 1-2cos^{A}cos^{B}sin^{C}.2 2 2 2 2 2",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-43",
+  "pdf_page": 16,
+  "question": "If A+ B+ C= 180^{∘}, prove that cos^{2}A+ cos^{2}B+ cos^{2}C= 1-2cosA cosB cosC.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-44",
+  "pdf_page": 17,
+  "question": "In triangle ABC, prove that sin(B+ C-A) + sin(C+ A-B) +sinA+ B-C= 4sinA sinB sinC.",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-45",
+  "pdf_page": 17,
+  "question": "If A+ B+ C= π/2, show that (a) sin^{2}A+ sin^{2}B+ sin^{2}C= 1-2sinA sinB sinC (b) cos^{2}A+ cos^{2}B+ cos^{2}C= 2+ 2sinA sinB sinC",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-46",
+  "pdf_page": 17,
+  "question": "If \\frac{\\sin^{4}x}{2}+ \\frac{\\cos^{4}x}{3}= \\frac{1}{5}, then [IIT-JEE-2009]",
+  "options": "(A) \\tan^{2}x = \\frac{2}{3}   (B) \\frac{\\sin^{8}x}{8}+ \\frac{\\cos^{8}x}{27}= \\frac{1}{125}   (C) \\tan^{2}x = \\frac{1}{3}   (D) \\frac{\\sin^{8}x}{8}+ \\frac{\\cos^{8}x}{27}= \\frac{2}{125}",
+  "answer": "A, B",
+  "note": "multiple-correct question on p17: 'tan' was lost and option (D)'s equation sat in the question"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-47",
+  "pdf_page": 18,
+  "question": "A B C π-A\\frac{π-B}{4}\\frac{π-C}{4} For △ABC, sin_{2}+ sin_{2}+ sin_{2}-1= λsin 4 sin sin. Then λ=",
+  "options": "",
+  "answer": "4"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-48",
+  "pdf_page": 18,
+  "question": "The value of sin^{3} 10° + sin^{3} 50° - sin^{3} 70°is equal to",
+  "options": "(A) -\\frac{3}{2} (B) \\frac{3}{4} (C) -\\frac{3}{4} (D) \\frac{-^{3}}{8}",
+  "answer": "(D)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-49",
+  "pdf_page": 18,
+  "question": "If\\frac{sin^{4}x}{2}+\\frac{cos^{4}x}{3}=\\frac{1}{5}then the value of cotxis equal to _____________.2",
+  "options": "",
+  "answer": "3/2"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-50",
+  "pdf_page": 18,
+  "question": "tanln6-tanln2-tanln3 The value of is equal to _______________. tanln6·tanln2·tanln3",
+  "options": "",
+  "answer": "1"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-54",
+  "pdf_page": 19,
+  "question": "Find the summation of the following series (i) cos\\frac{2π}{7}+ cos\\frac{4π}{7}+ cos\\frac{6π}{7} (ii) cos\\frac{π}{7}+ cos\\frac{2π}{7}+ cos\\frac{3π}{7}+ cos\\frac{4π}{7}+ cos\\frac{5π}{7}+ cos\\frac{6π}{7}",
+  "options": "",
+  "answer": "(i) -1/2 (ii) 0",
+  "note": "multi-part summation exercise: both parts answer inline, no options on the page"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-55",
+  "pdf_page": 19,
+  "question": "Prove that sinθ+ sin3θ+ sin5θ+ ⋯+ sin(2n-1)θ=\\frac{sin^{2}nθ}{sinθ}",
+  "options": "",
+  "answer": ""
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-56",
+  "pdf_page": 19,
+  "question": "Sum the series :α< π 1+ cosα+1+ cos2α+1+ cos3α+ ⋯to n terms, where 0<",
+  "options": "",
+  "answer": "2\\frac{sin^{nα}4}{sin_{4}}αcos(n+ 1)\\frac{α}{4}"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-57",
+  "pdf_page": 20,
+  "question": "Find the value of ൫cos^{4}1^{∘}+ cos^{4}2^{∘}+ cos^{4}3^{∘}+ ⋯+cos^{4}179^{∘}൯-൫sin^{4}1^{∘}+ sin^{4}2^{∘}+ sin^{4}3^{∘}+ ⋯+ sin^{4}179^{∘}൯.",
+  "options": "",
+  "answer": "-1"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-58",
+  "pdf_page": 20,
+  "question": "sin(kθ) If\\frac{sinθ}{cos(3θ)}+\\frac{sin(3θ)}{cos(9θ)}+\\frac{sin(9θ)}{cos(27θ)}+\\frac{sin(27θ)}{cos(81θ)}=, then kequals to 2cosθcos81θ",
+  "options": "",
+  "answer": "80"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-59",
+  "pdf_page": 20,
+  "question": "sinθ⋅sec3θ+ sin3θ⋅sec3^{2}θ+ sin3^{2}θ⋅sec3^{3}θ+ ⋯upto n terms =",
+  "options": "(A) \\frac{1}{2}tan3^{n}θ-tanθ (B) \\frac{1}{2}tan3^{n}θ+ tanθ (C) tan3^{n}θ+ tanθ (D) tan3^{n}θ-tanθ",
+  "answer": "(A)"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-60",
+  "pdf_page": 21,
+  "question": "If m and n are positive integers satisfying 1+ cos2θ+ cos4θ+ cos6θ+ cos8θ+ cosmθ⋅sinnθ cos10θ= , then m+ nis equal to sinθ",
+  "options": "",
+  "answer": "11"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-61",
+  "pdf_page": 21,
+  "question": "Find the sum of series S= sinθ-sin2θ+ sin3θ-sin4θ+ ⋯+ nterms.",
+  "options": "",
+  "answer": "……"
+ },
+ {
+  "book": "Trigonometric Functions DIBY",
+  "tag": "DIBY-62",
+  "pdf_page": 21,
+  "question": "The value of P=3+ tan1^{∘}3+ tan2^{∘}\\frac{3+ tan3^{∘}}{3}…3+ tan28^{∘}3+ tan29^{∘} is",
+  "options": "(A) 2^{28} (B) 2^{15} + 2 - (C) 2^{29} (D) 2^{14} + 2 -3",
+  "answer": "(C)"
+ }
+]

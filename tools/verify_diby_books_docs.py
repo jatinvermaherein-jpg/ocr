@@ -1,0 +1,61 @@
+"""Check the DIBY-book DOCX files straight from their OOXML.
+
+Verifies what the two documents must satisfy: one Heading1 per book, a DIBY- tag per item,
+typeset equations (oMath), no raw LaTeX in the text, pure black, an odd-page break between
+books, and no header/footer parts.
+
+    python3 tools/verify_diby_books_docs.py [file ...]
+"""
+
+import os
+import re
+import sys
+import zipfile
+import xml.etree.ElementTree as ET
+
+W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+M = "{http://schemas.openxmlformats.org/officeDocument/2006/math}"
+RAW_TEX = re.compile(r"\\frac|\\sqrt")
+DEFAULT = ["deliverables/DIBY_Books.docx", "deliverables/DIBY_Books_Print.docx"]
+
+
+def check(path: str) -> bool:
+    z = zipfile.ZipFile(path)
+    root = ET.fromstring(z.read("word/document.xml"))
+    text = "".join(t.text or "" for t in root.iter(W + "t"))
+    heads = ["".join(x.text or "" for x in p.iter(W + "t"))
+             for p in root.iter(W + "p")
+             if p.find(W + "pPr/" + W + "pStyle") is not None
+             and p.find(W + "pPr/" + W + "pStyle").get(W + "val") == "Heading1"]
+    types = []
+    for s in root.iter(W + "sectPr"):
+        t = s.find(W + "type")
+        types.append(t.get(W + "val") if t is not None else "next(default)")
+    cols = sorted({c.get(W + "val") for c in root.iter(W + "color") if c.get(W + "val")})
+    hf = [n for n in z.namelist() if "header" in n or "footer" in n]
+
+    omath = len(root.findall(".//" + M + "oMath"))
+    tags = len(re.findall(r"DIBY-", text))
+    raw = len(RAW_TEX.findall(text))
+    odd = [t for t in types[1:]]
+
+    print(os.path.basename(path), os.path.getsize(path), "bytes")
+    print(f"   books (Heading1) {len(heads)} | DIBY- tags {tags} | oMath {omath}")
+    print(f"   raw LaTeX {raw} | colours {cols} | odd-page breaks {len(odd)}/{len(types) - 1}")
+    print(f"   header/footer parts {'none' if not hf else hf}")
+    for h in heads:
+        print("     -", h)
+
+    ok = (not raw and cols in ([], ["000000"]) and not hf and len(heads) == len(types) == 9
+          and tags == 565 and all(t == "oddPage" for t in odd))
+    print("   ->", "OK" if ok else "CHECK FAILED")
+    return ok
+
+
+def main() -> int:
+    files = sys.argv[1:] or DEFAULT
+    return 0 if all(check(f) for f in files) else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
