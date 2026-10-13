@@ -127,8 +127,10 @@ CSV companions (not JSON but part of the same reporting layer): `Page_Audit.csv`
 | `deliverables/DIBY_Questions.docx` | **Question bank in the requested layout** — 655 questions (section markers excluded), one title per chapter+lecture, DIBY tag, italic question with **typeset Word equations**, options, right-aligned answer. Compact density (A4, 1.5 cm side / 1.3 cm vertical margins, 0.95 line spacing, no spacer paragraphs) — ≈42 pages by model estimate vs ≈65 for the earlier spacing, same content. **Each chapter starts on an odd page** (Word `oddPage` section breaks); page numbers in the footer |
 | `deliverables/DIBY_Questions.csv` | The same 655 questions in document order, machine-readable |
 | `tools/build_diby_master.py` | Builds all four from the four worker registers; for Twin 2/Twin 4 (no prompts extracted) it reconstructs draft question text from those workers' own raw page OCR, delimited by the next marker, and labels it unverified |
+| `deliverables/DIBY_Questions_Print.docx` | **Print-professional edition of the question bank** — same 655 questions and equations, laid out for printing: cover + contents (live Word TOC field), chapters on odd (right-hand) pages, running header naming the chapter, page numbers, 11 pt body / 1.15 spacing, print margins (2.2 cm sides), questions kept whole across page breaks. ≈55 pages |
 | `tools/build_diby_docx_v2.py` | Builds the question-bank DOCX (current layout). Maths is converted to LaTeX and rendered as native Word equations (OMML) through pandoc |
 | `tools/ocr_math_to_latex.py` | OCR maths → LaTeX converter (superscripts, subscripts, fractions, roots, Greek/operators). Conservative: anything it is unsure of stays plain text |
+| `tools/build_diby_docx_print.py` | Builds the print-professional edition (`DIBY_Questions_Print.docx`) |
 | `tools/build_diby_docx.py` | Earlier question-bank DOCX builder (Question/Options/Answer/Tag/Source block layout with marker appendix) — superseded by `build_diby_docx_v2.py` |
 
 Coverage of the master document: 195 verified · 112 ocr-extract · 348 ocr-draft · 66 marker-only (655 items carry question text).

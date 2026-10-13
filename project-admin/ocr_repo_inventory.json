@@ -318,6 +318,10 @@
     {
       "path": "tools/ocr_math_to_latex.py",
       "role": "converts OCR maths to LaTeX (conservative; falls back to plain text)"
+    },
+    {
+      "path": "tools/build_diby_docx_print.py",
+      "role": "builds the print-professional question-bank edition"
     }
   ],
   "open_items": [
@@ -380,6 +384,19 @@
       "tools/build_diby_master.py",
       "tools/build_diby_docx_v2.py",
       "tools/ocr_math_to_latex.py"
-    ]
+    ],
+    "question_bank_print_docx": "deliverables/DIBY_Questions_Print.docx",
+    "question_bank_editions": {
+      "compact": {
+        "file": "deliverables/DIBY_Questions.docx",
+        "est_pages": 42,
+        "layout": "A4, 1.5cm side / 1.3cm vertical margins, 0.95 line spacing, no spacer paragraphs, 10.5pt body"
+      },
+      "print": {
+        "file": "deliverables/DIBY_Questions_Print.docx",
+        "est_pages": 55,
+        "layout": "cover + contents (live TOC field), chapters on odd pages, running chapter header, page numbers, 2.2cm margins, 11pt body, 1.15 spacing, keep-together questions"
+      }
+    }
   }
 }
