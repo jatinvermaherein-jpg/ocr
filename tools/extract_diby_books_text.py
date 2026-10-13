@@ -83,18 +83,25 @@ def strip_lead_meta(text: str) -> str:
 
 def split_options(text: str) -> tuple[str, str]:
     """Separate an (A)…(B)…(C)…(D) option set wherever it sits in the text."""
-    marks = list(MARK.finditer(text))
+    # '(A)' can also be a function argument ('n(Π (A))')) — that one is followed by ')'
+    marks = [m for m in MARK.finditer(text)
+             if not text[m.end():m.end() + 1].startswith(")")]
     if len(marks) < 3:
         return text, ""
-    seen, keep = set(), []
-    for m in marks:                                   # first occurrence of each label
-        l = m.group(1).upper()
-        if l not in seen:
-            seen.add(l)
-            keep.append((l, m))
-    order = [l for l, _ in keep]
-    if len(seen) < 3 or (len(seen) < 4 and order != sorted(order, key="ABCD".index)):
-        return text, ""                               # a grid may list A C B D
+    for start in range(len(marks)):                   # a label may also sit inside the
+        seen, keep = set(), []                        # question ('n(Π (A))') — retry later
+        for m in marks[start:]:
+            l = m.group(1).upper()
+            if l not in seen:
+                seen.add(l)
+                keep.append((l, m))
+        order = [l for l, _ in keep]
+        if len(seen) < 3 or (len(seen) < 4 and order != sorted(order, key="ABCD".index)):
+            continue                                  # a grid may list A C B D
+        if len(text[:keep[0][1].start()].strip()) >= 15:
+            break
+    else:
+        return text, ""
     pieces = {l: [] for l in "ABCD"}
     for i, (l, m) in enumerate(keep):
         end = keep[i + 1][1].start() if i + 1 < len(keep) else len(text)

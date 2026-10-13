@@ -353,7 +353,18 @@
   "book": "Trigonometric Functions DIBY",
   "tag": "DIBY-18",
   "pdf_page": 7,
-  "options": "",
-  "note": "a two-part 'prove that' exercise: the 1/4 and 1/2 on the page are results, not options"
+  "question": "\\sin^{2}\\frac{π}{18}+ \\sin^{2}\\frac{π}{9}+ \\sin^{2}\\frac{7π}{18}+ \\sin^{2}\\frac{4π}{9} equal",
+  "options": "(A) 0   (B) 1   (C) -1   (D) 2",
+  "answer": "(D)",
+  "note": "four squared-sine terms with stacked fractions, read from the rendered slide"
+ },
+ {
+  "book": "Set Theory DIBY",
+  "tag": "DIBY-21",
+  "pdf_page": 10,
+  "question": "Given n(U) = 100, n(A) = 40, n(B) = 50, n(A∩B) = 15. Match the quantities in Column-I with their values in Column-II.",
+  "options": "(A) A→p, B→q, C→r, D→s   (B) A→p, B→r, C→q, D→s   (C) A→s, B→r, C→p, D→q   (D) A→s, B→p, C→r, D→q",
+  "answer": "(C)",
+  "note": "the four matching options are printed as the answer choices (table on the right)"
  }
 ]

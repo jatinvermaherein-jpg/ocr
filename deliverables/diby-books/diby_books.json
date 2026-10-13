@@ -3496,8 +3496,8 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-19",
   "pdf_page": 9,
-  "question": "If Π (A) denotes the power set of A, and A= {1, 2, {3, 4}}, find n(Π (A)). (A) 4 (B) 8 (C) 16 (D) 32",
-  "options": "",
+  "question": "If Π (A) denotes the power set of A, and A= {1, 2, {3, 4}}, find n(Π (A)).",
+  "options": "(A) 4 (B) 8 (C) 16 (D) 32",
   "answer": "(B)"
  },
  {
@@ -3512,9 +3512,10 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-21",
   "pdf_page": 10,
-  "question": "Given n(U) = 100, n (A) = 40, n (B) = 50, n(A∩B) = 15. Column-I Column-II Match the quantities in Column-I with their values in Column-II.\\frac{A.}{B.}\\frac{n(A∪B)}{nA}'\\frac{p.}{q.}\\frac{25}{35} (A) A→p, B→q, C→r, D→s (B) A→p, B→r, C→q, D→s (C) A→s, B→r, C→p, D→q\\frac{C.}{D.}\\frac{n(A∖B)}{n(B∖A)}\\frac{r.}{s.}\\frac{60}{75} (D) A→s, B→p, C→r, D→q",
-  "options": "",
-  "answer": "(C)"
+  "question": "Given n(U) = 100, n(A) = 40, n(B) = 50, n(A∩B) = 15. Match the quantities in Column-I with their values in Column-II.",
+  "options": "(A) A→p, B→q, C→r, D→s   (B) A→p, B→r, C→q, D→s   (C) A→s, B→r, C→p, D→q   (D) A→s, B→p, C→r, D→q",
+  "answer": "(C)",
+  "note": "the four matching options are printed as the answer choices (table on the right)"
  },
  {
   "book": "Set Theory DIBY",
@@ -4226,10 +4227,10 @@
   "book": "Trigonometric Functions DIBY",
   "tag": "DIBY-18",
   "pdf_page": 7,
-  "question": "sin^{2π}+ sin^{2π}+ sin^{27π}+ sin^{24π}equal \\frac{18}{0}9 18 9",
-  "options": "",
+  "question": "\\sin^{2}\\frac{π}{18}+ \\sin^{2}\\frac{π}{9}+ \\sin^{2}\\frac{7π}{18}+ \\sin^{2}\\frac{4π}{9} equal",
+  "options": "(A) 0   (B) 1   (C) -1   (D) 2",
   "answer": "(D)",
-  "note": "a two-part 'prove that' exercise: the 1/4 and 1/2 on the page are results, not options"
+  "note": "four squared-sine terms with stacked fractions, read from the rendered slide"
  },
  {
   "book": "Trigonometric Functions DIBY",
