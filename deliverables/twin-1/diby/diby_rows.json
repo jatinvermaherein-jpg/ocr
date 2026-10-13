@@ -1650,5 +1650,19 @@
   "visible_solution_answer": "none printed",
   "uncertainty_note": "Printed DIBY slide, no answer chip; same shape as the p20 class proof (base 6/7, divisor 43).",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "04",
+  "source_pdf": "Permutations & Combinations 04 Class Notes.pdf",
+  "pdf_page": 11,
+  "diby_marker": "handwritten blue 'H.W.' + '(80% DIBY)' (no printed # DIBY-nn tag), chip Question",
+  "printed_label": "DIBY (handwritten)",
+  "internal_id": "PC-L04-P11-DIBY(HW)",
+  "prompt_verbatim": "If 2nP4 = 396 x nP2, then the value of n, is",
+  "options": "(A) 4   (B) 5   (C) 6   (D) 7",
+  "visible_solution_answer": "none printed or written (assigned as H.W.)",
+  "uncertainty_note": "Handwritten 80% DIBY + H.W. tags; item never solved in this file (pattern of L05 p23, F-18).",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]

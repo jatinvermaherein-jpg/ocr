@@ -50,3 +50,29 @@ Source: `Permutations & Combinations 04 Class Notes.pdf` (43 pages, image-only, 
 **P:** clipboard icon + red banner **FORMULA's FOR P & C**; three yellow headings with white italic statements: **Theorem-01 :** *Number of ways of arranging n different things in a line =*; **Theorem-02 :** *Number of ways of arranging r things taken out of n-different things in a line =*; **Theorem-03 :** *Number of ways of selecting r things out of n-different things =*. The three right-hand sides are left blank in print.
 **H:** white `n!` after Theorem 01; orange after Theorem 02 `nP_r = n!/(n-r)!`; orange after Theorem 03 `nC_r = n!/(r!(n-r)!)`; white `Permut.` with a hook from the word *arranging* in Theorem 02, orange `Comb.` with a hook under *selecting* in Theorem 03 (the wavy underline there is printed orange).
 **DIBY:** none. **U:** none — the label prints `Page No.128` with no space after `No.`, unlike the Binomial module's `Page No. 154`.
+<a id="p09"></a>
+## p09 · RAPID FIRE ROUND — four fill-ins on nCr / nPr · label: — (chip only)
+**P:** red chip **RAPID FIRE ROUND**; **Answer the following Questions:** then `1. Value of 10C3 = ____`, `2. If 12Cx = 12C7 then possible value(s) of x = ____` (item 2 enclosed in a printed **red rectangle**), `3. Value of 7P3 = ____`, `4. (True/False) : nC0 = nCn = 1` (the identity printed cyan).
+**H:** pink `120` in blank 1 with a white tick and a pink slash through the printed number `1.`; pink `7, 5` in blank 2 with an orange comma between them; cyan `210` in blank 3; a cyan tick under the printed word *True* in item 4. Working: green `(i) 10C3 = 10!/(7! 3!) = (10.9.8.7 ... 1)/(7!.3!...) = 120` with `3 4` written above the cancelled run and a pink circle-and-slash over the struck `7 ... 1`; blue `7P3 = 7!/4! = (7.6.5.4!)/4! = 210` (the cancelled factorials struck in blue); orange, right half: `② 12Cx = 12C7` with `x` and `7` each ringed, an arrow out to a ringed `x = 7`, and below `x + 7 = 12` in an orange oval around `x = 5`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p10"></a>
+## p10 · board note — the nCx = nCy rule · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** pink `Notes.` inside a hand-drawn circle, a curved pink arrow out of it to `Note:-` (single-underlined); then `If.` and a **red rectangle** round `nC_x = nC_y`, a white/pink `=>`, a second red rectangle round `x = y` (the `y` with a long descender), printed-style pink `OR`, and a third red rectangle round `x + y = n`.
+**DIBY:** none. **U:** none. (This is the P&C twin of the Binomial module's Property 01(ii) rule card, L05 p12.)
+
+---
+<a id="p11"></a>
+## p11 · Question — if 2nP4 = 396 x nP2 (tagged H.W. / DIBY) · label: — (chip only)
+**P:** red chip **Question**; **If** `2nP4 = 396 x nP2`**, then the value of** `n`**, is** (the binomials green, `n` cyan); tiles `A 4`, `B 5`, `C 6`, `D 7`. No printed answer key.
+**H:** blue, upper right: `H.W.` double-underlined, and under it `(80% DIBY)` inside blue brackets.
+**DIBY:** YES — handwritten tag only (no printed `# DIBY-nn`), internal ID `BT`-style key is `PC-L04-P11-DIBY(HW)`. **U:** 1 — the item is assigned and never solved in this file (same pattern as L05 p23's `90% DIBY` + `H.W.`, F-18); no answer is recoverable from these pages.
+
+---
+<a id="p12"></a>
+## p12 · RAPID FIRE QUESTION — 6 boys & 5 girls, four selection counts · label: — (chip only)
+**P:** red chip **RAPID FIRE QUESTION**; **In a class there are** `six boys` **&** `five girls`**, then:** — the two phrases green and each inside a printed **red rectangle**; four cyan sub-questions, each with a handwritten tick: `(i) Number of ways of selecting 5 students.` (yellow tick), `(ii) Number of ways of selecting 3 girls & 2 boys.` (pink tick), `(iii) Number of ways of selecting 5 students with atleast 2 boys.` (green tick), `(iv) Number of ways of selecting 5 students with atmost 2 girls.` (green tick).
+**H:** yellow at top right `Total = 11 stds.` with `11` ringed; a yellow arrow from (i) to yellow `11C5` + a yellow tick; pink `(ii)` with `5G & 6B` and two arcs down into a red rectangle holding pink `5C3 x 6C2`; cyan `(iii)` with yellow case labels over four red rectangles — `2B,3G` -> `6C2 x 5C3`, `3B,2G` -> `6C3 x 5C2`, `4B 1G` -> `6C4 x 5C1`, `5B` -> `6C5`; green `(iv)` under the row with arrows pointing up at the same boxes, labelled `3B 2G + 4B 1G + 5B 0G`; at the left of the (iii) row, green the cursive marker `fnf.` before the first `=` (the same unexplained mark as U-02/F-34, here plainly used as a "therefore/total" sign).
+**DIBY:** none (RAPID FIRE QUESTION carries no numbered tags, per F-17). **U:** 1 — no numeric evaluation is written for (ii)–(iv); only the expressions are set up.
