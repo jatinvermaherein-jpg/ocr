@@ -225,3 +225,53 @@ Source: `Permutations & Combinations 03 Class Notes.pdf` (42 pages, image-only, 
 **P:** red chip **Question [JEE Mains–2023]**; **The number of five-digit numbers, greater than 40000 and divisible by 5, which can be formed using the digits 0, 1, 3, 5, 7 and 9 without repetition, is equal to** (40000 in yellow, digits in green); red tiles **A** 132, **B** 120, **C** 72, **D** 96.
 **H:** pink `H.W.` with a double underline at the right — assigned, not solved on this slide.
 **DIBY:** none (H.W. only). **U:** none.
+---
+<a id="p35"></a>
+## p35 · Question [JEE Mains–2022] — numbers between 1000 and 3000 divisible by 4 (H.W.) · label: — (no label)
+**P:** red chip **Question [JEE Mains–2022]**; **Numbers are to be formed between 1000 and 3000, which are divisible by 4, using the digits 1, 2, 3, 4, 5 and 6 without repetition of digits. Then the total number of such numbers is ________.** (1000 and 3000 in yellow, digits in green).
+**H:** pink `H.W.` with a double underline below the stem — assigned, not solved.
+**DIBY:** none (H.W. only). **U:** none.
+
+---
+<a id="p36"></a>
+## p36 · DO IT BY YOURSELF (DIBY) (section header) · label: — (chip only)
+**P:** black slide, centred yellow pill banner in black text **DO IT BY YOURSELF (DIBY)**.
+**H:** none. **DIBY:** the banner itself carries no item (F-18). **U:** none.
+
+---
+<a id="p37"></a>
+## p37 · # DIBY-02 — roads between A, B and C · label: — (no label)
+**P:** green tag **`# DIBY-02`**; **There are 6 roads between A & B and 4 roads between B & C.** `(i) In how many ways can one drive from A to C by way of B?` `(ii) In how many ways can one drive from A to C and back to A, passing through B on both trips?` `(iii) In how many ways can one drive the circular trip described in (ii) without using the same road more than once.` printed **[Ans.: (i) 24; (ii) 576; (iii) 360]**.
+**H:** cyan sketch of the route map — the letters `A`, `B`, `C` with a fan of five curved cyan strokes between A and B and a lens of three between B and C, each group carrying a small pink tick; pink `6 x 4 x 3 x 5` at the lower right with a long pink arrow up to the (iii) answer.
+**DIBY:** register row PC-L03-P37-DIBY-02. **U:** 1 — the drawn fan has five and three strokes although the print says six and four roads; the sketch is a token, not a count (the hand product 6x4x3x5 = 360 agrees with the print).
+
+---
+<a id="p38"></a>
+## p38 · # DIBY-04 — natural numbers 1 to 1000 with no repeated digit · label: — (no label)
+**P:** green tag **`# DIBY-04`**; **How many natural numbers are their from 1 to 1000 which have none of their digits repeated.** printed **[Ans.: 738]**.
+**H:** a pink arc from the printed "1 to 1000" down to a cyan digit set `{1, 2, 3, 4, 5, 6, 7, 8, 9, 0}`; at the left pink `ex: =` with a ticked list `3, 25, 728, 136`, a vertical ellipsis, then a crossed list `22 x, 100 x, 737 x`; in the middle three cyan column heads `Single digit`, `double`, `Triple` over one, two and three circle-slots with arrows to `9`, `9 x 9` (with `= 81` underneath) and `9 x 9 x 8`.
+**DIBY:** register row PC-L03-P38-DIBY-04. **U:** none — 9 + 81 + 648 = 738, so the third product is left implicit but consistent.
+
+---
+<a id="p39"></a>
+## p39 · # DIBY-05 / 06 / 07 (clean print; 05 and 07 repeat P&C L04) · label: — (no label)
+**P:** `# DIBY-05` **How many positive integers less than 10⁵ can be written with only the digits 7 and 9 ?** [Ans.: 62]; `# DIBY-06` **(a) How many new words can be formed by using all the letters of the word 'MIRACLE'?** (the word in yellow) **(b) How many words starts with a vowel and ending with a consonant.** **(c) How many words starts with a consonant and ends with consonant.** [Ans.: (a) 7! − 1; (b) 1440; (c) 1440]; `# DIBY-07` **Find the number of 10-digit numbers such that the product of any two consecutive digits in the number is a prime number.** [Ans.: 2048].
+**H:** none. **DIBY:** three register rows (P39-DIBY-05/06/07). **U:** none — DIBY-05 and DIBY-07 are word-for-word the same items as P&C L04 p37 and p38; the internal ids keep them distinct per lecture, and L04's DIBY-07 board work (1024 vs printed 2048) is the only attempted solution of the pair.
+
+---
+<a id="p40"></a>
+## p40 · # DIBY-08 / 09 (clean print; both repeat P&C L04 p39) · label: — (no label)
+**P:** `# DIBY-08` **Find number of ways in which 7 different colours in a rainbow can be arranged, if green is always in the middle.** [Ans.: 720]; `# DIBY-09` **Find the number of natural numbers between 100 and 1000 such that atleast one of their digits is 7 .** [Ans.: 252].
+**H:** none. **DIBY:** two register rows (P40-DIBY-08/09). **U:** none — identical text to P&C L04 p39's DIBY-08/09 ("atleast" printed as one word in both).
+
+---
+<a id="p41"></a>
+## p41 · Homework · label: — (no label)
+**P:** clipboard icon + red banner **Homework**; white `# Re-attempt all Class Examples`; white `# DPP & DIBY`.
+**H:** none. **DIBY:** none (F-18). **U:** none.
+
+---
+<a id="p42"></a>
+## p42 · closing slide — Thank You · label: — (no label)
+**P:** white script `It is never about` + red script `end result`; white script `It's always about` + cyan script `Journey`; large `Thank` (yellow) `You` (white script); cyan hashtag `#futurellTians`.
+**H:** none. **DIBY:** none. **U:** none — Lecture 03 ends here: 42 PDF pages, all read and audited (lecture COMPLETE).
