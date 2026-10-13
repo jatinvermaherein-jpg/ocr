@@ -1944,5 +1944,61 @@
   "visible_solution_answer": "none - assigned as DIBY, never worked in this file",
   "uncertainty_note": "Both parts gathered by one red brace into a single DIBY item; the circled cross distinguishes it from p44's tick.",
   "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "02",
+  "source_pdf": "Permutations & Combinations 02 Class Notes.pdf",
+  "pdf_page": 30,
+  "diby_marker": "# DIBY-01 (printed, green tag)",
+  "printed_label": "DIBY-01",
+  "internal_id": "PC-L02-P30-DIBY-01",
+  "prompt_verbatim": "A man has 3 jackets, 10 shirts and 5 pairs of slacks. If an outfit consists of a jacket, a shirt, and a pair of slacks, how many different outfits can the man make?",
+  "options": "—",
+  "visible_solution_answer": "printed [Ans.: 150]",
+  "uncertainty_note": "3 x 10 x 5 = 150; not worked on the board.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "02",
+  "source_pdf": "Permutations & Combinations 02 Class Notes.pdf",
+  "pdf_page": 30,
+  "diby_marker": "# DIBY-02 (printed, green tag)",
+  "printed_label": "DIBY-02",
+  "internal_id": "PC-L02-P30-DIBY-02",
+  "prompt_verbatim": "There are 6 roads between A & B and 4 roads between B & C. (i) In how many ways can one drive from A to C by way of B? (ii) In how many ways can one drive from A to C and back to A, passing through B on both trips? (iii) In how many ways can one drive the circular trip described in (ii) without using the same road more than once.",
+  "options": "(i), (ii), (iii)",
+  "visible_solution_answer": "printed [Ans.: (i) 24; (ii) 576; (iii) 360]",
+  "uncertainty_note": "duplicate of P&C L03 p37 DIBY-02; the L03 board sketches (iii) as 6 x 4 x 3 x 5 = 360. The printed (ii) is consistent with 6 x 4 x 4 x 6 = 576.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "02",
+  "source_pdf": "Permutations & Combinations 02 Class Notes.pdf",
+  "pdf_page": 31,
+  "diby_marker": "# DIBY-03 (printed, green tag)",
+  "printed_label": "DIBY-03",
+  "internal_id": "PC-L02-P31-DIBY-03",
+  "prompt_verbatim": "If repetitions are not permitted (i) How many 3 digit numbers can be formed from the six digits 2, 3, 5, 6, 7 & 9? (ii) How many of these are less than 400? (iii) How many are even? (iv) How many are odd? (v) How many are multiple of 5?",
+  "options": "—",
+  "visible_solution_answer": "printed [Ans.: (i) 120; (ii) 40; (iii) 40; (iv) 80; (v) 20]",
+  "uncertainty_note": "(iii) 40 is the count ending in 2 or 6; board not used, no working in this file.",
+  "qa_status": "QA-PASSED (twin-1)"
+ },
+ {
+  "chapter": "Permutations & Combinations",
+  "lecture": "02",
+  "source_pdf": "Permutations & Combinations 02 Class Notes.pdf",
+  "pdf_page": 31,
+  "diby_marker": "# DIBY-04 (printed, green tag)",
+  "printed_label": "DIBY-04",
+  "internal_id": "PC-L02-P31-DIBY-04",
+  "prompt_verbatim": "How many natural numbers are their from 1 to 1000 which have none of their digits repeated.",
+  "options": "—",
+  "visible_solution_answer": "printed [Ans.: 738]",
+  "uncertainty_note": "duplicate of P&C L03 p38 DIBY-04; printed 'are their from' for 'there', kept verbatim.",
+  "qa_status": "QA-PASSED (twin-1)"
  }
 ]

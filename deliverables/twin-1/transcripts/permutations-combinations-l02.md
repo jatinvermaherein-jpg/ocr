@@ -143,8 +143,8 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 <a id="p22"></a>
 ## p22 · FORMATION OF NUMBERS — RNA vs RA with digits 1,2,3,4 · label: **Page No.126**
 **P:** clipboard icon + red banner **FORMATION OF NUMBERS**; the printed area is otherwise empty apart from the label — the block of gold star stickers in the top-right corner (some 120 of them, overlapping the PW roundel) is a hand-placed emphasis layer.
-**H:** red at the right `100% Ques^n.`; pink `{1,2,3,4}` with an arrow to two red rectangles, the first `ex:` holding `123 / 231 / 432 / ...` and labelled pink `RNA`, the second holding `122 / 333 / 441 / ...` labelled pink `R.A.`; cyan `RNA` heading over three slots with `4 x 3 x 2 = (24)` (24 ringed, double-underlined), an orange arc labelled `included.` to cyan `R.A` over three slots with `4 x 4 x 4 = 4^3`; at the right white `{0, 1, 2, 3}` with the `1` struck out in orange, then `RNA` with three orange slots over `3 3 2` `= (18)` and `RA` over `3 4 4` `= (48)`, both answers ringed orange.
-**DIBY:** none. **U:** 1 — the struck `1` in the set `{0,1,2,3}` is not explained on the slide (the follow-through 3 x 3 x 2 counts a forbidden leading digit and 2 as the last choice, i.e. the strike means "1 is not usable"), so the strike is read as excluding the digit rather than the digit 1 being a typo.
+**H:** red at the right `100% Ques^n.`; pink `{1,2,3,4}` with an arrow to two red rectangles, the first `ex:` holding `123 / 231 / 432 / ...` and labelled pink `RNA`, the second holding `122 / 333 / 441 / ...` labelled pink `R.A.`; cyan `RNA` heading over three slots with `4 x 3 x 2 = (24)` (24 ringed, double-underlined), an orange arc labelled `included.` to cyan `R.A` over three slots with `4 x 4 x 4 = 4^3`; at the right white `{0, 1, 2, 3}` with orange diagonal strokes over `1` and `2`, then `RNA` with three orange slots over `3 3 2` `= (18)` and `RA` over `3 4 4` `= (48)`, both answers ringed orange.
+**DIBY:** none. **U:** 1 — two orange diagonal strokes visually cross `1` and `2` in `{0,1,2,3}`, but the ensuing `3 x 3 x 2` / `3 x 4 x 4` counts instead match the conventional exclusion of a leading `0`; the slide never explains those strokes, so they are described rather than interpreted.
 
 ---
 <a id="p23"></a>
@@ -158,7 +158,7 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 ## p24 · board — the same six conditions continued: (iv), (v) and the crossed-out naive count · label: — (no header, board slide)
 **P:** none — board page.
 **H:** yellow `{0, 1, 2, 7, 8, 9}` at the top with red underlines beneath four of the digits; a green arc to `(iv)` and five green slots over `5 x 6 x 6 x 6 x` whose last factor drops to a green `3 (opt. 0,2,8)`, gathered by a green brace into a green rectangle `5 x 6^3 x 3` with a green arrow up from a `(vi)` label; inside a large blue blob, the rejected pink construction — five pink slots over `5 4 3 2` and a final `3 opta (0,2,8)` giving `= 360` marked with a pink cross; a cyan arc from the digit set down-left to a cyan ringed tick and five cyan slots over `4 x 4 x 3 x 2 x` with `3 opta (1,7,9)` giving cyan `= (288)` ringed; at the right three cyan rows `- - - - 1 -> 96`, `- - - - 7 -> 96`, `- - - - 9 -> 96` under a cyan blob holding `4 4 3 2`.
-**DIBY:** none. **U:** 2 — (a) the green `(vi)` label points at the rectangle `5 x 6^3 x 3`, which is the (iv) count; the odd-with-repetition answer 288 is written in cyan with no letter of its own, so the labels as drawn mis-tag one of the two; (b) the naive `360` inside the blue blob is the (v)-style count with a zero-leading slot allowed, struck out as wrong — read as the instructor's rejected attempt rather than as an alternative answer.
+**DIBY:** none. **U:** 1 — the green `5 x 6^3 x 3` is the common total for both (iv) even with repetition and (vi) odd with repetition, and the nearby `(vi)` arrow appears to call out that reuse; the cyan `288` is the no-repetition odd count (v), but it has no explicit adjacent label. The pink `360` is a rejected zero-leading version of that RNA count, not an answer.
 ---
 <a id="p25"></a>
 ## p25 · Question [JEE Mains–2015] — integers greater than 6000 from 3,5,6,7,8 · label: **Page No.126**
@@ -171,7 +171,7 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 ## p26 · Question [JEE Mains–2019] — four-digit numbers > 4321, method M-1 · label: **Page No.127**
 **P:** red chip **Question [JEE Mains–2019]**; **The number of four-digit numbers strictly greater than 4321 that can be formed using the digits 0, 1, 2, 3, 4, 5 (repetition of digits is allowed) is** (4321 yellow, digits green); red tiles **A** 360, **B** 306, **C** 310, **D** 288.
 **H:** pink four dashes at the top with pink `C-I:` double-underlined at the left; cyan `5` over the first slot with three pink arcs down to `6 6 6`, an arrow to a stack of pink `216`, pink `94`, an orange rule and orange `310` with a wavy underline; at the right a cyan ring `M-1` over a double underline; green `C-II:` then the case list `45 _ _` (with `6` written twice above the blanks), `44 _ _`, `435 _`, `434 _`, `433 _`, `432` with the last slot ringed and green `4 opta (2,3,4,5)` under it; orange arrows to orange `-> 36, 36, 6, 6, 6`; a tall orange brace gathering them all to an orange ring `94` over a double underline; an orange tick across tile **C**.
-**DIBY:** none. **U:** 1 — two different totals are written for the same quantity, `310` under C-I and the braced `94` under C-II, with no statement linking them; both transcribed as they stand (C-II is the count of numbers above 4321 beginning with 4, which the board never adds to the 36/36/6/6/6 columns' 216).
+**DIBY:** none. **U:** none — the staged totals are consistent: C-I (`5___`) gives 216, C-II (the `4...` prefix cases) gives 94, and the stacked sum is 310; tile C is ticked.
 
 ---
 <a id="p27"></a>
@@ -179,3 +179,46 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 **P:** identical printed question and options to p26.
 **H:** pink `Total` ringed in green forking to pink `greater than 4321 (Req.)` and pink `less than 4321 (Not Req.)`, with green `or equals to` written under the second branch; a green arrow from the ring down to four green slots over `5 6 6 6 = 5 x 6^3`; a cyan arrow from the not-required branch to cyan rows `3 _ _ _`, `2 _ _ _`, `1 _ _ _`, `41 _ _`, `42 _ _`, `40 _ _`, and at the right four more cyan rows `430 _`, `431 _`, `432 1`, `432 0`; a cyan ring `M-2` over a double underline at the upper right; the orange tick on tile C is still visible from the previous reveal.
 **DIBY:** none. **U:** none — the subtraction is never carried out on this slide, so no arithmetic discrepancy is created.
+
+---
+<a id="p28"></a>
+## p28 · Blue बादल (KKPNCC) — Required = Total − (Not Required) · label: — (no header, cloud slide)
+**P:** a blue cloud with a yellow outline (plus a small bubble at the lower left) on black carrying yellow `Blue बादल (KKPNCC)`; white `जब Required cases ज़्यादा हों तो ek बार` / `Not required cases के बारे में सोचो।`; then yellow `BIJECTION:` and, inside a red box, white `Required = Total − (Not Required)`.
+**H:** none — the slide is complete as printed.
+**DIBY:** none. **U:** none — this is the printed rule that p26–p27 apply, so the two boards there are read against it (M-1 = direct case list, M-2 = complement).
+
+---
+<a id="p29"></a>
+## p29 · DO IT BY YOURSELF (DIBY) section divider · label: — (no header, divider slide)
+**P:** black slide with a single centred gold pill reading **DO IT BY YOURSELF (DIBY)** in black capitals (with a thin dark outline arc at its left edge); the PW badge at the top right. No question, no numbering, no other text.
+**H:** none.
+**DIBY:** none recorded — the divider carries no problem statement, so there is no item to put in the register; the DIBY work in this lecture is on the printed `# DIBY-` slides already logged.
+**U:** none — recorded as a partial page purely because the slide is a section marker rather than content.
+
+---
+<a id="p30"></a>
+## p30 · # DIBY-01 / # DIBY-02 — outfits; roads between A, B and C · label: — (no label)
+**P:** green tag **`# DIBY-01`**; **A man has 3 jackets, 10 shirts and 5 pairs of slacks. If an outfit consists of a jacket, a shirt, and a pair of slacks, how many different outfits can the man make?** with printed **[Ans.: 150]** right-aligned; then green tag **`# DIBY-02`**; **There are 6 roads between A & B and 4 roads between B & C.** `(i) In how many ways can one drive from A to C by way of B?` `(ii) In how many ways can one drive from A to C and back to A, passing through B on both trips?` `(iii) In how many ways can one drive the circular trip described in (ii) without using the same road more than once.` with printed **[Ans.: (i) 24; (ii) 576; (iii) 360]**.
+**H:** none — both items are left as printed for the student.
+**DIBY:** register rows PC-L02-P30-DIBY-01 and PC-L02-P30-DIBY-02 (the latter a wording duplicate of P&C L03 p37 DIBY-02). **U:** none.
+
+---
+<a id="p31"></a>
+## p31 · # DIBY-03 / # DIBY-04 — 3-digit numbers from 2,3,5,6,7,9; natural numbers to 1000 · label: — (no label)
+**P:** green tag **`# DIBY-03`**; **If repetitions are not permitted** `(i) How many 3 digit numbers can be formed from the six digits 2, 3, 5, 6, 7 & 9?` `(ii) How many of these are less than 400?` `(iii) How many are even?` `(iv) How many are odd?` `(v) How many are multiple of 5?` with printed **[Ans.: (i) 120; (ii) 40; (iii) 40; (iv) 80; (v) 20]**; then green tag **`# DIBY-04`**; **How many natural numbers are their from 1 to 1000 which have none of their digits repeated.** with printed **[Ans.: 738]**.
+**H:** none.
+**DIBY:** register rows PC-L02-P31-DIBY-03 and PC-L02-P31-DIBY-04 (the latter a wording duplicate of P&C L03 p38 DIBY-04). **U:** none — "natural numbers are their from 1 to 1000" is the printed wording (for "there") in both lectures and is kept verbatim.
+
+---
+<a id="p32"></a>
+## p32 · Homework · label: — (no header, homework slide)
+**P:** white rounded-square icon (clipboard with a blue pencil and an orange pie chart) beside a red gradient chip reading **Homework** in white; two white bullets below it: `# Re-attempt all Class Examples` and `# DPP & DIBY`. The rest of the slide is black.
+**H:** none.
+**DIBY:** none — the second bullet points at the DIBY set on p30–p31 but assigns no new item. **U:** none — the same closing homework slide appears in P&C L04 p42 and P&C L01's last page.
+
+---
+<a id="p33"></a>
+## p33 · It is never about end result · label: — (no header, closing slide)
+**P:** black slide; white cursive `It is never about` followed by red cursive `end result`; below it white cursive `It's always about` followed by cyan cursive `Journey`; then a giant `Thank` in a yellow gradient with a white cursive `You` overlapping it, and `#futureIITians` in cyan with a red offset shadow at the bottom; the PW badge at the top right.
+**H:** none.
+**DIBY:** none. **U:** none — end of deck; all 33 pages of P&C L02 are now transcribed.
