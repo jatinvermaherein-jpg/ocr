@@ -1,7 +1,7 @@
 {
  "worker": "twin-1",
- "qa_rows_applied": 371,
- "pages_reviewed": 371,
+ "qa_rows_applied": 373,
+ "pages_reviewed": 373,
  "pages_total": 508,
  "per_lecture": {
   "Binomial Theorem L01": {
@@ -49,7 +49,7 @@
    "total": 33
   },
   "Permutations & Combinations L03": {
-   "reviewed": 8,
+   "reviewed": 10,
    "total": 42
   },
   "Permutations & Combinations L04": {

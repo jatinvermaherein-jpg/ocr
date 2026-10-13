@@ -110,5 +110,33 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "pc03",
+  "_page": 9,
+  "source_page_label": "\u2014",
+  "topic_or_heading": "PERMUTATIONS & COMBINATIONS topic header",
+  "printed_text_captured": "full",
+  "handwriting_captured": "none",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "pc03",
+  "_page": 10,
+  "source_page_label": "Page No.125 & 126",
+  "topic_or_heading": "DIVISIBILITY RULE (i)-(vi): 2,3,4,5,6,9 with ticks",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 2,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]

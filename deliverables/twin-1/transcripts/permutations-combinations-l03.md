@@ -52,3 +52,14 @@ Source: `Permutations & Combinations 03 Class Notes.pdf` (42 pages, image-only, 
 **P:** identical printed question to p04 (five cyan equations).
 **H:** cyan `8 soln` double-underlined with a cyan arrow from (iii); yellow `(iv)` at upper right with orange `sin|x| = (|x| − 1)/2` (fraction drawn) arrow to an orange ring `2` and orange `soln.` over a double underline, above a plot of a white |sin|-type wave and an orange V-line of slope 1/2 whose vertex sits at the orange label `−1/2`, white ticks `−1`, `1`; pink curved arrow and pink `(v)` label introducing the lower plot — green axes with green x-labels `0, π/2, π, 3π/2, 2π, 5π/2, 3π`, magenta arches `y = 5|sin x|` (magenta label with arrow, dotted white rule at the magenta `5`) and green arches `y = 3|cos x|` (green label with arrow, dotted white rule at green `3`), six cyan-ringed intersections and solid magenta dots at the arch peaks; cyan `6 soln` double-underlined beside (v).
 **DIBY:** none. **U:** none — p04 and p08 are the same printed slide at later reveal stages; transcribed as a delta per F-16.
+<a id="p09"></a>
+## p09 · PERMUTATIONS & COMBINATIONS (topic header) · label: — (chip only)
+**P:** black slide, white bold **PERMUTATIONS & COMBINATIONS** inside a thin red rectangle — the point where the lecture leaves the H.W. discussion and starts today's topic.
+**H:** none. **DIBY:** none. **U:** none.
+
+---
+<a id="p10"></a>
+## p10 · DIVISIBILITY RULE (i)–(vi) · label: **Page No.125 & 126**
+**P:** clipboard icon + red banner **DIVISIBILITY RULE**; green/cyan sub-head **Divisibility Rule for : 2,3,4,5,6,7,8,9,10,11,25**; then `Printed` white rules — `(i)` **All those number having their last digit an even number are divisible by 2.** `(ii)` **If the sum of digits is divisible by 3, then number is divisible by 3.** `(iii)` **Divisible by '4' ⇒ Last two digits of number is divisible by 4.** `(iv)` **If the last digit of the number is 0 or 5, the number is divisible by 5.** `(v)` **Divisible by '6' ⇒ Number should be divisible by 2 & 3 both.** `(vi)` **If the sum of digits is divisible by 9, then the number is divisible by 9.**
+**H:** a pink tick on `(i)` and cyan ticks on `(ii)`–`(vi)` (each drawn across the numeral); at top centre a red hand-drawn circle enclosing red letters read as `RAR` with a small arc above it.
+**DIBY:** none. **U:** 2 — (a) the printed label spans two module pages at once, `Page No.125 & 126`, so this single PDF page carries two ledger pages (F-08); (b) the circled red hand-marking reads as "RAR" but the letterforms are ambiguous (could be an initial or a "R@R"-style rapid-revision mark); the sub-head promises rules for 7, 8, 10, 11 and 25 that are not on this slide — they continue on p11.
