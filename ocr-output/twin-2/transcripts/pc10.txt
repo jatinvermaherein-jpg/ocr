@@ -2,3 +2,847 @@ Permutations & Combinations — Lecture 10
 Source: Permutations and Combinations 10 Class Notes.pdf
 AUTOMATED OCR — NOT MANUALLY REVIEWED
 
+=== PDF PAGE 1 ===
+ARJUN
+1
+JEE2027
+30
+Lecture-10
+Mathematics
+PERMUTATIONS
+Physics
+AND
+COMBINATIONS
+By- Sachin Jakhar Sir
+
+=== PDF PAGE 2 ===
+Topics
+tobecoverey
+A
+Distribution of ldentical objects
+B
+Circular Permutation
+Question Practice
+D
+
+=== PDF PAGE 3 ===
+H.W. Discussion
+
+=== PDF PAGE 4 ===
+Question[JEEMains-2026]
+[Ans.:126]
+Two players A and B play a series of games of badminton, The player,
+who wins 5 games first, wins the series. Assuming that no game ends in a
+draw, the number of ways, in which player A wins the series is
+#
+(A), B
+cr
+5Matcwes
+GMatches
+#=（(+5+15+35+40)
+Awins
+#Matches
+P
+= 126
+OK
+长
+= 35
+8 Matches
+= 12 G
+wins
+,Cy=40
+A
+Matches
+10 Matches
+
+=== PDF PAGE 5 ===
+Question[JEEMains-2026]
+[Ans.:660]
+Let ABC be a triangle. Consider four points p1, p2, P3, p4 on the side AB, five
+points p5, P6, P7, P8, Pg on the side BC, and four points p10, P11 P12, P13 on the
+side Ac. None of these points is a vertex of the triangle ABc. Then the
+total number of pentagons, that can be formed by taking all the vertices
+from the points p1, P2, ..,P13, is
+selcf ay
+A
+md s
+CA
+AB
+BC
+SI:
+2
+Q
+C2
+SC2
+X
+C:
+9
+-e
+add
+C-m:
+
+=== PDF PAGE 6 ===
+Question
+Find the number of arrangements of letters of the word EQuATioN such
+that vowels occur in alphabetical order.
+一
+
+(A,ET,0,U)(9,T.N)
+S
+X31
+336
+产
+5
+Alph.ordey
+
+=== PDF PAGE 7 ===
+Question
+When repetition is allowed find the number of 7 digits numbers 0 to 9
+(!)
+such that sum of digits is even
+(ii)
+which are palindrome.
+using
+digyt
+ii---
+—9 10 10 
+.11
+1
+7
+C
+Total = 9x10°
+bol ung 
+01xb
+1010
+10
+1333
+(900)
+mt
+
+=== PDF PAGE 8 ===
+Question[JEEMains-2020]
+Page No.136
+The number of 4 letter words
+s (with or without meaning)
+that can be
+formed from the eleven letters of the word EXAMiNATioN is
+Ans:2454
+AA ,N N,II, E, X, T, O, M
+大
+GI:
+dalike+ oliHt
+-
+Qalike+-otheralike
+CT
+
+AA
+X
+AE
+Z
+NI
+A
+II
+IE
+TOM
+NIO
+NNA
+AA
+7
+3
+4!
+8
+x
+X
+41
+21
+2
+
+=== PDF PAGE 9 ===
+Question [JEE Mains-2026]
+[Ans.: (D)]
+The number of 4-letter words, with or without meaning, each consisting
+of twovowels and two consonants that can be formed from the letters of
+s
+A
+2670
+~owels
+nuouosw
+ex-
+(A,E,I,0,U 
+B
+2840
+N,C,S,α,T,L
+ENNE
+2920
+6
+X
+X
+D
+3600
+
+=== PDF PAGE 10 ===
+Question[JEEMains-2023]
+Page No.138
+Let n be a non-negative integer. Then the number of divisors of the form
+4n + 1of the number (10)i0.(11)u. (13)'3 is equal to
+81%
+13
+N = 2° 50 11'. 13
+&
+5
+U
+13
+4n+1
+(4n+1).(4n+1).(4n+1)(4n+1
+13
+Q
+dL
+3 3
+&
+d
+13~.
+13
+(））)
+Y
+4n+i 4r+i 4ntl. -
+4nt
+4n
+4n+2
+1x11×6x14
+5
+924
+4m+1
+"月
+4n+1 4n+3 4n+! 4nt3.
+
+=== PDF PAGE 11 ===
+LASTCLASSRECAP
+Number of ways of distributing 5 different chocolates to 5 children such that
+each can get any amount is__5. 5.5_55.=
+  s s
+each get one, is.
+5!
+3.N
+Number of ways of distributing 5 different chocolates to 3 children such that
+each get at-least one, is,
+Q9
+S, R, P 
+q0
+n=5
+(2)+()
+—30
+221
+5!
+5!
+x31
+=3
+311
+x3/
+2/2/1/ 21
+31111/21
+a43 - 3x32 + 3 = 246 -96 =(150
+
+=== PDF PAGE 12 ===
+Page No.140
+Example
+Number of ways of distributing
+ seven different chocolates to four
+children such that each gets atleast one chocolate.
+七
+?
+1t
+m
+(i)ih
+zi) ie/e
+?
+１１
+3/
+=/ 31
+0
+3211
+b
+aa1
+T
+8400
+
+=== PDF PAGE 13 ===
+PageNo.140
+DISTRIBUTION
+
+安
+Persons
+(such that each get atleast one)
+E
+direct
+formula
+?
+7
+n
+尼
+h
+m
+(n-3)
+-
+-2)
+C
+C
+?
+nu
+m
+Hchildrer
+
+=== PDF PAGE 14 ===
+PageNo.14o
+Example
+Number of ways of distributing seven different chocolates to four
+children such that each gets atleast one chocolate.
+t=u
+-℃, 3
+C
+=4
+= 8400
+
+=== PDF PAGE 15 ===
+RAPIDFIREDIBY'S
+# DIBY-01
+Number of ways in which 8 computers of different make can be distributed
+among 5 schools such that each school gets at least one computer is:
+(A)
+63,000
+(B)
+126,000
+(c)
+151,200
+(D)
+189,000
+[Ans.:(B)]
+#DIBY-O2
+In how many ways can a selection of 5 letters be made from the word
+MISSISSIPPI?
+(A) 
+15
+(B)
+25
+(c) 
+42
+(D)
+60
+
+[Ans.: (B)]
+# DIBY-03
+In how many different ways the number N = 24.32 .53 . 72 .114 .132 be resolved as
+a product of two divisors which are relatively prime ?
+(A)
+32
+(B)
+64
+(c) 16
+(D)
+128
+
+[Ans.:(A)]
+
+=== PDF PAGE 16 ===
+n-id.twig
+E
+1-人+U
+L
+Totol ways
++u
+S+ick - Par+ition 
+Metwod
+-Cwildren
+(-)
+4cuildren
+Iwngy
+Total
+1
+amaugement
+?
+SHicks
+?
+11
+7
+A
+1e 18
+8
+D
+&
+a
+m
+86
+1
+4
+
+=== PDF PAGE 17 ===
+n-id tuing
+n-1
+pachgets
+A aHeayt ome
+C
+%-1
+S+ick - PartiHion 
+Metwod
+-Cwild
+4eildren
+atleast one
+1
+Shicks
+5
+×
+×1 
+-x
+x1
+3
+×一
+X
+
+=== PDF PAGE 18 ===
+DISTRIBUTIONOFIDENTICALOBJECTS
+PageNo.141
+Question
+n= 13, % = 5
+s  s
+!
+No restriction (fff 可 baff ff )
+T
+each gets at least one.
+1-+
+13+ 5-1
+14
+C
+
+5-1
+13-1
+n-l
+12
+-1
+5-1
+
+=== PDF PAGE 19 ===
+NUMBER OF INTEGRAL SOLUTIONS (BEGGAR'S METHOD)
+-chldren
+Page No.141
+n0.
+identical Hunps
+Equation:
+x1 + x2 + x3 + .··+ xr
+0
+n
+Case-l:
+(x1, x2, x3,., xr) E N  12,3,4.. -
+aHeaut one given to each child
+Number of integral solutions
+n-1
+Cr-1
+Case-1l:
+(x1, x2, x3,..,x) ∈ Wo, 1,2,3.
+all possible dit 
+Number of integral solutions
+n+r-1
+一
+r-1
+
+=== PDF PAGE 20 ===
+n = 18
++
+++t = 18
+h = 4
+n
+17
+N
+-1
+M'
+-+u
+21
+
+=== PDF PAGE 21 ===
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+?
+(0'z'x)yy0s91 = 1+ z +  + x
+α-1
+<(
+-2
+-3≥0, t>0
+<x
+Y>o
+Z>0
+inita cond?
++
++y+  +t =10
+all possible dit · =
+y-2)+(α-3/+ t = 10
++t=10、,(x,Yz,teW
+X+
+Y+
+
+=== PDF PAGE 22 ===
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+x + y + z + t = 16,such that(x≥4,y≥-2,z≥-3,t≥-1)
+α-4≥0
+'0<ε+0<B+K
+<++
+)+(<+3)+(t+1)= 16-4+2+3 + 1
+x-4
+-+t+
+x≥o, Y≥o, ≥o, T>O
+X + Y + + T = 18
+1-x+li
+18+4-1
+21
+C3
+树
+F
+4-1
+
+=== PDF PAGE 23 ===
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(ii)
+x + y + z + t = 16, such that (x, y,z,t ∈ odd +ve integers)
+p+1)
++68
+&m+ 1)
++1)=16
+=C
+6+4-1
++w+b+
+I-+u
+all possible =
+%
+X
++
+2 
+3
+一
+13
+t
+3
+5
+h
+1
+5
+1
+11
+4 
+ 2
+2
+
+
+=== PDF PAGE 24 ===
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(iv) x + y + z + 40 = 20, such that (x, y,z, @ ∈ positive integers)
+Natural No.
+16 -1
+SC
+C3-1
++y+ = 16
+C-L:
+8=1
+一
+/2-1
+x+y+ = 12
+add = ft
+=°
+一
+3-
+α+y+ = 8
+
+C-Ⅲ。
+w=3
+：
+C3-1
+C-°
+=3
+h = 去++
+?
+一
+c-°
+w=5
++y+= O·= not possible
+
+=== PDF PAGE 25 ===
+Page No.141
+MahaBumper Question
+Find number of integral solutions of following equation with given conditions:
+(iv)_ x + y + z + 4@ = 20, such that (x,y,z, @ e whole n0 .
+16 -1+3
+C3-1
+C-I:
+x+y+ = 16
+8=1
+一
+12-1+3
+x+y+ = 12
+add =ft
+C
+=’
+3-1
+8-1+3
+C-1
+8 = ++x
+C-。
+w=3
+4-1+3
+6
+C3-1
+=3
++4+ = 4
+=
+C-°
+=
+22
+c°=O
++y+=20. = 20+3-1
+C3-1
+
+=== PDF PAGE 26 ===
+Page No.141
+MahaBumper Question
+Find number of integral solutions of following equation with given conditions:
+x + y + z≤20, such that (x, y,z ∈ non-negative integers)
+
+ex:
+10+0+10
+False beggar
+J
+0+9+
+x+y
+=&0
+1  +  1  +  1 
++
+l-+u
+all possible 
+(~-/
+0+0+0
+1004
+3
+20+4-1
+5
+1
+10
+23
+20
+0
+T
+2
+?
+
+=== PDF PAGE 27 ===
+Page No.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+x + y + z ≤20, such that (x, y,z ∈ Natural No
+False beggar
+= a0
+t
+25
++++
+七
+=a0
+x+y +&
+I-h+tl
+x,y,≥1,t≥0
+all possible 
+
+20
++y++
+)=1+
+一
+
+=== PDF PAGE 28 ===
+PageNo.141
+Maha Bumper Question
+Find number of integral solutions of following equation with given conditions:
+(vi)
+35 < x + y + z≤52, such that (x,y,z ∈ positive integers)
+°M+
+。
+
+=== PDF PAGE 29 ===
+PageNo.133
+AcidicQuestion
+How many words of seven letters can be formed by using the letters of
+S
+°m
+A
+96
+D
+B
+41
+264
+D
+40
+
+=== PDF PAGE 30 ===
+RAPIDFIREDIBY'S
+#DIBY-O1
+In how many ways can 30 marks be allotted to 8 questions if at least 2 marks are to be
+given to each question, assuming the marks are allotted in non negative integral
+values?
+(A)
+21C7
+(B)
+22C
+(c)
+29 C7
+(D)
+21C8
+[Ans.: (A)]
+#DIBY-O2
+There are an unlimited number of Red, White, Black, and Green balls (balls are all alike
+except for the color). Find the number of ways in which a selection of 1o balls can be
+made:
+(A)
+13C4
+(B)
+10C3
+(c)
+13C3
+(D)
+14C3
+[Ans.:(c)]
+#DIBY-03
+A supermarket offers ice creams in 10 different varieties. Ice creams of each variety are
+identical. In how many ways can 4 ice creams be selected without any restriction?
+13C6
+(A)
+10C4
+(c)
+13C5
+(D)
+13C4
+(B)
+[Ans.: (D)]
+
+=== PDF PAGE 31 ===
+P
+?
+DO IT BY YOURSELF (DIBY)
+
+=== PDF PAGE 32 ===
+#DIBY-55
+Find the total number of ways of selecting five letters from the work
+"INDEPENDENT'.
+[Ans.:72]
+#DIBY-56
+The number of ways five alphabets can be chosen from the alphabets of the
+word MATHEMATicS, where the chosen alphabets are not necessarily distinct,
+is equal to
+[JEE Mains-2024]
+(A)
+179
+(B)
+177
+(c)
+181
+(D)
+175
+[Ans.: (A)]
+#DIBY-57
+The total number of words (with or without meaning) that can be formed out of
+the letters of the word 'DiSTRIBUTioN' taken four at a time, is equal to
+[JEE Mains-2024]
+[Ans.:3734]
+
+=== PDF PAGE 33 ===
+#DIBY-58
+In an examination of Mathematics paper, there are 20 questions of equal
+marks and the question paper is divided into three sections: A, B and C. A
+student is required to attempt total 15 questions taking at least 4 questions
+from each section. If section A has 8 questions, section B has 6 questions and
+section c has 6 questions, then the total number of ways a student can select
+15 questions is
+[JEE Mains-2024]
+[Ans.: 11376]
+#DIBY-59
+In how many ways 5 NEET & 5 JEE Aspirants can be seated
+(a)
+All JEE aspirants are together
+50
+All NEET aspirants are together & all JEE aspirants are together
+Not all JEE aspirants are together
+(d)
+No 2 JEE aspirants are together.
+[Ans......
+
+=== PDF PAGE 34 ===
+#DIBY-60
+Find the number of all 6 digit numbers such that all the digits of each number
+are selected from the set {1, 2, 3, 4, 5} and any digit that appears in the number
+appears at least twice.
+[Ans.:1405]
+# DIBY-61
+The number of words that can be formed using all the letter of the word
+"cURRIcULUM" in which two U's are together but separated from the third 'U' in
+K(7!). The value of K is
+(A)  7
+(B)
+(c)
+12
+(D)
+9
+14
+[Ans. : (D)]
+#DIBY-62
+The total number of ways in which 5 balls of different colours can be distributed
+among 3 persons so that each person gets at least one ball is
+[IIT-JEE-2012]
+(A)
+75
+(B)
+150
+(c)
+210
+(D)
+243
+
+[Ans.: (B)]
+
+=== PDF PAGE 35 ===
+#DIBY-63
+The students S, S2, ..,S10
+are to be divided into 3 groups A, B and C such that
+each group has at least one students and the group C has at most 3 students.
+Then the total number of possibilities of forming such groups is
+[JEE Mains-2021]
+[Ans.:31650]
+# DIBY-64
+The total number of three-digit numbers, divisible by 3, which can be formed
+using the digits 1, 3, 5, 8 if repetition of digits is allowed, is
+[JEE Mains-2023]
+(A)  21
+(B)
+(c)
+(D)  20 
+22
+18
+[Ans.: (B)]
+#DIBY-65
+Let the set S = {2, 4, 8, 16, ..
+512} be partitioned into 3 sets A, B, C with equal
+number of elements such that A u B U C = S and A  B = B  C = A  C = Φ. The
+maximum number of such possible partitions of s is equal to
+[JEE Mains-2024]
+(A)
+1640
+(B)
+1520
+(c)
+1710
+(D)
+1680
+[Ans.: (D)]
+
+=== PDF PAGE 36 ===
+Homework
+# Re-attempt all class Examples
+#DPP&DIBY
+
