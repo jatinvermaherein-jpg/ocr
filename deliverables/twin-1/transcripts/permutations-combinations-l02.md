@@ -159,3 +159,23 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 **P:** none — board page.
 **H:** yellow `{0, 1, 2, 7, 8, 9}` at the top with red underlines beneath four of the digits; a green arc to `(iv)` and five green slots over `5 x 6 x 6 x 6 x` whose last factor drops to a green `3 (opt. 0,2,8)`, gathered by a green brace into a green rectangle `5 x 6^3 x 3` with a green arrow up from a `(vi)` label; inside a large blue blob, the rejected pink construction — five pink slots over `5 4 3 2` and a final `3 opta (0,2,8)` giving `= 360` marked with a pink cross; a cyan arc from the digit set down-left to a cyan ringed tick and five cyan slots over `4 x 4 x 3 x 2 x` with `3 opta (1,7,9)` giving cyan `= (288)` ringed; at the right three cyan rows `- - - - 1 -> 96`, `- - - - 7 -> 96`, `- - - - 9 -> 96` under a cyan blob holding `4 4 3 2`.
 **DIBY:** none. **U:** 2 — (a) the green `(vi)` label points at the rectangle `5 x 6^3 x 3`, which is the (iv) count; the odd-with-repetition answer 288 is written in cyan with no letter of its own, so the labels as drawn mis-tag one of the two; (b) the naive `360` inside the blue blob is the (v)-style count with a zero-leading slot allowed, struck out as wrong — read as the instructor's rejected attempt rather than as an alternative answer.
+---
+<a id="p25"></a>
+## p25 · Question [JEE Mains–2015] — integers greater than 6000 from 3,5,6,7,8 · label: **Page No.126**
+**P:** red chip **Question [JEE Mains–2015]**; **The number of integers greater than 6000 that can be formed, using the digits 3, 5, 6, 7 and 8 without repetition, is** (6000 in yellow, the digits in green); red tiles **A** 120, **B** 72, **C** 216, **D** 192.
+**H:** two pink arcs from "without repetition," down to pink `4 digit` and `5 digit`; under the 4-digit head, two pink slots ringed plus two dashes, with pink `3 opt. (6,7,8)` below the first and `4 x 3 x 2 = 72`; under the 5-digit head, five cyan slots over `5 x 4 x 3 x 2 x 1` with cyan `= (120)` ringed; pink cursive `fnf = 120 + 72 = 192` at the bottom; a pink tick across tile **D**.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p26"></a>
+## p26 · Question [JEE Mains–2019] — four-digit numbers > 4321, method M-1 · label: **Page No.127**
+**P:** red chip **Question [JEE Mains–2019]**; **The number of four-digit numbers strictly greater than 4321 that can be formed using the digits 0, 1, 2, 3, 4, 5 (repetition of digits is allowed) is** (4321 yellow, digits green); red tiles **A** 360, **B** 306, **C** 310, **D** 288.
+**H:** pink four dashes at the top with pink `C-I:` double-underlined at the left; cyan `5` over the first slot with three pink arcs down to `6 6 6`, an arrow to a stack of pink `216`, pink `94`, an orange rule and orange `310` with a wavy underline; at the right a cyan ring `M-1` over a double underline; green `C-II:` then the case list `45 _ _` (with `6` written twice above the blanks), `44 _ _`, `435 _`, `434 _`, `433 _`, `432` with the last slot ringed and green `4 opta (2,3,4,5)` under it; orange arrows to orange `-> 36, 36, 6, 6, 6`; a tall orange brace gathering them all to an orange ring `94` over a double underline; an orange tick across tile **C**.
+**DIBY:** none. **U:** 1 — two different totals are written for the same quantity, `310` under C-I and the braced `94` under C-II, with no statement linking them; both transcribed as they stand (C-II is the count of numbers above 4321 beginning with 4, which the board never adds to the 36/36/6/6/6 columns' 216).
+
+---
+<a id="p27"></a>
+## p27 · Question [JEE Mains–2019] (same slide) — method M-2, total minus the not-required part · label: **Page No.127**
+**P:** identical printed question and options to p26.
+**H:** pink `Total` ringed in green forking to pink `greater than 4321 (Req.)` and pink `less than 4321 (Not Req.)`, with green `or equals to` written under the second branch; a green arrow from the ring down to four green slots over `5 6 6 6 = 5 x 6^3`; a cyan arrow from the not-required branch to cyan rows `3 _ _ _`, `2 _ _ _`, `1 _ _ _`, `41 _ _`, `42 _ _`, `40 _ _`, and at the right four more cyan rows `430 _`, `431 _`, `432 1`, `432 0`; a cyan ring `M-2` over a double underline at the upper right; the orange tick on tile C is still visible from the previous reveal.
+**DIBY:** none. **U:** none — the subtraction is never carried out on this slide, so no arithmetic discrepancy is created.

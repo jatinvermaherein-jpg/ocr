@@ -334,5 +334,47 @@
   "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
   "visual_qa_status": "QA-PASSED",
   "reviewer": "twin-1"
+ },
+ {
+  "_key": "pc02",
+  "_page": 25,
+  "source_page_label": "Page No.126",
+  "topic_or_heading": "Q JEE Mains 2015: integers > 6000, 120 + 72 = 192, D ticked",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "pc02",
+  "_page": 26,
+  "source_page_label": "Page No.127",
+  "topic_or_heading": "Q JEE Mains 2019: four-digit > 4321, C-I 216+94 = 310 vs C-II 94",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 1,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
+ },
+ {
+  "_key": "pc02",
+  "_page": 27,
+  "source_page_label": "Page No.127",
+  "topic_or_heading": "same Q, M-2: Total = 5x6^3 minus listed not-required cases",
+  "printed_text_captured": "full",
+  "handwriting_captured": "full",
+  "diby_present": "NO",
+  "diby_labels": "",
+  "uncertainty_count": 0,
+  "extraction_method": "visual transcription from rendered page (PDF has no text layer)",
+  "visual_qa_status": "QA-PASSED",
+  "reviewer": "twin-1"
  }
 ]
