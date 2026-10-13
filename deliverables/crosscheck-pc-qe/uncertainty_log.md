@@ -1,0 +1,345 @@
+# Uncertainty / issue log - independent cross-check (block owner: Twin 2)
+
+Every entry cites PDF page and location/reading. Nothing below was silently corrected.
+
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p4: low-conf (0.5926) line: '米' | low-conf (0.6026) line: 'O' | low-conf (0.5482) line: '来' | low-conf (0.5526) line: 'V' | dual-pass agreement 0.7342 | Printed digit set re-verified at 400 dpi: 'using all the digits 1, 2, 3, 4, 5, 7 and 9' (7 digits, sum 31; consistent with the Sum = 31 annotation). RESOLVED - previously ambiguous between 7 and 8. | Top-right cloud badge contains a printed/cursive word overlaid in a star-cloud; legible candidates 'Reattempt' / 'Permutation' but not resolvable at 400 dpi. Logged [UNCLEAR]; not used as content. | Case table verified at 340 dpi: left column (3,4,5,9)=21, (2,3,7,9)=21, (1,4,7,9)=21; right column (7,2,1)=10, (5,4,1)=10, (5,3,2)=10, (5,7,9)=21; bottom-left (1,2,3,4)=10, bottom-right (5,7,9)=21. Total 4!x3! = 144 shown four times, then 576.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p5: low-conf (0.5518) line: 'G' | RESOLVED at 340 dpi: handwritten 4-digit case is '2 x 4 x 3 x 2 = 48' - leading digit '2' is written with a curl, giving 2 x 4 x 3 x 2 = 48 (first digit 7 or 8). With the 5-digit case 5! = 120, the sum is 168 = printed option (B), which is the ticked answer. Earlier doubt about a '3 x ...' product was a misread of the curled '2'. | 'A 120' also carries a tick/line, marking the 5-digit partial count; only (B) 168 is the ticked final answer.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p6: low-conf (0.649) line: '55' | low-conf (0.5257) line: '566' | low-conf (0.6374) line: 'CC' | low-conf (0.6327) line: '4073' | dual-pass agreement 0.7417 | Two different reading chains appear on the slide: a '6^6' annotation near the circle diagram and the main chain using 10^6/10^7/10^8 minus 5^k. Both transcribed; no correction applied. | Working continues on p7 (carried-over partial).
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p7: The step written as '5^6/5^6 = (111) - 5^6/5^6 x 31' is algebraically incomplete as drawn (the two fractions cancel to give alpha = 111*64 - 31); transcribed verbatim, not corrected.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p8: low-conf (0.5679) line: 'dr.('
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p9: low-conf (0.5741) line: '=78' | Handwritten n is listed as '(8M3F, 7M4F, 6M5F)' with the sum left blank - the completion for n is not on this slide. Transcribed as drawn.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p10: low-conf (0.6306) line: 'eX' | The red-boxed column beside (iii) reads as a stack of 4-digit numbers (325 / 164 / 233 / 235) under 'ex ='; the meaning of these numbers is not stated on the slide and they are not used in the visible chain - recorded verbatim, unresolved. | (iii) is answered on p11.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p11: low-conf (0.5803) line: 'W' | low-conf (0.5543) line: '6' | low-conf (0.5766) line: '{9'ss21}' | low-conf (0.5534) line: 'X' | low-conf (0.5788) line: 'X'
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p12: low-conf (0.5196) line: 'Xevo'
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p13: low-conf (0.5527) line: '0m' | Zoomed verification (330-340 dpi): (ii) reads 'no. of Δ's having 1 side common with Octagon = 8 x 4 = 32'; (iii) 'no. of Δ's having 2 sides common = 8'; (iv) 'no. of Δ's having no sides common = 8C3 - (32+8)'. The Δ glyph is written as a small triangle and was resolved from the zoomed crop, not inferred. | Printed page label on the slide is absent; this is a working slide (octagon figure numbered 1-8).
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p15: low-conf (0.5383) line: '女' | dual-pass agreement 0.7811 | Zoomed verification: the evaluation line for part (i) reads '231 - (10 + 6 + 21 + 15) = 183' with a magenta '186' written twice above it (reworking marks). Written arithmetic is inconsistent with the stated 183; transcribed verbatim, NOT corrected - flagged for coordinator. | Number of triangles (part ii) = 1441, written to the right of the second red box.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p16: low-conf (0.5849) line: '(1）.(' | low-conf (0.637) line: '-1007' | dual-pass agreement 0.7509
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p17: dual-pass agreement 0.6372
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p19: The expression is left unevaluated on the slide (numeric value not written). Reading '4C2' / '3C2' is unambiguous at 2-up; the trailing '+ 1' is present with no further work.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p20: low-conf (0.6113) line: 'FC' | low-conf (0.5798) line: 'c,xc,x+' | low-conf (0.5557) line: '+' | The visible per-pair multipliers (x1, x2, x4) are as drawn: line-line 1, line-circle 2, line-parabola 2, circle-circle 2, circle-parabola 4, parabola-parabola 4. Transcribed verbatim. | Expression left unevaluated on the slide.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p21: low-conf (0.5171) line: 'mo.dgRetongle' | low-conf (0.6118) line: ':2×1' | low-conf (0.6403) line: '=a' | dual-pass agreement 0.7458 | The squares list is 6 entries (1x1 ... 6x6); the caption in the printed question is as shown. Sum 112 not written on the slide.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p22: low-conf (0.5486) line: '+' | dual-pass agreement 0.5971 | 'opts.' is the handwritten abbreviation used on the slide (options). The product 12x16 = 192 is written in orange above the bracket.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p23: Handwritten '|| gms' is read as an abbreviation of 'parallelograms'; the word is never written out. Logged as [UNCLEAR] with that candidate reading (alternative: 'diagrams').
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p24: low-conf (0.5113) line: '  n o nbs    sr l (  u 'o   )' | low-conf (0.5817) line: 'HW' | Marked H.W. by the instructor (red circle). No answer ticked on the slide.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p25: dual-pass agreement 0.7486 | Printed wording is as shown ('pair of shoes' / 'pair of should be formed' / 'No pair should form') - source grammar kept verbatim, not corrected.
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p27: low-conf (0.6136) line: '207'
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p30: DIBY-15 option (C) lists four factorials for a three-subject split - printed text kept verbatim (possible source error, not corrected).
+- **Permutations & Combinations L05** `Permutations and Combinations 05 Class Notes.pdf` p32: low-conf (0.645) line: '在u' | low-conf (0.5884) line: 'Eraluoy' | low-conf (0.5084) line: 'oW'
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p3: low-conf (0.6038) line: 'a' | dual-pass agreement 0.0684 | Dual-pass agreement 0.07 on this page (highest disagreement in the lecture) - the maths is formatted as inline images; the verified reading above comes from direct visual inspection, not from either machine pass.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p5: low-conf (0.6167) line: '1OC' | low-conf (0.5958) line: '6Cg' | low-conf (0.6484) line: 'R' | low-conf (0.5732) line: 'ex' | low-conf (0.6392) line: '-自' | low-conf (0.5699) line: 'M-I' | The handwritten illustration column 'ex:' shows sample 4-shoe selections; one line carries a tick/cross mark used to demonstrate valid vs invalid selections. Transcribed as drawn.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p6: low-conf (0.6153) line: '0/ + 0)' | The M-I decomposition for case (ii) is written with a red-boxed list of pair sub-cases; the notation is as drawn. All results verified legible at sheet resolution.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p7: low-conf (0.5987) line: '=πm~' | dual-pass agreement 0.717 | Handwritten '65%' next to the [IIT-JEE-2005] tag - meaning not stated on the slide (looks like a scoring/percentage annotation); transcribed as drawn, not interpreted. | The equality at the end of the worked line is written as '= n^2 m^2' (with superscripts ambiguous between n^2m^2 and nm^2); the correct closed form is m^2n^2 and option (D) is ticked. Source NOT corrected - flagged. | The left column of the small table is unlabelled in handwriting but corresponds to the factor 4 (i.e. n), the right to 5 (i.e. m); noted, not assumed.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p8: low-conf (0.5719) line: 'X' | The two column totals at the bottom are written as m^2 and n^2 (small handwritten squares); the products (2m-1)+(2m-3)+... = m^2 is the generalisation of p7's 16 and 9.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p9: low-conf (0.6418) line: 'Ti'
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p10: low-conf (0.5024) line: 'orofdc,f' | dual-pass agreement 0.6596 | This page carries the lecture's core method statement; handwritten Hindi is transcribed verbatim and translated in the diagram notes. | Verified at 340 dpi: the factor chain is 4C3 x 3! x 3! (this is the reading recorded in the verified transcript).
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p11: The three example strings are written as three near-identical cursive lines; only the structure (three examples, each containing all six letters) is confident. Individual letters partially illegible - marked [UNCLEAR] on letters c/e in the second and third examples.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p13: low-conf (0.599) line: '1'4' | The middle panel uses the word's consonants S,C,H,N plus vowel placeholders; the glyph under/next to the vowels is a cursive annotation, not reliably readable - noted, not interpreted.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p14: 'KRPNCC' is the printed mnemonic/label on both cards; kept exactly as printed.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p15: low-conf (0.6187) line: '三' | low-conf (0.6288) line: '555'5' | low-conf (0.5156) line: 'BB2838y85' | low-conf (0.5558) line: 'h---' | dual-pass agreement 0.4206 | Case (4)'s written chain reads with a '6C4' style term and a second overlapping line '4! x 5C5 x 5!'; both are transcribed as seen and NOT reconciled - the two lines appear to be alternative arrangements with different gap counts (5 gaps for boys on the line gives 6C4 = 15). Flagged for coordinator as a legibility/reconciliation item, not corrected.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p16: low-conf (0.5818) line: 'Total(allgirltaoretgeer)'
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p17: dual-pass agreement 0.7317
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p18: low-conf (0.5163) line: '0' | dual-pass agreement 0.7474 | The exact pairing of the boxed factors to the diagram segments is positional; the four factors total 4! x 5C2 x 2! x 2! x 2! but the boxes are drawn in three groups. Transcribed as drawn (grouping ambiguity logged, not resolved).
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p19: low-conf (0.5212) line: 'wii)' | dual-pass agreement 0.5609 | The (vii) block prints three parallel cases (exactly 4 / exactly 5 / exactly 6 persons between) with a boxed combined factor '3! x 2! x 6!'; the third case's numeric value is not legible and is not written out. Flagged, not inferred.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p20: low-conf (0.6246) line: '559' | 'Re-attempt' boxed handwritten at top-right of the slide - an instruction annotation (same badge family as P&C L05 p4).
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p22: low-conf (0.5409) line: '?' | low-conf (0.5713) line: '?' | low-conf (0.5202) line: '×' | The factor strings on this page are written as '31 x 31' and '3! x 3!' in the same figure (handwritten factorial vs crossed glyph). Both readings recorded; the arithmetic is consistent with 3!x3! = 36 and 3 x 36 = 108, and 216 + 108 = 324, but the printed glyphs are NOT corrected - flagged. | The two circled 324 values (left and right columns) appear to be the same result reached twice; the orange line connects them.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p23: low-conf (0.5353) line: '10ou' | low-conf (0.5994) line: 'C' | low-conf (0.6177) line: '=&1D' | low-conf (0.6077) line: 'juako' | This page carries no question stem and no printed page label - it is board rework. The 10C4 = 210 / 10x9x8x7 = 5040 block belongs to the 5-pair-of-shoes selection (10 shoes, choose 4) opened on p5; the '6 diff. Things, select any 3 = 20' check uses a different (unstated) example. Association is inferred from content only and is therefore flagged, not asserted. | The two crossed-out attempts (6C1 x 5C2 = 60 and 6C1 x 5C1 x 4C1 = 120) are instructor corrections of wrong approaches - both are recorded as struck through.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p24: low-conf (0.5011) line: 'U' | low-conf (0.5423) line: 'I→Y'
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p26: low-conf (0.5904) line: '6C' | low-conf (0.577) line: '一' | low-conf (0.5099) line: 'D' | The middle factor is written as a bare '1'; it corresponds to the single arrangement of the identical A's. Transcribed as drawn.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p27: low-conf (0.5255) line: 'ＡＣ' | low-conf (0.5919) line: '3' | dual-pass agreement 0.747 | The final fraction is written with a mixed denominator; the printed/handwritten grouping is transcribed exactly as drawn (the mathematically correct form is 7!/(3!2!2!)) and NOT corrected - flagged.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p28: low-conf (0.6452) line: '→I' | low-conf (0.6034) line: '。Q。o' | low-conf (0.5412) line: 'X' | low-conf (0.5029) line: '6' | low-conf (0.5642) line: 'D' | The (ii) work shows the vowel cases drawn as three stacked rows (A / I / O) with a combined 12!/4!3!2! value and the final sum line 'fxn = 12!/4!3!2! + ...' partially written. The sum for (ii) is not completed legibly on the slide; transcribed as far as written, remainder flagged. | Total letters: the census sums to 13 which matches ASSASSINATION.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p29: low-conf (0.6223) line: '↓ S=(' | low-conf (0.5302) line: '-' | dual-pass agreement 0.7447 | C-II multiset is printed as written: 2,2,2,1,1,1,1 (four 1s and three 2s); the denominator shown is 4!3!, consistent with that multiset. 42 + 35 = 77 = option (C), which is ticked.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p30: low-conf (0.6012) line: '°Cm+' | dual-pass agreement 0.7192 | Marked H.W. by the instructor; answer '[Ans. : 14]' is printed at the top-right of the slide.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p31: low-conf (0.5411) line: 'W'
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p32: Printed stem grammar is as shown ('is m . n . 10^n'-style phrasing carried over; 'if the does not stop') - kept verbatim, not corrected. | Marked H.W.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p33: low-conf (0.6135) line: 'w。' | dual-pass agreement 0.7599 | Marked H.W.; no working on the slide.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p37: # DIBY-21 stem uses 'subjects' where subsets is meant - source wording preserved.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p38: # DIBY-24's printed answer key is an empty placeholder '[Ans. : (......)]'; the answer is not printed on this slide. No value supplied by the agent.
+- **Permutations & Combinations L06** `Permutations and Combinations 06 Class Notes.pdf` p43: low-conf (0.645) line: '在u' | low-conf (0.5884) line: 'Eraluoy' | low-conf (0.5084) line: 'oW' | Dual-pass agreement 0.91 but the cursive quote is machine-garbled in both passes ('Eraluoy', 'fourney'); the verified reading above comes from direct visual inspection.
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p3: low-conf (0.5733) line: '.21' | low-conf (0.5197) line: 'hWEWZw'W' | low-conf (0.5304) line: 'D'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p4: low-conf (0.5225) line: '(i'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p6: low-conf (0.6303) line: 'pot'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p9: low-conf (0.5034) line: 'ap'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p10: low-conf (0.5106) line: '0' | low-conf (0.6166) line: 'holt' | dual-pass agreement 0.674
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p11: low-conf (0.521) line: '31'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p12: dual-pass agreement 0.7326
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p13: low-conf (0.627) line: '(i)' | low-conf (0.501) line: ')' | low-conf (0.5941) line: 't' | dual-pass agreement 0.644
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p14: low-conf (0.5776) line: 'T' | dual-pass agreement 0.7585
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p15: low-conf (0.6451) line: 'T_' | low-conf (0.5987) line: 'Sc1---' | dual-pass agreement 0.5185
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p16: dual-pass agreement 0.6863
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p17: low-conf (0.6361) line: 'G.' | dual-pass agreement 0.5752
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p18: low-conf (0.615) line: 'LI' | low-conf (0.6412) line: 'O + 0 + i×1+' | dual-pass agreement 0.6974
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p19: low-conf (0.6071) line: 'C' | low-conf (0.5196) line: '6' | low-conf (0.5519) line: '0'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p20: low-conf (0.6452) line: 'S'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p21: low-conf (0.532) line: 'h0s' | low-conf (0.5299) line: 'W'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p22: low-conf (0.5098) line: '0009%'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p26: low-conf (0.5408) line: '2.' | dual-pass agreement 0.7642
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p27: low-conf (0.5411) line: 'W'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p32: low-conf (0.6068) line: '/00m0s 00m ' | low-conf (0.6095) line: 'C'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p40: low-conf (0.5813) line: '井'
+- **Permutations & Combinations L07** `Permutations and Combinations 07 Class Notes.pdf` p42: low-conf (0.5161) line: '在u'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p4: low-conf (0.6384) line: '21h' | dual-pass agreement 0.7062
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p6: dual-pass agreement 0.772
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p11: low-conf (0.5245) line: '=&一' | dual-pass agreement 0.7627
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p13: low-conf (0.6466) line: 'Ⅱ' | dual-pass agreement 0.5912
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p14: low-conf (0.6491) line: 'C-V:'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p15: low-conf (0.6176) line: '2C'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p16: low-conf (0.5911) line: 'X' | low-conf (0.5424) line: 'C-Ⅳ：' | dual-pass agreement 0.761
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p17: low-conf (0.5852) line: 'C-V' | low-conf (0.6205) line: '×' | low-conf (0.5334) line: '×(' | low-conf (0.6186) line: 'u'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p20: low-conf (0.603) line: 'n' | low-conf (0.5102) line: 'm+1' | dual-pass agreement 0.5298
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p21: low-conf (0.6217) line: '={12,3，4,53' | low-conf (0.6356) line: 'Hhng' | low-conf (0.6236) line: 'sele?onfour uig' | low-conf (0.5465) line: 'SC3' | low-conf (0.6051) line: 'GC' | dual-pass agreement 0.7677
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p22: low-conf (0.6419) line: 'Hhng' | low-conf (0.6365) line: 'Ofour thaig' | dual-pass agreement 0.5654
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p23: low-conf (0.6372) line: 'cC c' | dual-pass agreement 0.5233
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p24: low-conf (0.562) line: '331' | low-conf (0.5988) line: 'Iv' | low-conf (0.5043) line: 'VV' | low-conf (0.6033) line: 't'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p25: low-conf (0.5651) line: 'am' | low-conf (0.6474) line: 'Kermo Hwwy'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p26: low-conf (0.6196) line: 'No时iv=（#+1)(6+）)(4+1)'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p27: low-conf (0.6452) line: '#=2y=&31'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p28: low-conf (0.5385) line: '(Nodv(+)）(+1)(+1)' | low-conf (0.5479) line: 'D.(3' | low-conf (0.6208) line: '5°+5+....+5' | dual-pass agreement 0.759
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p31: low-conf (0.5321) line: ''mt'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p32: low-conf (0.6444) line: 'Hw。'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p33: low-conf (0.6187) line: 'Uw。' | dual-pass agreement 0.5789
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p34: dual-pass agreement 0.7901
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p35: low-conf (0.5301) line: 'Uw)。'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p37: low-conf (0.5337) line: '井'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p39: low-conf (0.5512) line: '书'
+- **Permutations & Combinations L08** `Permutations and Combinations 08 Class Notes.pdf` p45: low-conf (0.5161) line: '在u'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p4: dual-pass agreement 0.574
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p5: low-conf (0.6251) line: 'CH' | dual-pass agreement 0.7884
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p6: low-conf (0.5557) line: 'W'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p9: low-conf (0.5325) line: 'de'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p10: low-conf (0.527) line: 'T' | low-conf (0.5697) line: '.....' | dual-pass agreement 0.7613
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p11: low-conf (0.5485) line: 'i三)' | low-conf (0.6232) line: ')N=#' | low-conf (0.5273) line: 'a(ii' | low-conf (0.6066) line: '6 . 2' | dual-pass agreement 0.6288
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p13: dual-pass agreement 0.4828
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p14: dual-pass agreement 0.6857
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p15: low-conf (0.6386) line: 'N = a352' | low-conf (0.5805) line: '-n大' | low-conf (0.6258) line: '4ntl' | low-conf (0.6103) line: 'AntI' | dual-pass agreement 0.7042
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p17: low-conf (0.5754) line: 'Cmt'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p18: low-conf (0.5156) line: '1'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p19: low-conf (0.5335) line: '00' | low-conf (0.548) line: 'O'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p20: low-conf (0.6295) line: 'Sommy' | low-conf (0.5423) line: 'aea'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p21: low-conf (0.6071) line: 'sdnale nm' | dual-pass agreement 0.6643
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p22: low-conf (0.5256) line: 'Hwmy' | low-conf (0.5427) line: '6' | low-conf (0.6327) line: 'GI:' | low-conf (0.5665) line: 'a12|1111'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p23: low-conf (0.6361) line: 'pnt'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p24: low-conf (0.5548) line: 'Hw' | low-conf (0.5051) line: '# oitHuiyg' | low-conf (0.5432) line: 'anoe站'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p25: low-conf (0.6449) line: '10r2' | low-conf (0.6442) line: '1π2' | low-conf (0.611) line: 'X' | low-conf (0.5122) line: 'm'
+- **Permutations & Combinations L09** `Permutations and Combinations 09 Class Notes.pdf` p34: low-conf (0.5161) line: '在u'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p4: low-conf (0.5574) line: 'SK'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p5: low-conf (0.6017) line: 'S士:' | dual-pass agreement 0.7275
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p7: low-conf (0.5478) line: '?' | low-conf (0.5825) line: ' - - 一丁' | low-conf (0.527) line: 'fm' | dual-pass agreement 0.6667
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p8: low-conf (0.6375) line: 'C-T' | low-conf (0.6475) line: 'X' | low-conf (0.5388) line: 'Z'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p9: low-conf (0.5331) line: 'x'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p10: low-conf (0.6353) line: 'QL' | dual-pass agreement 0.6314
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p11: low-conf (0.5526) line: '##(2)#(#' | dual-pass agreement 0.6156
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p12: low-conf (0.5072) line: '七' | low-conf (0.6395) line: '1t' | low-conf (0.5378) line: 'iz@0izie' | low-conf (0.5414) line: '&2a1'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p13: low-conf (0.5403) line: '九' | dual-pass agreement 0.774
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p14: low-conf (0.6271) line: '-℃3'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p16: low-conf (0.6308) line: 'I-人+' | low-conf (0.6429) line: 'h7' | low-conf (0.6007) line: 'm' | low-conf (0.5323) line: 'O'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p17: low-conf (0.622) line: '10' | low-conf (0.5488) line: '?' | low-conf (0.5494) line: '2' | low-conf (0.556) line: '×1' | dual-pass agreement 0.6544
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p18: low-conf (0.6213) line: '1-+u' | low-conf (0.5672) line: 't)'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p19: dual-pass agreement 0.5432
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p20: low-conf (0.6083) line: '1-'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p21: low-conf (0.531) line: 'x>O' | low-conf (0.6199) line: '+' | dual-pass agreement 0.5606
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p22: low-conf (0.5248) line: '<<+' | low-conf (0.5604) line: '-4-1' | dual-pass agreement 0.4764
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p23: low-conf (0.6228) line: '1-+u' | low-conf (0.6468) line: '只' | low-conf (0.5667) line: '-1'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p24: low-conf (0.5219) line: 'N' | low-conf (0.5842) line: '":-)' | low-conf (0.6213) line: '→'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p25: dual-pass agreement 0.7328
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p26: low-conf (0.5506) line: 'V' | low-conf (0.5075) line: 'O' | low-conf (0.6141) line: 'l+' | low-conf (0.6287) line: '0' | low-conf (0.5268) line: '去 '
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p27: low-conf (0.5836) line: '+'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p28: low-conf (0.6217) line: '°m'
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p29: dual-pass agreement 0.7532
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p35: dual-pass agreement 0.7273
+- **Permutations & Combinations L10** `Permutations and Combinations 10 Class Notes.pdf` p37: low-conf (0.5161) line: '在u'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p4: low-conf (0.6048) line: '_u_e_' | low-conf (0.6269) line: '对。'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p5: low-conf (0.6435) line: '=' | low-conf (0.6207) line: 'C-V。' | low-conf (0.6101) line: '=m' | low-conf (0.581) line: '(=·=++' | low-conf (0.5543) line: 'n+y+#=O'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p7: low-conf (0.6316) line: 'uanm' | dual-pass agreement 0.7876
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p8: low-conf (0.5614) line: '-+++4P' | low-conf (0.5165) line: 'O' | low-conf (0.6164) line: 'ex:' | low-conf (0.5328) line: 'x，y' | low-conf (0.5328) line: 'O' | dual-pass agreement 0.6281
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p10: low-conf (0.5516) line: 'NK' | low-conf (0.6209) line: '10)' | dual-pass agreement 0.777
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p11: low-conf (0.5052) line: '(0'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p13: low-conf (0.5739) line: 'mt'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p14: low-conf (0.5976) line: '6'9h'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p16: low-conf (0.6495) line: '别' | dual-pass agreement 0.7952
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p17: low-conf (0.6101) line: 'x'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p18: dual-pass agreement 0.699
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p19: low-conf (0.5048) line: 'M1'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p20: low-conf (0.6493) line: 'PX'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p22: low-conf (0.5429) line: 'μ' | low-conf (0.6414) line: '7-'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p30: low-conf (0.6098) line: 'B3'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p31: low-conf (0.5321) line: 'XC,×1X' | dual-pass agreement 0.743
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p33: low-conf (0.5994) line: 'O' | low-conf (0.6037) line: 'O'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p38: dual-pass agreement 0.7638
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p40: dual-pass agreement 0.6976
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p43: low-conf (0.5132) line: '井'
+- **Permutations & Combinations L11** `Permutations and Combinations 11 Class Notes.pdf` p45: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p3: low-conf (0.5972) line: '%' | dual-pass agreement 0.7578
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p4: dual-pass agreement 0.4152
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p5: dual-pass agreement 0.4949
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p7: low-conf (0.5882) line: '(ii)' | low-conf (0.6487) line: '-G' | dual-pass agreement 0.6418
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p8: low-conf (0.5673) line: '=O'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p9: dual-pass agreement 0.648
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p10: low-conf (0.6218) line: 'eX'' | low-conf (0.533) line: '2' | low-conf (0.576) line: '&2' | low-conf (0.5257) line: '224' | low-conf (0.5963) line: 'bn'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p11: low-conf (0.6042) line: '®'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p12: dual-pass agreement 0.6813
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p13: low-conf (0.5388) line: '一' | low-conf (0.6452) line: 'Dx' | dual-pass agreement 0.7753
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p14: low-conf (0.6379) line: 'X' | low-conf (0.6093) line: 'h+2' | low-conf (0.6448) line: 'x' | low-conf (0.5943) line: '一' | low-conf (0.6446) line: 'xy' | dual-pass agreement 0.2593
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p15: low-conf (0.6275) line: 'x' | low-conf (0.6195) line: '一' | low-conf (0.5257) line: 'X' | low-conf (0.6042) line: '+=+=+' | low-conf (0.5948) line: '=h+x' | low-conf (0.6287) line: 'h=x' | low-conf (0.5122) line: 'K2' | dual-pass agreement 0.4622
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p16: low-conf (0.6177) line: '3t'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p17: low-conf (0.5012) line: 'edonmm'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p20: low-conf (0.6097) line: 'b' | low-conf (0.5637) line: '0' | low-conf (0.6406) line: 'cα' | low-conf (0.6001) line: 'ye' | low-conf (0.6488) line: '×+' | low-conf (0.6427) line: '&a'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p21: low-conf (0.537) line: 'aa' | low-conf (0.6471) line: '0' | low-conf (0.5927) line: '&a' | low-conf (0.5175) line: '&a'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p22: low-conf (0.5187) line: 'aa' | low-conf (0.5783) line: '&a' | low-conf (0.6173) line: '&a' | low-conf (0.6024) line: '√D'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p23: low-conf (0.6211) line: 'o=l' | low-conf (0.5341) line: '=='
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p24: dual-pass agreement 0.7465
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p25: low-conf (0.6248) line: '[x| =|1x1]' | low-conf (0.5318) line: '(1k1l' | dual-pass agreement 0.5903
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p27: low-conf (0.5462) line: 'eees' | low-conf (0.6241) line: '0>y'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p32: dual-pass agreement 0.675
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p33: low-conf (0.5303) line: '#'
+- **Quadratic Equations L01** `Quadratic Equations 01 Class Notes.pdf` p34: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p3: low-conf (0.5558) line: 'α' | dual-pass agreement 0.6749
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p4: low-conf (0.6437) line: 'VD'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p6: dual-pass agreement 0.4566
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p7: low-conf (0.6469) line: '10x' | low-conf (0.5012) line: 'x' | low-conf (0.5827) line: '(-b--(+h-' | low-conf (0.5979) line: '文x' | low-conf (0.5515) line: 'xax'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p9: low-conf (0.5577) line: 'ditb'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p10: low-conf (0.595) line: '+aα' | low-conf (0.5653) line: '??' | dual-pass agreement 0.7273
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p12: low-conf (0.5505) line: 'W'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p13: low-conf (0.6299) line: 'odld' | dual-pass agreement 0.647
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p14: low-conf (0.5354) line: '&89' | low-conf (0.525) line: 'Gop'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p15: low-conf (0.6362) line: 'Leg' | dual-pass agreement 0.6533
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p16: low-conf (0.5756) line: '【&' | dual-pass agreement 0.69
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p17: low-conf (0.5539) line: '井'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p20: low-conf (0.5109) line: 'no' | low-conf (0.6137) line: '0=' | dual-pass agreement 0.7853
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p22: low-conf (0.5701) line: 'Q' | low-conf (0.5495) line: '：a' | low-conf (0.6297) line: '(a）-B()' | dual-pass agreement 0.7865
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p24: low-conf (0.6116) line: 'W'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p26: dual-pass agreement 0.5771
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p27: low-conf (0.5718) line: 'aa' | low-conf (0.6224) line: 'x²-'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p28: low-conf (0.6379) line: '(i)' | dual-pass agreement 0.7711
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p29: low-conf (0.5828) line: 'X=' | dual-pass agreement 0.7055
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p30: low-conf (0.563) line: 'Huw。'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p33: dual-pass agreement 0.1711
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p35: dual-pass agreement 0.6697
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p36: dual-pass agreement 0.0778
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p37: low-conf (0.5133) line: '#'
+- **Quadratic Equations L02** `Quadratic Equations 02  Class Notes  Maths By Sachin Sir.pdf` p38: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p3: low-conf (0.5873) line: 'α=' | low-conf (0.5681) line: '=0a6op' | low-conf (0.5557) line: 'a' | dual-pass agreement 0.4948
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p4: low-conf (0.6024) line: 'D'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p5: dual-pass agreement 0.6723
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p6: dual-pass agreement 0.7437
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p7: low-conf (0.5881) line: '，β' | low-conf (0.5439) line: '+'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p8: low-conf (0.6323) line: 'x~- &x + 5 =O' | low-conf (0.6241) line: '2α'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p9: low-conf (0.5437) line: '+9B' | dual-pass agreement 0.5217
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p10: low-conf (0.6335) line: 'β'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p11: low-conf (0.6478) line: 'α#0' | low-conf (0.5873) line: 'V2'' | dual-pass agreement 0.7801
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p12: low-conf (0.6479) line: 'α' | low-conf (0.5118) line: '病'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p13: dual-pass agreement 0.5502
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p14: low-conf (0.6041) line: '6' | low-conf (0.6464) line: 'a' | dual-pass agreement 0.6575
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p15: dual-pass agreement 0.6803
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p16: low-conf (0.5364) line: 'α' | low-conf (0.6199) line: 'α' | low-conf (0.5696) line: 'p' | dual-pass agreement 0.2301
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p17: low-conf (0.6018) line: 'bted' | low-conf (0.5989) line: '()' | dual-pass agreement 0.7761
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p18: low-conf (0.5975) line: 'mt'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p19: low-conf (0.5393) line: '0' | low-conf (0.5283) line: '十'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p20: low-conf (0.5879) line: 'αB²' | low-conf (0.5358) line: 'Q2' | low-conf (0.6029) line: '(αB)=()' | low-conf (0.628) line: 'Hw.' | dual-pass agreement 0.4695
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p21: low-conf (0.6391) line: '+' | dual-pass agreement 0.7853
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p22: low-conf (0.604) line: 'h×h ' | low-conf (0.6318) line: '(a²β²)(a+p²)' | low-conf (0.575) line: 'βa' | dual-pass agreement 0.2341
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p23: dual-pass agreement 0.2742
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p25: low-conf (0.601) line: '个司'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p26: low-conf (0.5527) line: '二'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p28: low-conf (0.5143) line: '井'
+- **Quadratic Equations L03** `Quadratic Equations 03  Class Notes  Maths By Sachin Sir.pdf` p29: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p3: low-conf (0.5411) line: 'W'
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p4: low-conf (0.5971) line: '3' | dual-pass agreement 0.5867
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p5: low-conf (0.6033) line: '(+²)(+3)-(+' | low-conf (0.6031) line: 'h-8-,x' | low-conf (0.5593) line: '早' | low-conf (0.6043) line: 'HB' | low-conf (0.551) line: 'B' | dual-pass agreement 0.3909
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p6: low-conf (0.6045) line: '(）=(#' | low-conf (0.6206) line: '(过)()' | low-conf (0.5386) line: '(<）)(+）+' | dual-pass agreement 0.549
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p7: low-conf (0.6155) line: '5' | low-conf (0.6164) line: ')-(p²a²+x²' | dual-pass agreement 0.372
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p8: low-conf (0.5737) line: '(p-a)pg + (- a)g + (p-b)pp + (-b)pjonie yuu' | dual-pass agreement 0.5413
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p9: low-conf (0.5849) line: 'α' | low-conf (0.5739) line: 'n' | low-conf (0.6021) line: 'α±'
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p10: low-conf (0.5496) line: 'α' | low-conf (0.579) line: '#' | low-conf (0.6228) line: '+c(b' | low-conf (0.6485) line: '6=us' | dual-pass agreement 0.7333
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p11: low-conf (0.5598) line: '=(' | low-conf (0.6384) line: 'N' | dual-pass agreement 0.7941
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p12: low-conf (0.6073) line: 'm+'
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p14: low-conf (0.6315) line: '8. ' | low-conf (0.5163) line: '开' | dual-pass agreement 0.5816
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p16: low-conf (0.6349) line: 'α/=u' | low-conf (0.5246) line: 'd0' | low-conf (0.6434) line: '5#' | low-conf (0.6324) line: '57α8·' | dual-pass agreement 0.4067
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p17: dual-pass agreement 0.573
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p19: low-conf (0.5997) line: '开' | dual-pass agreement 0.6486
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p23: low-conf (0.5619) line: '元' | low-conf (0.6096) line: 'Qz02y' | dual-pass agreement 0.6847
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p24: low-conf (0.5878) line: 'aa' | low-conf (0.5977) line: '(0>α' | dual-pass agreement 0.5776
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p28: low-conf (0.6333) line: 'LO-AA #' | low-conf (0.6142) line: '[AI' | low-conf (0.5777) line: 'a2' | low-conf (0.5092) line: 'XB' | dual-pass agreement 0.2268
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p30: low-conf (0.6431) line: '(可)'
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p31: dual-pass agreement 0.2152
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p32: low-conf (0.5092) line: '#'
+- **Quadratic Equations L04** `Quadratic Equations 04 Class Notes.pdf` p33: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p5: low-conf (0.5402) line: '01+s+' | dual-pass agreement 0.751
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p6: low-conf (0.5897) line: '+' | low-conf (0.5696) line: '519+' | low-conf (0.5772) line: 'Sg' | low-conf (0.5564) line: 'S26' | low-conf (0.5819) line: '-S18' | low-conf (0.5265) line: '49S19#Si+S191' | dual-pass agreement 0.5993
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p7: low-conf (0.6116) line: 'W' | low-conf (0.5424) line: '十' | low-conf (0.6259) line: 'th'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p8: low-conf (0.5559) line: 'x+p' | low-conf (0.5926) line: '(a+' | low-conf (0.557) line: '(c+B)-(<β+B' | dual-pass agreement 0.5019
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p10: low-conf (0.514) line: '米'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p12: low-conf (0.5583) line: '.三>' | low-conf (0.5292) line: '<C' | dual-pass agreement 0.6475
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p13: low-conf (0.5709) line: '·0' | low-conf (0.5793) line: '0<@' | low-conf (0.5678) line: 'Q=-' | dual-pass agreement 0.5314
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p14: low-conf (0.5331) line: '0<@'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p15: low-conf (0.5592) line: '<C' | low-conf (0.6171) line: 'h-b' | low-conf (0.6133) line: 'Totl' | dual-pass agreement 0.6958
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p16: low-conf (0.6213) line: 'h<6' | low-conf (0.5539) line: 'h'210=1' | low-conf (0.6386) line: '#91' | dual-pass agreement 0.5324
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p17: low-conf (0.6462) line: '大'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p18: low-conf (0.5185) line: '?iBY' | low-conf (0.509) line: '升'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p20: low-conf (0.5476) line: 'Hw。'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p21: low-conf (0.5823) line: 'Y.'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p23: low-conf (0.5527) line: '二'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p25: dual-pass agreement 0.7914
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p26: dual-pass agreement 0.2222
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p27: dual-pass agreement 0.557
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p28: low-conf (0.6257) line: '）3'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p29: low-conf (0.5183) line: 'nb e u 'b = ge 'd- = ed + eo pun sqnu  oeou b b pu d ' | dual-pass agreement 0.4692
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p30: dual-pass agreement 0.2993
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p31: low-conf (0.5092) line: '#'
+- **Quadratic Equations L05** `Quadratic Equations 05 Class Notes.pdf` p32: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p4: low-conf (0.5415) line: 'β1O' | low-conf (0.632) line: 'TS' | low-conf (0.6182) line: 'ly' | low-conf (0.5153) line: 'α' | low-conf (0.6075) line: '+a²β²=0' | low-conf (0.6017) line: '10' | low-conf (0.6137) line: 'α+B²=-a(《)' | dual-pass agreement 0.4281
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p5: dual-pass agreement 0.6507
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p7: low-conf (0.553) line: 'K' | low-conf (0.5489) line: 'α' | low-conf (0.615) line: 'ab' | low-conf (0.611) line: 'α=' | low-conf (0.5234) line: 'a' | low-conf (0.632) line: 'xβ' | low-conf (0.6317) line: '0l-=' | dual-pass agreement 0.5652
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p8: dual-pass agreement 0.5803
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p9: low-conf (0.5227) line: 'W' | low-conf (0.5601) line: 'Soh' | low-conf (0.591) line: '&a'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p10: low-conf (0.5983) line: '##'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p11: low-conf (0.594) line: '(5)-（1)' | low-conf (0.5781) line: '一-'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p13: low-conf (0.559) line: 'Px' | low-conf (0.628) line: '8+' | low-conf (0.5775) line: 'Ix(' | low-conf (0.5296) line: '213' | dual-pass agreement 0.7432
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p14: low-conf (0.6293) line: 'B' | dual-pass agreement 0.7816
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p15: low-conf (0.6144) line: '0=@'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p16: low-conf (0.6068) line: '敬+' | low-conf (0.5775) line: 'PAY'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p17: dual-pass agreement 0.4793
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p18: low-conf (0.53) line: '0)>>0' | dual-pass agreement 0.5814
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p19: low-conf (0.6407) line: 'Q=' | low-conf (0.6101) line: '(i )' | low-conf (0.6326) line: '(U)' | dual-pass agreement 0.5773
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p20: low-conf (0.538) line: '0-' | low-conf (0.5493) line: 'xtab' | low-conf (0.5329) line: '工.' | low-conf (0.511) line: '1' | low-conf (0.5195) line: '"=11' | dual-pass agreement 0.7611
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p22: low-conf (0.5149) line: '三0' | low-conf (0.5894) line: 'an+C' | low-conf (0.5301) line: '0=' | low-conf (0.5789) line: 'd'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p23: low-conf (0.5113) line: '(HEw)'
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p25: low-conf (0.6419) line: 'Y,8' | low-conf (0.6433) line: 'C' | low-conf (0.5534) line: 'V' | dual-pass agreement 0.2517
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p26: dual-pass agreement 0.3136
+- **Quadratic Equations L06** `Quadratic Equations 06 Class Notes.pdf` p27: low-conf (0.5166) line: '0'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p4: low-conf (0.6369) line: 'Hhroo houng' | low-conf (0.5727) line: 'Ses'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p5: low-conf (0.6458) line: 'if' | low-conf (0.6464) line: '-2+17' | dual-pass agreement 0.428
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p9: low-conf (0.5557) line: 'PaPerPqr' | dual-pass agreement 0.4591
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p10: low-conf (0.6292) line: '-g+0' | low-conf (0.5667) line: 'g-)+g' | dual-pass agreement 0.3485
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p11: low-conf (0.5072) line: 'm' | low-conf (0.6113) line: '二' | low-conf (0.5614) line: '一' | dual-pass agreement 0.3379
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p13: low-conf (0.5729) line: '+b' | low-conf (0.6313) line: 'β²' | low-conf (0.6477) line: 'ub1s' | low-conf (0.6076) line: '+'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p14: low-conf (0.5937) line: 'x' | low-conf (0.6194) line: '→' | dual-pass agreement 0.6394
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p15: low-conf (0.5086) line: '&0' | low-conf (0.5669) line: 'aa' | low-conf (0.5747) line: 'α0' | dual-pass agreement 0.7633
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p16: low-conf (0.6037) line: 'V=()' | low-conf (0.5876) line: '(郎·地)' | low-conf (0.5036) line: 'X'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p17: low-conf (0.6111) line: '↓+-2'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p19: low-conf (0.6404) line: 'aa'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p21: low-conf (0.6116) line: '>'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p22: low-conf (0.5134) line: 'θ>o' | low-conf (0.6318) line: 'nxo-k' | low-conf (0.6071) line: 'aa' | low-conf (0.5902) line: 'tve←C' | dual-pass agreement 0.7054
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p23: low-conf (0.5225) line: 'y个' | low-conf (0.5328) line: '↓' | dual-pass agreement 0.7692
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p24: low-conf (0.5577) line: 'aa'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p25: low-conf (0.5248) line: '<' | low-conf (0.6418) line: 'C>0' | low-conf (0.5519) line: 'Q0' | dual-pass agreement 0.6966
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p27: low-conf (0.5729) line: 'tw。'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p30: low-conf (0.637) line: '#'
+- **Quadratic Equations L07** `Quadratic Equations 07 Class Notes.pdf` p32: low-conf (0.5161) line: '在u'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p3: low-conf (0.5078) line: 'da'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p6: low-conf (0.6265) line: 'Buy' | low-conf (0.6286) line: 'auonbsngogk' | dual-pass agreement 0.6833
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p7: low-conf (0.5491) line: '&' | dual-pass agreement 0.7692
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p9: low-conf (0.6032) line: '+' | low-conf (0.5707) line: '米米'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p10: low-conf (0.5841) line: 'o<大' | low-conf (0.6213) line: '<-g' | low-conf (0.5013) line: 'ya' | low-conf (0.5776) line: '/a1?' | dual-pass agreement 0.7518
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p14: low-conf (0.5865) line: 've'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p15: low-conf (0.6494) line: 'f(x)≤0' | low-conf (0.619) line: 'xe(∞-2U[#，∞)' | low-conf (0.6259) line: '# f'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p16: low-conf (0.6487) line: '0<3' | low-conf (0.5319) line: 'YUPLFm'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p17: low-conf (0.6306) line: 'Y  x aO < + xq + ' | low-conf (0.5506) line: 'Ha' | low-conf (0.5758) line: 'mm7g' | low-conf (0.5416) line: 'xi×3' | low-conf (0.6062) line: '0>C' | low-conf (0.6247) line: '  0>0' | low-conf (0.602) line: 'mmg' | dual-pass agreement 0.1434
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p19: low-conf (0.5092) line: 'L6H' | low-conf (0.6372) line: '-9' | dual-pass agreement 0.5044
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p20: low-conf (0.6415) line: '∈(∞,)' | low-conf (0.5403) line: '4' | dual-pass agreement 0.4654
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p21: low-conf (0.5661) line: 'α '
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p22: low-conf (0.5097) line: '&0' | low-conf (0.6178) line: 'Q=n' | dual-pass agreement 0.4013
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p23: low-conf (0.5157) line: '-a' | low-conf (0.6232) line: '²+4-'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p24: dual-pass agreement 0.7425
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p27: low-conf (0.6353) line: 'ili'
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p28: low-conf (0.5305) line: '=3`' | dual-pass agreement 0.7752
+- **Quadratic Equations L08** `Quadratic Equations 08 Class Notes.pdf` p31: low-conf (0.5161) line: '在u'

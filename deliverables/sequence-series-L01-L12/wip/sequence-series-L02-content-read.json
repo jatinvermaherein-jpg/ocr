@@ -1,0 +1,159 @@
+{
+ "slug": "sequence-series-L02",
+ "chapter": "Sequence & Series",
+ "lecture": 2,
+ "source_pdf": "Sequence and Series 02 Class Notes.pdf",
+ "qa_reviewer": "arena-seq-agent",
+ "status": "DRAFT - content read from 2-up contact sheets; page mapping pending reconciliation against burned-in labels in raw OCR records",
+ "method": "All 39 pages viewed as 20 two-up native-resolution contact sheets (sheets 1-12 read as 'blocks' in reading order). Because the deck's own burned-in 'PDF page N / 39' labels were observed to drift from naive sheet indexing, each block below is keyed by CONTENT and ordered by reading sequence; page numbers are assigned only after cross-checking the raw per-page OCR records (the practice the L01 reviewer also had to apply).",
+ "content_blocks": [
+  {
+   "order": 1,
+   "type": "cover",
+   "verified_text": "ARJUNA | JEE 2027 | Lecture -02 | Mathematics | SEQUENCE & SERIES | By- Sachin Jakhar Sir",
+   "diagram": "instructor photo, PW logo"
+  },
+  {
+   "order": 2,
+   "type": "topics",
+   "verified_text": "Topics to be covered (handwritten cursive) | A Properties of A.P. (red box) | B Different types of Questions on A.P. (red box) | C (printed, no text) | D (printed, no text)",
+   "diagram": "question-mark mascot"
+  },
+  {
+   "order": 3,
+   "type": "question",
+   "verified_text": "Question | If second degree equation in x & y : 2x^2 - y^2 + xy - 3x + 9y + k = 0 | Can be resolved as product of two linear factors, then find k, also find those linear factors. | Ans: k = -20 | Factors: x + y - 4 = 0 & 2x - y + 5 = 0",
+   "diagram": "red box around the equation"
+  },
+  {
+   "order": 4,
+   "type": "divider",
+   "verified_text": "SEQUENCE & SERIES (boxed red)",
+   "diagram": "none"
+  },
+  {
+   "order": 5,
+   "type": "recap",
+   "verified_text": "LAST CLASS REVISION | # Answer the following Questions: | A.P. -> a, a+d, a+2d, a+3d ... | 1. nth term of an A.P. is Tn = a + (n-1)d | 2. Sum of first n terms of an A.P. is Sn = n/2{2a+(n-1)d} = n/2{1st + last}",
+   "diagram": "star cloud badge with handwritten '100% Direct Ques^m from A.P.'"
+  },
+  {
+   "order": 6,
+   "type": "question",
+   "verified_text": "Question | For an A.P., Sp = q and Sq = p, then Sp+q = ______ . | A p + q | B p - q | C q - p | D -p - q (D ticked) | Sp = p/2{2a+(p-1)d} = q ; Sq = q/2{2a+(q-1)d} = p ; Sp+q = ((p+q)/2){2a+(p+q-1)d} = (p+q)/2 x (-2) = -pq",
+   "diagram": "two circled expressions top-right, (2a + d(p+q-1))/2 = -1 circled; p^2-q^2-(p-q) expansion boxed"
+  },
+  {
+   "order": 7,
+   "type": "question",
+   "verified_text": "Question (Tanya Cassel) | If sequence <an> follows relation an = 2a(n-1) - a(n-2), n >= 3 and a1 = 7 & a10 = 30, then a40 = ______ . | a1..an -> A.P. | an - a(n-1) = a(n-1) - a(n-2), n>=3 (red box) | a = 7, a10 = 30 -> 7 + 9d = 30 -> d = 23/9 | a40 = a + 39d = 7 + 39 x 23/9 = 220/3",
+   "diagram": "red A.P. badge; 9 gold stars"
+  },
+  {
+   "order": 8,
+   "type": "theory",
+   "verified_text": "PROPERTIES OF A.P. | (i) For any sequence: Tn = Sn - Sn-1 (red box, ticked) | (ii) For an A.P.: d = Sn - 2Sn-1 + Sn-2 (ticked) | (iii) If (a1,a2,a3,...an) -> A.P., then (a1 +- k, a2 +- k, ..., an +- k) -> A.P. (red box) and (ka1, ka2, ..., kan) -> A.P. (red box) | a1^2,a2^2,... -> not in A.P. | a1a2, a2a3, a3a4, ... -> not in A.P. | sqrt(a1), sqrt(a2), sqrt(a3) ... -> not in A.P.",
+   "diagram": "right column: A.P. examples with x3/x2 patterns; 9,49,121,225 -> A.P. X (crossed)"
+  },
+  {
+   "order": 9,
+   "type": "theory",
+   "verified_text": "# Sn = a1 + a2 + a3 + ... + a(n-1) + an (red box) | # Sn - Sn-1 = an (blue cloud) ; Sn-1 - Sn-2 = a(n-1) | # for A.P. : d = a2-a1 = a3-a2 = a4-a3 ... | d = an - a(n-1) -> = (Sn - Sn-1) - (Sn-1 - Sn-2)",
+   "diagram": "arrows linking Sn and S(n-1)"
+  },
+  {
+   "order": 10,
+   "type": "theory",
+   "verified_text": "PROPERTIES OF A.P. | (iv) If a, b, c are in A.P. <=> 2b = a + c | -> b - a = c - b (red box) OR 2b = a + c | 2(Middle) = Sum of other two (red box)",
+   "diagram": "a and c highlighted red in the print"
+  },
+  {
+   "order": 11,
+   "type": "question",
+   "verified_text": "RAPID FIRE ROUND | If 2^(1+x), f(x) & 2^(1-x) are in A.P., then f(3) = ______ . | f(3) = (2^4 + 2^-2)/2 = (16 + 1/4)/2 = 65/8 Ans.",
+   "diagram": "none",
+   "issues": [
+    "the written f(x) expression '(2^(1+x) + 2^(1-x))/2' is written as a fraction; the value 65/8 follows from it"
+   ]
+  },
+  {
+   "order": 12,
+   "type": "theory",
+   "verified_text": "PROPERTIES OF A.P. | (v) 3 terms in A.P. -> a - d, a, a + d | 4 terms in A.P. -> a - 3d, a - d, a + d, a + 3d | 5 terms in A.P. -> a - 2d, a - d, a, a + d, a + 2d | Above assumption is more useful when Sum of the terms is involved. (red box around 'Sum of the terms') | # 3 Terms in A.P. whose sum = 15 : a - d + a + a + d = 15 -> 3a = 15 -> a = 15/3    [left un-simplified on the slide as written]",
+   "diagram": "curved arrows annotating a-d,d,a+d"
+  },
+  {
+   "order": 13,
+   "type": "question",
+   "verified_text": "RAPID FIRE ROUND | (a) If a1,a2,...,a77 are in A.P. then 35th term from last is 43rd term from starting. | (47 - 35 + 1)th from last (annotated above) | (b) If first and last term of an A.P. with common difference 5 are 1 & 51 respectively. Then 4th term from last = 36.",
+   "diagram": "pink arrow linking (a) to the (47-35+1) annotation"
+  },
+  {
+   "order": 14,
+   "type": "question",
+   "verified_text": "RAPID FIRE ROUND | (a) same stem as above, answer 43rd | (b) A.P. -> 1, 6, 11, 16, 21, 26, 31, 36, 41, 46, 51 (red box) | d = 5 | a = 1, Tn = 51 -> 1 + (n-1)5 = 51 -> m-1 = 10 -> n = 11 | 4th from last = (11-4+1) = 8th from 1st | T8 = a + 7d = 1 + 7x5 = 36 | # 4th last A.P.: 51, 46, 41, 36, ... -> d = -5 ; T4 = a + (4-1)d = 51 + 3x(-5) = 51 - 15 = 36",
+   "diagram": "circled 36; d = 5 circled"
+  },
+  {
+   "order": 15,
+   "type": "question",
+   "verified_text": "Question [JEE Mains-2019] | If the sum and product of the first three term in an A.P. are 33 and 1155, respectively, then a value of its 11th term is | A -25 (ticked) | B 25 | C -36 | D -35 | a-d, a, a+d -> A.P. (red box) | Sum = 3a = 33 -> a = 11. | Prod = (a-d)(a)(a+d) = 1155 -> a(a^2 - d^2) = 1155 -> 11(121 - d^2) = 1155 -> 121 - d^2 = 105 -> d^2 = 16 -> d = +-4 | # a = 11, d = 4 : A.P. -> 7, 11, 15 ; T11 = a + 10d = 11 + 40 = 51 (crossed out) | # a = 11, d = -4 : A.P. -> 15, 11, 7 ; T11 = a + 10d = 11 + 10(-4) = 15 - 40 = -25 (circled)",
+   "diagram": "-25 circled; 51 crossed out (not an option)"
+  },
+  {
+   "order": 16,
+   "type": "theory",
+   "verified_text": "PROPERTIES OF A.P. | (vi) kth term from last = (n - k + 1)th term from starting (red box) | # Total Terms annotation ; 'for any sequence' cloud",
+   "diagram": "magenta cloud around 'for any sequence'"
+  },
+  {
+   "order": 17,
+   "type": "theory",
+   "verified_text": "PROPERTIES OF A.P. | (vii) Sum of terms of an A.P. equidistant from starting and end is equal . | a1, a2, a3, ..., a37 -> A.P. | a1 + a37 = a2 + a36 = a3 + a35 = ... (red box) | each pair evaluated -> a + a + 36d ; a + d + a + 35d ; a + 2d + a + 34d | sum of each pair = 2a + 36d",
+   "diagram": "curved arrows from the paired terms to the common value"
+  },
+  {
+   "order": 18,
+   "type": "example",
+   "verified_text": "# Example | a1, a2, a3, ... , a149 -> A.P. | a121 + a3 = a100 + a24 = a102 + a22 | a5 + a11 = a6 + a10 = a2 + a14 = a8 + a8 = a4 + a12 (with sub-annotations a + 4d + a + 10d ; a + 5d + a + 9d) | a11 + a24 = a8 + a30 = a20 + a18 = a19 + a19",
+   "diagram": "curly braces grouping the equal pairs"
+  },
+  {
+   "order": 19,
+   "type": "question",
+   "verified_text": "Question [JEE Mains-2019] | If a1, a2, a3, ..., an are in A.P. and a1 + a4 + a7 + ... + a16 = 114, then a1 + a6 + a11 + a16 is equal to | A 98 | B 38 | C 64 | D 76 (ticked) | a1 + a4 + a7 + a10 + a13 + a16 = 114 | a + a + 3d + a + 6d + a + 9d + a + 12d + a + 15d = 114 -> 6a + 45d = 114 -> (2a + 15d) = 114/3 = 38 | 2(2a + 15d) = 76",
+   "diagram": "braces linking the six terms; 76 boxed"
+  },
+  {
+   "order": 20,
+   "type": "question",
+   "verified_text": "Question [JEE Mains-2019] (same stem) - second method | a1 + a16 = K (annotation top-right) | # a1 + a4 + a7 + a10 + a13 + a16 = 114 | K + K + K = 114 -> 3K = 114 -> K = 38 | a1 + a6 + a11 + a16 = K + K = 2K = 76",
+   "diagram": "orange arc arrows pairing the terms into three K-groups"
+  },
+  {
+   "order": 21,
+   "type": "theory",
+   "verified_text": "PROPERTIES OF A.P. | (viii) If d > 0 -> Increasing A.P. | If d < 0 -> Decreasing A.P. | If d = 0 -> Constant A.P. | (ix) For an A.P.: General Term = Tn = Linear function of 'n' ; Sum of 'n' terms = Sn = Quadratic function of 'n' with (constant term = 0) (red box) | (x) If a1,a2,...,an -> A.P. and b1,b2,...,bn -> another A.P. Then a1 +- b1, a2 +- b2, a3 +- b3, ... -> A.P.",
+   "diagram": "yellow underlines on General Term / Sum of 'n' terms"
+  },
+  {
+   "order": 22,
+   "type": "question",
+   "verified_text": "RAPID FIRE ROUND | If nth term of are A.P. is Tn = 7n + 11, n >= 1 then: | (i) first term (a) = 18 | (ii) common difference (d) = 7 | Tn = a + (n-1)d = a + nd - d -> Tn = (d)n + (a-d) | d = 7 ; a - d = 11 ; a = 18 | n = 1: T1 = 7 + 11 = 18 ; n = 2: T2 = 14 + 11 = 25",
+   "diagram": "circled (a-d) and product expressions; 18 and 7 filled in the blanks"
+  },
+  {
+   "order": 23,
+   "type": "question",
+   "verified_text": "RAPID FIRE ROUND | If sum of first n terms of an A.P. is Sn = 3n^2 + 5n then | (i) first term (a) = S1 = 8 | (ii) common difference (d) = 6 | (iii) nth term (Tn) = 6n + 2 | n = 2: S2 = 3x4 + 10 = 22 ; T1 + T2 = 22 ; T2 = 14 ; d = 14 - 8 = 6 ; Tn = a + (n-1)d = 8 + (n-1)6 = 6n + 2",
+   "diagram": "blue cloud around S1 = T1 = a"
+  },
+  {
+   "order": 24,
+   "type": "question",
+   "verified_text": "RAPID FIRE ROUND | Sn = 3n^2 + 5n (same stem) - completed | (i) first term (a) = S1 = 8 (ticked) | (ii) common difference (d) = 6 (ticked) | (iii) nth term (Tn) = 6n + 2 (ticked) | Tn = Sn - Sn-1 = 3n^2 + 5n - (3(n-1)^2 + 5(n-1)) = 3n^2 + 5n - (3n^2 + 3 - 6n + 5n - 5) = 6n + 2 | # Sn = (d/2)n^2 + (a - d/2)n (red box) | d/2 = 3 ; a - d/2 = 5 -> d = 6, a = 8",
+   "diagram": "red box around the general Sn form"
+  }
+ ],
+ "blocks_recorded": 24
+}

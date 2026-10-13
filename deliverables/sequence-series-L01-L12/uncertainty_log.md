@@ -1,0 +1,314 @@
+# Uncertainty / issue log - Sequence & Series
+
+Every entry cites PDF page and location/reading. Nothing below was silently corrected.
+
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p4: low-conf (0.5004) line: 'z=²3' | (ix) is written out below the grid and left unevaluated on this slide (its treatment continues later). The sub-part values are as printed/written: (i) 3, (ii) -4, (iii) -1, (iv) 17, (v) 60, (vi) 22, (vii) -9 (colour ambiguous: red or cyan), (viii) 958.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p5: low-conf (0.5758) line: 'ai' | low-conf (0.6143) line: '(B²+α+α3)' | low-conf (0.6499) line: '(B33++α3)' | low-conf (0.5643) line: '(x83' | dual-pass agreement 0.7749 | Numerators/denominators transcribed as written; the line is left unfinished and handed off to 'DIBY - (X)'. | The handoff marker 'DIBY - (X)' is recorded as a marker-only DIBY row (internal ID minted) because no question body exists for it in this lecture.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p6: low-conf (0.5194) line: '2' | The expansion line is written as '3abc + (a+b+c)(a² + b² + c² - (ab + bc + ca))' with the final bracket overwritten; the standard identity is as given. Transcribed as drawn.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p7: low-conf (0.6467) line: 'x-' | Page appears twice in the deck (p5 and p6) - p6 carries the full working. 'Old- IIT Jee' cloud badge top-right of p6.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p8: low-conf (0.6414) line: 'X-1' | low-conf (0.6116) line: '0=9qm' | low-conf (0.6448) line: '-' | dual-pass agreement 0.7568 | The middle algebra is heavily overwritten; the chain above is as far as is confidently legible. The transformed cubic's sum of roots is asked at the bottom and its evaluation continues on p9. Marked H.W. (yellow circle).
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p9: low-conf (0.5353) line: '0' | low-conf (0.6117) line: 'Hhoo-' | low-conf (0.5516) line: '0(+)' | low-conf (0.569) line: 'Hhn' | low-conf (0.5811) line: '0x+++' | dual-pass agreement 0.7452 | Middle expansion lines are heavily overwritten; the boxed cubic and the final value -2 are clear. Intermediate coefficients (-4008, 8016) are as written; term-by-term expansion is not fully legible and is NOT reconstructed.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p10: low-conf (0.5133) line: '+'
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p11: low-conf (0.508) line: 'GTe' | Marginal annotations ('st. C, P, E, tt') are cursive shorthand, not expanded. Transcribed as far as legible.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p12: low-conf (0.5728) line: '=' | low-conf (0.6158) line: '+c=o' | low-conf (0.6333) line: '0'g'0' | low-conf (0.5629) line: 'K' | dual-pass agreement 0.5545 | The final line is written as '(2) = 77 - 75 = k' (value 2 after cancellation is implied, k = 2). Transcribed as drawn; not corrected. Working continues on pp13-15.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p13: low-conf (0.6267) line: '1ax²' | low-conf (0.5641) line: '+（x=' | low-conf (0.5338) line: 'R' | low-conf (0.5779) line: '12)x?' | dual-pass agreement 0.7991 | k = 2 substituted here (consistent with p12's result). Quad. in y / Quad. in x labels as written.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p14: low-conf (0.6228) line: 'xa' | low-conf (0.6175) line: '(-5(2x1)-4x(1²+1x+2)' | dual-pass agreement 0.3761 | The discriminant is shown to be a perfect square (2x+3)²; the final factorisation is handed off to 'DiBY - β'.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p15: low-conf (0.5979) line: '8x+a' | low-conf (0.546) line: ': an+ 1' | The two factors are y = 3x + 2 and y = 2x + 1/2 (equivalently 2y = 4x + 1 -> 2x - y + 1/2 = 0). As written.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p17: low-conf (0.6396) line: '0=(o+e+bg)+x(b+Rm)+xb' | Second appearance of this condition slide in the deck (the first is p11); this one leads into the formal proof on p18.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p18: The annotation chain is written as 'Quad. in y' -> 'Perfect square' -> 'Iss Quad ka D = 0' (Hinglish: this quadratic's discriminant = 0); transcribed verbatim including the Hindi wording.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p19: low-conf (0.5363) line: 'P' | Board shorthand: 'Quad. dec-19' and the two branches are as written; 'PYQ' = previous-year questions is the standard reading but is not expanded on the slide.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p20: This slide marks the start of the Sequence & Series chapter proper inside lecture 01.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p21: low-conf (0.5014) line: 'Ovie' | low-conf (0.5246) line: 'UHoT' | low-conf (0.6199) line: 'ubis' | low-conf (0.6312) line: '旺+瓶+恬' | low-conf (0.5738) line: '#性' | dual-pass agreement 0.4296 | Hindi annotations transcribed verbatim. 'S, P' marks against each example are ticks indicating the sequence is also a progression; written as 'S ✓ P' style marks - recorded literally as S, P.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p22: low-conf (0.5026) line: 'RX'
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p23: low-conf (0.584) line: 'W'
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p24: low-conf (0.6444) line: '(a+(Cm-)d' | low-conf (0.5465) line: 'as'
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p25: dual-pass agreement 0.3183 | The line solving for a is written with an intermediate '- 4d = -3'; the chain is as shown. Answer (C) 16 is circled; option D 18 is also ticked in red (a stray tick) - the circled (C) is the answer.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p26: low-conf (0.6265) line: 'Mains' | low-conf (0.5111) line: '=(-0+S' | low-conf (0.6132) line: '=10' | dual-pass agreement 0.2571 | The final numeric evaluation of S₂₀ - S₅ is written at the top of the slide as 1862 with option (B) ticked; the intermediate S₂₀/S₅ substitution lines substitute a = 8, d = 10 directly. Transcribed as written.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p27: low-conf (0.6386) line: '(' | dual-pass agreement 0.351 | The final simplification line is overwritten near the end; the value d = -2(p+q)/(pq) and the ticked option (D) -p-q are clear. Intermediate algebra transcribed as far as legible.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p28: This is a duplicate slide of p25 without working - the same question is re-shown. Marginal green notes are cursive shorthand, transcribed as read.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p29: Handwritten annotation reads as '8-days hw.' (homework in 8 days) - cursive, transcribed as read.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p32: dual-pass agreement 0.7616
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p36: dual-pass agreement 0.775
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p39: Options C and D print different exponents (5 and 3) on otherwise identical product expressions - kept verbatim, suspected source inconsistency.
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p40: low-conf (0.5145) line: 'B'
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p41: dual-pass agreement 0.6618
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p43: This is the authoritative printed key used to populate the 'Visible solution/answer' field for DIBY-A..M. Note DIBY-J is multi-correct (two answers).
+- **Sequence & Series L01** `Sequence and Series 01 Class Notes.pdf` p44: low-conf (0.645) line: '在u' | low-conf (0.5884) line: 'Eraluoy' | low-conf (0.5084) line: 'oW'
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p5: low-conf (0.6097) line: '1om'
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p6: low-conf (0.6036) line: 'a，d' | low-conf (0.5244) line: '9' | low-conf (0.6254) line: '9' | low-conf (0.5082) line: '时(' | dual-pass agreement 0.4455 | The final line is written with a cancellation shown as (p+q)/(2) x (-2) = -p - q; the intermediate '= -1' comes from the circled expression. Transcribed as drawn.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p7: dual-pass agreement 0.4627 | The presented recurrence is a linear-difference (A.P.) condition; the second-difference form is written as an - a(n-1) = a(n-1) - a(n-2). Transcribed verbatim. | The name written in parentheses beside the question tag is cursive; read as 'Tanya Cassell' - the surname is not fully certain and is flagged [UNCLEAR].
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p8: low-conf (0.5217) line: 'XC' | dual-pass agreement 0.1024 | Dual-pass agreement 0.10 on this page - the highest disagreement in the lecture; the verified reading above is from direct visual inspection, not from either machine pass.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p9: low-conf (0.5584) line: '=(Sn-S)-(Sm-S2)' | dual-pass agreement 0.7826
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p11: low-conf (0.5211) line: '#' | The written f(x) is a fraction over 2, i.e. the arithmetic mean of the two given terms; the value 65/8 follows from it.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p12: dual-pass agreement 0.7201 | The worked line is left as '3a = 15 -> a = 15/3' without evaluating to 5. Transcribed as written; NOT corrected.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p13: dual-pass agreement 0.453 | The d = +4 branch gives T11 = 51, which the instructor crosses out because 51 is not an option; the d = -4 branch gives -25 = option (A). Both branches are transcribed.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p14: low-conf (0.5216) line: 'uanbnhmmaof'
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p15: dual-pass agreement 0.4632
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p16: low-conf (0.6179) line: '#M-a' | dual-pass agreement 0.516
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p18: dual-pass agreement 0.6696
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p19: low-conf (0.6167) line: 'x=46' | dual-pass agreement 0.6213
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p20: low-conf (0.5128) line: 'o + bo' | low-conf (0.648) line: '= 4G ' | dual-pass agreement 0.6856
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p22: low-conf (0.5104) line: '三' | low-conf (0.6287) line: 'π=1' | low-conf (0.5657) line: '=+.' | dual-pass agreement 0.7031 | Printed stem reads 'If nth term of are A.P. is ...' - source wording kept verbatim, not corrected.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p24: low-conf (0.5675) line: '三_' | low-conf (0.5324) line: '井' | dual-pass agreement 0.4191 | The middle expansion is written as '3n^2 + 5n - (3n^2 + 3 - 6n + 5n - 5)'; the grouping is as drawn and simplifies to 6n + 2. Transcribed verbatim, NOT tidied.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p26: low-conf (0.5356) line: '#0++6+1' | dual-pass agreement 0.5733 | The product is written as (8+6x3) x (8+7x3) = 75; 26 x 29 = 754, so the written value '75' is inconsistent with its own factors. Transcribed verbatim and NOT corrected - flagged for the coordinator. | The last-four-terms expansion is written with a '4 x 8 + 3{4n - 10}' step; the bracket contents are as drawn.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p27: low-conf (0.5974) line: 'd' | low-conf (0.5937) line: '答' | Parts of the middle-position list are struck through by the instructor (e.g. for Total Terms = 51 the 25th and 27th, for 144 the 144/2 and 144/2+2); the strikes are recorded, the text is transcribed as written.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p28: low-conf (0.5778) line: '66' | low-conf (0.6213) line: '9 ×' | dual-pass agreement 0.7314 | The written 'n-1 = 99, d = 1' is marked with an X, as are 3/33 and 1/99; the accepted set is {11, 9, 33} giving 53. The braced group at right lists 'n-1 = 3, d = 33' among the accepted while its earlier instance is crossed out - both markings recorded as drawn.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p29: low-conf (0.5986) line: 'hl > r' | The bounds are written as the quotients 130/15 and 140/15 without evaluation; the integer d in that interval is 9. Transcribed as drawn.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p30: dual-pass agreement 0.574 | No working is shown on the slide; the item is marked 'DIBY - (A)' with '(A)' being the recorded answer, plus 'Chat !!' as an instruction to discuss. The answer letter is read from the handwritten marker, not from a printed key.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p31: low-conf (0.6423) line: 'QK-1' | low-conf (0.6288) line: 'ak' | The subtraction step is written schematically as '-d + (-d) + (-d) + ...' without an explicit term count; the resulting dk = 15 is circled. Transcribed as drawn.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p32: No working on the slide. The top-right corner carries the printed word 'Numbered' (a printed slide-label quirk on the source) - recorded verbatim.
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p36: dual-pass agreement 0.687
+- **Sequence & Series L02** `Sequence and Series 02 Class Notes.pdf` p39: low-conf (0.645) line: '在u' | low-conf (0.5884) line: 'Eraluoy' | low-conf (0.5084) line: 'oW' | The cursive quote is machine-garbled in both passes ('Eraluoy', 'fourney'); the verified reading is from direct visual inspection.
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p6: low-conf (0.5777) line: '7n+1' | low-conf (0.6152) line: 'a' | dual-pass agreement 0.7774
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p7: low-conf (0.525) line: '(+)'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p8: low-conf (0.6332) line: 'S=' | dual-pass agreement 0.6068
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p10: low-conf (0.5182) line: 'Iau' | low-conf (0.6079) line: 'qn﹢１，e' | low-conf (0.6211) line: 'I3u 't +u8'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p14: low-conf (0.5962) line: '800}' | low-conf (0.6059) line: '93' | low-conf (0.6021) line: '64' | low-conf (0.6094) line: '个' | dual-pass agreement 0.3392
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p15: low-conf (0.5944) line: '20t'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p16: low-conf (0.5594) line: 'lotal ' | dual-pass agreement 0.4678
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p17: low-conf (0.608) line: 't' | low-conf (0.5377) line: '2.3''
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p18: low-conf (0.5128) line: 'dCM' | low-conf (0.6255) line: 'm(，)' | low-conf (0.5173) line: 'HAE'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p20: low-conf (0.5016) line: '子' | low-conf (0.6076) line: '十去' | low-conf (0.5097) line: '—a4' | low-conf (0.5156) line: '(#' | low-conf (0.6273) line: '一' | dual-pass agreement 0.5944
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p21: low-conf (0.5586) line: '5' | dual-pass agreement 0.7926
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p22: low-conf (0.5127) line: 'HieT' | low-conf (0.6233) line: 't0h' | low-conf (0.5583) line: 'bt' | dual-pass agreement 0.7682
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p24: low-conf (0.5167) line: 'St' | low-conf (0.6241) line: 's+' | dual-pass agreement 0.7267
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p25: low-conf (0.5075) line: '8' | low-conf (0.5955) line: '(' | dual-pass agreement 0.7666
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p26: low-conf (0.5666) line: 'ct.'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p27: low-conf (0.6313) line: 'Cm+'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p28: low-conf (0.5505) line: '↑' | low-conf (0.5946) line: '→' | low-conf (0.5513) line: 'ah' | low-conf (0.5445) line: 'ak' | low-conf (0.5586) line: 'α' | low-conf (0.5844) line: 'xn' | dual-pass agreement 0.7826
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p29: low-conf (0.5457) line: '人' | low-conf (0.6089) line: 'a' | low-conf (0.6071) line: 'n' | low-conf (0.5708) line: 'Th' | low-conf (0.5662) line: 'C' | low-conf (0.5237) line: 'G' | dual-pass agreement 0.742
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p31: low-conf (0.5766) line: 'a' | low-conf (0.609) line: '.' | low-conf (0.614) line: '²）' | dual-pass agreement 0.7757
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p34: low-conf (0.5392) line: 'GoHuw.'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p38: low-conf (0.6221) line: '      ss       s' | low-conf (0.5289) line: '           t  '
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p40: low-conf (0.581) line: 'FIN】' | low-conf (0.5898) line: '=' | dual-pass agreement 0.2134
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p42: low-conf (0.5644) line: '#'
+- **Sequence & Series L03** `Sequence and Series 03 Class Notes.pdf` p43: low-conf (0.5161) line: '在u'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p4: low-conf (0.6312) line: '$00'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p6: low-conf (0.6226) line: 'GCD oR NCF(' | low-conf (0.6083) line: '2_' | low-conf (0.611) line: '83'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p7: low-conf (0.6282) line: 'm0.07' | dual-pass agreement 0.5395
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p8: low-conf (0.6182) line: '*米' | dual-pass agreement 0.7194
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p9: low-conf (0.6109) line: '.....!' | low-conf (0.5945) line: 'xUY' | low-conf (0.5885) line: '去+t+' | dual-pass agreement 0.5601
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p10: low-conf (0.5983) line: '-al' | low-conf (0.5248) line: '14' | low-conf (0.6477) line: 'a1+ 16d.' | dual-pass agreement 0.4275
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p11: low-conf (0.598) line: '17' | dual-pass agreement 0.1681
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p12: low-conf (0.5454) line: 'CHaut' | low-conf (0.5385) line: 'y=(+)'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p13: dual-pass agreement 0.5155
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p14: low-conf (0.6218) line: '(e-6)' | dual-pass agreement 0.2024
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p15: low-conf (0.5485) line: 'Say:' | low-conf (0.5734) line: 'Km #' | low-conf (0.6444) line: '—A·F.' | dual-pass agreement 0.6644
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p16: low-conf (0.6315) line: 'A.P.' | low-conf (0.6244) line: 'abe，ayC→AP' | low-conf (0.6397) line: 'g3+ 0]' | low-conf (0.5303) line: 'HHie' | low-conf (0.6154) line: 'a' | dual-pass agreement 0.414
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p17: low-conf (0.532) line: 'xh' | low-conf (0.5116) line: 'Xh'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p18: low-conf (0.5912) line: 'al' | low-conf (0.5491) line: '3#' | dual-pass agreement 0.429
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p19: low-conf (0.6151) line: 'at'' | low-conf (0.6388) line: 'α²π= 4²' | low-conf (0.5341) line: '儿'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p20: low-conf (0.6327) line: 'an²=4' | low-conf (0.5974) line: 'a' | low-conf (0.5445) line: 'ah.' | low-conf (0.6497) line: 'q²，a3' | low-conf (0.5221) line: 'Ext' | low-conf (0.5655) line: '(N3)' | low-conf (0.6357) line: 'Q13' | low-conf (0.6439) line: 'decegsug' | dual-pass agreement 0.6933
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p21: dual-pass agreement 0.5227
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p22: low-conf (0.5479) line: '+水' | low-conf (0.5552) line: '+QK' | low-conf (0.5883) line: '+%' | low-conf (0.5708) line: 'a-an'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p23: low-conf (0.5936) line: '1<u' | low-conf (0.5268) line: '-' | low-conf (0.5266) line: '3-' | low-conf (0.6141) line: '↑1'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p24: low-conf (0.5525) line: 'Ci)' | low-conf (0.5215) line: 'a' | low-conf (0.5737) line: 'h=(）=' | dual-pass agreement 0.7284
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p25: low-conf (0.6319) line: '0C(i+ + R= 3 .' | dual-pass agreement 0.6312
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p26: low-conf (0.6032) line: '00000' | low-conf (0.6237) line: '8' | low-conf (0.616) line: 'C'
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p27: low-conf (0.5822) line: '"→' | low-conf (0.6055) line: '二' | low-conf (0.5681) line: '---' | dual-pass agreement 0.5455
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p29: low-conf (0.5192) line: '='
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p33: low-conf (0.5034) line: '11j' | dual-pass agreement 0.6819
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p36: low-conf (0.6269) line: '      ss       s' | low-conf (0.513) line: '          t  '
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p38: dual-pass agreement 0.3135
+- **Sequence & Series L04** `Sequence and Series 04 Class Notes.pdf` p42: low-conf (0.5161) line: '在u'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p4: low-conf (0.5924) line: 'Pq?' | low-conf (0.5745) line: 'PA' | low-conf (0.5496) line: 'PA' | low-conf (0.6178) line: '3，' | low-conf (0.5381) line: 'd89' | low-conf (0.5724) line: 'd' | low-conf (0.5081) line: '2b' | dual-pass agreement 0.7617
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p5: low-conf (0.5894) line: '1' | low-conf (0.5066) line: 'a' | low-conf (0.5523) line: 'P9' | low-conf (0.6392) line: 'g' | dual-pass agreement 0.6919
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p6: low-conf (0.595) line: '二o' | dual-pass agreement 0.52
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p8: low-conf (0.59) line: '（8)' | low-conf (0.5681) line: '81p+I~' | low-conf (0.6206) line: '"' | low-conf (0.5667) line: 'a' | low-conf (0.524) line: 'g-a' | dual-pass agreement 0.5657
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p9: low-conf (0.6102) line: '（8）' | low-conf (0.6268) line: '1a18' | low-conf (0.5835) line: '8' | dual-pass agreement 0.7024
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p10: low-conf (0.5601) line: 'K#1'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p11: low-conf (0.5711) line: '=a' | low-conf (0.5236) line: '‘=0'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p12: low-conf (0.607) line: 'v1(l'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p14: low-conf (0.5575) line: '6' | low-conf (0.5007) line: '8' | dual-pass agreement 0.4486
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p15: low-conf (0.5621) line: 'W' | low-conf (0.5199) line: '1-' | low-conf (0.5713) line: '#32' | low-conf (0.5679) line: '1x5' | low-conf (0.551) line: '（π（1+n+R)' | low-conf (0.556) line: '万xx5'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p16: low-conf (0.6183) line: 'ntl'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p18: low-conf (0.6379) line: 'a' | low-conf (0.6234) line: '6' | low-conf (0.5097) line: '-Q' | low-conf (0.5733) line: '&'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p19: low-conf (0.6433) line: '3Q' | dual-pass agreement 0.4252
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p20: low-conf (0.6495) line: '#S='
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p22: dual-pass agreement 0.5107
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p23: low-conf (0.5882) line: 'W' | low-conf (0.6086) line: '(司)(高》)' | low-conf (0.6104) line: '(-x)Bx-(h+x)(h-x' | low-conf (0.5388) line: 'a-y)(' | dual-pass agreement 0.7065
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p24: low-conf (0.5375) line: '以一' | low-conf (0.5796) line: 'x-4'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p25: low-conf (0.5154) line: 'b' | low-conf (0.6453) line: '-01' | dual-pass agreement 0.4813
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p26: low-conf (0.5077) line: '18' | low-conf (0.5634) line: '+°1' | low-conf (0.5167) line: '1o'
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p27: low-conf (0.5438) line: 'α' | dual-pass agreement 0.6832
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p28: low-conf (0.5702) line: 'W' | low-conf (0.6323) line: '= ×' | dual-pass agreement 0.5223
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p29: low-conf (0.5846) line: '4' | low-conf (0.6461) line: 't ' | low-conf (0.5498) line: '744' | low-conf (0.5325) line: '-0' | low-conf (0.5775) line: '十-' | low-conf (0.6187) line: '100' | low-conf (0.5582) line: '+' | dual-pass agreement 0.5659
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p30: low-conf (0.6334) line: 'l000' | low-conf (0.5428) line: '100' | low-conf (0.5176) line: '3' | low-conf (0.5924) line: '（)' | low-conf (0.5508) line: 'o1' | dual-pass agreement 0.636
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p31: dual-pass agreement 0.7821
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p39: dual-pass agreement 0.7069
+- **Sequence & Series L05** `Sequence and Series 05 Class Notes.pdf` p40: low-conf (0.5161) line: '在u'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p3: low-conf (0.5683) line: 'W'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p5: low-conf (0.5961) line: '+' | low-conf (0.6426) line: '1' | low-conf (0.6377) line: 'α=10'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p6: low-conf (0.5846) line: '5=' | dual-pass agreement 0.702
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p7: low-conf (0.6066) line: 'dn' | low-conf (0.6131) line: '—GP' | low-conf (0.5006) line: '，GP' | dual-pass agreement 0.3716
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p8: low-conf (0.6392) line: 'a，a%²，' | low-conf (0.6102) line: 'daog(ar2)' | low-conf (0.5459) line: 'Q' | dual-pass agreement 0.674
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p9: low-conf (0.5528) line: 'q' | dual-pass agreement 0.4275
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p10: low-conf (0.5564) line: 'C' | low-conf (0.6034) line: 'Q' | low-conf (0.5515) line: '?' | dual-pass agreement 0.7322
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p11: dual-pass agreement 0.7824
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p13: low-conf (0.5864) line: 'M' | low-conf (0.6476) line: 'mla' | dual-pass agreement 0.5169
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p15: low-conf (0.5084) line: 'a' | low-conf (0.614) line: 'J+o'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p16: low-conf (0.5442) line: '一'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p17: low-conf (0.5422) line: '二'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p18: low-conf (0.5512) line: 'T' | low-conf (0.5402) line: '8o1' | low-conf (0.5405) line: 'Y' | low-conf (0.6206) line: 'I±P' | low-conf (0.6359) line: 'Huud' | low-conf (0.5375) line: '11' | low-conf (0.6316) line: '#+' | dual-pass agreement 0.1723
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p19: low-conf (0.5254) line: '+' | low-conf (0.5689) line: 'tew.'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p20: low-conf (0.5423) line: '1' | low-conf (0.6044) line: '&' | dual-pass agreement 0.3114
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p22: low-conf (0.6399) line: 'Se' | low-conf (0.5025) line: 'α↓' | low-conf (0.5977) line: 'd' | low-conf (0.5274) line: 'a，g，，P，q' | dual-pass agreement 0.501
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p24: low-conf (0.6269) line: 'I+u' | low-conf (0.6421) line: '()'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p25: low-conf (0.5754) line: '个'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p26: low-conf (0.5142) line: 'n' | low-conf (0.6081) line: 'ab'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p27: low-conf (0.6035) line: '支克士'
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p28: low-conf (0.6412) line: '=+5' | low-conf (0.6111) line: '支克' | low-conf (0.606) line: '(i+u' | dual-pass agreement 0.7249
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p32: low-conf (0.6445) line: 'ew。' | dual-pass agreement 0.1224
+- **Sequence & Series L06** `Sequence and Series 06 Class Notes.pdf` p36: dual-pass agreement 0.2664
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p3: low-conf (0.5142) line: 'a'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p5: low-conf (0.566) line: '(#' | low-conf (0.5268) line: 'u' | low-conf (0.6183) line: 'a' | low-conf (0.593) line: '2' | low-conf (0.5061) line: '?' | low-conf (0.5775) line: '())' | low-conf (0.5156) line: '()'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p6: low-conf (0.5884) line: 'a'→2'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p7: low-conf (0.5838) line: '牛t%' | low-conf (0.6093) line: 'C' | low-conf (0.5998) line: 'ald' | low-conf (0.5897) line: '=' | low-conf (0.5914) line: '-)' | dual-pass agreement 0.6726
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p8: low-conf (0.5875) line: 'pu+O=pt+O' | low-conf (0.5492) line: '1+w'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p9: low-conf (0.5601) line: 'm+1' | low-conf (0.5508) line: 'Bahlnros' | low-conf (0.6042) line: 'Ruo' | low-conf (0.6) line: 't9x-09+=9x+u9x+9-' | dual-pass agreement 0.2814
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p10: low-conf (0.6444) line: 'G+G+g²²' | low-conf (0.6495) line: 'an' | low-conf (0.562) line: ' an9' | dual-pass agreement 0.6744
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p11: low-conf (0.5664) line: 'bd' | dual-pass agreement 0.7328
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p12: low-conf (0.5556) line: 'Gtuo.'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p13: low-conf (0.5598) line: '#' | low-conf (0.5839) line: '=" ..   o '' | dual-pass agreement 0.7984
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p16: low-conf (0.6144) line: '23'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p17: low-conf (0.5169) line: 'GM'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p18: low-conf (0.6232) line: 'Lue' | low-conf (0.526) line: 'm.0' | dual-pass agreement 0.7328
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p21: low-conf (0.5518) line: 'ntl' | low-conf (0.5081) line: 'T' | low-conf (0.506) line: 'a' | low-conf (0.5658) line: 'αaa ' | low-conf (0.5911) line: '2a' | low-conf (0.6081) line: '&a' | low-conf (0.603) line: 'n+' | dual-pass agreement 0.6308
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p24: low-conf (0.5381) line: 'XK' | low-conf (0.5293) line: 'Rdrm'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p25: low-conf (0.5721) line: 'Sd' | low-conf (0.6199) line: '$'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p26: low-conf (0.5689) line: '9S' | low-conf (0.5545) line: 'a'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p27: low-conf (0.5177) line: 'm' | low-conf (0.6097) line: '上3' | low-conf (0.5848) line: 'X' | low-conf (0.5783) line: '&S' | dual-pass agreement 0.7192
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p28: low-conf (0.507) line: '2S' | low-conf (0.5443) line: '2S' | low-conf (0.525) line: '#' | dual-pass agreement 0.6997
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p29: low-conf (0.5992) line: '1一u'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p30: low-conf (0.5238) line: 'XS' | low-conf (0.5058) line: '9S' | low-conf (0.5695) line: '+' | low-conf (0.6421) line: '3-' | dual-pass agreement 0.7237
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p31: low-conf (0.6144) line: '+' | low-conf (0.5462) line: ')+(#' | low-conf (0.6348) line: 'cHUo.'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p32: low-conf (0.5327) line: '小W。'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p36: dual-pass agreement 0.0866
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p40: low-conf (0.5682) line: 'i'
+- **Sequence & Series L07** `Sequence and Series 07 Class Notes.pdf.pdf` p41: low-conf (0.5161) line: '在u'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p4: low-conf (0.599) line: '1二3' | low-conf (0.6183) line: '+' | low-conf (0.5551) line: '+-' | low-conf (0.6425) line: '+' | low-conf (0.6143) line: 't' | low-conf (0.594) line: 'X=.' | low-conf (0.6208) line: '&'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p5: low-conf (0.5511) line: 'K+n' | low-conf (0.5906) line: 'X+' | low-conf (0.5997) line: ')(})景词' | dual-pass agreement 0.6667
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p6: low-conf (0.5568) line: '16'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p7: low-conf (0.5043) line: 'm' | low-conf (0.5802) line: '一' | low-conf (0.603) line: '+(r)+()n++' | low-conf (0.6044) line: 'Un' | dual-pass agreement 0.6497
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p8: dual-pass agreement 0.7351
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p9: dual-pass agreement 0.7869
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p11: dual-pass agreement 0.6005
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p13: low-conf (0.6012) line: '十' | low-conf (0.5135) line: 'aS'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p14: low-conf (0.5854) line: '13' | low-conf (0.5451) line: '+' | low-conf (0.6039) line: 'Tn' | low-conf (0.6468) line: 'a' | low-conf (0.5872) line: '1m-1' | dual-pass agreement 0.6757
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p15: low-conf (0.6465) line: '人' | dual-pass agreement 0.5876
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p16: low-conf (0.6461) line: '2s' | low-conf (0.5275) line: '十' | low-conf (0.645) line: 'T' | low-conf (0.6324) line: '+' | low-conf (0.642) line: 'Sumn n-Fous' | dual-pass agreement 0.742
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p17: low-conf (0.5144) line: '31a' | low-conf (0.5903) line: '31' | low-conf (0.5065) line: '9' | low-conf (0.5127) line: '6' | dual-pass agreement 0.6424
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p19: low-conf (0.6253) line: '+' | low-conf (0.5826) line: '3-1'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p21: low-conf (0.5405) line: 'xRnd4rmu' | low-conf (0.5515) line: 'nS' | low-conf (0.6122) line: '(-x)'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p22: low-conf (0.6027) line: 'W' | low-conf (0.5162) line: 'X' | low-conf (0.5775) line: 'M(1心='
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p23: low-conf (0.6223) line: '+)(' | low-conf (0.5527) line: '9' | low-conf (0.6179) line: 'f' | low-conf (0.6463) line: '+_--.℃' | low-conf (0.6399) line: '53' | dual-pass agreement 0.753
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p24: low-conf (0.6137) line: '3七'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p26: low-conf (0.543) line: '+' | low-conf (0.6052) line: '16'bl+' | low-conf (0.6181) line: '&1' | low-conf (0.5922) line: '17'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p28: low-conf (0.6427) line: 'mt' | low-conf (0.5406) line: '10' | dual-pass agreement 0.6276
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p29: low-conf (0.6076) line: 'k' | low-conf (0.6175) line: '+' | low-conf (0.5885) line: '+'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p30: low-conf (0.5937) line: 'k=I.'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p31: low-conf (0.6324) line: '3h '
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p32: low-conf (0.6289) line: 't()=t(1)+(2)+t(3)-·.+七m)' | low-conf (0.5889) line: '7' | low-conf (0.6011) line: '(（)±)' | low-conf (0.5967) line: '(s)=(()' | low-conf (0.5392) line: '久' | dual-pass agreement 0.7895
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p34: low-conf (0.5072) line: '7' | low-conf (0.6151) line: 'hx9K'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p35: low-conf (0.5898) line: 'T' | dual-pass agreement 0.7895
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p37: dual-pass agreement 0.7986
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p38: low-conf (0.6339) line: 'a' | low-conf (0.6213) line: 'a'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p42: low-conf (0.5186) line: '+'
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p43: low-conf (0.5409) line: 'i' | dual-pass agreement 0.7873
+- **Sequence & Series L08** `Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf` p44: low-conf (0.5764) line: '1'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p4: low-conf (0.5196) line: 'a+' | low-conf (0.6487) line: '1²+(2-12²）x+(3-x²）x2+（43²）x3' | low-conf (0.6459) line: '+.----0'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p5: low-conf (0.5065) line: '1-x' | low-conf (0.568) line: '-+x' | low-conf (0.6389) line: '1-'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p6: low-conf (0.6403) line: '10' | dual-pass agreement 0.2778
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p7: low-conf (0.6351) line: '二' | low-conf (0.6315) line: '5' | low-conf (0.5973) line: '+'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p8: low-conf (0.5521) line: '#' | dual-pass agreement 0.6866
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p9: low-conf (0.6111) line: '$-s' | low-conf (0.617) line: 'K4' | low-conf (0.5626) line: '#>' | low-conf (0.5844) line: 'mt' | low-conf (0.6093) line: 'T'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p10: low-conf (0.58) line: 'Z'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p11: low-conf (0.6252) line: '6' | low-conf (0.6433) line: '个' | dual-pass agreement 0.6719
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p12: low-conf (0.6271) line: '>' | low-conf (0.5984) line: '三' | dual-pass agreement 0.5737
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p13: low-conf (0.6488) line: 'Z15gr2' | dual-pass agreement 0.5868
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p14: low-conf (0.5592) line: '10x1'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p15: low-conf (0.6294) line: '(ax-1)' | low-conf (0.6134) line: '>' | low-conf (0.5763) line: '16' | low-conf (0.5744) line: 'BOwe' | low-conf (0.5557) line: '~=1'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p16: low-conf (0.5844) line: '4' | low-conf (0.5225) line: 'a' | low-conf (0.6294) line: 'm=1' | low-conf (0.5199) line: '6'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p18: low-conf (0.6272) line: 'G'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p21: low-conf (0.5335) line: 'mmno'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p22: low-conf (0.5712) line: '<=1' | low-conf (0.6384) line: '=l' | low-conf (0.5224) line: '六一' | dual-pass agreement 0.7376
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p23: low-conf (0.5535) line: '2' | low-conf (0.611) line: '（K+1)' | low-conf (0.5369) line: '1o' | low-conf (0.6188) line: 'H+'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p24: dual-pass agreement 0.5845
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p25: low-conf (0.577) line: 'u' | low-conf (0.6367) line: 'n=1'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p26: low-conf (0.5121) line: '27E' | dual-pass agreement 0.7191
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p27: low-conf (0.6306) line: 'IS' | low-conf (0.6049) line: '+²' | low-conf (0.6233) line: '=1' | low-conf (0.6266) line: 'd' | low-conf (0.591) line: '='
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p29: low-conf (0.5979) line: '+·' | low-conf (0.5055) line: '1S×' | low-conf (0.5199) line: 'Q' | dual-pass agreement 0.64
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p31: low-conf (0.5615) line: '7'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p32: low-conf (0.5708) line: 'teu'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p39: low-conf (0.5914) line: '7'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p40: low-conf (0.5762) line: '十' | low-conf (0.5322) line: '十' | low-conf (0.6141) line: '··十' | low-conf (0.5177) line: '+' | dual-pass agreement 0.459
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p43: low-conf (0.5469) line: '#'
+- **Sequence & Series L09** `Sequence and Series 09 Class Notes.pdf.pdf` p44: low-conf (0.5161) line: '在u'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p3: dual-pass agreement 0.5161
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p4: dual-pass agreement 0.5927
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p6: low-conf (0.5468) line: 'N' | low-conf (0.5851) line: 'S' | low-conf (0.5909) line: '&35k' | dual-pass agreement 0.7974
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p7: low-conf (0.5049) line: '5K文'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p8: low-conf (0.527) line: '#'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p9: low-conf (0.6383) line: '43' | low-conf (0.5026) line: '&5' | low-conf (0.5224) line: '2' | dual-pass agreement 0.7209
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p11: low-conf (0.569) line: '三' | low-conf (0.5647) line: 'π' | low-conf (0.5206) line: '下' | low-conf (0.5635) line: '十' | low-conf (0.5498) line: '十' | low-conf (0.5784) line: '+' | low-conf (0.613) line: 'β' | low-conf (0.6442) line: '2' | low-conf (0.5858) line: 'K一' | dual-pass agreement 0.5933
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p12: low-conf (0.5822) line: 'Tt2' | low-conf (0.576) line: '72' | dual-pass agreement 0.7809
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p13: low-conf (0.6101) line: '1m' | low-conf (0.6116) line: 'M-' | dual-pass agreement 0.5478
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p14: low-conf (0.6237) line: 'n-a' | low-conf (0.6394) line: '1-u' | low-conf (0.6016) line: 'm' | low-conf (0.5809) line: '>'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p15: dual-pass agreement 0.1811
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p16: low-conf (0.6333) line: '2 %' | dual-pass agreement 0.6062
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p17: low-conf (0.5553) line: '  9 ' | dual-pass agreement 0.444
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p18: low-conf (0.5055) line: 'R' | low-conf (0.6248) line: 'h1' | low-conf (0.612) line: 'm' | low-conf (0.6342) line: '28'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p19: low-conf (0.5118) line: 'n' | low-conf (0.5773) line: 'Ixu'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p20: low-conf (0.5364) line: 'HUw'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p23: low-conf (0.6111) line: 'R' | low-conf (0.5867) line: '4'
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p25: dual-pass agreement 0.7074
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p27: low-conf (0.56) line: 'xhxx1' | dual-pass agreement 0.3679
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p28: dual-pass agreement 0.7715
+- **Sequence & Series L10** `Sequence and Series 10 Class Notes.pdf.pdf` p35: low-conf (0.5161) line: '在u'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p3: low-conf (0.5542) line: 'Q3' | low-conf (0.5452) line: '一' | dual-pass agreement 0.2007
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p5: low-conf (0.538) line: '··8' | low-conf (0.6054) line: 'KIG' | low-conf (0.6006) line: '···' | low-conf (0.5483) line: 'X' | low-conf (0.5991) line: 'T2' | low-conf (0.5649) line: '##+##' | low-conf (0.5017) line: 'KI' | low-conf (0.6269) line: '+·：8' | low-conf (0.5983) line: 'hC' | dual-pass agreement 0.4368
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p6: low-conf (0.6493) line: '6' | low-conf (0.6408) line: 'n' | low-conf (0.6349) line: '=9+0' | low-conf (0.5916) line: '3#' | dual-pass agreement 0.6072
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p7: low-conf (0.5381) line: '<' | low-conf (0.5265) line: '5' | dual-pass agreement 0.7784
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p8: low-conf (0.6187) line: '5' | low-conf (0.5242) line: 'a=3' | dual-pass agreement 0.7097
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p9: dual-pass agreement 0.5636
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p11: low-conf (0.5826) line: '十' | low-conf (0.6126) line: '21' | low-conf (0.6007) line: 'BN' | dual-pass agreement 0.6923
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p12: low-conf (0.6016) line: '##' | low-conf (0.5745) line: '1' | low-conf (0.629) line: '良 ' | dual-pass agreement 0.6296
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p13: low-conf (0.5378) line: '1xa' | low-conf (0.6186) line: 'Qws' | low-conf (0.5598) line: '人' | low-conf (0.6486) line: '=1' | low-conf (0.6234) line: 'n+' | dual-pass agreement 0.7677
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p14: low-conf (0.6253) line: 'a' | low-conf (0.6068) line: 'am+1'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p17: low-conf (0.5444) line: '(Qnt1' | low-conf (0.6231) line: '2' | low-conf (0.5239) line: '--xSxExi' | low-conf (0.5621) line: 'n' | low-conf (0.5314) line: 'α' | low-conf (0.641) line: 'Se' | low-conf (0.6141) line: '2' | dual-pass agreement 0.3077
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p20: low-conf (0.5983) line: 'P'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p21: low-conf (0.5669) line: 'W' | low-conf (0.6458) line: '%²+1' | low-conf (0.6237) line: 'R²+1+n' | low-conf (0.6364) line: '(8²+1-n' | dual-pass agreement 0.7668
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p23: low-conf (0.5352) line: '3→8' | low-conf (0.6052) line: 'm+m+1'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p24: low-conf (0.502) line: 'Z'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p26: dual-pass agreement 0.5556
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p27: low-conf (0.5918) line: 'xx5²' | low-conf (0.5886) line: 'X' | dual-pass agreement 0.6585
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p29: low-conf (0.5797) line: 'W' | low-conf (0.502) line: '二'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p31: low-conf (0.5794) line: '>' | low-conf (0.6265) line: 'Ktonby'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p33: low-conf (0.6283) line: 'x' | low-conf (0.5396) line: '2' | low-conf (0.5472) line: '℃×一' | low-conf (0.648) line: 'X=' | low-conf (0.5511) line: '儿' | low-conf (0.5902) line: '2'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p36: low-conf (0.5234) line: '十' | low-conf (0.6342) line: '十'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p38: low-conf (0.571) line: '#'
+- **Sequence & Series L11** `Sequence and Series 11 Class Notes.pdf.pdf` p41: low-conf (0.5867) line: '一'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p4: low-conf (0.6279) line: 'Rat' | dual-pass agreement 0.5569
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p6: low-conf (0.5503) line: '=' | low-conf (0.5527) line: '()' | low-conf (0.5595) line: '=' | low-conf (0.559) line: '(' | low-conf (0.646) line: '(==' | dual-pass agreement 0.7383
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p7: low-conf (0.5898) line: 'a'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p8: low-conf (0.6423) line: '54'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p9: low-conf (0.6081) line: '2+e+2' | low-conf (0.5686) line: '=(-' | low-conf (0.5284) line: '8'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p10: dual-pass agreement 0.4449
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p13: low-conf (0.5214) line: 't' | low-conf (0.5371) line: 'C' | dual-pass agreement 0.7949
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p15: low-conf (0.6155) line: '米'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p17: low-conf (0.5379) line: '八' | low-conf (0.6496) line: '+++9+g+0' | low-conf (0.5264) line: '##(' | dual-pass agreement 0.5036
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p18: low-conf (0.5571) line: 'uid' | low-conf (0.5489) line: ')'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p19: low-conf (0.5587) line: 'tw.'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p20: low-conf (0.5928) line: 'a2' | low-conf (0.6211) line: '+' | low-conf (0.5524) line: 'bc' | low-conf (0.6047) line: '二' | low-conf (0.6494) line: '+J' | dual-pass agreement 0.7986
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p21: low-conf (0.5866) line: '+x' | low-conf (0.6495) line: '1-' | low-conf (0.6278) line: 'K+' | low-conf (0.6274) line: '|+' | dual-pass agreement 0.6716
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p22: low-conf (0.6302) line: '(-+-+-+....+' | low-conf (0.5939) line: 'an' | dual-pass agreement 0.7534
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p24: low-conf (0.5923) line: '+2' | low-conf (0.6213) line: '2x3' | low-conf (0.5395) line: '2223' | low-conf (0.5788) line: '72' | low-conf (0.5751) line: 'a' | low-conf (0.6354) line: ',=V2=#3' | low-conf (0.5206) line: '2,22x3' | dual-pass agreement 0.4716
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p26: low-conf (0.5518) line: 'D' | low-conf (0.6248) line: '(a²++)（6²++6' | dual-pass agreement 0.6265
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p27: low-conf (0.5314) line: 'Yroog:' | low-conf (0.5498) line: '<' | low-conf (0.5712) line: 'a+a²+a²' | low-conf (0.6396) line: 'a' | low-conf (0.5702) line: '(ah++b3)' | low-conf (0.5988) line: '(0++' | low-conf (0.535) line: '#(+b+#' | dual-pass agreement 0.0584
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p28: low-conf (0.6278) line: '1=∈' | low-conf (0.6142) line: '()' | low-conf (0.5314) line: '兴' | low-conf (0.6463) line: ':uonm' | low-conf (0.6475) line: '2' | dual-pass agreement 0.7063
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p29: low-conf (0.6181) line: 'T' | low-conf (0.6419) line: '3n+44' | dual-pass agreement 0.7037
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p31: low-conf (0.541) line: 'd' | low-conf (0.6413) line: '&ino +' | low-conf (0.5566) line: '个'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p34: low-conf (0.5539) line: '4x3x2x'
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p37: low-conf (0.5947) line: '十' | low-conf (0.5678) line: '+·十' | dual-pass agreement 0.7359
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p38: low-conf (0.5548) line: '+·.' | dual-pass agreement 0.778
+- **Sequence & Series L12** `Sequence and Series 12 Class Notes.pdf.pdf` p40: low-conf (0.5098) line: '在u'
