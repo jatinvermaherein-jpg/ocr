@@ -37,6 +37,22 @@ DIBY_FIELDS = ["Chapter", "Lecture No.", "Source PDF", "PDF page", "DIBY marker"
 AGENT = "arena-seq-agent"
 
 
+def qa_note_path(slug):
+    """Locate the QA note for a slug.
+
+    The repo copy (OUT/qa_notes/<slug>.json) is authoritative - it is committed alongside
+    the handoff and survives scratch-directory loss. A copy under <WORK>/qa/ overrides it,
+    which lets a reviewer iterate locally without touching the committed record.
+    """
+    work_copy = os.path.join(QA, slug + ".json")
+    if os.path.exists(work_copy):
+        return work_copy
+    repo_copy = os.path.join(OUT, "qa_notes", slug + ".json")
+    if os.path.exists(repo_copy):
+        return repo_copy
+    return None
+
+
 def load(slug):
     sd = os.path.join(RAW, slug)
     meta = json.load(open(os.path.join(sd, "meta.json")))
@@ -44,8 +60,8 @@ def load(slug):
     for f in sorted(glob.glob(os.path.join(sd, "page_*.json"))):
         pages.append(json.load(open(f)))
     qa = {}
-    qf = os.path.join(QA, slug + ".json")
-    if os.path.exists(qf):
+    qf = qa_note_path(slug)
+    if qf:
         qa = json.load(open(qf)).get("pages", {})
     return meta, pages, qa
 
@@ -60,17 +76,33 @@ def log_conf_lines(rec, thr=0.65):
     return low_conf_lines(rec, thr)
 
 
-def auto_diby(rec):
-    """Fallback DIBY extraction from OCR text for pages without manual notes."""
+def auto_diby(rec, meta):
+    """Fallback DIBY extraction from OCR text for pages without manual notes.
+
+    Returns plain row dicts (never callables). These come from the machine pass alone,
+    so every row is stamped 'auto-extract' / pending visual confirmation.
+    """
     import re as _re
     prim = rec["pass_A_native"] if rec["primary_pass"] == "A" else rec["pass_B_adapted"]
     lines = [l["text"] for l in prim["lines"]]
     out = []
+    # An answer-key page (e.g. "DIBY-A: C  DIBY-B: D ...") is NOT a set of items.
+    # Skip it: a marker followed by a colon is a key entry, and a line carrying several
+    # DIBY tokens is a key row rather than a question card.
+    KEY_ENTRY = _re.compile(r"DIBY\s*[-\u2013]?\s*\(?[0-9A-Za-z]+\)?\s*:")
+    TOKEN = _re.compile(r"DIBY\s*[-\u2013]?\s*\(?([0-9]+|[A-Z])\)?", _re.I)
     for i, t in enumerate(lines):
-        m = _re.search(r"DIBY\s*[-–]?\s*(\d+)", t, _re.I)
+        line = t.strip()
+        if KEY_ENTRY.search(line):
+            continue
+        toks = TOKEN.findall(line)
+        if len(toks) > 1:
+            continue
+        m = TOKEN.search(line)
         if not m:
             continue
-        label = "# DIBY-" + m.group(1)
+        tok = m.group(1)
+        label = "# DIBY-" + (tok if tok.isdigit() else f"({tok.upper()})")
         prompt, opts, ans = [], [], ""
         for t2 in lines[i + 1:i + 9]:
             if _re.match(r"^\([A-D]\)", t2.strip()):
@@ -79,17 +111,14 @@ def auto_diby(rec):
                 ans = t2.strip()
             else:
                 prompt.append(t2.strip())
-
-        def row(prompt=" ".join(prompt), opts=opts, ans=ans, label=label):
-            return {"Chapter": meta["chapter"], "Lecture No.": meta["lecture"],
+        out.append({"Chapter": meta["chapter"], "Lecture No.": meta["lecture"],
                     "Source PDF": meta["source_pdf"], "PDF page": rec["page"],
                     "DIBY marker": label, "Printed question number/letter (exact)": label,
                     "Internal ID (only if no printed label)": "",
-                    "Prompt (verbatim)": prompt, "Options": "; ".join(opts),
+                    "Prompt (verbatim)": " ".join(prompt), "Options": "; ".join(opts),
                     "Visible solution/answer": ans,
                     "Uncertainty note": "auto-extracted from OCR; pending visual confirmation",
-                    "QA status": "auto-extract"}
-        out.append(row)
+                    "QA status": "auto-extract"})
     return out
 
 
@@ -158,8 +187,10 @@ def main():
         meta, pages, qa = load(slug)
         with open(os.path.join(OUT, "transcripts", slug + ".md"), "w") as fh:
             fh.write(build_transcript(slug, meta, pages, qa))
-        if os.path.exists(os.path.join(QA, slug + ".json")):
-            shutil.copy(os.path.join(QA, slug + ".json"), os.path.join(OUT, "qa_notes", slug + ".json"))
+        src_note = os.path.join(QA, slug + ".json")
+        dst_note = os.path.join(OUT, "qa_notes", slug + ".json")
+        if os.path.exists(src_note) and os.path.abspath(src_note) != os.path.abspath(dst_note):
+            shutil.copy(src_note, dst_note)
         page_unc = {}
         for rec in pages:
             p = rec["page"]
@@ -198,8 +229,8 @@ def main():
                     "Uncertainty note": d.get("uncertainty", ""),
                     "QA status": "visual-full" if note.get("verified_text") else "visual-scan",
                 })
-            if not dibs and "DIBY" in rec["text"].upper():
-                for m in auto_diby(rec):
+            if not dibs and not note and "DIBY" in rec["text"].upper():
+                for m in auto_diby(rec, meta):
                     diby.append(m)
             if uncert:
                 page_unc.setdefault(p, []).extend(uncert)
