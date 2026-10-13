@@ -17,6 +17,10 @@ W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 M = "{http://schemas.openxmlformats.org/officeDocument/2006/math}"
 RAW_TEX = re.compile(r"\\frac|\\sqrt")
 DEFAULT = ["deliverables/DIBY_Books.docx", "deliverables/DIBY_Books_Print.docx"]
+QUESTION_DOCS = ["deliverables/DIBY_Questions.docx", "deliverables/DIBY_Questions_Print.docx"]
+CHAPTERS = ["BINOMIAL THEOREM", "PERMUTATIONS & COMBINATIONS", "QUADRATIC EQUATIONS",
+            "TRIGONOMETRIC EQUATION", "TRIGONOMETRIC FUNCTIONS", "SEQUENCE AND SERIES"]
+RAW_ANY = re.compile(r"\\[a-zA-Z]+|\^\{|\^[0-9(]|_\{|\$")
 
 
 def check(path: str) -> bool:
@@ -86,9 +90,47 @@ def check(path: str) -> bool:
     return ok
 
 
+def check_questions(path: str) -> bool:
+    """The consolidated question bank: every option typeset, six chapters, no raw LaTeX."""
+    z = zipfile.ZipFile(path)
+    root = ET.fromstring(z.read("word/document.xml"))
+    ps = list(root.iter(W + "p"))
+    text = "".join(t.text or "" for t in root.iter(W + "t"))
+    raw = [t for t in (("".join(x.text or "" for x in p.iter(W + "t"))) for p in ps)
+           if RAW_ANY.search(t)]
+    omath = len(root.findall(".//" + M + "oMath"))
+    types = []
+    for sec in root.iter(W + "sectPr"):
+        t = sec.find(W + "type")
+        types.append(t.get(W + "val") if t is not None else "next(default)")
+    chapters = [t for t in (("".join(x.text or "" for x in p.iter(W + "t"))).strip()
+                            for p in ps) if t in CHAPTERS]
+    tags = len(re.findall(r"DIBY", text))
+    cols = sorted({c.get(W + "val") for c in root.iter(W + "color") if c.get(W + "val")})
+    hf = [n for n in z.namelist() if "header" in n or "footer" in n]
+
+    styles = z.read("word/styles.xml").decode()
+    norm = re.search(r'w:styleId="Normal".*?<w:sz w:val="(\d+)"', styles, re.S)
+    normal_pt = int(norm.group(1)) / 2 if norm else None
+    print(os.path.basename(path), os.path.getsize(path), "bytes")
+    print(f"   chapters {len(chapters)}/6 | DIBY mentions {tags} | oMath {omath}")
+    print(f"   raw LaTeX paragraphs {len(raw)} | colours {cols} | "
+          f"odd-page breaks {sum(1 for t in types[1:] if t == 'oddPage')}/{len(types) - 1}")
+    print(f"   question text {normal_pt} pt | header/footer parts {'none' if not hf else hf}")
+    for t in raw[:4]:
+        print("      RAW:", t[:90])
+    ok = (not raw and len(chapters) == 6 and omath > 1000
+          and sum(1 for t in types[1:] if t == "oddPage") == 5)
+    print("   ->", "OK" if ok else "CHECK FAILED")
+    return ok
+
+
 def main() -> int:
     files = sys.argv[1:] or DEFAULT
-    return 0 if all(check(f) for f in files) else 1
+    ok = all(check(f) for f in files)
+    for f in QUESTION_DOCS:
+        ok = check_questions(f) and ok
+    return 0 if ok else 1
 
 
 if __name__ == "__main__":

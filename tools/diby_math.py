@@ -10,7 +10,7 @@ from __future__ import annotations
 import re
 
 STRONG = re.compile(r"[\d=+\-*/^_<>()\[\]|≤≥≠∈∉∪∩⊂⊆×÷·∑∏∫πθαβγδλμ∅∞√]")
-LATEXY = re.compile(r"\\frac|\\sqrt|\\left|\\right|\^|_")
+LATEXY = re.compile(r"\\frac|\\sqrt|\\left|\\right|\^|_|\\[a-zA-Z]{2,}")
 FUNCS = {"log", "ln", "sin", "cos", "tan", "cot", "sec", "cosec", "csc", "lim",
          "max", "min", "exp", "mod", "det", "gcd", "lcm", "sqrt"}
 # prose words that end a maths run even when the token looks numeric
@@ -136,6 +136,42 @@ TEXT_TEX = {"cdot": "·", "times": "×", "ge": "≥", "le": "≤", "ne": "≠", 
             "quad": " ", "left": "", "right": "", ",": "", ";": "", "!": ""}
 
 
+ILLEGAL_TEX = str.maketrans({'"': "", "%": "", "#": "", "&": "", "$": "", "~": "", "`": ""})
+
+
+def repair_latex(tex: str) -> str:
+    r"""Mechanically repair OCR breakage so pandoc can typeset the span.
+
+    Only characters that cannot appear in LaTeX maths are touched, plus unbalanced
+    braces and dangling \left / \right — nothing is invented.
+    """
+    out = tex.translate(ILLEGAL_TEX)
+    out = out.replace("<=", "\\le ").replace(">=", "\\ge ")
+    out = re.sub(r'\\cdot\s*"', r"\\cdots ", out)
+    # dangling \left / \right (no partner) break the parser -> plain brackets
+    for cmd, plain in (("\\left", "("), ("\\right", ")")):
+        opens = len(re.findall(re.escape(cmd) + r"[.([{|]", out))
+        closes = len(re.findall(re.escape(cmd) + r"[.\])|}]", out))
+        while opens > closes:
+            out = re.sub(re.escape(cmd) + r"([.([{|])", plain, out, count=1)
+            opens -= 1
+        while closes > opens:
+            out = re.sub(re.escape(cmd) + r"([.\])|}])", plain, out, count=1)
+            closes -= 1
+    # a dangling superscript / subscript ('x^' or 'x_') cannot be parsed
+    out = re.sub(r"[\^_](?=\s*[)} \],]|\s*$)", "", out)
+    depth = out.count("{") - out.count("}")
+    if depth > 0:
+        out += "}" * depth
+    elif depth < 0:                      # drop surplus closers from the end
+        for _ in range(-depth):
+            i = out.rfind("}")
+            if i < 0:
+                break
+            out = out[:i] + out[i + 1:]
+    return re.sub(r"\s{2,}", " ", out).strip()
+
+
 def latex_fallback(tex: str) -> str:
     """Readable plain text for maths pandoc cannot typeset (unbalanced spans)."""
     out = tex
@@ -167,3 +203,58 @@ if __name__ == "__main__":
         for k, v in segments_latex(t):
             print(f"   [{k:4s}] {v!r}")
         print()
+
+def smart_segments(text: str) -> list[tuple[str, str]]:
+    """[(kind, value)] for text that may hold *either* OCR-style or LaTeX-style maths.
+
+    The class-note register and the DIBY-book register were written by different
+    pipelines: one holds linear OCR maths ('(5rt3/x + 2x/rt3(5))^12'), the other holds
+    LaTeX ('\\frac{a}{b}'). Running the OCR splitter alone left the LaTeX half inside
+    'text' pieces, which printed as raw LaTeX in the document.
+
+    Here the OCR splitter runs first (it turns linear maths into LaTeX), then every
+    remaining *text* piece is re-split with the LaTeX splitter when it still carries a
+    backslash command — so no text piece can ever leak raw LaTeX to the page.
+    """
+    from ocr_math_to_latex import segments as ocr_segments      # local import: optional dep
+
+    out: list[tuple[str, str]] = []
+    # a text piece is re-split when it still carries LaTeX or unmistakable maths
+    latex_hint = re.compile(
+        r"\\"                                        # any backslash command
+        r"|[_^]\s*[\dA-Za-z{(]"                       # x^2, a_1
+        r"|\d\s*[a-zA-Z]\s*[=+\-/]"                     # 56x= , 9y+
+        r"|[a-zA-Z]\s*[=]\s*[-\d]"                       # x= 5
+        r"|[≤≥≠∈∪∩√∞∑∏∫]"                                 # unicode maths
+        r"|\d+\s*/\s*\d"                              # 5/2
+    )
+    for kind, val in ocr_segments(text or ""):
+        if kind == "math" or not val or not latex_hint.search(val):
+            out.append((kind, val))
+            continue
+        for k2, v2 in segments_latex(val):
+            out.append((k2, v2))
+    merged: list[tuple[str, str]] = []
+    for kind, val in out:
+        if merged and merged[-1][0] == kind:
+            merged[-1] = (kind, merged[-1][1] + " " + val)
+        else:
+            merged.append((kind, val))
+    return merged or [("text", text or "")]
+
+
+def est_lines(text: str, chars_per_line: int) -> int:
+    """Rough height of a paragraph in lines (used to decide keep-together)."""
+    if not text:
+        return 0
+    return max(1, -(-len(text) // max(10, chars_per_line)))
+
+
+def keep_whole(chars: int, chars_per_line: int, max_lines: int = 8) -> bool:
+    """Should this item be kept on one page, or allowed to flow and fill the page?
+
+    Keeping every item whole is what leaves half-empty pages: an item that does not fit
+    in what is left of a page is pushed to the next one in full. Items that are short
+    enough to fit comfortably are still kept together; taller ones may split.
+    """
+    return -(-chars // max(10, chars_per_line)) <= max_lines

@@ -24,7 +24,13 @@ import zipfile
 from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from ocr_math_to_latex import segments          # noqa: E402
+from diby_math import (                                       # noqa: E402
+    smart_segments, keep_whole, est_lines, latex_fallback, repair_latex,
+)
+
+segments = smart_segments                                       # noqa: E402
+
+CPRINT = 88   # characters per line in the compact edition (10.5 pt on ~18 cm)
 
 import pypandoc                                  # noqa: E402
 from docx import Document                        # noqa: E402
@@ -219,14 +225,13 @@ def clean_options(opts: str) -> str:
 
 
 # ------------------------------------------------------- batch LaTeX -> OMML
-def latex_to_omml(latex_list: list[str]) -> dict[str, etree._Element]:
-    """Convert many LaTeX strings to OMML in ONE pandoc run."""
-    uniq = sorted(set(latex_list))
-    if not uniq:
+def _pandoc_batch(pairs: list[tuple[str, str]], key: str) -> dict[str, etree._Element]:
+    """pairs: [(id, latex)] -> {id: oMath} for those pandoc could typeset."""
+    if not pairs:
         return {}
     lines = []
-    for i, tex in enumerate(uniq):
-        lines.append(f"ZQ{i:05d} ${tex}$")
+    for ident, tex in pairs:
+        lines.append(f"{key}{ident} ${tex}$")   # marker + maths in ONE paragraph
         lines.append("")
     with tempfile.TemporaryDirectory() as td:
         md = os.path.join(td, "m.md")
@@ -239,14 +244,33 @@ def latex_to_omml(latex_list: list[str]) -> dict[str, etree._Element]:
     out: dict[str, etree._Element] = {}
     for p in root.iter(f"{{{W_NS}}}p"):
         text = "".join(t.text or "" for t in p.iter(f"{{{W_NS}}}t"))
-        m = re.search(r"ZQ(\d{5})", text)
+        m = re.search(key + r"(\d{5})", text)
         if not m:
             continue
         omml = p.find(f"{{{M_NS}}}oMath")
-        if omml is None:
-            continue
-        out[uniq[int(m.group(1))]] = omml
+        if omml is not None:
+            out[m.group(1)] = omml
     return out
+
+
+def latex_to_omml(latex_list: list[str]) -> dict[str, etree._Element]:
+    """Convert many LaTeX strings to OMML.
+
+    Two pandoc passes: the raw spans first, then a mechanically repaired copy of
+    whatever failed (OCR leftovers such as `\frac{6}{x^}` or a dangling `\left`).
+    Anything still unparseable is printed as readable text by `latex_fallback`.
+    """
+    uniq = sorted(set(latex_list))
+    if not uniq:
+        return {}
+    ids = {tex: f"{i:05d}" for i, tex in enumerate(uniq)}
+    by_id = {v: k for k, v in ids.items()}
+    got = _pandoc_batch([(ids[t], t) for t in uniq], "ZQ")
+    retry = [(ident, repair_latex(by_id[ident])) for ident in sorted(by_id)
+             if ident not in got]
+    if retry:
+        got.update(_pandoc_batch(retry, "ZR"))
+    return {by_id[ident]: omml for ident, omml in got.items()}
 
 
 # ------------------------------------------------------------------ docx bits
@@ -254,7 +278,7 @@ def add_math(par, omml):
     par._p.append(copy.deepcopy(omml))
 
 
-def styled_heading(doc, text, size=12, space_before=10):
+def styled_heading(doc, text, size=13.5, space_before=10):
     p = doc.add_paragraph()
     p.paragraph_format.space_before = Pt(space_before)
     p.paragraph_format.space_after = Pt(2)
@@ -284,6 +308,7 @@ def main():
         prepared.append((r, q_segs, o_segs))
         all_latex += [v for k, v in q_segs if k == "math"]
         all_latex += [v for k, v in o_segs if k == "math"]
+        all_latex += [v for k, v in segments(answer_short(r["answer"])) if k == "math"]
     omml = latex_to_omml(all_latex)
     print(f"maths spans: {len(set(all_latex))} unique, {len(omml)} rendered as Word equations")
 
@@ -358,11 +383,14 @@ def main():
             styled_heading(doc, f"{r['chapter']}, Lecture {r['lecture']}")
             prev_key = key
 
+        # short items stay on one page; tall ones may split so the page fills up
+        whole = keep_whole(len(r["prompt"] or "") + len(o_txt or ""), CPRINT)
+
         # tag line
         tag = doc.add_paragraph()
         tag.paragraph_format.space_before = Pt(5)
         tag.paragraph_format.space_after = Pt(1)
-        tag.paragraph_format.keep_with_next = True
+        tag.paragraph_format.keep_with_next = True          # never orphan a DIBY number
         tr = tag.add_run(r["print_label"])
         tr.bold = True
         tr.font.size = Pt(10)
@@ -371,18 +399,31 @@ def main():
         q = doc.add_paragraph()
         q.paragraph_format.space_after = Pt(1)
         q.paragraph_format.line_spacing = 0.95
+        q.paragraph_format.keep_together = whole
         q.paragraph_format.tab_stops.add_tab_stop(text_width, WD_TAB_ALIGNMENT.RIGHT)
         for kind, val in q_segs:
             if kind == "math" and val in omml:
                 add_math(q, omml[val])
+            elif kind == "math":                      # pandoc could not typeset it
+                run = q.add_run(latex_fallback(val))
+                run.italic = True
             else:
                 run = q.add_run(val)
                 run.italic = True
         short = answer_short(r["answer"])
         if short:
-            tab = q.add_run("\t" + short)
-            tab.italic = True
-            tab.font.color.rgb = ANSWER_BLUE
+            q.add_run("\t")
+            for kind, val in segments(short):        # answers typeset like the rest
+                if kind == "math" and val in omml:
+                    add_math(q, omml[val])
+                elif kind == "math":
+                    run = q.add_run(latex_fallback(val))
+                    run.italic = True
+                    run.font.color.rgb = ANSWER_BLUE
+                else:
+                    run = q.add_run(val)
+                    run.italic = True
+                    run.font.color.rgb = ANSWER_BLUE
 
         # options line
         if o_segs:
@@ -390,9 +431,15 @@ def main():
             op.paragraph_format.space_after = Pt(1)
             op.paragraph_format.left_indent = Cm(0.35)
             op.paragraph_format.line_spacing = 0.92
+            op.paragraph_format.keep_together = whole     # one option block stays put
+            op.paragraph_format.keep_with_next = False
             for kind, val in o_segs:
                 if kind == "math" and val in omml:
                     add_math(op, omml[val])
+                elif kind == "math":                      # pandoc could not typeset it
+                    run = op.add_run(latex_fallback(val))
+                    run.font.size = Pt(9)
+                    run.font.color.rgb = GREY
                 else:
                     run = op.add_run(val)
                     run.italic = True

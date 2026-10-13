@@ -22,7 +22,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from build_diby_docx_v2 import (                       # noqa: E402
     answer_short, latex_to_omml, letter_label,
 )
-from diby_math import latex_fallback, segments_latex as segments   # noqa: E402
+from diby_math import (                                # noqa: E402
+    latex_fallback, keep_whole, smart_segments as segments, repair_latex,
+)
 
 from docx import Document                              # noqa: E402
 from docx.enum.section import WD_SECTION               # noqa: E402
@@ -38,9 +40,9 @@ BLACK = RGBColor(0, 0, 0)
 # Type scale: question 16 pt, DIBY number 14 pt; the book heading keeps its old size.
 STYLES = {
     "print": dict(out="deliverables/DIBY_Books_Print.docx", body=16, opt=14, tag=14,
-                  h1=18, h2=13.5, side=2.0, vert=1.8, spacing=1.15, gap=11, rule=True),
+                  h1=18, h2=13.5, side=2.0, vert=1.8, spacing=1.15, gap=11, rule=True, cpl=62),
     "compact": dict(out="deliverables/DIBY_Books.docx", body=16, opt=13, tag=14,
-                    h1=15, h2=12, side=1.5, vert=1.3, spacing=0.95, gap=7, rule=False),
+                    h1=15, h2=12, side=1.5, vert=1.3, spacing=0.95, gap=7, rule=False, cpl=74),
 }
 
 
@@ -153,10 +155,21 @@ def build(style_name: str, items: list[dict], omml: dict, latex_ok: set):
             prev_section = it["section"]
 
         n_q += 1
+        # A tall item cannot be kept whole without leaving half a page empty, so only
+        # items short enough to fit comfortably are glued together; longer ones may
+        # split across the page break and let the page fill up.
+        tally = "\t".join(filter(None, (
+            it["tag"].strip(),
+            it["question"] or "",
+            it.get("options") or "",
+            answer_short(it.get("answer", "")),
+        )))
+        whole = keep_whole(len(tally), st["cpl"])
+
         tag = doc.add_paragraph()
         tag.paragraph_format.space_before = Pt(st["gap"])
         tag.paragraph_format.space_after = Pt(2)
-        tag.paragraph_format.keep_with_next = True
+        tag.paragraph_format.keep_with_next = True          # never orphan a DIBY number
         tr = tag.add_run(it["tag"].strip() or f"DIBY [{letter_label(n_q)}]")
         tr.bold = True
         tr.font.size = Pt(st["tag"])
@@ -165,7 +178,11 @@ def build(style_name: str, items: list[dict], omml: dict, latex_ok: set):
         q = doc.add_paragraph()
         q.paragraph_format.space_after = Pt(2)
         q.paragraph_format.tab_stops.add_tab_stop(text_width, WD_TAB_ALIGNMENT.RIGHT)
-        q.paragraph_format.keep_with_next = True
+        # keepNext is NOT set here on purpose: it would glue this item's question to
+        # the next item's tag, and a chain of keepNext paragraphs is what makes Word
+        # push whole blocks over and leave half a page empty.
+        q.paragraph_format.keep_together = whole
+        q.paragraph_format.keep_with_next = bool(it.get("options")) and whole
         emit_spans(q, segments(it["question"]), omml, italic=True, colour=BLACK)
         ans = answer_short(it.get("answer", ""))
         if ans:
@@ -176,6 +193,8 @@ def build(style_name: str, items: list[dict], omml: dict, latex_ok: set):
             op = doc.add_paragraph()
             op.paragraph_format.space_after = Pt(2)
             op.paragraph_format.left_indent = Cm(0.6)
+            op.paragraph_format.keep_together = whole
+            op.paragraph_format.keep_with_next = False
             emit_spans(op, segments(it["options"]), omml, size=st["opt"], colour=BLACK)
 
     doc.save(out)
@@ -193,6 +212,7 @@ def main():
     for it in items:
         all_latex += [v for k, v in segments(it["question"]) if k == "math"]
         all_latex += [v for k, v in segments(it.get("options", "")) if k == "math"]
+        all_latex += [v for k, v in segments(answer_short(it.get("answer", ""))) if k == "math"]
     omml = latex_to_omml(all_latex)
     print(f"equations rendered: {len(omml)} of {len(set(all_latex))} unique maths spans")
 

@@ -27,6 +27,7 @@ from build_diby_docx_v2 import (          # noqa: E402  reuse the maths pipeline
     CHAPTER_ORDER, answer_short, clean_options, display_label, is_real_label, letter_label,
     latex_to_omml, segments, SRC,
 )
+from diby_math import keep_whole, latex_fallback      # noqa: E402
 
 import json                                             # noqa: E402
 from docx import Document                               # noqa: E402
@@ -47,12 +48,13 @@ MARGIN_VERT = Cm(1.8)
 HEADER_DIST = Cm(0.9)
 FOOTER_DIST = Cm(1.0)
 TEXT_WIDTH = Cm(21.0 - 2.0 * 2)             # 17.0 cm
+CHARS_PER_LINE = 62                          # at 16 pt on a 17 cm line
 
 # type scale (larger than the earlier print edition)
-SIZE_BODY = 12
-SIZE_OPTIONS = 11
+SIZE_BODY = 16
+SIZE_OPTIONS = 14
 SIZE_NOTE = 10
-SIZE_TAG = 11.5
+SIZE_TAG = 14
 SIZE_SOURCE = 8.5
 SIZE_H1 = 18
 SIZE_H2 = 14
@@ -104,6 +106,7 @@ def main():
         prepared.append((r, q_segs, o_segs))
         all_latex += [v for k, v in q_segs if k == "math"]
         all_latex += [v for k, v in o_segs if k == "math"]
+        all_latex += [v for k, v in segments(answer_short(r["answer"])) if k == "math"]
     omml = latex_to_omml(all_latex)
     print(f"maths spans: {len(set(all_latex))} unique, {len(omml)} rendered as Word equations")
 
@@ -170,6 +173,7 @@ def main():
         tag.paragraph_format.space_before = Pt(11)
         tag.paragraph_format.space_after = Pt(2)
         tag.paragraph_format.keep_with_next = True
+        whole = keep_whole(len(r["prompt"] or "") + len(o_txt or ""), CHARS_PER_LINE)
         tr = tag.add_run(r["print_label"])
         tr.bold = True
         tr.font.size = Pt(SIZE_TAG)
@@ -178,28 +182,48 @@ def main():
         # question (kept whole across page breaks)
         q = doc.add_paragraph()
         q.paragraph_format.space_after = Pt(2)
+        q.paragraph_format.keep_together = whole         # short items stay whole
         q.paragraph_format.tab_stops.add_tab_stop(TEXT_WIDTH, WD_TAB_ALIGNMENT.RIGHT)
         for kind, val in q_segs:
             if kind == "math" and val in omml:
                 q._p.append(copy.deepcopy(omml[val]))
+            elif kind == "math":
+                run = q.add_run(latex_fallback(val))
+                run.italic = True
+                run.font.color.rgb = BLACK
             else:
                 run = q.add_run(val)
                 run.italic = True
                 run.font.color.rgb = BLACK
         short = answer_short(r["answer"])
         if short:
-            tab = q.add_run("\t" + short)
-            tab.bold = True
-            tab.font.color.rgb = BLACK
+            q.add_run("\t")
+            for kind, val in segments(short):        # answers typeset like the rest
+                if kind == "math" and val in omml:
+                    q._p.append(copy.deepcopy(omml[val]))
+                elif kind == "math":
+                    run = q.add_run(latex_fallback(val))
+                    run.bold = True
+                    run.font.color.rgb = BLACK
+                else:
+                    run = q.add_run(val)
+                    run.bold = True
+                    run.font.color.rgb = BLACK
 
         # options
         if o_segs:
             op = doc.add_paragraph()
             op.paragraph_format.space_after = Pt(2)
             op.paragraph_format.left_indent = Cm(0.6)
+            op.paragraph_format.keep_together = whole     # one option block stays put
+            op.paragraph_format.keep_with_next = False
             for kind, val in o_segs:
                 if kind == "math" and val in omml:
                     op._p.append(copy.deepcopy(omml[val]))
+                elif kind == "math":
+                    run = op.add_run(latex_fallback(val))
+                    run.font.size = Pt(SIZE_OPTIONS)
+                    run.font.color.rgb = BLACK
                 else:
                     run = op.add_run(val)
                     run.font.size = Pt(SIZE_OPTIONS)

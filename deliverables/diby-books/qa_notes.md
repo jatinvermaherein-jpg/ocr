@@ -46,10 +46,33 @@
 - Complex display layouts (graphs, matching questions, multi-part sums with several stacked
   fractions) come through flattened; their maths is present but the reading order can be
   jumbled. Multi-part questions keep their sub-part answers inline.
-- 1,886 of 1,918 maths spans typeset as native Word equations; the remaining 32 fall back to
-  readable plain text.
+- Every maths span typesets as a native Word equation. Pandoc is run twice: once on the span
+  as stored, then on a mechanically repaired copy of whatever it refused (stray quote, `%`,
+  dangling `\left`, `x^` with no exponent, unbalanced braces). Only spans that still fail are
+  printed as readable plain text — never as raw LaTeX.
 - The 30 items without an answer are "prove that / show that" proofs and fill-in-the-blank
   questions that carry no printed answer — verified one by one against their own lines.
+
+## Pagination: why pages used to end half empty
+
+`keep_with_next` was set on the tag **and** the question of every item, so each item's question
+was glued to the next item's tag. Word then sees one long chain of "keep with next" paragraphs
+that it cannot honour, and the usual result is a tall block shoved onto the next page with the
+rest of the page left blank. The rule is now:
+
+- the DIBY number keeps with its own question (a tag is never orphaned),
+- an item's question and option block are kept whole **only when the item is short**
+  (`keep_whole()`, up to 8 lines) — long items may split and let the page fill,
+- nothing keeps with the *next* item, so the chains end where the item ends.
+
+Measured with `tools/simulate_page_fill.py` (paper simulation: paragraph heights from font
+size and character count, then Word's break rules replayed; no LibreOffice here):
+
+| document | pages before | pages with >25% blank before | after |
+|---|---:|---:|---:|
+| DIBY_Books_Print.docx | 81 | 17 | 0 |
+| DIBY_Books.docx | 70 | 7 | 0 |
+| DIBY_Questions_Print.docx | 87 | 0 | 0 |
 
 ## Audit helpers
 
@@ -57,4 +80,7 @@
 - `tools/audit_diby_books_options.py` — item looks option-bearing but stored none.
 - `tools/verify_diby_books_docs.py` — checks the built DOCX files in the OOXML: 9 book
   headings, a tag per item, typeset equations, no raw LaTeX, pure black, odd-page book breaks,
-  no header/footer parts.
+  no header/footer parts; then the two question-bank files: six chapters, an odd-page break
+  before each, no raw LaTeX.
+- `tools/simulate_page_fill.py` — estimates how full every page is and lists the pages that end
+  more than a quarter empty away from a chapter break.
