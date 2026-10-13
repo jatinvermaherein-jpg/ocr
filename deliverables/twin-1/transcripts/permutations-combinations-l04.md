@@ -191,3 +191,92 @@ Source: `Permutations & Combinations 04 Class Notes.pdf` (43 pages, image-only, 
 **P:** clipboard icon + red banner **GEOMETRICAL USES OF ⁿCᵣ**; red chip **Example**; **Total 10 points are there, out of which 4 are collinear, then find total number of different (i) straight line & (ii) triangles that can be formed by joining these points.**
 **H:** a red arc closed by a red base line, with six pink dots on the arc and four pink dots on the base (the collinear four); cyan `(i) St. line` (wavy underlined) and `M-I:` before three red-boxed orange terms `6C2 × 1 + 1 + 6C1 × 4C1 × 1`, cyan below `= 15 + 1 + 24 = (40)` with `40` ringed; `M-II:` cyan `10C2 × 1 − 4C2 × 1 + 1 = (40)` with cyan arrows down to `45 − 6 + 1`. Part (ii) is not started on this slide.
 **DIBY:** none. **U:** none.
+<a id="p30"></a>
+## p30 · board — (ii) triangles from 10 points, 4 collinear = 116 · label: — (no header, board slide)
+**P:** none — board page continuing p29's part (ii).
+**H:** the same red arc-plus-base figure (six pink dots on the arc, four on the base). Orange `(ii) Triangles:` (double-underlined) and orange `M-I:` before a red-boxed orange sum `6C3 + 6C2 × 4C1 + 6C1 × 4C2` = `116`, with cyan arcs from the boxed terms to cyan mental arithmetic above: `20`, `15 × 4`, `6 × 6`. Cyan `M-II:` (double-underlined) below with `10C3 − 4C3 = 120 − 4 = 116`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p31"></a>
+## p31 · board — H.W. variant: points on the sides of a trapezium · label: — (no header, board slide)
+**P:** none — board page.
+**H:** a red trapezium with pink dots set along its four sides (a row of four along the top, four down the left slant, four down the right slant, and seven along the base — dots sit on the sides, so corner sharing makes an exact total hard to read); pink `H.W.` in a circle with a double underline at top; pink at right `1. No. of st. lines.` and `2. No. of Δ's.` (circled numbers). No working.
+**DIBY:** none (H.W. only). **U:** 1 — the dot count on each side is read as best-effort; no printed statement gives the number of points, so the figure cannot be checked against a text prompt.
+
+---
+<a id="p32"></a>
+## p32 · Question Practice (section header) · label: — (no header, section slide)
+**P:** centred white headline on black: **Question Practice** (no other content).
+**H:** none. **DIBY:** none. **U:** none.
+
+---
+<a id="p33"></a>
+## p33 · Challenger Question [JEE Mains–2022] — 7-digit multiples of 11 · label: **Page No.127**
+**P:** red chip **Challenger Question [JEE Mains–2022]**; **The number of 7-digits numbers which are multiples of 11 and are formed using all the digits 1, 2, 3, 4, 5, 7 and 9 is ________.** (digits in green).
+**H:** pink `H.W.` inside a pink circle with a double underline and two small rings — assigned, not solved.
+**DIBY:** none (H.W. only). **U:** 1 — label sequence is now 127 after 128/129/130 (module pagination runs backwards across the deck, F-08).
+
+---
+<a id="p34"></a>
+## p34 · Question [JEE Mains–2023] — integers greater than 7000 · label: — (no label)
+**P:** red chip **Question [JEE Mains–2023]**; **The number of integers, greater than 7000 that can be formed, using the digits 3, 5, 6, 7, 8 without repetition, is.** (7000 in yellow, digits in green); options in red squares **A** 120, **B** 168, **C** 220, **D** 48.
+**H:** pink `H.W.` in a pink circle. No answer marked.
+**DIBY:** none (H.W. only). **U:** none.
+
+---
+<a id="p35"></a>
+## p35 · Question [JEE Mains–2022] — passwords, alpha × 5^6 · label: — (no label)
+**P:** red chip **Question [JEE Mains–2022]**; **Let S be the set of all passwords which are six to eight characters long, where each character is either an alphabet from {A, B, C, D, E} or a number from {1, 2, 3, 4, 5} with the repetition of characters allowed. If the number of passwords in S whose at least one character is a number from {1, 2, 3, 4, 5} is α × 5⁶, then α is equal to** (letters green, digits yellow, α cyan; no options shown).
+**H:** pink `H.W.` in a pink circle with a double underline.
+**DIBY:** none (H.W. only). **U:** none.
+
+---
+<a id="p36"></a>
+## p36 · DO IT BY YOURSELF (DIBY) (section header) · label: — (no header, section slide)
+**P:** black slide, centred yellow pill banner in black text: **DO IT BY YOURSELF (DIBY)**.
+**H:** none. **DIBY:** banner page itself carries no `# DIBY-nn` item (F-18). **U:** none.
+
+---
+<a id="p37"></a>
+## p37 · # DIBY-05 — integers < 10^5 from digits 7 and 9 · label: — (no label)
+**P:** green tag **`# DIBY-05`**; **How many positive integers less than 10⁵ can be written with only the digits 7 and 9 ?** printed **[Ans.: 62]**.
+**H:** pink tree-of-options sketch: one slot with arrow down to `2`; two slots -> `2 2` -> `4`; three slots -> `2 2 2` -> `8`; then a dashed outline for four slots and a longer dashed outline for five slots (the doubling pattern left for the student).
+**DIBY:** register row PC-L04-P37-DIBY-05. **U:** none (2 + 4 + 8 + 16 + 32 = 62 is not written out).
+
+---
+<a id="p38"></a>
+## p38 · # DIBY-07 — 10-digit numbers, product of consecutive digits prime · label: — (no label)
+**P:** green tag **`# DIBY-07`**; **Find the number of 10-digit numbers such that the product of any two consecutive digits in the number is a prime number.** printed **[Ans.: 2048]**.
+**H:** red row of five `1_` boxes, the first four ringed in red, each with a red `4` hanging below and a cyan curved arrow into the row; red `= 4⁵ = 2¹⁰ = 1024` double-underlined; cyan at left `ex: = 13 17 15 12 15` with orange underlines and a cyan tick, and `1, 2, 3, 5, 4` ringed in cyan over a white rule; orange brace-list `{1,2,3,✗,5,✗,4,✗,✗,✗}` with four digits struck out; below, a white version of the same slot line `1/4` pairs `= 4⁵ = 2¹⁰ = 1024` double-underlined with a long white arrow up to the printed `2048`.
+**DIBY:** register row PC-L04-P38-DIBY-07. **U:** 1 — the board arithmetic lands on 1024 in both attempts while the printed answer is 2048; no reconciliation is written (the arrow only points at the chip).
+
+---
+<a id="p39"></a>
+## p39 · # DIBY-08 / 09 / 10 (clean print, three items) · label: — (no label)
+**P:** `# DIBY-08` **Find number of ways in which 7 different colours in a rainbow can be arranged, if green is always in the middle.** [Ans.: 720]; `# DIBY-09` **Find the number of natural numbers between 100 and 1000 such that atleast one of their digits is 7 .** [Ans.: 252]; `# DIBY-10` **If the digits are not allowed to repeat in any numbers formed by using the digits 0, 2, 4, 6, 8, then the number of all numbers greater than 10,000 is equal to** **[JEE Mains–2021]** [Ans.: 96].
+**H:** none. **DIBY:** three register rows (P39-DIBY-08/09/10). **U:** none ("atleast" printed as one word, verbatim).
+
+---
+<a id="p40"></a>
+## p40 · # DIBY-11 / 12 / 13 (clean print, three items) · label: — (no label)
+**P:** `# DIBY-11` **Find the number of 4 digit integers in the closed interval [2022, 4482] which can be formed using the digits {0, 2, 3, 4, 6, 7}.** **[JEE (Adv.)–2022]** [Ans.: 569]; `# DIBY-12` **The number of 3-digit numbers, formed using the digits 2, 3, 4, 5 and 7, when the repetition of digits is not allowed, and which are not divisible by 3, is equal** **[JEE Mains–2024]** [Ans.: 36]; `# DIBY-13` **Total numbers of 3-digit numbers that are divisible by 6 and can be formed by using the digits 1, 2, 3, 4, 5 with repetition, is ________.** **[JEE Mains–2023]** [Ans.: 16].
+**H:** none. **DIBY:** three register rows (P40-DIBY-11/12/13). **U:** 1 — DIBY-12's stem ends at "is equal" with no "to"/option list before the exam tag (truncated as printed).
+
+---
+<a id="p41"></a>
+## p41 · # DIBY-14 / 15 / 16 (MCQ set, answers printed) · label: — (no label)
+**P:** `# DIBY-14` **The number of words that can be formed out of the letters of the word ARTICLE so that the vowels occupy even places is** (A) 36 (B) 574 (C) 144 (D) 754 — [Ans.: (C)]; `# DIBY-15` **Eleven books consisting of 5 Mathematics, 4 Physics and 2 Chemistry are placed on a shelf. The number of possible ways of arranging them on the assumption that the books of the same subject are all together is** (A) 4!2! (B) 11! (C) 5!4!3!2! (D) None of these — [Ans.: (C)]; `# DIBY-16` **The number of six letter words (with or without meaning), formed using all the letters of the word 'VOWELS', so that all the consonants never come together, is** (A) 576 (B) 140 (C) 356 (D) 209 — [Ans.: (A)].
+**H:** none. **DIBY:** three register rows (P41-DIBY-14/15/16). **U:** none.
+
+---
+<a id="p42"></a>
+## p42 · Homework · label: — (no label)
+**P:** clipboard icon + red banner **Homework**; white `# Re-attempt all Class Examples`; white `# DPP & DIBY`.
+**H:** none. **DIBY:** none — a homework instruction slide, no `# DIBY-nn` item on it (F-18). **U:** none.
+
+---
+<a id="p43"></a>
+## p43 · closing slide — Thank You · label: — (no label)
+**P:** white script `It is never about` + red script `end result`; white script `It's always about` + cyan script `Journey`; large `Thank` (yellow) `You` (white script); cyan hashtag `#futurellTians`.
+**H:** none. **DIBY:** none. **U:** none — deck ends here (43 PDF pages = 43 transcribed).
