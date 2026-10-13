@@ -1,13 +1,21 @@
-# Twin 2 deliverables — Permutations & Combinations L05–L11 + Quadratic Equations L01–L08
+# Independent OCR cross-check — Permutations & Combinations L05–L11 + Quadratic Equations L01–L08
 
-**Assigned scope (Master OCR Allocation Plan):** 15 PDFs / 536 pages.
-Plan branch `ocr/twin-2-pc05-11-quadratic01-08`; this Arena session is pinned to
-`arena/02fffb3f-ocr`, so all Twin 2 work is committed here. No other worker's folder is touched.
+**What this is:** an *independent second machine pass plus visual QA* over the block that worker
+**Twin 2** (`arena/596a30d9-ocr`) already delivered as machine OCR only — P&C L05–L11 + QE L01–L08,
+15 PDFs / 536 pages. It is **not** Twin 2's handoff and does not replace it; Twin 2's handoff is
+merged in `main` at `ocr-output/twin-2/`.
+
+This layer exists because Twin 2's README states "No manual review performed" and "does not claim
+completion of the allocation plan's visual QA or faithful math/diagram transcription standards".
+An independent pass with a different render scale gives the coordinator (a) a disagreement signal
+for prioritising QA, and (b) verified transcripts where QA has been done.
+
+This session is pinned to `arena/02fffb3f-ocr`. No other worker's folder is touched.
 
 Page counts were verified against the master inventory before work started — **all 15 files match
 exactly (536/536)**; SHA-256 per source file is recorded in every transcript header.
 
-## Relationship to the other Twin 2 machine-OCR handoff
+## Relationship to Twin 2's merged machine-OCR handoff
 
 A separate session (`arena/596a30d9-ocr`) has pushed a **machine-only** Twin 2 handoff at
 `ocr-output/twin-2/` (536/536 pages, "no manual review performed", per its own README). That
@@ -15,7 +23,7 @@ handoff explicitly does **not** claim the plan's visual-QA or faithful-transcrip
 
 This folder is the complementary layer:
 
-| | `ocr-output/twin-2/` (other session) | this folder |
+| | `ocr-output/twin-2/` (worker Twin 2, merged) | this folder (cross-check) |
 |---|---|---|
 | Machine OCR | ✅ single pass, 1.5× render (1920×1080) | ✅ **dual pass** @200 dpi (native + background-adapted), pass-agreement recorded |
 | Visual QA | not performed (declared) | ✅ page-by-page visual verification, `visual-full` / `visual-scan` per page |

@@ -23,7 +23,7 @@ import os
 import shutil
 
 WORK = "/home/user/ocr_work"
-OUT = "/home/user/ocr/deliverables/twin-2-pc05-11-quadratic01-08"
+OUT = "/home/user/ocr/deliverables/crosscheck-pc-qe"
 RAW = os.path.join(WORK, "raw")
 QA = os.path.join(WORK, "qa")
 
@@ -34,7 +34,7 @@ DIBY_FIELDS = ["Chapter", "Lecture No.", "Source PDF", "PDF page", "DIBY marker"
                "Printed question number/letter (exact)", "Internal ID (only if no printed label)",
                "Prompt (verbatim)", "Options", "Visible solution/answer", "Uncertainty note", "QA status"]
 
-AGENT = "arena-twin2-agent"
+AGENT = "arena-crosscheck-agent"
 
 
 def load(slug):
