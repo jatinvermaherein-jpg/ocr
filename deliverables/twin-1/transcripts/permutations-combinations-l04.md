@@ -76,3 +76,43 @@ Source: `Permutations & Combinations 04 Class Notes.pdf` (43 pages, image-only, 
 **P:** red chip **RAPID FIRE QUESTION**; **In a class there are** `six boys` **&** `five girls`**, then:** — the two phrases green and each inside a printed **red rectangle**; four cyan sub-questions, each with a handwritten tick: `(i) Number of ways of selecting 5 students.` (yellow tick), `(ii) Number of ways of selecting 3 girls & 2 boys.` (pink tick), `(iii) Number of ways of selecting 5 students with atleast 2 boys.` (green tick), `(iv) Number of ways of selecting 5 students with atmost 2 girls.` (green tick).
 **H:** yellow at top right `Total = 11 stds.` with `11` ringed; a yellow arrow from (i) to yellow `11C5` + a yellow tick; pink `(ii)` with `5G & 6B` and two arcs down into a red rectangle holding pink `5C3 x 6C2`; cyan `(iii)` with yellow case labels over four red rectangles — `2B,3G` -> `6C2 x 5C3`, `3B,2G` -> `6C3 x 5C2`, `4B 1G` -> `6C4 x 5C1`, `5B` -> `6C5`; green `(iv)` under the row with arrows pointing up at the same boxes, labelled `3B 2G + 4B 1G + 5B 0G`; at the left of the (iii) row, green the cursive marker `fnf.` before the first `=` (the same unexplained mark as U-02/F-34, here plainly used as a "therefore/total" sign).
 **DIBY:** none (RAPID FIRE QUESTION carries no numbered tags, per F-17). **U:** 1 — no numeric evaluation is written for (ii)–(iv); only the expressions are set up.
+<a id="p13"></a>
+## p13 · RAPID FIRE QUESTION — arranging 3 boys & 2 girls with end-position and alternation rules · label: — (chip only)
+**P:** red chip **RAPID FIRE QUESTION**; **In a class there are** `six Boys` **&** `five Girls`**, then:** (both green); `(i) Number of ways of arranging 3 Boys & 2 Girls in a line such that end positions occupied by girls.`, `(ii) ... end positions occupied by boys.`, `(iii) ... boys and girls are alternate.` — each item carrying a hand tick (pink on (i), cyan on (ii), cyan on (iii)).
+**H:** pink arrow from (i) down to pink `(i)` `selectn` above `6C3 × 5C2 ×`, then yellow `Arrang.` above a slot row `( ) _ _ _ ( )` with `2 × 3 × 2 × 1 × 1` written beneath and, under that, cyan `B1B2B3 G1G2` with a yellow hook grouping the girls; the result in a **red rectangle**, yellow `= 6C3 × 5C2 × 12`. Right half, pink `(ii) 6C3 × 5C2 × 36` with pink `selectn` (wavy) over the first factor and cyan `arrg.` over `36`, and a cyan slot row `(−)_ _ _(−)` with cyan `3 × 3 × 2 × 1 × 2` under it. Cyan `(iii) 6C3 × 5C2` with a large cyan loop carrying the pattern `B G B G B` over slots `3 × 2 × 2 × 1 × 1` and `×12` inside the loop; the alternating string `B G B G B` boxed in red with a green tick, and the rejected `G B G B B` below it in green with a green cross.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p14"></a>
+## p14 · board — the unrestricted case, and why 11P5 is wrong · label: — (no header, board slide)
+**P:** none — pure board page.
+**H:** orange `11 stds.` above an orange oval holding green `6B, 5G`; a long orange arc from that oval down-left into a large orange circle containing `11P5 = 11!/6!`, and an orange `×` written under the circle (the route marked wrong). Centre, green `# no. of ways of arranging 3B, 2G in a line:` with `arranging` ringed in pink and a green wavy rule beneath; below it pink `selectn × arrang.` over a **red rectangle** holding pink `6C3 × 5C2 × 5!` with a pink tick at the right.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p15"></a>
+## p15 · RESRTICTED SELECTION EXAMPLE — particular / specific boys · label: **Page No.129**
+**P:** red chip **RESRTICTED SELECTION EXAMPLE** — the word is printed with the letters transposed, `RESRTICTED` for RESTRICTED; yellow **5 boys** white **are selected out of** green **9 boys** white **such that :**; cyan `(i)` **Two** `particular` **(inside a printed red rectangle) boys will not serves together.** and cyan `(ii)` **Two specific boys will only serves together.** (both print the ungrammatical "serves"; (ii) has a double space before it).
+**H:** pink arrow from `(ii)` into a red rectangle holding pink `already fixed`; centre, a red rectangle `9 Boys` with two green branch arrows to green `A, B` and yellow `7 Boys.`; right, white `(i) 9C5 − (7C3)` with green ticks/crosses above `A B` and the phrase `OR` under it, then three case trees in green (`A✓ B✕` -> `7C4`, `A✕ B✓` -> `7C4`, `A✕ B✕` -> `7C5`) feeding cyan `(i) = (7C4 + 7C4 + 7C5)`, and below cyan `(ii) = (7C3 + 7C5)` with its own two trees (`AB` both ticked -> `7C3`; both crossed -> `7C5`); a long white arrow from the `9C5 − (7C3)` line down into the cyan (i) line, labelled `equal` with a double underline.
+**DIBY:** none. **U:** 2 — (a) printed chip typo `RESRTICTED`, transcribed as printed (same family as `IVRTTATIONAL`, `ever`); (b) the printed grammar errors `will not serves` / `will only serves together` are kept verbatim.
+
+---
+<a id="p16"></a>
+## p16 · FORMATION OF TEAM / COMMITTEE — JEE (Adv.)–2016 Paper-1 debate club · label: **Page No.129**
+**P:** clipboard icon + red banner **FORMATION OF TEAM / COMMITTEE**; second red chip **Question [JEE (Adv.)–2016, Paper–1]**; **A debate club consists of 6 girls and 4 boys. A team of 4 members is to be selected from this club including the selection of a captain (from among these 4 members) for the team. If the team has to included at most one boy, then the number of ways of selecting the them is ________.** (the slide prints "has to included" and "selecting the them"); eight printed underscores for the answer.
+**H:** cyan `D.C.` over a cyan circle containing `6G / 4B`; green arrow to green `4 members`; orange arrow to the two orange case labels `1B, 3G` and `4G` above orange `4C1 × 6C3 + 6C4`; cyan `(4 x 20 + 15) x 4 = ` with **`380` ringed in cyan**; the captain factor written cyan as `× 4C1` with an empty cyan **cloud** outline above it and a cyan arrow down from the cloud into that factor.
+**DIBY:** none. **U:** 1 — the empty cloud is an unfinished doodle/label, not a value; nothing is written inside it on any later page.
+
+---
+<a id="p17"></a>
+## p17 · Question [JEE Mains–2019] — committee of 11, m and n · label: — (chip only)
+**P:** red chip **Question [JEE Mains–2019]**; **A committee of 11 members is to be formed from 8 males and 5 females. If** `m` **(cyan) is the number of ways the committee is formed with at least 6 males and** `n` **is the number of ways the committee is formed with at least 3 females, then**; tiles `A m = n = 68`, `B m + n = 68`, `C m = n = 78`, `D n = m − 8`.
+**H:** cyan, right of the question: `H.W.` written inside a cyan oval with a double underline and a small ring at each side — assigned as homework; nothing else is written on the slide and no answer key is printed.
+**DIBY:** none (this item is tagged only `H.W.`, without the DIBY wording, so no register row). **U:** 1 — unresolved in this file; check the next lecture's H.W. discussion before treating it as answered.
+
+---
+<a id="p18"></a>
+## p18 · Question [JEE (Adv.)–2018, Paper–2] — α1 for 3 boys & 2 girls · label: **Page No.129**
+**P:** red chip **Question [JEE (Adv.)–2018, Paper–2]**; **In a high school, a committee has to be formed from a group of 6 boys** `M1, M2, M3, M4, M5, M6` **and 5 girls** `G1, G2, G3, G4, G5` **(both lists green);** cyan `(i)` **Let** `α1` **be the total number of ways in which the committee can be formed such that the committee has 5 members, having exactly 3 boys and 2 girls.**
+**H:** a cyan tick against `(i)`; centre, cyan `(3B 2G)` above a **red rectangle** holding cyan `α1 = 6C3 × 5C2` — only part (i) is on this slide.
+**DIBY:** none. **U:** none.
