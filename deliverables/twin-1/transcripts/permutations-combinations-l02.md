@@ -118,3 +118,44 @@ Source: `Permutations & Combinations 02 Class Notes.pdf` (33 pages, image-only, 
 ## p18 · PERMUTATIONS & COMBINATIONS (topic header) · label: — (chip only)
 **P:** black slide, white bold **PERMUTATIONS & COMBINATIONS** inside a thin red rectangle — the homework block ends and today's topic begins.
 **H:** none. **DIBY:** none. **U:** none.
+---
+<a id="p19"></a>
+## p19 · LAST CLASS RECAP — the multiplication principle as five slots · label: — (no label)
+**P:** clipboard icon + red banner **LAST CLASS RECAP**; nothing else printed (the whole slide is board-drawing).
+**H:** cyan `Process` above a two-headed cyan arrow spanning a red rectangle of five cells `m | n | y | z | t`, each cell with a cyan brace down to a cyan `opt.`; to the right cyan `Total ways = m n y z t`.
+**DIBY:** none. **U:** 1 — the third and fourth letters read as `y` and `z` on the board (where the same diagram in L01 p30 uses `p` and `t`); transcribed as written, and the slide carries no printed formula to check them against.
+
+---
+<a id="p20"></a>
+## p20 · board — pockets-with-marbles recap and the monkey/masters rule · label: — (no header, board slide)
+**P:** none — board page.
+**H:** at the left, green `P1 P2 P3` pocket sketches over six green circles with `3` under the first two and dashes after, giving green `= (3^6)` ringed; at the right, cyan headings `monkey` over `m` and `masters` over `n`, an orange fork of arrows to orange `m^n` marked with a pink cross and orange `n^m` marked with a pink tick; below, pink `m` ovals numbered `1 2 3 .... m`, each with a small arrow labelled `n`, leading to pink `= (n)^m`.
+**DIBY:** none. **U:** none — this is the L01 p40 marble question re-drawn as the recap, plus the general rule it illustrates.
+
+---
+<a id="p21"></a>
+## p21 · Question — 10 students, first 3 places = 720 · label: — (no label)
+**P:** red chip **Question**; **10 students compete in a swimming race. In how many ways can they occupy the first 3 positions?**; red tiles **A** 120, **B** 720, **C** 504, **D** 1000; printed green/white **[Ans.: B]** in the top-right corner.
+**H:** pink chain of three labelled slots — `1st` arcing down to `10`, `2nd` to `9`, `3rd` to `8` — giving pink `10 x 9 x 8 = 720` with `720` underlined; a pink tick struck across tile **B**.
+**DIBY:** none. **U:** none — the answer chip is printed on the slide (one of the few here), and the working agrees with it.
+
+---
+<a id="p22"></a>
+## p22 · FORMATION OF NUMBERS — RNA vs RA with digits 1,2,3,4 · label: **Page No.126**
+**P:** clipboard icon + red banner **FORMATION OF NUMBERS**; the printed area is otherwise empty apart from the label — the block of gold star stickers in the top-right corner (some 120 of them, overlapping the PW roundel) is a hand-placed emphasis layer.
+**H:** red at the right `100% Ques^n.`; pink `{1,2,3,4}` with an arrow to two red rectangles, the first `ex:` holding `123 / 231 / 432 / ...` and labelled pink `RNA`, the second holding `122 / 333 / 441 / ...` labelled pink `R.A.`; cyan `RNA` heading over three slots with `4 x 3 x 2 = (24)` (24 ringed, double-underlined), an orange arc labelled `included.` to cyan `R.A` over three slots with `4 x 4 x 4 = 4^3`; at the right white `{0, 1, 2, 3}` with the `1` struck out in orange, then `RNA` with three orange slots over `3 3 2` `= (18)` and `RA` over `3 4 4` `= (48)`, both answers ringed orange.
+**DIBY:** none. **U:** 1 — the struck `1` in the set `{0,1,2,3}` is not explained on the slide (the follow-through 3 x 3 x 2 counts a forbidden leading digit and 2 as the last choice, i.e. the strike means "1 is not usable"), so the strike is read as excluding the digit rather than the digit 1 being a typo.
+
+---
+<a id="p23"></a>
+## p23 · Question — five-digit numbers from {0,1,2,7,8,9}, six conditions, (i)-(iii) · label: — (no label)
+**P:** red chip **Question**; **Number of different five digit numbers that can be formed using digits {0, 1, 2, 7, 8, 9} such that:** cyan `(i) Repetition of digits is not allowed (R.N.A.).`, `(ii) Repetition of digit is allowed (R.A.).`, `(iii) Number formed is even (R.N.A)`, `(iv) Number formed is even (R.A.)`, `(v) Number formed is odd (R.N.A.)`, `(vi) Number formed is odd (R.A.)`.
+**H:** cyan ticks through (i) and (ii); orange `(i)` beside five cyan slots with dashes, arrows down to `5 x 5 x 4 x 3 x 2 = 600`; a green arc from (ii) to five green slots over `5 6 6 6 6` giving green `=> 5 x 6^4`; a yellow arc from (iii) to two stacked red rectangles of four leading slots — the first with `5 4 3 2` written above and `0 -> 120` with a tick to its right, the second with `4 4 3 2` below and `2 -> 96` ticked, plus a third line `- - - - 8 -> 96` ticked; yellow cursive `fnf = 96 + 96 + 120` at the right.
+**DIBY:** none. **U:** none — the even-total sum is deliberately left unevaluated (it is 312).
+
+---
+<a id="p24"></a>
+## p24 · board — the same six conditions continued: (iv), (v) and the crossed-out naive count · label: — (no header, board slide)
+**P:** none — board page.
+**H:** yellow `{0, 1, 2, 7, 8, 9}` at the top with red underlines beneath four of the digits; a green arc to `(iv)` and five green slots over `5 x 6 x 6 x 6 x` whose last factor drops to a green `3 (opt. 0,2,8)`, gathered by a green brace into a green rectangle `5 x 6^3 x 3` with a green arrow up from a `(vi)` label; inside a large blue blob, the rejected pink construction — five pink slots over `5 4 3 2` and a final `3 opta (0,2,8)` giving `= 360` marked with a pink cross; a cyan arc from the digit set down-left to a cyan ringed tick and five cyan slots over `4 x 4 x 3 x 2 x` with `3 opta (1,7,9)` giving cyan `= (288)` ringed; at the right three cyan rows `- - - - 1 -> 96`, `- - - - 7 -> 96`, `- - - - 9 -> 96` under a cyan blob holding `4 4 3 2`.
+**DIBY:** none. **U:** 2 — (a) the green `(vi)` label points at the rectangle `5 x 6^3 x 3`, which is the (iv) count; the odd-with-repetition answer 288 is written in cyan with no letter of its own, so the labels as drawn mis-tag one of the two; (b) the naive `360` inside the blue blob is the (v)-style count with a zero-leading slot allowed, struck out as wrong — read as the instructor's rejected attempt rather than as an alternative answer.
