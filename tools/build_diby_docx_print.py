@@ -24,7 +24,8 @@ from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from build_diby_docx_v2 import (          # noqa: E402  reuse the maths pipeline
-    CHAPTER_ORDER, answer_short, clean_options, latex_to_omml, norm_tag, segments, SRC,
+    CHAPTER_ORDER, answer_short, clean_options, display_label, is_real_label, letter_label,
+    latex_to_omml, segments, SRC,
 )
 
 import json                                             # noqa: E402
@@ -61,6 +62,8 @@ LINE_SPACING = 1.15
 
 
 # ------------------------------------------------------------------ page setup
+
+
 def setup_page(sec):
     sec.page_width, sec.page_height = PAGE_W, PAGE_H
     sec.left_margin = sec.right_margin = MARGIN_SIDE
@@ -84,89 +87,6 @@ def rule(doc, space_after=10, space_before=0, sz="8"):
     borders.append(bottom)
     pPr.append(borders)
     return p
-
-
-def is_real_label(lbl: str) -> bool:
-    """A printed label is one that carries a DIBY number (DIBY-12, #DIBY-7) or DIBY-X."""
-    return bool(re.search(r"DIBY\s*[-\u2013]?\s*(\d+|X)\b", lbl or "", re.I))
-
-
-def letter_label(n: int) -> str:
-    """0 -> A, 1 -> B, ... 25 -> Z, 26 -> AA (for DIBYs with no printed tag)."""
-    n += 1
-    out = ""
-    while n > 0:
-        n, rem = divmod(n - 1, 26)
-        out = chr(65 + rem) + out
-    return out
-
-
-# ------------------------------------------------------------------ page setup
-def setup_page(sec):
-    sec.page_width, sec.page_height = PAGE_W, PAGE_H
-    sec.left_margin = sec.right_margin = MARGIN_SIDE
-    sec.top_margin = sec.bottom_margin = MARGIN_VERT
-    sec.header_distance = HEADER_DIST
-    sec.footer_distance = FOOTER_DIST
-    return sec
-
-
-def rule(doc, space_after=10, space_before=0, sz="8"):
-    p = doc.add_paragraph()
-    p.paragraph_format.space_after = Pt(space_after)
-    p.paragraph_format.space_before = Pt(space_before)
-    pPr = p._p.get_or_add_pPr()
-    borders = OxmlElement("w:pBdr")
-    bottom = OxmlElement("w:bottom")
-    bottom.set(qn("w:val"), "single")
-    bottom.set(qn("w:sz"), sz)
-    bottom.set(qn("w:space"), "1")
-    bottom.set(qn("w:color"), "000000")
-    borders.append(bottom)
-    pPr.append(borders)
-    return p
-
-
-def is_real_label(lbl: str) -> bool:
-    """A printed label is one that carries a DIBY number (DIBY-12, #DIBY-7) or DIBY-X."""
-    return bool(re.search(r"DIBY\s*[-\u2013]?\s*(\d+|X)\b", lbl or "", re.I))
-
-
-def letter_label(n: int) -> str:
-    """0 -> A, 1 -> B, ... 25 -> Z, 26 -> AA (for DIBYs with no printed tag)."""
-    n += 1
-    out = ""
-    while n > 0:
-        n, rem = divmod(n - 1, 26)
-        out = chr(65 + rem) + out
-    return out
-
-
-def answer_bw(ans: str) -> str:
-    """Short answer only — all descriptive commentary is dropped."""
-    ans = (ans or "").strip()
-    if not ans or ans.lower().startswith("none"):
-        return ""
-
-    def ok(v):
-        v = re.sub(r"^Ans\.?\s*[:.]?\s*", "", v.strip(), flags=re.I).strip()
-        return v if v and re.search(r"[A-Za-z0-9]", v) else ""
-
-    m = re.search(r"\[\s*Ans\.?\s*:?\s*([^\]]{1,30})\]", ans)
-    if m and ok(m.group(1)):
-        return f"[Ans.: {ok(m.group(1))}]"
-    m = re.match(r"^Ans\.?\s*[:.]?\s*([^(\[]+?)\s*[(\[]", ans)
-    if m and ok(m.group(1)):
-        return f"[Ans.: {ok(m.group(1))}]"
-    m = re.match(r"^Ans\.?\s*[:.]?\s*([^(\[]+)$", ans)
-    if m and ok(m.group(1)):
-        return f"[Ans.: {ok(m.group(1))}]"
-    m = re.match(r"^\s*\(([A-Da-d])\)", ans)
-    if m:
-        return f"[Ans.: ({m.group(1).upper()})]"
-    if len(ans) <= 24 and ok(ans):
-        return f"[Ans.: {ok(ans)}]"
-    return ""
 
 
 # ------------------------------------------------------------------------ main
@@ -191,9 +111,9 @@ def main():
     counter = 0
     for r, _, _ in prepared:
         if is_real_label(r["printed_label"]):
-            r["print_label"] = norm_tag(r["printed_label"], "", r["marker_text"])
+            r["print_label"] = display_label(r["printed_label"]) or "DIBY"
         else:
-            r["print_label"] = f"DIBY {letter_label(counter)}"
+            r["print_label"] = f"DIBY [{letter_label(counter)}]"
             counter += 1
     print(f"letter-labelled DIBYs (no printed tag): {counter}")
 

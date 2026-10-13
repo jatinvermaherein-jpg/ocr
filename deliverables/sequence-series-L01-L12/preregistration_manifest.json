@@ -1,0 +1,140 @@
+{
+ "worker": "Sequence & Series (plan: 'Current assistant')",
+ "chapter": "Sequence & Series",
+ "plan_branch": "ocr/current-sequence-series",
+ "session_branch": "arena/02fffb3f-ocr",
+ "source_location_planned": "Current chat uploads",
+ "expected_files": 12,
+ "expected_pages": 496,
+ "preregistered_audit_rows": 496,
+ "status": "BLOCKED - source PDFs not delivered into the workspace",
+ "status_detail": "Attachment metadata for the 12 Sequence & Series PDFs arrived in-session, but no files exist in the sandbox: /home/user/uploads is absent and a full filesystem scan finds only the 54 PDFs already in the repository.",
+ "documents": [
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 1,
+   "source_pdf": "Sequence and Series 01 Class Notes.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 44,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "a51dee620b85f03f10919c816fb4c91f3495b6370bd8ab215a0eb38fdad1c057"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 2,
+   "source_pdf": "Sequence and Series 02 Class Notes.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 39,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "d8e6247d9b1b2778a18b6b0a4152784c1575e3fbe8aa3bd962dfc6700731115a"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 3,
+   "source_pdf": "Sequence and Series 03 Class Notes.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 43,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "5f902ed3b4e08170d4c62c21c20cf9ab2214fc81cc26567ed3c8ccbc96a31698"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 4,
+   "source_pdf": "Sequence and Series 04 Class Notes.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 42,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "308679659e771b063e66e3f8dce3b144951c3f27e7f53bc8b9683c20f7e35893"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 5,
+   "source_pdf": "Sequence and Series 05 Class Notes.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 40,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "eda38c942906cd5d1d1e13f926c52c165f9d6fe5fe32a146d0a78d4616ac3649"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 6,
+   "source_pdf": "Sequence and Series 06 Class Notes.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 38,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "0f91eaa6dfa9f0b1ba9eaf444c02edeb52c32bf899a6feeb9358728e742e9beb"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 7,
+   "source_pdf": "Sequence and Series 07 Class Notes.pdf.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 41,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "9bb866865645b932eb9794592ae62ef672e33a0752ae9cf3f3451734d53f30e0"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 8,
+   "source_pdf": "Sequence and Series 08 Class Notes Maths By Sachin Sir.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 48,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "d2268c368a55d422016cb21c5a4a26422fa698b9cea68ba736eb9ebc14e5ee6f"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 9,
+   "source_pdf": "Sequence and Series 09 Class Notes.pdf.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 44,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "8cb990b488589cc8b64e3c0c62dd6d3eb73019d69a1842ea94b66f09e61f742c"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 10,
+   "source_pdf": "Sequence and Series 10 Class Notes.pdf.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 35,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "74fec4b272e6104563ac0bb4dc9671b100ffe6baf8a60bccda5ccb1dba5e3aef"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 11,
+   "source_pdf": "Sequence and Series 11 Class Notes.pdf.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 42,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "03cf89ca2bfea6ab52e57c72a009a0bfff5b22ffdce91c2225726c169bf37b7a"
+  },
+  {
+   "chapter": "Sequence & Series",
+   "lecture": 12,
+   "source_pdf": "Sequence and Series 12 Class Notes.pdf.pdf",
+   "source_location": "Current chat uploads",
+   "pages": 40,
+   "worker": "Current assistant",
+   "plan_branch": "ocr/current-sequence-series",
+   "expected_sha256": "4bb451bd23c890fa40f50948e0621ea9b23d25e6f06124dd587908b487ccf7db"
+  }
+ ],
+ "verification_rules": [
+  "page count of each delivered file must equal the expected count below",
+  "SHA-256 of each delivered file must equal expected_sha256 (mismatch is reported, never silently accepted)",
+  "every page gets exactly one audit row; a run is complete only when the audit has no blank rows",
+  "nothing is silently corrected: source typos and instructor board errors are transcribed verbatim and flagged"
+ ]
+}

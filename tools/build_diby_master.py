@@ -26,7 +26,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "deliverables")
 
 CHAPTER_ORDER = ["Binomial Theorem", "Permutations & Combinations", "Quadratic Equations",
-                 "Trigonometric Equation", "Trigonometric Functions"]
+                 "Trigonometric Equation", "Trigonometric Functions", "Sequence and Series"]
 
 MARKER_RE = re.compile(r"(DIBY|DO\s*IT\s*BY\s*YOURSELF|DPP\s*&\s*DIBY)", re.I)
 LABEL_RE = re.compile(r"DIBY\s*[-\u2013\u2014]?\s*(\d+)", re.I)
@@ -224,6 +224,42 @@ def twin4_page_segments() -> dict[tuple[str, int, int], list[tuple[str, list[str
     return page_map
 
 
+SEQ_INDEX = "deliverables/sequence-series-L01-L12/diby_index.csv"
+
+
+def load_sequence() -> list[dict]:
+    """DIBY items from the Sequence & Series register in deliverables/sequence-series-L01-L12.
+
+    28 rows carry a visual-QA transcription (L01/L02); the rest are dual-pass OCR extractions.
+    """
+    path = os.path.join(ROOT, SEQ_INDEX)
+    if not os.path.exists(path):
+        return []
+    recs = []
+    for r in csv.DictReader(open(path, newline="")):
+        prompt = (r["Prompt (verbatim)"] or "").strip()
+        qa = (r["QA status"] or "").strip()
+        verified = qa.startswith("visual")
+        no_question = bool(re.match(r"^\(?\s*no question", prompt, re.I)) or not prompt
+        recs.append(dict(
+            worker="Sequence & Series", chapter="Sequence and Series",
+            lecture=str(r["Lecture No."]).zfill(2), source_pdf=r["Source PDF"],
+            pdf_page=int(r["PDF page"]),
+            printed_label=(r["Printed question number/letter (exact)"] or "").strip(),
+            internal_id=(r["Internal ID (only if no printed label)"] or "").strip(),
+            marker_text=(r["DIBY marker"] or "").strip(),
+            prompt="" if no_question else clean_prompt(prompt),
+            options=(r["Options"] or "").strip(),
+            answer=(r["Visible solution/answer"] or "").strip(),
+            uncertainty=(r["Uncertainty note"] or "").strip(),
+            qa_status=qa,
+            prompt_source=("verified visual transcription (transcribed from the page image)"
+                           if verified else "dual-pass OCR extraction, not visually QA'd"),
+            kind="section-marker" if no_question else "question",
+        ))
+    return recs
+
+
 def load_twin4() -> list[dict]:
     path = os.path.join(ROOT, "deliverables/twin-4-trigonometric-functions/diby_index.csv")
     page_map = twin4_page_segments()
@@ -295,7 +331,7 @@ def slug(r):
 
 
 def build() -> list[dict]:
-    recs = load_twin1() + load_twin2() + load_twin3() + load_twin4()
+    recs = load_twin1() + load_twin2() + load_twin3() + load_twin4() + load_sequence()
 
     def sort_key(r):
         ci = CHAPTER_ORDER.index(r["chapter"]) if r["chapter"] in CHAPTER_ORDER else 99
@@ -380,6 +416,8 @@ def write_md(recs, path):
       "marker candidates only — draft text reconstructed from the Twin 2 page OCR |")
     A(f"| `deliverables/twin-4-.../diby_index.csv` | {by_worker['Twin 4']} | "
       "marker candidates only — draft text reconstructed from the Twin 4 transcript OCR |")
+    A(f"| `ocr-output/sequence-series/records/*.jsonl` | {by_worker['Sequence & Series']} | "
+      "automated OCR of the Sequence & Series slides — draft text pulled from the same page OCR |")
     A("")
     A("## Read the labels before trusting a question")
     A("")

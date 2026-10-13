@@ -137,14 +137,28 @@
       "mode": "n/a",
       "status": "no_output_in_repo",
       "notes": "Sequence & Series PDFs are present at the repo root but no deliverables/ocr-output folder exists for them"
+    },
+    {
+      "worker": "Sequence & Series",
+      "folder": "deliverables/sequence-series-L01-L12",
+      "files": 12,
+      "pages": 496,
+      "mode": "dual-pass machine OCR (visual QA for L01-L02 only)",
+      "status": "ocr_complete_partial_visual",
+      "pages_audited": 496,
+      "pages_visually_verified": 83,
+      "diby_rows": 195,
+      "uncertainty_entries": 310,
+      "engine": "dual-pass PP-OCRv4 (RapidOCR/onnxruntime), 200 dpi",
+      "notes": "merged from main (PR #6); L01 44/44 and L02 39/39 visually verified, 413 pages machine-only"
     }
   ],
   "totals": {
-    "pages_with_audit_row": 2128,
-    "pages_visually_verified": 767,
-    "pages_machine_ocr_only": 1361,
-    "diby_rows_all_workers": 721,
-    "uncertainty_entries_all_workers": 3950,
+    "pages_with_audit_row": 2624,
+    "pages_visually_verified": 850,
+    "pages_machine_ocr_only": 1774,
+    "diby_rows_all_workers": 916,
+    "uncertainty_entries_all_workers": 4260,
     "json_files_in_repo": 27,
     "jsonl_page_records": 536
   },
@@ -326,11 +340,6 @@
   ],
   "open_items": [
     {
-      "id": 1,
-      "issue": "Sequence & Series (12 PDFs / 496 pp) has no output in the repo",
-      "severity": "high"
-    },
-    {
       "id": 2,
       "issue": "Twin 4: 0/540 pages visually verified (machine draft only)",
       "severity": "high"
@@ -367,14 +376,14 @@
     "json": "deliverables/DIBY_Master.json",
     "docx": "deliverables/DIBY_Master.docx",
     "builder": "tools/build_diby_master.py",
-    "items": 721,
+    "items": 916,
     "quality": {
-      "verified": 195,
-      "ocr_extract": 112,
+      "verified": 223,
+      "ocr_extract": 279,
       "ocr_draft": 348,
       "marker_only": 66
     },
-    "items_with_question_text": 655,
+    "items_with_question_text": 849,
     "repeat_appearances": 108,
     "note": "One document with every DIBY item from all four worker registers. Twin 2 / Twin 4 had no prompts extracted, so draft text is reconstructed from their own raw page OCR (delimited by the next marker) and labelled unverified; nothing was corrected or re-worded.",
     "question_bank_docx": "deliverables/DIBY_Questions.docx",

@@ -41,7 +41,7 @@ OUT = os.path.join(ROOT, "deliverables/DIBY_Questions.docx")
 CSV_OUT = os.path.join(ROOT, "deliverables/DIBY_Questions.csv")
 
 CHAPTER_ORDER = ["Binomial Theorem", "Permutations & Combinations", "Quadratic Equations",
-                 "Trigonometric Equation", "Trigonometric Functions"]
+                 "Trigonometric Equation", "Trigonometric Functions", "Sequence and Series"]
 M_NS = "http://schemas.openxmlformats.org/officeDocument/2006/math"
 W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 
@@ -86,9 +86,18 @@ def add_footer_page_number(sec):
 
 
 # --------------------------------------------------------------------- helpers
+LABEL_RE = re.compile(r"DIBY\s*[-\u2013]?\s*\(?\s*([0-9]{1,3}|[A-Za-z])\s*\)?(?![A-Za-z0-9])", re.I)
+
+
 def is_real_label(lbl: str) -> bool:
-    """A printed label is one carrying a DIBY number (DIBY-12, #DIBY-7) or DIBY-X."""
-    return bool(re.search(r"DIBY\s*[-\u2013]?\s*(\d+|X)\b", lbl or "", re.I))
+    """A printed label carries a DIBY number (DIBY-12, #DIBY-7) or a letter (DIBY-X, DIBY-Y)."""
+    return bool(LABEL_RE.search(lbl or ""))
+
+
+def display_label(lbl: str) -> str:
+    """Clean printed tag: '# DIBY-36(Challenger)' -> 'DIBY-36', 'DiBY - (X) [handwritten]' -> 'DIBY-X'."""
+    m = LABEL_RE.search(lbl or "")
+    return f"DIBY-{m.group(1).upper()}" if m else ""
 
 
 def letter_label(n: int) -> str:
@@ -121,7 +130,8 @@ def answer_short(ans: str) -> str:
         v = re.sub(r"\bAns\.?\s*[:.]?\s*", "", v.strip(), flags=re.I)      # inner "Ans.:" too
         v = re.sub(r"\s*\([^)]*(?:printed|red box|cyan|handwrit|ticked|slide|board|"
                    r"pre-filled|homework)[^)]*\)?", "", v, flags=re.I)
-        v = re.sub(r"\s{2,}", " ", v).strip(" ;,.-")
+        v = re.sub(r"\s{2,}", " ", v).strip(" ;,")          # keep a leading minus!
+        v = re.sub(r"[\s;:.]+$", "", v).strip()
         return "" if not v or JUNK_ANSWER.match(v) or not re.search(r"[A-Za-z0-9]", v) else v
 
     # 1) list-style answer, e.g. "(i) y in (-inf, -2], (ii) ..."
@@ -283,7 +293,7 @@ def main():
         if is_real_label(r["printed_label"]):
             r["print_label"] = norm_tag(r["printed_label"], "", r["marker_text"])
         else:
-            r["print_label"] = f"DIBY {letter_label(counter)}"
+            r["print_label"] = f"DIBY [{letter_label(counter)}]"
             counter += 1
     print(f"letter-labelled DIBYs (no printed tag): {counter}")
 

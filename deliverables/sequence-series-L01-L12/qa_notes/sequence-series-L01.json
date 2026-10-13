@@ -1,0 +1,536 @@
+{
+ "slug": "sequence-series-L01",
+ "chapter": "Sequence & Series",
+ "lecture": 1,
+ "source_pdf": "Sequence and Series 01 Class Notes.pdf",
+ "qa_reviewer": "arena-seq-agent",
+ "method": "Full visual QA from 2-up native-resolution contact sheets (all 44 pages, 22 sheets). Source SHA-256 verified against the master inventory before extraction (MATCH). Page->content mapping re-verified against this session's own per-page OCR records after review, which corrected sheet-index drift in the middle of the deck; the DIBY page map (p29 divider, p30-42 = DIBY-A..M, p43 printed answer key, p44 closing) is confirmed independently by the raw records.",
+ "pages": {
+  "1": {
+   "type": "cover",
+   "topic": "Cover slide",
+   "verified_text": "ARJUNA | JEE 2027 | Lecture -01 | Mathematics | SEQUENCE & SERIES | By- Sachin Jakhar Sir",
+   "diagram": "ARJUNA JEE 2027 branding, instructor photo (black polo marked 'Physics'), PW logo top-right",
+   "qa": "Cover confirms chapter = Sequence & Series, lecture = 01; matches filename and plan allocation."
+  },
+  "2": {
+   "type": "topics",
+   "topic": "Topics to be covered",
+   "verified_text": "Topics to be covered (handwritten cursive) | A General Second Degree Equation (red box) | B Arithmetic Progression (red box) | C Question Practice | D (label printed, no text)",
+   "diagram": "3D question-mark with thinking pencil mascot",
+   "qa": "Printed A/B/C/D labels with handwritten titles."
+  },
+  "3": {
+   "type": "divider",
+   "topic": "Question Practice",
+   "verified_text": "Question Practice (boxed red, centred)",
+   "diagram": "mostly empty dark slide",
+   "qa": "Section divider."
+  },
+  "4": {
+   "type": "question",
+   "topic": "Bumper + Challenger Question - symmetric functions of roots of a cubic",
+   "verified_text": "Bumper + Challenger Question | If α, β, γ are roots of cubic : x³ - 3x² - 4x + 1 = 0 then find value of: | (i) Σα = 3 | (ii) Σαβ = -4 | (iii) αβγ = -1 | (iv) Σα² = 17 | (v) Σα³ = 60 | (vi) Σ 1/α² = 22 | (vii) Σα²β = -9 | (viii) Σα⁵ = 958 | (ix) Σ 1/(α³+1) (red label) | (ix) 1/(α³+1) + 1/(β³+1) + 1/(γ³+1) =",
+   "diagram": "nine numbered sub-parts in a 3x3 grid; the cubic is red-boxed; blue arrow from (ix) to its written-out form",
+   "diby": [],
+   "issues": [
+    "(ix) is written out below the grid and left unevaluated on this slide (its treatment continues later). The sub-part values are as printed/written: (i) 3, (ii) -4, (iii) -1, (iv) 17, (v) 60, (vi) 22, (vii) -9 (colour ambiguous: red or cyan), (viii) 958."
+   ]
+  },
+  "7": {
+   "type": "question",
+   "topic": "Acidic Question - x³ - 2007x + 2002 = 0, value of Σ(α-1)/(α+1)",
+   "verified_text": "Acidic Question | Given that α, β, γ are all real roots of the equation x³ - 2007x + 2002 = 0, then the value of (α-1)/(α+1) + (β-1)/(β+1) + (γ-1)/(γ+1) is equal to | (handwritten) y = (x-1)/(x+1) -> x = ...",
+   "diagram": "the three fractions circled in orange; the substitution written beneath",
+   "diby": [],
+   "issues": [
+    "Page appears twice in the deck (p5 and p6) - p6 carries the full working. 'Old- IIT Jee' cloud badge top-right of p6."
+   ]
+  },
+  "8": {
+   "type": "question",
+   "topic": "Acidic Question (same question) - transformation working",
+   "verified_text": "Acidic Question | (same stem) | (handwritten) x³ - 2004x + 2002 = 0 | y = (x-1)/(x+1) | x + y + xy = 1 | xy = x(1-y) | y + xy = x | x = y/(1-y) | ((1+y)/(1-y))³ - 2004((1+y)/(1-y)) + 2002 = 0 | Sum of roots of new cubic !! | cubic = 0 ?? | (1+y)³ - 2004(1+y)(1-y)² + 2002(1-y)³ = 0 | Sum of Roots = ?",
+   "diagram": "orange 'Sum of roots of new cubic !!' label; H.W. circled in yellow at left; blue cloud around 'y + xy = x'",
+   "diby": [],
+   "issues": [
+    "The middle algebra is heavily overwritten; the chain above is as far as is confidently legible. The transformed cubic's sum of roots is asked at the bottom and its evaluation continues on p9. Marked H.W. (yellow circle)."
+   ]
+  },
+  "5": {
+   "type": "question",
+   "topic": "(ix) from p4 worked - Σ 1/(α³+1)",
+   "verified_text": "(ix) 1/(α³+1) + 1/(β³+1) + 1/(γ³+1) = [(β³+1)(γ³+1) + (α³+1)(γ³+1) + (α³+1)(β³+1)] / [(α³+1)(β³+1)(γ³+1)] = [β³γ³ + β³ + γ³ + 1 + α³γ³ + α³ + γ³ + 1 + α³β³ + α³ + β³ + 1] / [(α³+1)(β³+1)(γ³+1)] = [α³(β³+γ³) + 3 + (β³γ³ + α³γ³ + α³β³)] / [1 + (α³+β³+γ³) + (β³γ³ + α³γ³ + α³β³) + (αβγ)³] | (αβγ)³ = (-1)³ | = ... -> DIBY-(X)",
+   "diagram": "colour-coded numerator expansion (green/cyan/orange) with curl marks under matched terms; denominator terms boxed",
+   "diby": [
+    {
+     "printed_label": "DIBY - (X)  [handwritten, internal marker]",
+     "internal_id": "SEQ-L01-DIBY-X",
+     "prompt": "(no question printed) - page 5 finishes the part-(ix) working with an arrow reading 'DIBY - (X)'; the item itself is not shown on any page of this lecture.",
+     "options": [],
+     "answer": "",
+     "uncertainty": "Marker is handwritten and refers to an item not printed in this deck; no printed label, so an internal ID is minted per the plan's rule. The printed answer key on p43 covers DIBY-A..M only and does not include an (X) entry."
+    }
+   ],
+   "issues": [
+    "Numerators/denominators transcribed as written; the line is left unfinished and handed off to 'DIBY - (X)'.",
+    "The handoff marker 'DIBY - (X)' is recorded as a marker-only DIBY row (internal ID minted) because no question body exists for it in this lecture."
+   ]
+  },
+  "6": {
+   "type": "theory",
+   "topic": "Symmetric-function identities used for the (ix) work",
+   "verified_text": "(β³γ³ + α³γ³ + α³β³) = a³ + b³ + c³ | = 3abc + (a+b+c)(a² + b² + c² - (ab+bc+ca)) | 3α³β³γ³ + (α³β³ + β³γ³ + γ³α³)(αβ + βγ + γα) | a = αβ, b = βγ, c = γα | a³ + b³ + c³ = 3abc + (a+b+c)(a²+b²+c²-ab-bc-ca) | ab + bc + ca = αβ³γ + αβγ² + α²βγ = αβγ(β + γ + α)",
+   "diagram": "orange box around the identity card at left; blue brace grouping a, b, c definitions",
+   "diby": [],
+   "issues": [
+    "The expansion line is written as '3abc + (a+b+c)(a² + b² + c² - (ab + bc + ca))' with the final bracket overwritten; the standard identity is as given. Transcribed as drawn."
+   ]
+  },
+  "9": {
+   "type": "question",
+   "topic": "Acidic Question (p6) closed - value of the new cubic's sum of roots",
+   "verified_text": "(1+y)³ - 2004(1+y)(1-y)² + 2002(1-y)³ = 0 | red box: (1+y)³ - 2004(1+y)(1-y)² + 2002(1-y)³ = 0 | (1 + y)³ - 2004(1 - y + y² - y³)... + 2002(1 - 3y + 3y² - y³) = 0 | -2004y³ - 2004y² ... | (-4008)y³ + (8016)y² + ... = 0 | (right) Σ(α-1)/(α+1) = 1/(α+1) + 1/(β+1) + 1/(γ+1) | fxn = Sum of roots = -(coeff of y²)/(coeff of y³) = -(8016)/(4008) = -2",
+   "diagram": "red box around the transformed cubic; green brace around 'Sum of roots = -coeff(y²)/coeff(y³)'; the final value circled green",
+   "diby": [],
+   "issues": [
+    "Middle expansion lines are heavily overwritten; the boxed cubic and the final value -2 are clear. Intermediate coefficients (-4008, 8016) are as written; term-by-term expansion is not fully legible and is NOT reconstructed."
+   ]
+  },
+  "10": {
+   "type": "diby",
+   "topic": "# DIBY - Y - reciprocals of (1±root) with printed answer",
+   "verified_text": "Question | If α, β, γ are roots of x³ - x² - 1 = 0 then find value of ((1+α)/(1-α) + (1+β)/(1-β) + (1+γ)/(1-γ)) = ______ . | [Ans. : -5] | (handwritten) # DIBY - Y (green, with Y circled)",
+   "diagram": "green '# DIBY - Y' marker at right",
+   "diby": [
+    {
+     "printed_label": "# DIBY - Y",
+     "prompt": "If α, β, γ are roots of x³ - x² - 1 = 0 then find value of ((1+α)/(1-α) + (1+β)/(1-β) + (1+γ)/(1-γ)) = ______ .",
+     "options": [],
+     "answer": "[Ans. : -5] (printed)",
+     "uncertainty": "Label is handwritten 'DIBY - Y' with the letter circled; treated as the printed/internal item label. Printed answer -5 is part of the slide."
+    }
+   ],
+   "issues": []
+  },
+  "11": {
+   "type": "theory",
+   "topic": "SECOND DEGREE EQUATION - general form and the two-line condition",
+   "verified_text": "SECOND DEGREE EQUATION | ax² + by² + 2hxy + 2gx + 2fy + c = 0 (red box) | # multiplication of two straight lines (linear factors) | Condition | abc + 2fgh - af² - bg² - ch² = 0 (red box) | RAR badge | st. C, P, E, tt (annotations at top)",
+   "diagram": "blue elliptical callout 'General equation'; star-cloud around 'RAR' badge; blue underlined 'Condition'",
+   "diby": [],
+   "issues": [
+    "Marginal annotations ('st. C, P, E, tt') are cursive shorthand, not expanded. Transcribed as far as legible."
+   ]
+  },
+  "12": {
+   "type": "question",
+   "topic": "Question - k for which 12x² - 10xy + 2y² + 11x - 5y + k is a product of two linear factors",
+   "verified_text": "Question | Find value of k for which 12x² - 10xy + 2y² + 11x - 5y + k is a product of two linear factors. Hence find those factors. | (handwritten) V. long - 01 (magenta) | a = 12, b = 2, 2h = -10, 2g = 11, 2f = -5, k = c | k = -5, g = 11/2, f = -5/2 | abc + 2fgh - af² - bg² - ch² = 0 (red box) | 12 x 2 x k + 2(-5/2)(11/2)(-5) - 12(25/4) - 2(121/4) - k(25) = 0 | 24k + (25 x 11)/2 - 75 - 121/2 - 25k = 0 | (2) = 77 - 75 = k",
+   "diagram": "red boxes around the coefficient list and the condition; cyan 'a, b, c & f, g, h' label; magenta 'V. long - 01'",
+   "diby": [],
+   "issues": [
+    "The final line is written as '(2) = 77 - 75 = k' (value 2 after cancellation is implied, k = 2). Transcribed as drawn; not corrected. Working continues on pp13-15."
+   ]
+  },
+  "13": {
+   "type": "question",
+   "topic": "Question (contd.) - restructuring as quadratic in y and in x",
+   "verified_text": "Question | (same stem) | V. long - 02 (magenta) | 12x² - 10xy + 2y² + 11x - 5y + 2 = 0 | Quad. in y OR Quad. in x | 2y² - 5(2x + 1)y + 12x² + 11x + 2 = 0 (red box) | 12x² + (11 - 10y)x + 2y² - 5y + 2 = 0 (red box)",
+   "diagram": "two ways split by 'OR'; red boxes around the two rearrangements",
+   "diby": [],
+   "issues": [
+    "k = 2 substituted here (consistent with p12's result). Quad. in y / Quad. in x labels as written."
+   ]
+  },
+  "14": {
+   "type": "question",
+   "topic": "Question (contd.) - quadratic formula and discriminant",
+   "verified_text": "Quad. in y OR Quad. in x (top) | y = (5(2x+1) ± √((5(2x+1))² - 4 x 2(12x² + 11x + 2))) / (2 x 2) | D = (5(2x+1))² - 4 x 2(12x² + 11x + 2) | 25(4x² + 4x + 1) - 96x² - 88x - 16 | 100x² + 100x + 25 - 96x² - 88x - 16 | 4x² + 12x + 9 = (2x + 3)² | (right) -> Ans. (DiBY - β)",
+   "diagram": "cyan braces; green 'D' discriminant label; square-root bar drawn over the discriminant; cyan 'Ans. (DiBY - β)'",
+   "diby": [],
+   "issues": [
+    "The discriminant is shown to be a perfect square (2x+3)²; the final factorisation is handed off to 'DiBY - β'."
+   ]
+  },
+  "15": {
+   "type": "question",
+   "topic": "Question (contd.) - y evaluated and both linear factors obtained",
+   "verified_text": "y = (5(2x+1) ± (2x+3)) / 4 = (10x + 5 ± (2x + 3)) / 4 | y = (10x + 5 + 2x + 3)/4 = (12x + 8)/4 | y = 3x + 2 (red box) | y = (10x + 5 - 2x - 3)/4 = (8x + 2)/4 | y = 2x + 1/2 (red box)",
+   "diagram": "blue arrows splitting the ± into the two branches; red boxes around the two factors",
+   "diby": [],
+   "issues": [
+    "The two factors are y = 3x + 2 and y = 2x + 1/2 (equivalently 2y = 4x + 1 -> 2x - y + 1/2 = 0). As written."
+   ]
+  },
+  "16": {
+   "type": "question",
+   "topic": "Question - 2x² - y² + xy - 3x + 9y + k = 0 resolvable into two linear factors",
+   "verified_text": "Question | If second degree equation in x & y : 2x² - y² + xy - 3x + 9y + k = 0 (red box) | Can be resolved as product of two linear factors, then find k, also find those linear factors. | Ans: k = -20 | Factors: x + y - 4 = 0 & 2x - y + 5 = 0 | DIBY - β (cyan, printed answer block at right)",
+   "diagram": "cyan '# DIBY - β' marker at right; printed answer lines in green/cyan",
+   "diby": [
+    {
+     "printed_label": "# DIBY - β",
+     "prompt": "If second degree equation in x & y : 2x² - y² + xy - 3x + 9y + k = 0 can be resolved as product of two linear factors, then find k, also find those linear factors.",
+     "options": [],
+     "answer": "Ans: k = -20 ; Factors: x + y - 4 = 0 & 2x - y + 5 = 0 (printed)",
+     "uncertainty": "Item label is the handwritten/cyan marker '# DIBY - β'; the answer block on the slide is printed. Both transcribed exactly."
+    }
+   ],
+   "issues": []
+  },
+  "19": {
+   "type": "recap",
+   "topic": "Quadratic Dec-19 recap - question split",
+   "verified_text": "Quad. dec-19 | Recorded . (red box) | Questions on 'd' eqⁿ + PYQ's | Questions Reducible to Quad.",
+   "diagram": "orange braces linking the two branches to the boxed 'Recorded'",
+   "diby": [],
+   "issues": [
+    "Board shorthand: 'Quad. dec-19' and the two branches are as written; 'PYQ' = previous-year questions is the standard reading but is not expanded on the slide."
+   ]
+  },
+  "20": {
+   "type": "divider",
+   "topic": "SEQUENCE & SERIES chapter card",
+   "verified_text": "SEQUENCE & SERIES (large, red-boxed, surrounded by gold stars) | annotations: max. formula based | 'easy but *multiple concepts*' | 'Most Imp. Chapter of class-11' | '2 Ques. Mains / 1 Ques. Adv.'",
+   "diagram": "dense wall of gold stars framing the title; blue handwritten annotations with arrows",
+   "diby": [],
+   "issues": [
+    "This slide marks the start of the Sequence & Series chapter proper inside lecture 01."
+   ]
+  },
+  "21": {
+   "type": "theory",
+   "topic": "INTRODUCTION - Sequence / Progression / Series",
+   "verified_text": "INTRODUCTION | cloud: A.P, G.P, H.P, AGP, Misc. | 'Sequence' | 'Progression' | 'Series' (blue underlined headings) | red box: ek pattern ko follow karta hai | Tn पदों का संख्या (Hindi) | red box: Terms of sequence with + or - sign. | Tn = n : 1, 2, 3, 4, ... -> N ; S, P | Tn = n² : 1, 4, 9, 16, 25, ... -> squares of N ; S, P | 2, 3, 5, 7, 11, 13, ... -> Prime No. ; S, P | (1+1)/2, (1+3)/2 (pattern) ... } Tn = (n+1)/2 | S = (1+1)/2 + (1+2)/2 + (1+3)/2 + ...",
+   "diagram": "(n+1)/2 circled in a cyan brace; three example sequences each straddled by 'S, P' with ticks",
+   "diby": [],
+   "issues": [
+    "Hindi annotations transcribed verbatim. 'S, P' marks against each example are ticks indicating the sequence is also a progression; written as 'S ✓ P' style marks - recorded literally as S, P."
+   ]
+  },
+  "22": {
+   "type": "theory",
+   "topic": "ARITHMETIC PROGRESSION (A.P.) - definition and common difference",
+   "verified_text": "ARITHMETIC PROGRESSION (A.P.) | cloud: 'Class-11 OP in Class !!' | ex: 1, 3, 5, 7, 9 . ... -> A.P ✓ | a₁, a₂, a₃, a₄, ... -> A.P. | red box: a₂ - a₁ = a₃ - a₂ = a₄ - a₃ = ... | #A.P. | a, a+d, a+2d, a+3d, ... -> A.P. | First term = T₁ = a | Common difference = d",
+   "diagram": "cloud callout top-right; red box around the constant-difference chain",
+   "diby": [],
+   "issues": []
+  },
+  "23": {
+   "type": "theory",
+   "topic": "A.P. - nth term",
+   "verified_text": "a, a+d, a+2d, a+3d, ... -> A.P. (red box, repeated) | First term = T₁ = a (red box) | Common difference = d (red box) | T₂ = a + d | T₃ = a + 2d | T₄ = a + 3d | ... } nth Term | Tn = a + (n-1)d (red box, star-framed)",
+   "diagram": "three red boxes at left; the nth-term formula framed by gold stars",
+   "diby": [],
+   "issues": []
+  },
+  "24": {
+   "type": "theory",
+   "topic": "Sum of first n terms of an A.P. (reverse-trick derivation)",
+   "verified_text": "S = a + (a+d) + (a+2d) + ... + (a+(n-1)d) | S = (a+(n-1)d) + (a+(n-2)d) + ... + a | (add) | 2S = (2a + (n-1)d) + (2a + (n-1)d) + ... + (2a + (n-1)d) | Sum of first n Terms | Sn = n/2 (2a + (n-1)d) = n/2 (1st + last) (red box, star-framed)",
+   "diagram": "downward arrows pairing the two series term by term; 'add' written at left; result framed by gold stars",
+   "diby": [],
+   "issues": []
+  },
+  "25": {
+   "type": "question",
+   "topic": "Question - A.P. with a₃ + a₅ - a₂ = 13, a₁ + a₇ = 23, find a₁₀",
+   "verified_text": "Question | If sequence < aₙ > constitute an A.P. and a₃ + a₅ - a₂ = 13, a₁ + a₇ = 23. Then a₁₀ = ______ . | A 37/4 | B 3/4 | C 16 | D 18 | (handwritten) # a, d | a₃ = a+2d ; a₅ = a+(5-1)d = a+4d | a+2d + a+4d - (a+d) = 13 -> a + 5d = 13 | a₁ + a₇ = a + a + 6d = 23 -> 2a + 6d = 23 | solving: 2a + 10d = 26 ; -(2a + 6d = 23) -> 4d = 3 -> d = 3/4 | a = 13 - 5 x 3/4 = (52 - 15)/4 = 37/4 | a₁₀ = a + 9d = 37/4 + 9 x 3/4 = (37 + 27)/4 = 64/4 = 16 | (C) circled",
+   "diagram": "orange braces/arrows; (C) 16 circled in red; '57%' printed top-right",
+   "diby": [],
+   "issues": [
+    "The line solving for a is written with an intermediate '- 4d = -3'; the chain is as shown. Answer (C) 16 is circled; option D 18 is also ticked in red (a stray tick) - the circled (C) is the answer."
+   ]
+  },
+  "26": {
+   "type": "question",
+   "topic": "Question - S₁₀ = 530, S₅ = 140, find S₂₀ - S₅",
+   "verified_text": "Question | For an A.P. S₁₀ = 530 & S₅ = 140, then value of S₂₀ - S₅ is ______ . | A 1682 | B 1862 | C 1268 | D 6182 | (handwritten) S₁₀ = 10/2 {2a + (10-1)d} = 530 -> a + (9/2)d = 53 ... (1) | S₅ = 5/2 {2a + (5-1)d} = 140 -> a + 2d = 28 ... (2) | S₂₀ = 20/2 {2 x 8 + 19 x 10} | S₅ = 5/2 {2 x 8 + 5 x 10} | solving: -5d/2 = -25 -> a = 8, d = 10 (circled)",
+   "diagram": "#2021 - 'Mains' cloud badge top-right; '82%' printed top-right; a = 8 and d = 10 circled",
+   "diby": [],
+   "issues": [
+    "The final numeric evaluation of S₂₀ - S₅ is written at the top of the slide as 1862 with option (B) ticked; the intermediate S₂₀/S₅ substitution lines substitute a = 8, d = 10 directly. Transcribed as written."
+   ]
+  },
+  "27": {
+   "type": "question",
+   "topic": "Question - S_p = q and S_q = p, find S_{p+q} (worked)",
+   "verified_text": "Question | For an A.P., S_p = q and S_q = p, then S_{p+q} = ______ . | A p + q | B p - q | C q - p | D -p - q | (handwritten) a, d (arrow to 'a, d') | S_p = p/2 {2a + (p-1)d} = q | S_q = q/2 {2a + (q-1)d} = p | S_{p+q} = (p+q)/2 {2a + (p+q-1)d} | solving: 2a + (p-1)d = 2q/p ; 2a + (q-1)d = 2p/q | (p-1-q+1)d = 2(q/p - p/q) = 2(q² - p²)/pq = 2(q-p)(q+p)/pq | (p-q)d = -2(p+q)/pq... -> d = -2(p+q)/pq | (D) ticked",
+   "diagram": "curly braces under the S_p / S_q expressions; answer (D) ticked in red",
+   "diby": [],
+   "issues": [
+    "The final simplification line is overwritten near the end; the value d = -2(p+q)/(pq) and the ticked option (D) -p-q are clear. Intermediate algebra transcribed as far as legible."
+   ]
+  },
+  "28": {
+   "type": "question",
+   "topic": "Question - S_p = q, S_q = p (repeat slide, printed only)",
+   "verified_text": "Question | For an A.P., S_p = q and S_q = p, then S_{p+q} = ______ . | A p + q | B p - q | C q - p | D -p - q | (marginal notes) xth Ques. | Mains | New.",
+   "diagram": "green marginal notes at the right ('xth Ques.', 'Mains', 'New.')",
+   "diby": [],
+   "issues": [
+    "This is a duplicate slide of p25 without working - the same question is re-shown. Marginal green notes are cursive shorthand, transcribed as read."
+   ]
+  },
+  "29": {
+   "type": "divider",
+   "topic": "CHALLENGER QUESTIONS",
+   "verified_text": "CHALLENGER QUESTIONS (boxed red, centred) | annotation below: '8 - days hw.' with a bracket",
+   "diagram": "small handwritten annotation under the title",
+   "diby": [],
+   "issues": [
+    "Handwritten annotation reads as '8-days hw.' (homework in 8 days) - cursive, transcribed as read."
+   ]
+  },
+  "30": {
+   "type": "diby",
+   "topic": "Acidic Question - DIBY-A (cubic and quadratic with two roots common)",
+   "verified_text": "Acidic Question | If the equations x³ + x² - 4x = 4 and x² + px + 2p = 0 (p ∈ R) have two roots common, then the value of p is | A -2 | B -1 | C 1 | D 3 | DIBY-A (yellow italic, right)",
+   "diagram": "option blocks; 'DIBY-A' marker at right",
+   "diby": [
+    {
+     "printed_label": "DIBY-A",
+     "prompt": "If the equations x³ + x² - 4x = 4 and x² + px + 2p = 0 (p ∈ R) have two roots common, then the value of p is",
+     "options": "(A) -2; (B) -1; (C) 1; (D) 3",
+     "answer": "(from the printed key on p43) DIBY-A : B",
+     "uncertainty": "Answer taken from the printed 'ANSWERS (A TO M)' slide on p43; the question slide itself carries no tick."
+    }
+   ],
+   "issues": []
+  },
+  "31": {
+   "type": "diby",
+   "topic": "Acidic Question - DIBY-B (at least one positive root)",
+   "verified_text": "Acidic Question | The values of k, for which the equation x² + 2(k-1)x + k + 5 = 0 posses atleast one positive root, are | A [4, ∞) | B (-∞, -1] ∪ [4, ∞) | C [-1, 4] | D (-∞, -1] | DIBY-B (yellow italic, right)",
+   "diagram": "option blocks; 'DIBY-B' marker",
+   "diby": [
+    {
+     "printed_label": "DIBY-B",
+     "prompt": "The values of k, for which the equation x² + 2(k-1)x + k + 5 = 0 posses atleast one positive root, are",
+     "options": "(A) [4, ∞); (B) (-∞, -1] ∪ [4, ∞); (C) [-1, 4]; (D) (-∞, -1]",
+     "answer": "(printed key p43) DIBY-B : D",
+     "uncertainty": "Stem spelling 'posses' / 'atleast' is as printed - kept verbatim. Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "32": {
+   "type": "diby",
+   "topic": "Challenger Question - DIBY-C (minimum integral value of q² - 2q)",
+   "verified_text": "Challenger Question | If the roots of the equation x² + (p+1)x + 2q - q² + 3 = 0 are real and unequal ∀ p ∈ R, then find the minimum integral value of (q² - 2q). | DIBY-C (yellow italic, right)",
+   "diagram": "'DIBY-C' marker at right",
+   "diby": [
+    {
+     "printed_label": "DIBY-C",
+     "prompt": "If the roots of the equation x² + (p+1)x + 2q - q² + 3 = 0 are real and unequal ∀ p ∈ R, then find the minimum integral value of (q² - 2q).",
+     "options": [],
+     "answer": "(printed key p43) DIBY-C : 4",
+     "uncertainty": "Answer from the printed p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "33": {
+   "type": "diby",
+   "topic": "Challenger Question [JEE Mains-2021] - DIBY-D",
+   "verified_text": "Challenger Question [JEE Mains-2021] | If α and β are the distinct roots of the equation x² + (3)^(1/4)x + 3^(1/2) = 0, then the value of α^96(α^12 - 1) + β^96(β^12 - 1) is equal to | A 56 x 3^25 | B 56 x 3^24 | C 52 x 3^24 | D 25 x 3^25 | DIBY-D (yellow italic, right)",
+   "diagram": "option blocks; 'DIBY-D' marker",
+   "diby": [
+    {
+     "printed_label": "DIBY-D",
+     "prompt": "If α and β are the distinct roots of the equation x² + (3)^(1/4)x + 3^(1/2) = 0, then the value of α^96(α^12 - 1) + β^96(β^12 - 1) is equal to",
+     "options": "(A) 56 x 3^25; (B) 56 x 3^24; (C) 52 x 3^24; (D) 25 x 3^25",
+     "answer": "(printed key p43) DIBY-D : C",
+     "uncertainty": "Exponents as printed (3^1/4 and 3^1/2 in the stem rendered here as (3)^(1/4) and 3^(1/2)). Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "34": {
+   "type": "diby",
+   "topic": "Question - DIBY-E (relation between power sums)",
+   "verified_text": "Question | If α, β and γ are roots of 3x³ - 4x² - 3x + 2 = 0 and (α⁵ + β⁵ + γ⁵) - (α³ + β³ + γ³) = (2/m)(2(α⁴ + β⁴ + γ⁴) - (α² + β² + γ²)) | Then value of m is | DIBY-E (yellow italic, right)",
+   "diagram": "'DIBY-E' marker",
+   "diby": [
+    {
+     "printed_label": "DIBY-E",
+     "prompt": "If α, β and γ are roots of 3x³ - 4x² - 3x + 2 = 0 and (α⁵ + β⁵ + γ⁵) - (α³ + β³ + γ³) = (2/m)(2(α⁴ + β⁴ + γ⁴) - (α² + β² + γ²)). Then value of m is",
+     "options": [],
+     "answer": "(printed key p43) DIBY-E : 3",
+     "uncertainty": "The '2/m' factor is as printed. Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "35": {
+   "type": "diby",
+   "topic": "Question - DIBY-F ((α³+5)(β³+5)(γ³+5)/13αβγ)",
+   "verified_text": "Question | Let α, β, γ be roots of x³ + 2x² - 4x + 5 = 0 find value of ((α³ + 5)(β³ + 5)(γ³ + 5)) / (13αβγ) | DIBY-F (yellow italic, right)",
+   "diagram": "'DIBY-F' marker",
+   "diby": [
+    {
+     "printed_label": "DIBY-F",
+     "prompt": "Let α, β, γ be roots of x³ + 2x² - 4x + 5 = 0 find value of ((α³ + 5)(β³ + 5)(γ³ + 5)) / (13αβγ)",
+     "options": [],
+     "answer": "(printed key p43) DIBY-F : 8",
+     "uncertainty": "The fraction is printed with the numerator blue-underlined. Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "36": {
+   "type": "diby",
+   "topic": "Challenger Question [JEE Mains-2024] - DIBY-G",
+   "verified_text": "Challenger Question [JEE Mains-2024] | Let x₁, x₂, x₃, x₄ be the solution of the equation 4x⁴ + 8x³ - 17x² - 12x + 9 = 0 and (4 + x₁²)(4 + x₂²)(4 + x₃²)(4 + x₄²) = 125/16 m. | Then the value of m is ______ . | (handwritten) M-1 RRT | M-2 iwala method | M-3 Transformation | DIBY-G (yellow italic, right)",
+   "diagram": "three small handwritten method labels at the bottom (M-1 RRT, M-2 iwala method, M-3 Transformation)",
+   "diby": [
+    {
+     "printed_label": "DIBY-G",
+     "prompt": "Let x₁, x₂, x₃, x₄ be the solution of the equation 4x⁴ + 8x³ - 17x² - 12x + 9 = 0 and (4 + x₁²)(4 + x₂²)(4 + x₃²)(4 + x₄²) = 125/16 m. Then the value of m is ______ .",
+     "options": [],
+     "answer": "(printed key p43) DIBY-G : 221",
+     "uncertainty": "The slide lists three suggested methods in cursive ('RRT', 'iwala method', 'Transformation'); recorded as read. Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "37": {
+   "type": "diby",
+   "topic": "Critical Thinking Question (CTQ) - DIBY-H",
+   "verified_text": "Critical Thinking Question (CTQ) | Let α, β, γ be distinct real number and f(x) is a quadratic polynomial such that | f(2)α² + f(3)α + f(4) = 4α² + 4α + 8 | f(2)β² + f(3)β + f(4) = 4β² + 4β + 8 | f(2)γ² + f(3)γ + f(4) = 4γ² + 4γ + 8 | then find the value of f(7). | DIBY-H (yellow italic, right)",
+   "diagram": "'DIBY-H' marker at right",
+   "diby": [
+    {
+     "printed_label": "DIBY-H",
+     "prompt": "Let α, β, γ be distinct real number and f(x) is a quadratic polynomial such that f(2)α² + f(3)α + f(4) = 4α² + 4α + 8; f(2)β² + f(3)β + f(4) = 4β² + 4β + 8; f(2)γ² + f(3)γ + f(4) = 4γ² + 4γ + 8 then find the value of f(7).",
+     "options": [],
+     "answer": "(printed key p43) DIBY-H : 44",
+     "uncertainty": "Answer from the printed p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "38": {
+   "type": "diby",
+   "topic": "Question [JEE Mains-2023] - DIBY-I",
+   "verified_text": "Question [JEE Mains-2023] | Let α, β, γ be the three roots of the equation x³ + bx + c = 0. If βγ = 1 = -α, then b³ + 2c³ - 3α³ - 6β³ - 8γ³ is equal to | A 155/8 | B 21 | C 169/8 | D 19 | DIBY-I (yellow italic, right)",
+   "diagram": "option blocks; 'DIBY-I' marker",
+   "diby": [
+    {
+     "printed_label": "DIBY-I",
+     "prompt": "Let α, β, γ be the three roots of the equation x³ + bx + c = 0. If βγ = 1 = -α, then b³ + 2c³ - 3α³ - 6β³ - 8γ³ is equal to",
+     "options": "(A) 155/8; (B) 21; (C) 169/8; (D) 19",
+     "answer": "(printed key p43) DIBY-I : D",
+     "uncertainty": "Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "39": {
+   "type": "diby",
+   "topic": "Challenger Question [Multiple Correct] - DIBY-J",
+   "verified_text": "Challenger Question [Multiple Correct] | If α₁, α₂, α₃, α₄, α₅ are roots of equation x⁵ - 5x⁴ - 1 = 0 then | A Σ(r=1 to 5) 1/α_r⁴ = -1/20 | B Σ(r=1 to 5) 1/α_r⁴ = -20 | C Π(r=1 to 5) (1/α_r⁴ + 5)⁵ = 1 | D Π(r=1 to 5) (1/α_r⁴ + 5)³ = 1/5 | annotations: Σ -> Sum | Π -> Prod. | Product/multip. | (1/α₁⁴ + 5)³ x (1/α₂⁴ + 5)³ x (1/α₃⁴ + 5)³ ... | DIBY-J (yellow italic, right)",
+   "diagram": "red box around the equation; cyan legend for Σ and Π; orange expansion line at the bottom",
+   "diby": [
+    {
+     "printed_label": "DIBY-J",
+     "prompt": "If α₁, α₂, α₃, α₄, α₅ are roots of equation x⁵ - 5x⁴ - 1 = 0 then (multiple correct: sum/product expressions in 1/α_r⁴)",
+     "options": "(A) Σ_{r=1..5} 1/α_r⁴ = -1/20; (B) Σ_{r=1..5} 1/α_r⁴ = -20; (C) Π_{r=1..5} (1/α_r⁴ + 5)⁵ = 1; (D) Π_{r=1..5} (1/α_r⁴ + 5)³ = 1/5",
+     "answer": "(printed key p43) DIBY-J : B, C",
+     "uncertainty": "Multi-correct item: the printed key gives two answers (B, C). Powers in options C and D differ (5 and 3) exactly as printed."
+    }
+   ],
+   "issues": [
+    "Options C and D print different exponents (5 and 3) on otherwise identical product expressions - kept verbatim, suspected source inconsistency."
+   ]
+  },
+  "40": {
+   "type": "diby",
+   "topic": "Acidic Question - DIBY-K (transformed quadratic's roots)",
+   "verified_text": "Acidic Question | If α, β are roots of ax² + bx + c = 0, then the equation ax² - bx(x-1) + c(x-1)² = 0 has roots | A α/(1-α), β/(1-β) | B (1-α)/α, (1-β)/β | C α/(1+α), β/(1+β) | D (1+α)/α, (1+β)/β | DIBY-K (yellow italic, right)",
+   "diagram": "option blocks; 'DIBY-K' marker",
+   "diby": [
+    {
+     "printed_label": "DIBY-K",
+     "prompt": "If α, β are roots of ax² + bx + c = 0, then the equation ax² - bx(x-1) + c(x-1)² = 0 has roots",
+     "options": "(A) α/(1-α), β/(1-β); (B) (1-α)/α, (1-β)/β; (C) α/(1+α), β/(1+β); (D) (1+α)/α, (1+β)/β",
+     "answer": "(printed key p43) DIBY-K : C",
+     "uncertainty": "Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "41": {
+   "type": "diby",
+   "topic": "Question [JEE Mains-2021] - DIBY-L (intervals for x and y)",
+   "verified_text": "Question [JEE Mains-2021] | If x² + 9y² - 4x + 3 = 0, x, y ∈ R, then x and y respectively lie in the intervals. | A [1, 3] and [1, 3] | B [1, 3] and [-1/3, 1/3] | C [-1/3, 1/3] and [1, 3] | D [-1/3, 1/3] and [-1/3, 1/3] | DIBY-L (yellow italic, right)",
+   "diagram": "option blocks; 'DIBY-L' marker; printed answer marked (B) in the source",
+   "diby": [
+    {
+     "printed_label": "DIBY-L",
+     "prompt": "If x² + 9y² - 4x + 3 = 0, x, y ∈ R, then x and y respectively lie in the intervals.",
+     "options": "(A) [1, 3] and [1, 3]; (B) [1, 3] and [-1/3, 1/3]; (C) [-1/3, 1/3] and [1, 3]; (D) [-1/3, 1/3] and [-1/3, 1/3]",
+     "answer": "(printed key p43) DIBY-L : B",
+     "uncertainty": "Answer from p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "42": {
+   "type": "diby",
+   "topic": "Critical Thinking Question (CTQ) - DIBY-M",
+   "verified_text": "Critical Thinking Question (CTQ) | a, b, c, d are real numbers such that | (a + 1)(b + 1)(c + 1)(d + 1) = 1 | (a + 2)(b + 2)(c + 2)(d + 2) = 2 | (a + 3)(b + 3)(c + 3)(d + 3) = 3 | (a + 4)(b + 4)(c + 4)(d + 4) = 4 | Find (a + 5)(b + 5)(c + 5)(d + 5). | DIBY-M (yellow italic, right)",
+   "diagram": "'DIBY-M' marker at right",
+   "diby": [
+    {
+     "printed_label": "DIBY-M",
+     "prompt": "a, b, c, d are real numbers such that (a+1)(b+1)(c+1)(d+1) = 1, (a+2)(b+2)(c+2)(d+2) = 2, (a+3)(b+3)(c+3)(d+3) = 3, (a+4)(b+4)(c+4)(d+4) = 4. Find (a+5)(b+5)(c+5)(d+5).",
+     "options": [],
+     "answer": "(printed key p43) DIBY-M : 29",
+     "uncertainty": "Answer from the printed p43 key."
+    }
+   ],
+   "issues": []
+  },
+  "43": {
+   "type": "answers",
+   "topic": "ANSWERS (A TO M) - printed answer key",
+   "verified_text": "ANSWERS (A TO M) | DIBY-A : B | DIBY-B : D | DIBY-C : 4 | DIBY-D : C | DIBY-E : 3 | DIBY-F : 8 | DIBY-G : 221 | DIBY-H : 44 | DIBY-I : D | DIBY-J : B, C | DIBY-K : C | DIBY-L : B | DIBY-M : 29",
+   "diagram": "answer list in green on black, one line per item",
+   "diby": [],
+   "issues": [
+    "This is the authoritative printed key used to populate the 'Visible solution/answer' field for DIBY-A..M. Note DIBY-J is multi-correct (two answers)."
+   ]
+  },
+  "44": {
+   "type": "closing",
+   "topic": "Closing slide",
+   "verified_text": "It is never about end result | It's always about Journey | Thank You | #futureIITians",
+   "diagram": "large cursive 'You' overlapping printed 'Thank'; handwritten colour-split quote at top",
+   "diby": [],
+   "issues": []
+  },
+  "17": {
+   "type": "theory",
+   "topic": "SECOND DEGREE EQUATION - condition restated (proof page 1)",
+   "verified_text": "SECOND DEGREE EQUATION | ax² + by² + 2hxy + 2gx + 2fy + c = 0 | Condition that it can be resolved as product of two linear factors is : | abc + 2fgh - af² - bg² - ch² = 0 | ax² + 2(by + g)x + (by² + 2fy + c) = 0",
+   "diagram": "left-hand variant of the condition written as abc + 2fgh - af² - bg² - ch² = 0 (cyan); the rearrangement as a quadratic in x written below in white",
+   "diby": [],
+   "issues": [
+    "Second appearance of this condition slide in the deck (the first is p11); this one leads into the formal proof on p18."
+   ]
+  },
+  "18": {
+   "type": "theory",
+   "topic": "Proof - the condition is equivalent to Disc(quadratic in x) = 0",
+   "verified_text": "Proof: | ax² + 2(by + g)x + (by² + 2fy + c) = 0 | Quad. in x (cyan label) | x = [-2(by + g) ± √((2(by + g))² - 4a(by² + 2fy + c))] / 2a | annotations: Quad. in y (magenta), Perfect square (magenta), 'Iss Quad ka D = 0' (magenta + Hindi), cond^n -> abc + 2fgh - af² - bg² - ch² = 0 (orange, bottom-right)",
+   "diagram": "cyan ellipses around the (by+g) and the discriminant bracket; magenta arrow chain labelling the steps; green 'Proof :' heading",
+   "diby": [],
+   "issues": [
+    "The annotation chain is written as 'Quad. in y' -> 'Perfect square' -> 'Iss Quad ka D = 0' (Hinglish: this quadratic's discriminant = 0); transcribed verbatim including the Hindi wording."
+   ]
+  }
+ },
+ "page_map_correction": "An earlier draft of this record had pages 5-19 shifted by one sheet slot and carried one invented blank page. Corrected against the raw per-page OCR records; no page content was changed, only its page number."
+}

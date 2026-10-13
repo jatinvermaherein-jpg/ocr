@@ -12,11 +12,11 @@
 | Source PDFs in repo root | **66** | `ls *.pdf` |
 | Total source pages | **2,624** | PyMuPDF `page_count` on all 66 files |
 | OCR workstreams | **5** (Current-assistant S&S + Twin 1–4) | master allocation plan |
-| Pages with a page-audit row | **2,128 / 2,128** of the twin-scope pages | 508 + 536 + 544 + 540 CSV rows |
-| Pages visually verified | **767** (508 Twin 1 + 259 Twin 3) | audit `visual_qa_status` / `qa_notes` |
-| Pages machine-OCR'd only | **1,361** (536 Twin 2 + 540 Twin 4 + 285 Twin 3) | audit status columns |
-| DIBY items captured | **721** rows across 4 registers (143 + 242 + 164 + 172) | CSV row counts |
-| Uncertainty entries logged | **3,950** across all logs | CSV/MD entry counts |
+| Pages with a page-audit row | **2,624 / 2,624** — the whole corpus | 508 + 536 + 544 + 540 + 496 CSV rows |
+| Pages visually verified | **850** (508 Twin 1 + 259 Twin 3 + 83 Sequence & Series) | audit `visual_qa_status` / `qa_notes` |
+| Pages machine-OCR'd only | **1,774** (536 Twin 2 + 540 Twin 4 + 285 Twin 3 + 413 Sequence & Series) | audit status columns |
+| DIBY items captured | **916** rows across 5 registers (143 + 242 + 164 + 172 + 195) | CSV row counts |
+| Uncertainty entries logged | **4,260** across all logs | CSV/MD entry counts |
 | JSON/JSONL machine reports | **27 JSON + 536 JSONL page records** | `find` + parse |
 
 The 12 Sequence & Series PDFs (496 pp) that the master plan listed as "current chat uploads" are **now present in the repo root** — the corpus is complete at 66/66, 2,624/2,624 pages. (Twin 1's log item F-05 tracking the "missing 55th PDF" is therefore superseded: nothing is missing from the tree; only the *Sequence & Series* workstream has no committed output here — see §3.)
@@ -70,8 +70,12 @@ The 12 Sequence & Series PDFs (496 pp) that the master plan listed as "current c
 - 1 transcript for all 13 lectures.
 - **Known discrepancy:** OCR headings in `Trigonometric Functions 01` pp. 2–33 & 41–49 look like Exponential/Logarithmic Series and inequality material; trig headings only on pp. 34–40. Flagged, not corrected (see its `uncertainty_log.csv`).
 
-### Current assistant — Sequence & Series L01–12 · **NO OUTPUT IN THIS CHECKOUT**
-12 PDFs / 496 pp are present at the repo root, but there is no `deliverables/` or `ocr-output/` folder for them. The plan assigns them to `ocr/current-sequence-series`; nothing has landed on this branch/main yet.
+### Sequence & Series L01–12 · **OCR COMPLETE (L01–L02 visually verified)**
+12 PDFs / 496 pp (`deliverables/sequence-series-L01-L12/`, merged from `main` PR #6)
+- 496/496 pages OCR'd (dual-pass PP-OCRv4), every page reconciled: 0 gaps, 0 pages with no text.
+- Visual QA: **83 pages** (L01 44/44, L02 39/39); the other **413 pages are machine-only** — do not treat as verified.
+- DIBY register: **195 rows** (28 visually verified, 167 auto-extracted), every row with a prompt and a printed label.
+- 12 transcripts, `page_audit.csv` (496 rows), `uncertainty_log.md` (310 entries with page + location).
 
 ---
 
@@ -153,7 +157,7 @@ Coverage of the master document: 195 verified · 112 ocr-extract · 348 ocr-draf
 
 ## 7. Open items / gaps worth acting on
 
-1. **Sequence & Series (12 PDFs / 496 pp) has zero output in the repo** — the only untouched slice of the 66-PDF corpus.
+1. ~~Sequence & Series has no output~~ **RESOLVED** — `deliverables/sequence-series-L01-L12/` (from `main` PR #6) is now included in the master DIBY build and both question-bank documents.
 2. **Twin 4: 0/540 pages visually verified** — audit, DIBY and uncertainty files exist but every row is explicitly machine-draft.
 3. **Twin 3: 285/544 pages still `auto-QA (dual-pass)`**, concentrated in Trigonometric Equation L02–L07.
 4. **Twin 2: no manual review at all** (user-requested) — 2,807 low-confidence lines stay unverified and its 242 DIBY entries are candidates, not extracted questions.
