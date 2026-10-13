@@ -116,3 +116,78 @@ Source: `Permutations & Combinations 04 Class Notes.pdf` (43 pages, image-only, 
 **P:** red chip **Question [JEE (Adv.)–2018, Paper–2]**; **In a high school, a committee has to be formed from a group of 6 boys** `M1, M2, M3, M4, M5, M6` **and 5 girls** `G1, G2, G3, G4, G5` **(both lists green);** cyan `(i)` **Let** `α1` **be the total number of ways in which the committee can be formed such that the committee has 5 members, having exactly 3 boys and 2 girls.**
 **H:** a cyan tick against `(i)`; centre, cyan `(3B 2G)` above a **red rectangle** holding cyan `α1 = 6C3 × 5C2` — only part (i) is on this slide.
 **DIBY:** none. **U:** none.
+<a id="p19"></a>
+## p19 · JEE (Adv.)–2018 P2 part (ii) — α2, equal boys and girls · label: **Page No.129**
+**P:** same chip/stem as p18; black `(ii)` **Let** `α2` **be the total number of ways in which the committee can be formed such that the committee has at least 2 members and an equal number of boys and girls.** (cyan wavy underlines printed under "at least 2 members" and "an equal number of boys and girls").
+**H:** a row of hand circles for each committee size — green `2 Mem.` over `1B 1G` (orange) with an arrow down; orange `3 Mem` over an orange `×`; green `4 Mem.` over `2B 2G`; orange `5 Mem` over `×`; green `6 Mem.` over `3B 3G`; then cyan `8 Mem.` over `4B 4G` and cyan `10 Mem.` over `5B 5G` (both unboxed, no arrow). Green below: `α2 = (6C1 × 5C1 + 6C2 × 5C2 + 6C3 × 5C3 + 6C4 × 5C4 + 6C5 × 5C5)` with green arrows from the circles into their terms. No arithmetic is completed.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p20"></a>
+## p20 · JEE (Adv.)–2018 P2 part (iii) — α3 set up, not filled · label: **Page No.129**
+**P:** same stem; black `(iii)` **Let** `α3` **be the total number of ways in which the committee can be formed such that the committee has 5 members, at least 2 of them being girls.**
+**H:** inside one wide **red rectangle**, green `α3 =` followed by four case heads `2G 3B`, `3G 2B`, `4G 1B`, `5G`, each with a green arc and a short down-arrow onto an empty slot, joined by `+`. The products themselves are never written — the slide is left at the setup stage.
+**DIBY:** none. **U:** 1 — α3 is not evaluated anywhere in this file.
+
+---
+<a id="p21"></a>
+## p21 · JEE (Adv.)–2018 P2 part (iv) — α4, the starred hard part (first reveal) · label: **Page No.129**
+**P:** same stem; black `(iv)` **Let** `α4` **be the total number of ways in which the committee can be formed such that the committee has 4 members, having at least 2 girls and such that both M1 and G1 are NOT in the committee together.** (pink wavy underline printed under "at least 2 girls").
+**H:** a cluster of nine gold star stickers down the left margin (the "hard question" mark); pink `4 Members.` and `at least 2 Girls.` each in a red rectangle, both inside one larger green rectangle; a separate red rectangle `M1 & G1 are not together.`; below, white `2G 2B`, `3G 1B`, and cyan `4G` in a circle with an arrow down to cyan `+ 5C4`.
+**DIBY:** none. **U:** none.
+
+---
+<a id="p22"></a>
+## p22 · α4 solved — two routes, 130 + 54 + 5 · label: — (no header, board slide)
+**P:** none — board page (the three pink/red boxes of p21 are re-drawn at the top for context).
+**H:** cyan at top right the roster `M1 M2 M3 M4 M5 M6` over `G1 G2 G3 G4 G5`. Left, pink `2G 2B` wavy-underlined, arrow to pink `5C2 6C2 − (5C1 × 4C1)` with yellow `M1G1 are together` and an up arrow into the bracket; white `10 × 15 − 5 × 4` then `150 − 20`. Middle, framed by two red dashed lines: green `3G 1B` branching to three case trees (`M1✓ G1✕` -> `4C3`; `M1✕ G1✓` -> `4C2 × 5C1`; `M1✕ G1` -> `5C1 × 4C3`), with white/pink `4 + 6 × 5 + 5 × 4 = (54)` (54 ringed pink); magenta `OR` and the yellow alternative `5C3 × 6C1 − (M1G1 are together: 4C2) = 60 − 6 = (54)` (54 ringed yellow). Right: cyan `4G` circle -> `+ 5C4`, and a green rectangle holding white `α4 = 130 + 54 + 5`.
+**DIBY:** none. **U:** 1 — the final sum (189) is not written; `130 + 54 + 5` is the last state on the board.
+
+---
+<a id="p23"></a>
+## p23 · (iv) question slide again — earlier animation state · label: **Page No.129**
+**P:** identical printed question to p21 (stem, `(iv)`, the pink wavy underline, the nine gold stars at left).
+**H:** only the three pink phrases in red rectangles — `4 Members.`, `at least 2 Girls.`, `M1 & G1 are not together.` — with no green frame, no case labels, no working. This is the same slide at an earlier reveal step than p21, so the page is transcribed as a delta rather than as new content (see F-16's duplicate-slide handling, and F-19a for the animation-state variant).
+**DIBY:** none. **U:** none.
+
+---
+<a id="p24"></a>
+## p24 · Question — kinder-garden teacher, 25 kids, zoo visits · label: **Page No.129**
+**P:** red chip **Question** under a wide band of gold star stickers (three rows, ~25 stars); **The kinder garden teacher has 25 kids in her class. She takes 5 of them at a time, to zoological garden as often as she can, without taking the same 5 kids more than once. Then the number of visits, the teacher makes to the garden exceeds that of a kid by** ("kinder garden" lower-case as printed; no options shown on this slide).
+**H:** red, the cursive marker `fnf` then `= 25C5 − 24C4`, with red arrows up from the labels `Teacher` (under `25C5`) and `kid` (under `24C4`); at right red `each kid` with a double underline and `a_ _ _ _` (four dashes) below it.
+**DIBY:** none. **U:** 1 — the `fnf` mark again (red cursive, here opening the equation); each sighting is logged against U-02/F-34.
+
+---
+<a id="p25"></a>
+## p25 · board — the "each kid" count illustrated on 5 letters · label: — (no header, board slide)
+**P:** none — board page.
+**H:** pink `{a,b,c,d,e}` with a small pink circle `M` at its right; cyan `10 = 5C3`; at left a yellow column listing all ten triples `abc abd abe acd ace ade bcd bce bde cde`, each letter carrying a coloured tick-underline (green/pink/white); red `a _ _` with a bracket down to `4C2 = (6)` (6 ringed in red) — i.e. fixing one kid, the other two places are chosen from the remaining four.
+**DIBY:** none. **U:** none — the illustration is the p24 mechanism at n = 5, k = 3 rather than 25, 5.
+
+---
+<a id="p26"></a>
+## p26 · Example — dice rolled 3 times (assigned H.W.) · label: **Page No.128**
+**P:** red chip **Example**; **A dice is rolled 3 times, top-most face is considered as outcome then find the number of outcome such that :** cyan `(i) 5 appears atleast once.`, `(ii) All 3 outcomes are different.`, `(iii) Exactly 2 outcomes are same.`
+**H:** red `H.W.` inside a red circle with a double underline and two small rings — the whole example is set as homework; nothing is solved here.
+**DIBY:** none (H.W. only). **U:** 1 — printed label goes back to `Page No.128` after three pages of 129 (module numbering is non-monotonic, F-08).
+
+---
+<a id="p27"></a>
+## p27 · board — 7 letters, pairs = 21, two ways · label: — (no header, board slide)
+**P:** none — board page.
+**H:** red row of letters `A B C D E f G` (the `A` and `D` carrying red strike-strokes, `f` written small); cyan `6 + 5 + 4 + 3 + 2 + 1 = (21)` with `21` in a cyan ring; a long cyan arc down from the letters to cyan `OR` (double-underlined) and then yellow `7C2 × 1 = 7!/(2! 5!) = (7·6·5!)/(2 × 5!) = (21)` with a small `3` above the cancelled `6` and `21` ringed in yellow.
+**DIBY:** none. **U:** 1 — no question text on this page or the previous one; the count of unordered pairs of seven objects belongs to the diagram on p28 (handshake/line-up illustration), so both pages are transcribed as one unlabelled worked unit.
+
+---
+<a id="p28"></a>
+## p28 · board — K7 drawn out (21 joins) · label: — (no header, board slide)
+**P:** none — board page.
+**H:** red complete-graph on seven vertices: seven star-shaped meeting points (top-right, upper-middle, left, right, and three along the bottom) with every pair joined by a red straight line — 21 strokes — plus an isolated red dash at lower right; pink at right `7C2 × 1 = 21.`
+**DIBY:** none. **U:** none.
+
+---
+<a id="p29"></a>
+## p29 · GEOMETRICAL USES OF nCr — 10 points, 4 collinear: straight lines · label: **Page No.130**
+**P:** clipboard icon + red banner **GEOMETRICAL USES OF ⁿCᵣ**; red chip **Example**; **Total 10 points are there, out of which 4 are collinear, then find total number of different (i) straight line & (ii) triangles that can be formed by joining these points.**
+**H:** a red arc closed by a red base line, with six pink dots on the arc and four pink dots on the base (the collinear four); cyan `(i) St. line` (wavy underlined) and `M-I:` before three red-boxed orange terms `6C2 × 1 + 1 + 6C1 × 4C1 × 1`, cyan below `= 15 + 1 + 24 = (40)` with `40` ringed; `M-II:` cyan `10C2 × 1 − 4C2 × 1 + 1 = (40)` with cyan arrows down to `45 − 6 + 1`. Part (ii) is not started on this slide.
+**DIBY:** none. **U:** none.
