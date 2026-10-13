@@ -171,6 +171,7 @@ def tidy(text: str, brackets: bool = True) -> str:
     text = re.sub(r"\\frac\{\(([A-Za-z]{1,4})\)\}\{\(([A-Za-z]{1,4})\)\}",
                   r"(\1) (\2)", text)
     text = re.sub(r"\s{2,}", " ", text)
+    text = re.sub(r"\)(?=[A-Za-z])", ") ", text)       # '(ii)The' -> '(ii) The'
     return text.strip(" #,;")
 
 

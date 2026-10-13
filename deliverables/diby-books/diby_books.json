@@ -220,7 +220,7 @@
   "book": "Basic Mathematics Part 01 DIBY",
   "tag": "DIBY-28",
   "pdf_page": 12,
-  "question": "Solve following Inequalities : (i)\\frac{x4+x2+1}{x2-11x+28}≥0(ii)x2+7x+15≥0 x^{2}-x+1",
+  "question": "Solve following Inequalities : (i)\\frac{x4+x2+1}{x2-11x+28}≥0(ii) x2+7x+15≥0 x^{2}-x+1",
   "options": "",
   "answer": "(i) x∈ (-∞, 4) ∪ (7, ∞), (ii) x∈R"
  },
@@ -319,7 +319,7 @@
   "tag": "DIBY-40",
   "pdf_page": 16,
   "question": "Match the column Column-I Column-II",
-  "options": "(A) If log a = 2logb, then (P) (Q)a^{3} = 10b^{2} (B) If log a + 2log b = 0, then a = b (C) If 3log a - 2log b = 1, then (R) (S)a = b^{2} (D) If ln\\frac{a+b}{2}=\\frac{1}{2}lna+ lnb, then ab^{2} = 1",
+  "options": "(A) If log a = 2logb, then (P) (Q) a^{3} = 10b^{2} (B) If log a + 2log b = 0, then a = b (C) If 3log a - 2log b = 1, then (R) (S) a = b^{2} (D) If ln\\frac{a+b}{2}=\\frac{1}{2}lna+ lnb, then ab^{2} = 1",
   "answer": "A-R, B-S, C-P, D-Q"
  },
  {
@@ -702,7 +702,7 @@
   "pdf_page": 11,
   "question": "Solve for x :",
   "options": "",
-  "answer": "(i) \\frac{1}{2}≤|2x-1| ≤_{5}3(i)x∈\\frac{1}{5},\\frac{1}{4}∪\\frac{3}{4},45 (ii) -\\frac{1}{3}≤|3x-4| ≤2(ii)x∈\\frac{2}{3}, 2 (iii) 2≤|4-5x| ≤^{10}3(iii)x∈\\frac{2}{15},\\frac{2}{5}∪\\frac{6}{5},2215"
+  "answer": "(i) \\frac{1}{2}≤|2x-1| ≤_{5}3(i) x∈\\frac{1}{5},\\frac{1}{4}∪\\frac{3}{4},45 (ii) -\\frac{1}{3}≤|3x-4| ≤2(ii) x∈\\frac{2}{3}, 2 (iii) 2≤|4-5x| ≤^{10}3(iii) x∈\\frac{2}{15},\\frac{2}{5}∪\\frac{6}{5},2215"
  },
  {
   "book": "Basic Mathematics Part 02 DIBY",
@@ -742,7 +742,7 @@
   "pdf_page": 13,
   "question": "Solve for x : (i) \\frac{(|x|-1)}{(|x|-2)}≤0 (iii) (ii) (|x|-1)(|x|-3)|x|^{2}-5|x|+6|x|4-|x|2-2|x|2≤0≥0 ∪[1, 2) x∈(-∞, -3] ∪(-2, -1] ∪[3, ∞) ∪[1, 2) (iii) x∈(-∞, -3] ∪[3, ∞)]",
   "options": "",
-  "answer": "(i) (ii)x∈(-2, -1"
+  "answer": "(i) (ii) x∈(-2, -1"
  },
  {
   "book": "Basic Mathematics Part 02 DIBY",
@@ -860,9 +860,9 @@
   "book": "Basic Mathematics Part 02 DIBY",
   "tag": "DIBY-107",
   "pdf_page": 19,
-  "question": "If |x-2| + 2|x+ 2| = P, then find P is given equation has (i) (ii)no solution",
+  "question": "If |x-2| + 2|x+ 2| = P, then find P is given equation has (i) (ii) no solution",
   "options": "",
-  "answer": "1 solution(i) (ii)No solution P< 4 (iii) 2 solutions 1 solution P= 4 (iv) more than 2 solutions(iii) 2 solutions P> 4 (iv) More then 2 solution P∈∅"
+  "answer": "1 solution(i) (ii) No solution P< 4 (iii) 2 solutions 1 solution P= 4 (iv) more than 2 solutions(iii) 2 solutions P> 4 (iv) More then 2 solution P∈∅"
  },
  {
   "book": "Basic Mathematics Part 02 DIBY",
@@ -870,7 +870,7 @@
   "pdf_page": 19,
   "question": "Find the value of k if equation |x+ 2| -2|x-7| + 3|x-4| = k has (i) one solution (ii) two solutions",
   "options": "",
-  "answer": "(iii) 3 solutions (iv) 4 solutions(i) (ii)one solution \\frac{k∈∅}{k> 0} (v) no solution (vi) ∞ solutions 2 solutions (iii) 3 solutions \\frac{k∈∅}{k∈∅} (iv) 4 solution (v) (vi)no solution k< 0 ∞ solutions k= 0"
+  "answer": "(iii) 3 solutions (iv) 4 solutions(i) (ii) one solution \\frac{k∈∅}{k> 0} (v) no solution (vi) ∞ solutions 2 solutions (iii) 3 solutions \\frac{k∈∅}{k∈∅} (iv) 4 solution (v) (vi) no solution k< 0 ∞ solutions k= 0"
  },
  {
   "book": "Basic Mathematics Part 02 DIBY",
@@ -878,7 +878,7 @@
   "pdf_page": 20,
   "question": "Draw graph of y= ||x-2| -3| and",
   "options": "",
-  "answer": "wer following questions: (i) (ii)Minimum value of yis ___________. If y= khas 2 solutions then k is ____________. (iii) If y= khas 3 solutions then k is _________. (iv) If y= khas 4 solutions then k is _________. (v) If y= khas no solution then k is _________. (vi) Number of solutions of : ||x-2|- 3| =\\frac{2x+10}{15}, is(are) ___________. Ans. : (i) (ii)0 (iii) (iv)k = 3 k∈ (3, ∞) ∪ {0} \\frac{(v)}{(vi) 4}k∈ (-∞, 0)k∈ (0, 3) QUESTIONS ON IRRATIONAL EQUATIONS & INEQUALITY"
+  "answer": "wer following questions: (i) (ii) Minimum value of yis ___________. If y= khas 2 solutions then k is ____________. (iii) If y= khas 3 solutions then k is _________. (iv) If y= khas 4 solutions then k is _________. (v) If y= khas no solution then k is _________. (vi) Number of solutions of : ||x-2|- 3| =\\frac{2x+10}{15}, is(are) ___________. Ans. : (i) (ii)0 (iii) (iv) k = 3 k∈ (3, ∞) ∪ {0} \\frac{(v)}{(vi) 4}k∈ (-∞, 0) k∈ (0, 3) QUESTIONS ON IRRATIONAL EQUATIONS & INEQUALITY"
  },
  {
   "book": "Basic Mathematics Part 02 DIBY",
@@ -996,7 +996,7 @@
   "book": "Permutations and Combinations DIBY",
   "tag": "DIBY-02",
   "pdf_page": 2,
-  "question": "There are 6 roads between A & B and 4 roads between B & C. (i) (ii)In how many ways can one drive from A to C by way of B? In how many ways can one drive from A to C and back to A, passing through B on both trips? (iii) In how many ways can one drive the circular trip described in (ii) without using the same road more than once.",
+  "question": "There are 6 roads between A & B and 4 roads between B & C. (i) (ii) In how many ways can one drive from A to C by way of B? In how many ways can one drive from A to C and back to A, passing through B on both trips? (iii) In how many ways can one drive the circular trip described in (ii) without using the same road more than once.",
   "options": "",
   "answer": "(i) 24; (ii) 576; (iii) 360"
  },
@@ -1646,7 +1646,7 @@
   "tag": "DIBY-03",
   "pdf_page": 2,
   "question": "If α, β are the roots ofax^{2}+ bx+ c= 0, then the equation whose roots are 2 + α and 2 + βis",
-  "options": "(A) ax^{2}+ (b-4a)x+ (4a-2b+ c) = 0 (B) ax^{2}-(b-4a)x+ (4a-2b+ c) = 0 (C) ax^{2}+b-4ax-(4a-2b+ c) = 0 (D) ax^{2}-b-4ax-(4a-2b+ c) = 0",
+  "options": "(A) ax^{2}+ (b-4a) x+ (4a-2b+ c) = 0 (B) ax^{2}-(b-4a) x+ (4a-2b+ c) = 0 (C) ax^{2}+b-4ax-(4a-2b+ c) = 0 (D) ax^{2}-b-4ax-(4a-2b+ c) = 0",
   "answer": "(A)"
  },
  {
@@ -1702,7 +1702,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-10",
   "pdf_page": 5,
-  "question": "If the equation a(b-c)x^{2}+ b(c-a)x+ c(a-b) = 0has equal roots, where a+ c= 15and b=^{36}, then a^{2}+ c^{2} is equal to [JEE Mains-2025]5",
+  "question": "If the equation a(b-c) x^{2}+ b(c-a) x+ c(a-b) = 0has equal roots, where a+ c= 15and b=^{36}, then a^{2}+ c^{2} is equal to [JEE Mains-2025]5",
   "options": "",
   "answer": "117"
  },
@@ -1750,7 +1750,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-16",
   "pdf_page": 7,
-  "question": "Let α, β; α> β, be the roots of the equation x^{2}-2x-3= 0. Let P_{n}= α^{n}- β^{n}, n∈N. Then (113-102)P_{10}+ (112+ 10)P_{11}-11P_{12} is equal to: [JEE Mains-2024]",
+  "question": "Let α, β; α> β, be the roots of the equation x^{2}-2x-3= 0. Let P_{n}= α^{n}- β^{n}, n∈N. Then (113-102) P_{10}+ (112+ 10) P_{11}-11P_{12} is equal to: [JEE Mains-2024]",
   "options": "(A) 102P_{9} (B) 103P_{9} (C) 112P_{9} (D) 113P_{9}",
   "answer": "(B)"
  },
@@ -1839,7 +1839,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-27-A",
   "pdf_page": 10,
-  "question": "Let fx= ax^{2}+ bx+ c, a, b, c∈I & f(1) = 0, 50< f(7) < 60 & 70< f(8) < 80, then f(- 1)is equal to",
+  "question": "Let fx= ax^{2}+ bx+ c, a, b, c∈I & f(1) = 0, 50< f(7) < 60 & 70< f(8) < 80, then f(- 1) is equal to",
   "options": "",
   "answer": "14"
  },
@@ -1904,7 +1904,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-34",
   "pdf_page": 13,
-  "question": "Find the value of a for which one root of the equation x^{2}+ (2a-1)x+ a^{2}+ 2= 0is twice as large as the other.",
+  "question": "Find the value of a for which one root of the equation x^{2}+ (2a-1) x+ a^{2}+ 2= 0is twice as large as the other.",
   "options": "",
   "answer": "a= -4"
  },
@@ -1953,7 +1953,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-40",
   "pdf_page": 15,
-  "question": "Consider the graph f(x) = ax^{2}+ bx+ cand comment on sign of following parts: (abc) is ______________.y (i) (ii)(4a+ 2b+ c)is ______________. (iii) for all x> 3, f(x)is ____________. (iv) For all - 2< x< 3, f(x)is ____________.D is ____________.-2 3 x (v) (vi)(a-b+ c)×(9a-3b+ c) is __________.",
+  "question": "Consider the graph f(x) = ax^{2}+ bx+ cand comment on sign of following parts: (abc) is ______________.y (i) (ii)(4a+ 2b+ c) is ______________. (iii) for all x> 3, f(x) is ____________. (iv) For all - 2< x< 3, f(x) is ____________.D is ____________.-2 3 x (v) (vi)(a-b+ c)×(9a-3b+ c) is __________.",
   "options": "",
   "answer": "(i) +ve, (ii) -ve, (iii) +ve, (iv) -ve, (v) +ve, (vi) -ve"
  },
@@ -1961,7 +1961,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-41",
   "pdf_page": 16,
-  "question": "Draw the graph of quadratic (y= ax^{2}+ bx+ c)in each part with given conditions: (i) Roots are 3 & 7 and crosses y-axis at (0, -2) (ii) Imaginary roots with vertex at-\\frac{3}{4},\\frac{1}{2} and a-b+ c= 2. (iii) Touches x-axis at x=- 3 and value at x= 2 is -8. Also find value of a, b& c in each case.",
+  "question": "Draw the graph of quadratic (y= ax^{2}+ bx+ c) in each part with given conditions: (i) Roots are 3 & 7 and crosses y-axis at (0, -2) (ii) Imaginary roots with vertex at-\\frac{3}{4},\\frac{1}{2} and a-b+ c= 2. (iii) Touches x-axis at x=- 3 and value at x= 2 is -8. Also find value of a, b& c in each case.",
   "options": "",
   "answer": "y (i)(0,-2)3 7 x a= -\\frac{2}{21}, b= 20, c= -2 21 1 y\\frac{1}{2} (ii)\\frac{-3}{4}x a= 24, b= 36, c= 14 (iii)-3 y x a= \\frac{-8}{25}, b= -48, c= -72 25 25"
  },
@@ -1969,7 +1969,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-42",
   "pdf_page": 18,
-  "question": "If the equation ax^{2}+ bx+ c= 0, (a> 0)has two real roots α and β such that α< -2 and β> 2, then which of the following statements is/are true?",
+  "question": "If the equation ax^{2}+ bx+ c= 0, (a> 0) has two real roots α and β such that α< -2 and β> 2, then which of the following statements is/are true?",
   "options": "(A) a-b+ c< 0 (B) c< 0,b^{2}-4ac> 0 (C) 4a-2|b| + c< 0 (D) 9a-3|b| + c< 0",
   "answer": "A, B, C"
  },
@@ -1994,7 +1994,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-45",
   "pdf_page": 19,
-  "question": "Find range of following functions: (i) (ii)f(x) = 3x^{2}-2x-7 f(x) = 3x^{2}-2x-7, x∈(0, 5] (iii) f(x) = 3x^{2}-2x-7, x∈[-6, -1] , (iii) [-2, 113]]",
+  "question": "Find range of following functions: (i) (ii) f(x) = 3x^{2}-2x-7 f(x) = 3x^{2}-2x-7, x∈(0, 5] (iii) f(x) = 3x^{2}-2x-7, x∈[-6, -1] , (iii) [-2, 113]]",
   "options": "",
   "answer": "(i) -\\frac{22}{3}, ∞, (ii) [-22/3, 58"
  },
@@ -2060,7 +2060,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-53",
   "pdf_page": 22,
-  "question": "The minimum value of the sum of the squares of the roots of x^{2}+ (3-a)x+ 1= 2ais:",
+  "question": "The minimum value of the sum of the squares of the roots of x^{2}+ (3-a) x+ 1= 2ais:",
   "options": "",
   "answer": "6"
  },
@@ -2133,7 +2133,7 @@
   "tag": "DIBY-62",
   "pdf_page": 26,
   "question": "If the equation x^{2}+ abx+ c= 0and x^{2}+ acx+ b= 0,b≠c have a common root then their uncommon roots are the roots of the equation",
-  "options": "(A) a(b+ c)x^{2}+ (b+ c)x+ abc= 0 (B) ab+ cx^{2}-b+ cx-abc= 0 (C) ab+ cx^{2}-(b+ c)x+ abc= 0 (D) ab+ cx^{2}+b+ cx-abc= 0",
+  "options": "(A) a(b+ c) x^{2}+ (b+ c) x+ abc= 0 (B) ab+ cx^{2}-b+ cx-abc= 0 (C) ab+ cx^{2}-(b+ c) x+ abc= 0 (D) ab+ cx^{2}+b+ cx-abc= 0",
   "answer": "(D)"
  },
  {
@@ -2148,7 +2148,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-64",
   "pdf_page": 26,
-  "question": "If equations ax^{2}-(a+ b)x+ b= 0& bx^{2}+ (b-c)x-c= 0has exactly one root in common a, b, c≠0, then which of the following can be correct?",
+  "question": "If equations ax^{2}-(a+ b) x+ b= 0& bx^{2}+ (b-c) x-c= 0has exactly one root in common a, b, c≠0, then which of the following can be correct?",
   "options": "(A) b^{2}= ac (B) -a= b≠c (C) b= a≠c (D) -a≠b= c",
   "answer": "A, B, D"
  },
@@ -2172,7 +2172,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-67",
   "pdf_page": 28,
-  "question": "Let x^{2}-m-3x+ m= 0,m∈R be a quadratic equation. Find the value of m for which (i) (ii)both the roots are smaller than 2. both the roots are greater than 2. (iii) one root is smaller than 2 and the other root is greater than 2. (iv) exactly one root lies in the interval (1, 2). (v) both the roots lie in the interval (1, 2). (vi) one root is greater than 2 and the other root is smaller than 1. (vii) atleast one root lie in interval (1, 2). (viii) atleast one root is greater than 2.",
+  "question": "Let x^{2}-m-3x+ m= 0,m∈R be a quadratic equation. Find the value of m for which (i) (ii) both the roots are smaller than 2. both the roots are greater than 2. (iii) one root is smaller than 2 and the other root is greater than 2. (iv) exactly one root lies in the interval (1, 2). (v) both the roots lie in the interval (1, 2). (vi) one root is greater than 2 and the other root is smaller than 1. (vii) atleast one root lie in interval (1, 2). (viii) atleast one root is greater than 2.",
   "options": "",
   "answer": "(i) m∈ (-∞, 1] , (ii) m∈[9, 10), (iii) m∈(10, ∞), (iv) m∈(10, ∞), (v) m∈∅, (vi) m∈∅, (vii) m∈(10, ∞), (viii) m∈[9, ∞) - {10}]"
  },
@@ -2212,7 +2212,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-72",
   "pdf_page": 30,
-  "question": "Find all possible values of ‘a’for which exactly one root of the quadratic equation x^{2}-(a+ 1)x+ 2a= 0lie in the interval (0, 3).",
+  "question": "Find all possible values of ‘a’for which exactly one root of the quadratic equation x^{2}-(a+ 1) x+ 2a= 0lie in the interval (0, 3).",
   "options": "(A) (-∞, 0) ∪ (6, ∞ ) (B) (-∞, 0] ∪ (6, ∞ ) (C) (-∞, 0) ∪ [6, ∞ ) (D) (-∞, 0] ∪ [6, ∞ )",
   "answer": "(B)"
  },
@@ -2220,7 +2220,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-73",
   "pdf_page": 31,
-  "question": "If α, β, γ are roots of 5x3-qx-1= 0, (q∈R)find the value of\\frac{α^{2}-3}{βγ}+\\frac{β^{2}-3}{αγ}+\\frac{γ^{2}-3}{αβ}.",
+  "question": "If α, β, γ are roots of 5x3-qx-1= 0, (q∈R) find the value of\\frac{α^{2}-3}{βγ}+\\frac{β^{2}-3}{αγ}+\\frac{γ^{2}-3}{αβ}.",
   "options": "",
   "answer": "3"
  },
@@ -2308,7 +2308,7 @@
   "book": "Quadratic Equations Part 01 DIBY",
   "tag": "DIBY-84",
   "pdf_page": 34,
-  "question": "Let for a≠a_{1}≠0, and f(x) = ax^{2}+ bx+ c, g(x) = a_{1}x^{2}+ b_{1}x+ c_{1} and p(x) = f(x) - g(x). If p(x) = 0 only for x= -1and p(-2) = 2, then the value of p(2)is [AIEEE-2011]",
+  "question": "Let for a≠a_{1}≠0, and f(x) = ax^{2}+ bx+ c, g(x) = a_{1}x^{2}+ b_{1}x+ c_{1} and p(x) = f(x) - g(x). If p(x) = 0 only for x= -1and p(-2) = 2, then the value of p(2) is [AIEEE-2011]",
   "options": "(A) 18 (B) 3 (C) 9 (D) 6",
   "answer": "(A)"
  },
@@ -2681,7 +2681,7 @@
   "book": "Sequence and Series DIBY",
   "tag": "DIBY-32",
   "pdf_page": 14,
-  "question": "Let the sum of the first n terms of a non-constant A.P., a_{1}, a_{2}, a_{3}… be 50n+\\frac{n(n-7)}{2}A, where A is constant. If d is the common difference of this A.P., then the ordered pair (d, a_{50})is equal to: [JEE Mains-2019]",
+  "question": "Let the sum of the first n terms of a non-constant A.P., a_{1}, a_{2}, a_{3}… be 50n+\\frac{n(n-7)}{2}A, where A is constant. If d is the common difference of this A.P., then the ordered pair (d, a_{50}) is equal to: [JEE Mains-2019]",
   "options": "(A) (A, 50+ 45A) (B) 50, 50+ 46A (C) (A, 50+ 46A) (D) (50, 50+ 45A)",
   "answer": "(C)"
  },
@@ -2929,7 +2929,7 @@
   "book": "Sequence and Series DIBY",
   "tag": "DIBY-63",
   "pdf_page": 26,
-  "question": "If S(x) = (1+ x) + 2(1+ x)^{2}+ 3(1+ x)^{3}+ ⋯+ 60(1+ x)^{60}, x≠0, and (60)^{2}S(60) = a(b)^{b}+ b, where a, b∈N, then (a+ b)equal to [JEE Mains-2024]",
+  "question": "If S(x) = (1+ x) + 2(1+ x)^{2}+ 3(1+ x)^{3}+ ⋯+ 60(1+ x)^{60}, x≠0, and (60)^{2}S(60) = a(b)^{b}+ b, where a, b∈N, then (a+ b) equal to [JEE Mains-2024]",
   "options": "",
   "answer": "3660"
  },
@@ -3212,7 +3212,7 @@
   "book": "Sequence and Series DIBY",
   "tag": "DIBY-98",
   "pdf_page": 40,
-  "question": "The sum σ_{k=1}n(k+1)k+kk+1 1 is equal to",
+  "question": "The sum σ_{k=1}n(k+1) k+kk+1 1 is equal to",
   "options": "",
   "answer": "\\frac{n+1-1}{n+1}"
  },
@@ -3349,7 +3349,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-01",
   "pdf_page": 2,
-  "question": "State whether the following collections is a set or not? (i) (ii)The collection of natural numbers between 2 and 20 The collection of numbers which satisfy the equation x^{2}-5x+ 6= 0 (iii) (iv)The collection of prime numbers between 1 and 100. The collection of all intelligent women in Jalandhar",
+  "question": "State whether the following collections is a set or not? (i) (ii) The collection of natural numbers between 2 and 20 The collection of numbers which satisfy the equation x^{2}-5x+ 6= 0 (iii) (iv) The collection of prime numbers between 1 and 100. The collection of all intelligent women in Jalandhar",
   "options": "",
   "answer": "(i) Yes, (ii) Yes, (iii) Yes, (iv) No"
  },
@@ -3365,7 +3365,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-03",
   "pdf_page": 3,
-  "question": "Consider set A= {1, 2, 3, 4, 5, 6, 7}then: (i) (ii)number of subsets of set A number of proper subsets of set A (iii) (iv)number of non-empty subsets of set A. number of non-empty proper subsets of set A. (v) (vi)number of non-empty subsets containing only odd numbers. number of subsets of A whose product of elements is even. (vii) number of subsets of A whose product of elements is odd.",
+  "question": "Consider set A= {1, 2, 3, 4, 5, 6, 7}then: (i) (ii) number of subsets of set A number of proper subsets of set A (iii) (iv) number of non-empty subsets of set A. number of non-empty proper subsets of set A. (v) (vi) number of non-empty subsets containing only odd numbers. number of subsets of A whose product of elements is even. (vii) number of subsets of A whose product of elements is odd.",
   "options": "",
   "answer": "(i) 128, (ii) 127, (iii) 127, (iv) 126, (v) 15, (vi) 112, (vii) 15"
  },
@@ -3415,7 +3415,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-09",
   "pdf_page": 5,
-  "question": "If A, Band C are any three sets, then A-(B∪C)is equal to",
+  "question": "If A, Band C are any three sets, then A-(B∪C) is equal to",
   "options": "(A) A-B∪A-C (B) A-B∩A-C (C) (A-B) ∪C (D) (A-B) ∩C",
   "answer": "(B)"
  },
@@ -3423,7 +3423,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-10",
   "pdf_page": 5,
-  "question": "If A, Band C are non-empty sets, then (A-B) ∪(B-A)equals",
+  "question": "If A, Band C are non-empty sets, then (A-B) ∪(B-A) equals",
   "options": "(A) A∪B-B (B) A-A∩B (C) A∪B-A∩B (D) (A∩B) ∪(A∪B)",
   "answer": "(C)"
  },
@@ -3496,7 +3496,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-19",
   "pdf_page": 9,
-  "question": "If Π (A)denotes the power set of A, and A= {1, 2, {3, 4}}, find n(Π (A)). (A) 4 (B) 8 (C) 16 (D) 32",
+  "question": "If Π (A) denotes the power set of A, and A= {1, 2, {3, 4}}, find n(Π (A)). (A) 4 (B) 8 (C) 16 (D) 32",
   "options": "",
   "answer": "(B)"
  },
@@ -3529,7 +3529,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-23",
   "pdf_page": 11,
-  "question": "Given the sets A = {1, 2, 3}, B = {3, 4}, C = {4, 5, 6}, then A∪(B∩C)is",
+  "question": "Given the sets A = {1, 2, 3}, B = {3, 4}, C = {4, 5, 6}, then A∪(B∩C) is",
   "options": "(A) {3} (B) {1, 2, 3, 4} (C) {1, 2, 4, 5} (D) {1, 2, 3, 4, 5, 6}",
   "answer": "(B)"
  },
@@ -3545,7 +3545,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-25",
   "pdf_page": 12,
-  "question": "Evaluate the unknowns in each of the following cases: (a) n(A∪B), n(A∩B), if A⊂B, nA= 30, nB= 36 (b) n (B), if n (A) = 30, n(A∪B) = 50, n(A∩B) = 10 (c) n(A∪B), if nA= 20, nA^{'}∩B= 8 (d) n(A∩B), if n(A-B) = 30, n(B-A) = 16, n(A∪B) = 60 n(A∪B), if n (A) = 58, n (B) = 102, n(A-B) = 38 (e) (f)n(A∪B), if n(S) = 70, n (A) = 40, n (B) = 50, n(A∩B) = 27᪄ (Here S denotes the Universal Set) (e) n(A∪B) = 140",
+  "question": "Evaluate the unknowns in each of the following cases: (a) n(A∪B), n(A∩B), if A⊂B, nA= 30, nB= 36 (b) n (B), if n (A) = 30, n(A∪B) = 50, n(A∩B) = 10 (c) n(A∪B), if nA= 20, nA^{'}∩B= 8 (d) n(A∩B), if n(A-B) = 30, n(B-A) = 16, n(A∪B) = 60 n(A∪B), if n (A) = 58, n (B) = 102, n(A-B) = 38 (e) (f) n(A∪B), if n(S) = 70, n (A) = 40, n (B) = 50, n(A∩B) = 27᪄ (Here S denotes the Universal Set) (e) n(A∪B) = 140",
   "options": "",
   "answer": "(a) n(A∪B) = 36; n(A∩B) = 30 (b) n (B) = 30 (c) n(A∪B) = 28 (d) n(A∩B) = 14 (f) data is incorrect"
  },
@@ -3561,7 +3561,7 @@
   "book": "Set Theory DIBY",
   "tag": "DIBY-27",
   "pdf_page": 13,
-  "question": "The set A∩B'' ∪(B∩C)is equal to",
+  "question": "The set A∩B'' ∪(B∩C) is equal to",
   "options": "(A) A^{'}∪B∪C (B) A^{'}∪B (C) A^{'}∩C^{'} (D) A^{'}∩B",
   "answer": "(B)"
  },
@@ -3570,7 +3570,7 @@
   "tag": "DIBY-28",
   "pdf_page": 13,
   "question": "Let X be the universal set for sets A and B, if n",
-  "options": "(A) = 200, n (B) = 300and n(A∩B) = 100, then nA^{'}∩B^{'} is equal to 300 provided n(X)is equal to (A) 600 (B) 700 (C) 800 (D) 900",
+  "options": "(A) = 200, n (B) = 300and n(A∩B) = 100, then nA^{'}∩B^{'} is equal to 300 provided n(X) is equal to (A) 600 (B) 700 (C) 800 (D) 900",
   "answer": "(B)"
  },
  {
@@ -3673,7 +3673,7 @@
   "book": "Trigonometric Equations DIBY",
   "tag": "DIBY-10",
   "pdf_page": 5,
-  "question": "If 4sin^{2}θ+ 2(3+ 1)cosθ= 4+3, where n∈Ithen the general value of θ is",
+  "question": "If 4sin^{2}θ+ 2(3+ 1) cosθ= 4+3, where n∈Ithen the general value of θ is",
   "options": "(A) \\frac{π}{3} (B) 2nπ+\\frac{π}{4} \\frac{2nπ±}{nπ±} (C) \\frac{π}{3} (D) nπ-\\frac{π}{3}",
   "answer": "(A)"
  },
@@ -3801,7 +3801,7 @@
   "book": "Trigonometric Equations DIBY",
   "tag": "DIBY-26",
   "pdf_page": 11,
-  "question": "Consider the following lists : [JEE (Adv.)-2022] List-I List-II x∈-^{2π},^{2π}: cosx+ sinx= 1 has two elements (I) (II)(P) (Q) x∈-^{5π},^{5π}\\frac{3}{18}\\frac{3}{18}:3tan3x= 1 has three elements x∈-^{6π},^{6π}: 2cos(2x) =3 has four elements (III) (IV)(R) (S) x∈-^{7π},^{7π}\\frac{5}{4}\\frac{5}{4}: sinx-cosx= 1 has five elements (T)has six elements The correct option is:",
+  "question": "Consider the following lists : [JEE (Adv.)-2022] List-I List-II x∈-^{2π},^{2π}: cosx+ sinx= 1 has two elements (I) (II)(P) (Q) x∈-^{5π},^{5π}\\frac{3}{18}\\frac{3}{18}:3tan3x= 1 has three elements x∈-^{6π},^{6π}: 2cos(2x) =3 has four elements (III) (IV)(R) (S) x∈-^{7π},^{7π}\\frac{5}{4}\\frac{5}{4}: sinx-cosx= 1 has five elements (T) has six elements The correct option is:",
   "options": "(A) (I)→(P); (II)→(S); (III)→(P); (IV)→(S) (B) (I)→(P); (II)→(P); (III)→(T); (IV)→(R) (C) (I)→(Q); (II)→(P); (III)→(T); (IV)→(S) (D) (I) →(Q); (II) →(S); (III) →(P); (IV) →(R)",
   "answer": "(B)"
  },
@@ -3873,7 +3873,7 @@
   "book": "Trigonometric Equations DIBY",
   "tag": "DIBY-35",
   "pdf_page": 14,
-  "question": "Solve sin2x>2sin^{2}x+ (2-2)cos^{2}x",
+  "question": "Solve sin2x>2sin^{2}x+ (2-2) cos^{2}x",
   "options": "",
   "answer": "nπ+\\frac{π}{8}, nπ+\\frac{π}{4}, n∈I"
  },
@@ -4251,7 +4251,7 @@
   "book": "Trigonometric Functions DIBY",
   "tag": "DIBY-21",
   "pdf_page": 8,
-  "question": "If sinx= -\\frac{3}{5} where π< x<^{3π}, then 80(tan^{2}x - cosx)is equal to 2",
+  "question": "If sinx= -\\frac{3}{5} where π< x<^{3π}, then 80(tan^{2}x - cosx) is equal to 2",
   "options": "(A) 109 (B) 108 (C) 19 (D) 18",
   "answer": "(A)"
  },
@@ -4267,7 +4267,7 @@
   "book": "Trigonometric Functions DIBY",
   "tag": "DIBY-23",
   "pdf_page": 9,
-  "question": "Prove that sin7θ-sin5θ cos6θ-cos4θ 1.= tanθ 2.= -tanθ cos7θ+cos5θ sin6θ+sin4θ sinA+sin3A sin7A-sinA 3.= tan2 A 4.= cos4Asec5A cosA+cos3A sin8A-sin2A cos2 B+cos2 A sin2A+sin2B 5.= cot(A+ B)cot(A-B) 6.=\\frac{tan(A+B)}{tan(A-B)} cos2 B-cos2 A sin2A-sin2B sinA+sin2 A sin5 A-sin3 A 7.= cot\\frac{A}{2}8.= tanA cos A-cos2 A cos3 A+cos5 A cos2 B-cos2 A = tan(A-B) \\frac{9.}{10.}sin2 B+sin2 A cosA+ B+ sinA-B= 2sin45^{∘}+ Acos45^{∘}+ B cos3A-cosA cos2A-cos4A sinA 11.sin3A-sinA+sin4A-sin2A=cos2Acos3A",
+  "question": "Prove that sin7θ-sin5θ cos6θ-cos4θ 1.= tanθ 2.= -tanθ cos7θ+cos5θ sin6θ+sin4θ sinA+sin3A sin7A-sinA 3.= tan2 A 4.= cos4Asec5A cosA+cos3A sin8A-sin2A cos2 B+cos2 A sin2A+sin2B 5.= cot(A+ B) cot(A-B) 6.=\\frac{tan(A+B)}{tan(A-B)} cos2 B-cos2 A sin2A-sin2B sinA+sin2 A sin5 A-sin3 A 7.= cot\\frac{A}{2}8.= tanA cos A-cos2 A cos3 A+cos5 A cos2 B-cos2 A = tan(A-B) \\frac{9.}{10.}sin2 B+sin2 A cosA+ B+ sinA-B= 2sin45^{∘}+ Acos45^{∘}+ B cos3A-cosA cos2A-cos4A sinA 11.sin3A-sinA+sin4A-sin2A=cos2Acos3A",
   "options": "",
   "answer": ""
  },

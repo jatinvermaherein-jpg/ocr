@@ -43,6 +43,46 @@ STYLES = {
 }
 
 
+def _space_needed(prev: str, nxt: str) -> bool:
+    """Should a space go between two runs of different kinds (text <-> maths)?"""
+    if not prev or not nxt:
+        return False
+    if prev[-1].isspace() or nxt[0].isspace():
+        return False
+    if prev[-1] in "(\u2013-":
+        return False
+    if nxt[0] in ",;.)]}=":
+        return False
+    return True
+
+
+def emit_spans(par, pieces, omml, *, size=None, bold=False, italic=False, colour=None):
+    """Add [(kind, value)] pieces to a paragraph, keeping spaces around equations.
+
+    Word renders an inline OMML equation without any space of its own, so a text run
+    ending in a letter followed by an equation (or the other way round) would read
+    'thena(a-b)+...'. Insert a plain space run at those junctions.
+    """
+    prev_kind = prev_val = None
+    for kind, val in pieces:
+        if not val:
+            continue
+        if prev_kind is not None and kind != prev_kind and _space_needed(prev_val, val):
+            par.add_run(" ")
+        if kind == "math" and val in omml:
+            par._p.append(copy.deepcopy(omml[val]))
+        else:
+            r = par.add_run(latex_fallback(val) if kind == "math" else val)
+            if size:
+                r.font.size = Pt(size)
+            r.bold = bold
+            r.italic = italic
+            if colour:
+                r.font.color.rgb = colour
+        prev_kind, prev_val = kind, val
+    return par
+
+
 def rule(doc, space_after=10):
     p = doc.add_paragraph()
     p.paragraph_format.space_after = Pt(space_after)
@@ -118,34 +158,17 @@ def build(style_name: str, items: list[dict], omml: dict, latex_ok: set):
         q.paragraph_format.space_after = Pt(2)
         q.paragraph_format.tab_stops.add_tab_stop(text_width, WD_TAB_ALIGNMENT.RIGHT)
         q.paragraph_format.keep_with_next = True
-        for kind, val in segments(it["question"]):
-            if kind == "math" and val in omml:
-                q._p.append(copy.deepcopy(omml[val]))
-            elif kind == "math":
-                q.add_run(latex_fallback(val))
-            else:
-                r = q.add_run(val)
-                r.italic = True
+        emit_spans(q, segments(it["question"]), omml, italic=True, colour=BLACK)
         ans = answer_short(it.get("answer", ""))
         if ans:
-            r = q.add_run("\t")
-            for kind, val in segments(ans):
-                if kind == "math" and val in omml:
-                    q._p.append(copy.deepcopy(omml[val]))
-                else:
-                    r2 = q.add_run(latex_fallback(val) if kind == "math" else val)
-                    r2.bold = True
+            q.add_run("\t")
+            emit_spans(q, segments(ans), omml, bold=True, colour=BLACK)
 
         if it.get("options"):
             op = doc.add_paragraph()
             op.paragraph_format.space_after = Pt(2)
             op.paragraph_format.left_indent = Cm(0.6)
-            for kind, val in segments(it["options"]):
-                if kind == "math" and val in omml:
-                    op._p.append(copy.deepcopy(omml[val]))
-                else:
-                    r = op.add_run(latex_fallback(val) if kind == "math" else val)
-                    r.font.size = Pt(st["opt"])
+            emit_spans(op, segments(it["options"]), omml, size=st["opt"], colour=BLACK)
 
     doc.save(out)
     return out, n_q

@@ -52,7 +52,7 @@ option block can straddle the marker and whose final page is the A–M answer ke
   the rest carry what the text layer holds.
 * Complex display layouts (graphs, matching/column questions, multi-part sums with several stacked
   fractions) come through flattened; their maths is present but the reading order can be jumbled.
-* 1,882 of 1,914 maths spans typeset as native Word equations; the remaining 32 fall back to
+* 1,886 of 1,918 maths spans typeset as native Word equations; the remaining 32 fall back to
   readable plain text (`tools/diby_math.py`).
-* The last rebuilt documents were verified in the OOXML: 9 book headings, 565 tags, 2,338 typeset
+* The last rebuilt documents were verified in the OOXML: 9 book headings, 565 tags, 2,343 typeset
   equations, 0 raw LaTeX, pure black, odd-page book breaks, no header/footer parts.
