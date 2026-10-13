@@ -60,79 +60,13 @@ LINE_SPACING = 1.15
 
 
 # ------------------------------------------------------------------ page setup
-def setup_page(sec, number_pages=True):
+def setup_page(sec):
     sec.page_width, sec.page_height = PAGE_W, PAGE_H
     sec.left_margin = sec.right_margin = MARGIN_SIDE
     sec.top_margin = sec.bottom_margin = MARGIN_VERT
     sec.header_distance = HEADER_DIST
     sec.footer_distance = FOOTER_DIST
-    if number_pages:
-        add_page_number(sec)
     return sec
-
-
-def _field(par, instr: str, cached: str = "1", size=SIZE_FOOTER):
-    r1 = par.add_run()
-    begin = OxmlElement("w:fldChar")
-    begin.set(qn("w:fldCharType"), "begin")
-    r1._r.append(begin)
-
-    r2 = par.add_run()
-    ins = OxmlElement("w:instrText")
-    ins.set(qn("xml:space"), "preserve")
-    ins.text = instr
-    r2._r.append(ins)
-
-    r3 = par.add_run()
-    sep = OxmlElement("w:fldChar")
-    sep.set(qn("w:fldCharType"), "separate")
-    r3._r.append(sep)
-
-    r4 = par.add_run(cached)
-    r4.font.size = Pt(size)
-    r4.font.color.rgb = BLACK
-
-    r5 = par.add_run()
-    end = OxmlElement("w:fldChar")
-    end.set(qn("w:fldCharType"), "end")
-    r5._r.append(end)
-    return par
-
-
-def add_page_number(sec):
-    sec.footer.is_linked_to_previous = False
-    p = sec.footer.paragraphs[0]
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    _field(p, " PAGE ")
-
-
-def add_header(sec, chapter: str):
-    sec.header.is_linked_to_previous = False
-    p = sec.header.paragraphs[0]
-    p.paragraph_format.tab_stops.add_tab_stop(TEXT_WIDTH, WD_TAB_ALIGNMENT.RIGHT)
-    p.paragraph_format.space_after = Pt(2)
-    r = p.add_run(chapter.upper())
-    r.font.size = Pt(SIZE_HEADER)
-    r.bold = True
-    r.font.color.rgb = BLACK
-    r2 = p.add_run("\tDIBY — Question Bank")
-    r2.font.size = Pt(SIZE_HEADER)
-    r2.italic = True
-    r2.font.color.rgb = BLACK
-    pPr = p._p.get_or_add_pPr()
-    borders = OxmlElement("w:pBdr")
-    bottom = OxmlElement("w:bottom")
-    bottom.set(qn("w:val"), "single")
-    bottom.set(qn("w:sz"), "4")
-    bottom.set(qn("w:space"), "4")
-    bottom.set(qn("w:color"), "000000")
-    borders.append(bottom)
-    pPr.append(borders)
-
-
-def blank_header_footer(sec):
-    sec.header.is_linked_to_previous = False
-    sec.footer.is_linked_to_previous = False
 
 
 def rule(doc, space_after=10, space_before=0, sz="8"):
@@ -208,28 +142,18 @@ def main():
     for r, q_segs, o_segs in prepared:
         if r["chapter"] != prev_chapter:
             if first:
-                sec = setup_page(doc.sections[0])
-                blank_header_footer(sec)
+                setup_page(doc.sections[0])
             else:
-                sec = doc.add_section(WD_SECTION.ODD_PAGE)
-                setup_page(sec)
-            add_header(sec, r["chapter"])
+                setup_page(doc.add_section(WD_SECTION.ODD_PAGE))
             first = False
             prev_chapter = r["chapter"]
             prev_key = None
             doc.add_heading(r["chapter"].upper(), level=1)
             rule(doc, space_after=12)
-            n_ch = sum(1 for x in prepared if x[0]["chapter"] == r["chapter"])
-            meta = doc.add_paragraph()
-            meta.paragraph_format.space_after = Pt(2)
-            mr = meta.add_run(f"{n_ch} questions in this chapter · grouped by lecture, in source order")
-            mr.font.size = Pt(SIZE_SOURCE)
-            mr.italic = True
-            mr.font.color.rgb = BLACK
 
         key = (r["chapter"], r["lecture"])
         if key != prev_key:
-            doc.add_heading(f"Lecture {r['lecture']} — {r['source_pdf']}", level=2)
+            doc.add_heading(f"Lecture {r['lecture']}", level=2)
             prev_key = key
 
         # tag + source line
@@ -241,10 +165,6 @@ def main():
         tr.bold = True
         tr.font.size = Pt(SIZE_TAG)
         tr.font.color.rgb = BLACK
-        pg = tag.add_run(f"   ·   {r['source_pdf']} — PDF page {r['pdf_page']}")
-        pg.font.size = Pt(SIZE_SOURCE)
-        pg.italic = True
-        pg.font.color.rgb = BLACK
 
         # question (kept whole across page breaks)
         q = doc.add_paragraph()

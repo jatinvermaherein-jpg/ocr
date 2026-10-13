@@ -395,7 +395,7 @@
       "print": {
         "file": "deliverables/DIBY_Questions_Print.docx",
         "est_pages": 61,
-        "layout": "no cover, no contents — starts at chapter 1; 12pt body / 1.15 spacing; 2.0cm margins; chapters on odd pages; running chapter header + page number; questions kept together; pure black and white (#000000 only, no colour in any content part)"
+        "layout": "plain black-and-white personal copy: no cover, no contents, no header/footer, no per-question source line (chapter title + 'Lecture NN' + DIBY tag + question + options + answer only); 12pt body, 2.0cm margins, chapters start on odd pages, questions kept together"
       }
     }
   }
